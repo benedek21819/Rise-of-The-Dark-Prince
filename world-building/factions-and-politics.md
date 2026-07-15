@@ -58,6 +58,15 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Relationship to House Caldrith**: Polite but distant. They respect House Caldrith’s power but disapprove of their secrecy and military dominance.
 - **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
+### House Sylvaron
+- **Specialty**: Trade, banking, and economic power.
+- **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
+- **Political Stance**: Tense relationship with House Caldrith. They resent Caldrith’s overwhelming military dominance and see them as a threat to their economic interests.
+- **Dragon**: None.
+- **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the kingdom.
+- **Weaknesses**: Militarily weak compared to houses like Caldrith and Dravenhall. Their power is purely economic and political.
+- **Relationship to House Caldrith**: Rivalrous / Tense. They would prefer to weaken House Caldrith through economic and political means rather than direct conflict.
+
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
 
