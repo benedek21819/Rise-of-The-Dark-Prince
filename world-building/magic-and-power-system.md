@@ -57,6 +57,16 @@ Morvath is nearly 300 years old and is significantly larger than Lirath. He has 
 
 Morvath currently has **no bonded rider**. His last rider was Lucian Caldrith’s grandfather, who died during the **Last Continental War**. This devastating conflict saw almost all great and small houses fighting each other for power and resources. The winning side was the current royal family, heavily supported by House Caldrith and several other allied houses. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldrith as one of their most powerful secret weapons.
 
+### Royal Dragon (House Kaelarion)
+
+**Name**: [To be named]
+**Age**: Approximately 30 years old
+**Appearance**: Bright golden scales, white eyes, crimson flames
+**Personality**: Calm and docile
+**Bond**: Bonded to **King Aldric Kaelarion** since she hatched. She has never known another rider.
+
+This dragon represents the traditional symbol of royal power and stability for House Kaelarion.
+
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
 
