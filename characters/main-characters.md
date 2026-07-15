@@ -32,11 +32,11 @@
 **Fatal Flaw:** His extreme emotional imbalance can lead to blind spots. He may go to ruthless or morally questionable lengths to protect the few people he loves, and his cold treatment of outsiders can isolate him or create unnecessary enemies. He struggles with balancing his deep care for his inner circle against the greater good or political necessity.
 **Quirks/Habits:** Often observes others in silence before speaking. Tends to touch or adjust the silver clasps in his hair when deep in thought. Rarely shows open affection except in private with those he trusts. Has a habit of giving people unsettlingly direct eye contact.
 
-**Backstory:** [Born as the privileged heir of the kingdom’s strongest yet most reclusive military house. Raised with duty, honor, and the weight of House Caldrith’s legacy and mysterious reputation. The moment everything changed — betrayal, threat to his house, or personal crisis that pushed him toward darkness.]  
-**Motivations & Goals:** [Protect and elevate his house? Avenge a wrong? Claim greater power? Prevent his family’s decline? The tension between loyalty to his reclusive house and the need to act in the wider kingdom.]  
-**Abilities / Skills / Powers:** [Exceptional military training and leadership, political cunning, emerging shadow/void or forbidden magic as he embraces the dark path. His calm and calculating nature makes him particularly dangerous.]  
+**Abilities / Skills / Powers:** Exceptional military training and leadership. Bonded to the youngest dragon owned by House Caldrith. Can ride his dragon, and due to a strong bond, they can sense each other’s emotions. [Add more: political cunning, emerging shadow/void or forbidden magic as he embraces the dark path. His calm and calculating nature makes him particularly dangerous.]
+
 **Character Arc:** [Starts as the respected (and somewhat feared) heir of House Caldrith → faces threats to his position and family → turns to darkness to protect or surpass what he was born into → confronts the cost of the power he gains and how it changes him.]  
-**Key Relationships:** [Father (current head of house), younger siblings (potential rivals or supporters), the Royal Family (allies but also sources of tension due to his house’s power), other Great Houses (who view his family with a mix of respect and wariness).]  
+**Key Relationships:** [Father (current head of house — bonded to House Caldrith’s other dragon), younger siblings (potential rivals or supporters), the Royal Family (allies but also sources of tension due to his house’s power), other Great Houses (who view his family with a mix of respect and wariness).]
+
 **Role in Story:** Central protagonist whose rise (and moral descent) drives the narrative. Morally ambiguous hero/villain depending on perspective. His reclusive house background and "Dark Prince" reputation make his journey particularly compelling.
 
 *Fill in the brackets and expand. This is your core character — everything revolves around his journey. House Caldrith’s reclusive nature, military dominance, black & silver aesthetic, and sigil are central to both his identity and the conflicts he will face.*
