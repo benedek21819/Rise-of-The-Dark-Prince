@@ -12,6 +12,19 @@ The story is set on a single continent unified under **one kingdom**. The kingdo
 ### The Great Houses
 There are eight Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the kingdom. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
 
+## The Royal Dynasty
+
+**House Kaelarion**  
+**Duchy**: Royal Demesne (directly ruled by the crown)  
+
+- **Current Status**: Ruling dynasty of the kingdom.
+- **How They Rose to Power**: Won the Last Continental War with significant military and political support from House Caldrith and several other allied houses.
+- **Reputation**: Seen as legitimate rulers who brought stability after a devastating war, though their power is still heavily reliant on alliances (especially with House Caldrith).
+- **Dragon**: Owns 1 dragon.
+- **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldrith).
+- **Weaknesses**: Military power is weaker than House Caldrith’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldrith) from becoming too dominant.
+- **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature.
+
 ## The Protagonist’s House
 
 **House Caldrith**  
