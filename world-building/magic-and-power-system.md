@@ -41,16 +41,22 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 
 ### House Caldrith’s Dragons (Public vs Reality)
 **Public Story:**
-House Caldrith publicly owns one large female dragon bonded to the current house head, and one younger dragon bonded to Lucian Caldrith (the youngest publicly known dragon on the continent). The egg that became Lucian’s dragon was laid by the female dragon.
+House Caldrith publicly owns one large female dragon bonded to the current house head (**Lirath**), and one younger dragon bonded to Lucian Caldrith (**Ancalion**). The egg that became Ancalion was laid by Lirath.
 
 **Reality:**
-House Caldrith secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male — the father of Lucian’s dragon. This gives them a powerful hidden breeding advantage.
+House Caldrith secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male (**Morvath**) — the father of Ancalion. This gives them a powerful hidden breeding advantage.
 
-**Lucian’s Dragon - Ancalion:**
-Ancalion (the youngest publicly known dragon on the continent) was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. The egg was laid by the publicly known female dragon. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
+**Ancalion:**
+Ancalion (the youngest publicly known dragon on the continent) was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
+
+**Lirath (Mother):**
+Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, and blue flames. She has a warm and friendly personality.
+
+**Morvath (Father):**
+Morvath is nearly 300 years old and is significantly larger than Lirath. He has dark grey scales with a subtle green tint depending on the lighting, green eyes, and green flames. He bears many battle scars. He has an imperious and solitary personality — he does not seek conflict but is extremely aggressive if provoked.
 
 ### Hidden Dragons & Legal Requirements
-It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon represents a major hidden asset and a serious legal/political risk if discovered.
+It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
 
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
