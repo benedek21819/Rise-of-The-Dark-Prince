@@ -17,8 +17,9 @@
 
 ## The Dark Prince (Protagonist / Anti-Hero)
 
-**Full Name / Aliases / Titles:** [e.g. Prince [Name], Heir of House Caldrith, the Shadowbound]  
-**Nickname:** "Dark Prince" — Given because he almost always wears full black clothing and possesses a very calm, calculating, and sometimes cold personality.
+**Full Name:** Lucian Caldrith  
+**Aliases / Titles:** Heir of House Caldrith, the Dark Prince  
+**Nickname Origin:** "Dark Prince" — Given because he almost always wears full black clothing and possesses a very calm, calculating, and sometimes cold personality.
 
 **Age:** [Start age + how it changes over the story]  
 **House & Position:** Eldest son and direct heir of **House Caldrith**, one of the eight Great Houses. His house is the most powerful military force in the kingdom, helped place the current royal dynasty on the throne, but remains highly reclusive and rarely interferes in kingdom affairs.
