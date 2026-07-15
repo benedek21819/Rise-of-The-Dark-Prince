@@ -14,7 +14,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 
 ## The Protagonist’s House
 
-**House [Name TBD]**  
+**House Caldrith**  
 **Duchy**: [Name TBD]  
 
 - **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire kingdom.
@@ -22,6 +22,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Political Position**: Extremely influential. They played a decisive role in helping the current royal dynasty seize the throne and have remained strong backers ever since.
 - **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about them beyond two facts: their overwhelmingly powerful military and the fact that they helped the current royal dynasty gain the throne.
 - **Aesthetic & Symbolism**: Dark aesthetic. The house is strongly associated with the colors **black and silver**.
+- **Sigil**: A silver sword with black wings.
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
