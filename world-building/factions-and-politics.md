@@ -26,8 +26,8 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Dragon**: Owns 1 dragon.
 - **Family**:
   - King Aldric has two children:
-    - **Older son** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldrith and weaken their alliance with the crown.
-    - **Younger daughter**: Engaged to Lucian Caldrith to strengthen the alliance between the two houses.
+    - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldrith and weaken their alliance with the crown.
+    - **Princess** (younger daughter): Engaged to Lucian Caldrith to strengthen the alliance between the two houses.
 - **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldrith).
 - **Weaknesses**: Military power is weaker than House Caldrith’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldrith) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
 - **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
