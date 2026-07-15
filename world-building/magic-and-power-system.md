@@ -55,6 +55,8 @@ Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, a
 **Morvath (Father):**
 Morvath is nearly 300 years old and is significantly larger than Lirath. He has dark grey scales with a subtle green tint depending on the lighting, green eyes, and green flames. He bears many battle scars. He has an imperious and solitary personality — he does not seek conflict but is extremely aggressive if provoked.
 
+Morvath currently has **no bonded rider**. His last rider was Lucian Caldrith’s grandfather, who died during the **Last Continental War** — a devastating conflict in which almost all of the continent’s old dragons and many dragon riders perished. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldrith as one of their most powerful secret weapons.
+
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
 
