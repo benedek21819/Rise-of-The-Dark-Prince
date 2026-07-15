@@ -67,6 +67,15 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Weaknesses**: Militarily weak compared to houses like Caldrith and Dravenhall. Their power is purely economic and political.
 - **Relationship to House Caldrith**: Rivalrous / Tense. They would prefer to weaken House Caldrith through economic and political means rather than direct conflict.
 
+### House Vaelmar
+- **Specialty**: Naval power and maritime trade.
+- **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
+- **Political Stance**: Wary and competitive toward House Caldrith. They respect strength but dislike Caldrith’s overwhelming military superiority and reclusive nature.
+- **Dragon**: 1 dragon (used for naval dominance).
+- **Strengths**: Strong navy, control of major ports and sea trade routes, one dragon for naval power.
+- **Weaknesses**: Less influential on land compared to houses like Caldrith or Sylvaron.
+- **Relationship to House Caldrith**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
+
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
 
