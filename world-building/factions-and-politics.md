@@ -20,11 +20,12 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire kingdom.
 - **Military Strength**: The single strongest military force in the realm — surpassing even the Royal Family’s own forces.
 - **Political Position**: Extremely influential. They played a decisive role in helping the current royal dynasty seize the throne and have remained strong backers ever since.
-- **Reputation**: Mysterious and somewhat feared by outsiders. They keep many of their internal traditions, training methods, and capabilities hidden.
-- **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority creates underlying tension and potential for future conflict.
-- **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers.
+- **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about them beyond two facts: their overwhelmingly powerful military and the fact that they helped the current royal dynasty gain the throne.
+- **Aesthetic & Symbolism**: Dark aesthetic. The house is strongly associated with the colors **black and silver**.
+- **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
+- **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
-*This house’s position makes it both a pillar of the current regime and a potential threat to it. This tension is central to the protagonist’s story.*
+*This house’s position makes it both a pillar of the current regime and a potential threat to it. Their reclusive nature and military dominance are central to the protagonist’s story.*
 
 ## Major Factions / Kingdoms / Organizations
 
@@ -41,6 +42,6 @@ For each major faction, record:
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
 
 ## Intrigue & Power Dynamics
-[Key political plots, succession crises, spy networks, religious influence on politics, resentment toward the protagonist’s house due to its military dominance.]
+[Key political plots, succession crises, spy networks, religious influence on politics, resentment toward the protagonist’s house due to its military dominance and mysterious nature.]
 
 *Politics and factions are often the real "magic" in dark fantasy throne stories. Develop this deeply.*
