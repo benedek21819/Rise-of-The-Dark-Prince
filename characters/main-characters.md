@@ -18,16 +18,18 @@
 ## The Dark Prince (Protagonist / Anti-Hero)
 
 **Full Name / Aliases / Titles:** [e.g. Prince [Name], Heir of [House Name], the Shadowbound]  
+**Nickname:** "Dark Prince" — Given because he almost always wears full black clothing and possesses a very calm, calculating, and sometimes cold personality.
+
 **Age:** [Start age + how it changes over the story]  
-**House & Position:** Eldest son and direct heir of **[House Name TBD]**, one of the eight Great Houses. His house is the most powerful military force in the kingdom and played a key role in placing the current royal dynasty on the throne.
+**House & Position:** Eldest son and direct heir of **[House Name TBD]**, one of the eight Great Houses. His house is the most powerful military force in the kingdom, helped place the current royal dynasty on the throne, but remains highly reclusive and rarely interferes in kingdom affairs.
 
-**Appearance:** [Describe initial look and how darkness visibly transforms him over the story — e.g. eyes that darken, shadows that cling to him, regal yet menacing presence. Consider military bearing mixed with noble refinement.]  
-**Personality:** [Complex, ambitious, morally gray, charismatic yet ruthless when needed. Fatal flaw: ?]  
-**Backstory:** [Born as the privileged heir of the kingdom’s strongest military house. Raised with duty, honor, and the weight of his house’s legacy. The moment everything changed — betrayal, threat to his house, or personal crisis that pushed him toward darkness.]  
-**Motivations & Goals:** [Protect and elevate his house? Avenge a wrong? Claim greater power? Prevent his family’s decline? The tension between loyalty to his house and personal ambition.]  
-**Abilities / Skills / Powers:** [Exceptional military training and leadership, political cunning inherited from his house’s influential position, emerging shadow/void or forbidden magic as he embraces the dark path.]  
-**Character Arc:** [Starts as the respected heir of a powerful house → faces threats to his position and family → turns to darkness to protect or surpass what he was born into → confronts the cost of the power he gains.]  
-**Key Relationships:** [Father (current head of house), younger siblings (potential rivals or supporters), the Royal Family (allies but also sources of tension), other Great Houses.]  
-**Role in Story:** Central protagonist whose rise (and moral descent) drives the narrative. Morally ambiguous hero/villain depending on perspective. His position as heir of the strongest military house makes his fall from grace and subsequent rise even more dramatic.
+**Appearance:** Almost always dressed in full black clothing. [Add more details: hair, eyes, build, distinctive features, scars, aura. Consider a dark, refined, and intimidating presence that matches his house’s black and silver aesthetic.]  
+**Personality:** Very calm, calculating, and sometimes cold. Morally gray, ambitious when necessary, and highly self-controlled. He rarely shows strong emotions in public.
+**Backstory:** [Born as the privileged heir of the kingdom’s strongest yet most reclusive military house. Raised with duty, honor, and the weight of his house’s legacy and mysterious reputation. The moment everything changed — betrayal, threat to his house, or personal crisis that pushed him toward darkness.]  
+**Motivations & Goals:** [Protect and elevate his house? Avenge a wrong? Claim greater power? Prevent his family’s decline? The tension between loyalty to his reclusive house and the need to act in the wider kingdom.]  
+**Abilities / Skills / Powers:** [Exceptional military training and leadership, political cunning, emerging shadow/void or forbidden magic as he embraces the dark path. His calm and calculating nature makes him particularly dangerous.]  
+**Character Arc:** [Starts as the respected (and somewhat feared) heir of a powerful, mysterious house → faces threats to his position and family → turns to darkness to protect or surpass what he was born into → confronts the cost of the power he gains and how it changes him.]  
+**Key Relationships:** [Father (current head of house), younger siblings (potential rivals or supporters), the Royal Family (allies but also sources of tension due to his house’s power), other Great Houses (who view his family with a mix of respect and wariness).]  
+**Role in Story:** Central protagonist whose rise (and moral descent) drives the narrative. Morally ambiguous hero/villain depending on perspective. His reclusive house background and "Dark Prince" reputation make his journey particularly compelling.
 
-*Fill in the brackets and expand. This is your core character — everything revolves around his journey. His house’s military dominance and political influence are central to the conflicts he will face.*
+*Fill in the brackets and expand. This is your core character — everything revolves around his journey. His house’s reclusive nature, military dominance, and black & silver aesthetic are central to both his identity and the conflicts he will face.*
