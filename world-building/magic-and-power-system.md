@@ -59,7 +59,7 @@ Morvath currently has **no bonded rider**. His last rider was Lucian Caldrith’
 
 ### Royal Dragon (House Kaelarion)
 
-**Name**: [To be named]
+**Name**: Solara
 **Age**: Approximately 30 years old
 **Appearance**: Bright golden scales, white eyes, crimson flames
 **Personality**: Calm and docile
