@@ -46,18 +46,17 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
-*This house’s position makes it both a pillar of the current regime and a potential threat to it. Their reclusive nature and military dominance are central to the protagonist’s story.*
-
 ## Major Factions / Kingdoms / Organizations
 
-For each major faction, record:
-- **Name**
-- **Leader / Ruler**
-- **Capital / Base**
-- **Strengths**
-- **Weaknesses**
-- **Relationship to the Dark Prince / Main Conflict**
-- **Notable Members or Agents**
+### House Myrath
+- **Specialty**: Magic studies, research, and preservation of old knowledge.
+- **Reputation**: Traditional and proud. They are highly respected for their vast archives and scholarly work but are often criticized for their strict neutrality.
+- **Political Stance**: Maintained complete neutrality during the Last Continental War and refused to take sides.
+- **Dragon**: None.
+- **Strengths**: Extensive magical knowledge, ancient relics, skilled mages and scholars, large archives of forbidden or lost lore.
+- **Weaknesses**: Militarily weak, politically isolated due to their neutrality, sometimes viewed as arrogant or self-serving.
+- **Relationship to House Caldrith**: Polite but distant. They respect House Caldrith’s power but disapprove of their secrecy and military dominance.
+- **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
