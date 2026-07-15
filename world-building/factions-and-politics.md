@@ -24,9 +24,11 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Colors**: Deep crimson and gold.
 - **Sigil**: A golden sun with a crimson sword.
 - **Dragon**: Owns 1 dragon.
+- **Family**: King Aldric has two children — an older son (the heir) and a younger daughter.
 - **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldrith).
 - **Weaknesses**: Military power is weaker than House Caldrith’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldrith) from becoming too dominant.
 - **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them.
+- **Political Marriage**: To further strengthen the alliance, King Aldric’s younger daughter is engaged to Lucian Caldrith (heir of House Caldrith).
 
 ## The Protagonist’s House
 
