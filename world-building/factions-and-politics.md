@@ -17,13 +17,16 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 **House Kaelarion**  
 **Duchy**: Royal Demesne (directly ruled by the crown)  
 
-- **Current Status**: Ruling dynasty of the kingdom.
+- **Current Ruler**: King Aldric Kaelarion (middle-aged, pragmatic, and cautious).
+- **Dynasty Personality**: Pragmatic and cautious. They understand they owe their throne to House Caldrith and carefully maintain the alliance while trying to avoid becoming too dependent.
 - **How They Rose to Power**: Won the Last Continental War with significant military and political support from House Caldrith and several other allied houses.
 - **Reputation**: Seen as legitimate rulers who brought stability after a devastating war, though their power is still heavily reliant on alliances (especially with House Caldrith).
+- **Colors**: Deep crimson and gold.
+- **Sigil**: A golden sun with a crimson sword.
 - **Dragon**: Owns 1 dragon.
 - **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldrith).
 - **Weaknesses**: Military power is weaker than House Caldrith’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldrith) from becoming too dominant.
-- **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature.
+- **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them.
 
 ## The Protagonist’s House
 
