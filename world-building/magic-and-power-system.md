@@ -46,8 +46,8 @@ House Caldrith publicly owns one large female dragon bonded to the current house
 **Reality:**
 House Caldrith secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male — the father of Lucian’s dragon. This gives them a powerful hidden breeding advantage.
 
-**Lucian’s Dragon:**
-Lucian’s dragon (the youngest on the continent) was cradled with him since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. The egg was laid by the publicly known female dragon.
+**Lucian’s Dragon - Ancalion:**
+Ancalion (the youngest publicly known dragon on the continent) was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. The egg was laid by the publicly known female dragon. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon represents a major hidden asset and a serious legal/political risk if discovered.
@@ -55,6 +55,6 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldrith is bonded to the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. [Expand further as the story develops.]
+Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond.
 
 *This is one of the most important sections for long-term consistency, especially if magic evolves or has consequences.*
