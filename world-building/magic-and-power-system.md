@@ -39,14 +39,22 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 - **Royal Family**: 1 dragon
 - **Other Great Houses**: 1 dragon each in three different houses
 
-### Hidden Dragons & Legal Requirements
-It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded.
+### House Caldrith’s Dragons (Public vs Reality)
+**Public Story:**
+House Caldrith publicly owns one large female dragon bonded to the current house head, and one younger dragon bonded to Lucian Caldrith (the youngest publicly known dragon on the continent). The egg that became Lucian’s dragon was laid by the female dragon.
 
-**House Caldrith** secretly owns **one additional dragon** that has not been reported to the crown. This gives them a significant hidden advantage and represents a serious legal and political risk if discovered.
+**Reality:**
+House Caldrith secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male — the father of Lucian’s dragon. This gives them a powerful hidden breeding advantage.
+
+**Lucian’s Dragon:**
+Lucian’s dragon (the youngest on the continent) was cradled with him since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. The egg was laid by the publicly known female dragon.
+
+### Hidden Dragons & Legal Requirements
+It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon represents a major hidden asset and a serious legal/political risk if discovered.
 
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-[How does the protagonist interact with or gain power from this system? Is his "darkness" unique or part of a larger system?]
+Lucian Caldrith is bonded to the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. [Expand further as the story develops.]
 
 *This is one of the most important sections for long-term consistency, especially if magic evolves or has consequences.*
