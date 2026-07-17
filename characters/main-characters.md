@@ -22,6 +22,9 @@ This is the index for all major characters. Each character has their own dedicat
 ### Previous Generation
 - **[Lord Ravorn Caldrith](Ravorn_Caldrith.md)** — Lucian’s grandfather, previous head of House Caldrith, last rider of Morvath (deceased)
 
+### Key Retainers
+- **[Captain Garrick](Garrick.md)** — Captain of the Silver Guard, The Living Monument
+
 ---
 
 ## Royal Family (House Kaelarion)
