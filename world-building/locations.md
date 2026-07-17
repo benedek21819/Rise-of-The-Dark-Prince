@@ -71,16 +71,48 @@ Natural hot springs exist in certain lower caverns of the mountain. They are use
 **Story Importance**:
 The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
 
+## Royal Capital: Aurelia
+
+**Location**: Geographical center of the continent  
+**Type**: Capital city and seat of House Kaelarion  
+**Atmosphere**: Bright, prosperous, and carefully maintained — a deliberate contrast to the cold, dark isolation of Blackspire Keep
+
+Aurelia is built along a major central river that serves as the primary trade artery of the kingdom. The city rises in clear layers from the waterfront up to the elevated Royal District, creating both a physical and social hierarchy.
+
+### City Layout
+
+- **Riverfront & Merchant District** (Lowest Level)  
+  Bustling docks, warehouses, and trade houses. Strong presence of House Sylvaron. The river brings wealth and information into the capital.
+
+- **Common & Artisan Districts**  
+  Dense, lively neighborhoods where the majority of the population lives. This is where Princess Seren’s popularity with the common people is most visible. Markets, workshops, and public squares fill these areas.
+
+- **Noble Quarter**  
+  Elegant residences of Great House representatives, ambitious lesser nobles, and high-ranking officials. Quieter, more refined, and heavily policed.
+
+- **Royal District** (Highest Level)  
+  Sits on elevated ground overlooking the rest of the city and the river. Contains the Royal Palace, the Sun Court (throne hall), gardens, and the residences of the royal family. Architecturally dominated by white, cream, and gold stone with crimson accents.
+
+### Key Features
+- **The Royal Palace**: Center of court intrigue and home to King Aldric, Queen Isolde, Crown Prince Dorian, and Princess Seren.
+- **The Sun Court**: Formal throne hall where major political decisions are made.
+- **Grand Plaza**: Large public square near the Royal District used for royal appearances and festivals.
+- **River Bridges**: Multiple elegant bridges connecting the districts and symbolizing the flow of power and commerce.
+- **Noble Residences / Embassies**: Each Great House maintains a presence here, creating a constant undercurrent of rivalry and alliance-building.
+
+**Story Importance**:
+Aurelia is the political and cultural heart of the kingdom. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldrith and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
+
 ## Other Key Locations
 
 | Location | Type | Description | Strategic / Story Importance | Notable Features |
 |----------|------|-------------|------------------------------|--------------------|
-| Royal Capital (Name TBD) | Capital | Seat of House Kaelarion and the royal court | Political heart of the realm | Royal palace, court intrigue |
 | [Other Duchies] | Regions | Territories of the remaining Great Houses | Political and military balance | Varied climates and resources |
 
 ## Geography Notes
 - The northern mountains create a natural barrier and contribute to House Caldrith’s isolation and defensive strength.
 - Travel to and from the Caldrith lands is difficult, especially in winter, which limits both trade and political interference.
 - Control of Cold Silver is a closely guarded economic and military advantage.
+- Aurelia’s central location and river access make it the natural hub of politics, trade, and information.
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
