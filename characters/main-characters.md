@@ -26,10 +26,14 @@ This is the index for all major characters. Each character has their own dedicat
 
 ## Royal Family (House Kaelarion)
 
+### Current Generation
 - **[King Aldric Kaelarion](Aldric_Kaelarion.md)** — Current ruler, the Weary Stabilizer
 - **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Mother
 - **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
 - **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
+
+### Previous Generation
+- **[King Kaelor Kaelarion](Kaelor_Kaelarion.md)** — Aldric’s father, charismatic visionary and close friend of Ravorn Caldrith (deceased)
 
 ---
 
