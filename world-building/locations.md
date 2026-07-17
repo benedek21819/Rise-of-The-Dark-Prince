@@ -9,7 +9,7 @@ The story is set on a single continent ruled by one kingdom. The kingdom is divi
 **Climate**: Cold, mountainous, with frequent snowfall and long winters  
 **Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests
 
-### The Caldrith Castle (Name TBD)
+### Blackspire Keep
 The ancestral seat of House Caldrith is built on the summit of one of the tallest mountain peaks in the northern range. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
 
 **Key Features**:
@@ -43,7 +43,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of the castle reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom.
 
 ## Other Key Locations
 
