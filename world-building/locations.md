@@ -25,7 +25,19 @@ Inside the mountain on which the castle stands lies a rich vein of **Cold Silver
 Deep within the mountain are specialized forges known only to House Caldrith. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
 
 #### Ancestral Sword: Mercy
-House Caldrith possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel. Mercy is both a powerful weapon and a powerful symbol of the house’s authority and continuity.
+House Caldrith possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel.
+
+**Current Wielder**: Lucian Caldrith received Mercy on his 17th birthday in recognition of his exceptional martial prowess and as a formal symbol of his status as the heir of House Caldrith.
+
+**Properties**:
+- Resonates with the wielder’s Will and Veil affinity. The stronger the user’s focus and control, the more responsive and effective the blade becomes.
+- Contains dragon bone, creating a faint resonance with dragons. Bonded dragons (especially Ancalion) can sense when Mercy is drawn nearby.
+- Extremely resistant to damage and corrosion; it does not dull under normal use.
+- Amplifies the wielder’s existing skill rather than replacing it. Prolonged intense use can be mentally taxing, especially for a developing hybrid path user.
+- Carries faint imprints of previous wielders (including Ravorn and Vesper). In moments of extreme focus or danger, the current wielder may feel subtle echoes of their resolve or instincts.
+
+**Symbolism**:
+The name “Mercy” is deliberate and somewhat ironic. Previous heads of the house often used the sword to deliver clean, decisive ends in battle — a form of mercy compared to prolonged suffering. It also serves as a reminder that true strength includes the ability to end a fight cleanly. Receiving the sword at a relatively young age publicly confirmed Lucian as the clear heir and placed significant expectations upon him.
 
 #### Dragon Roosts & Landing Platforms
 Carved into the upper cliffs of the mountain are large dragon roosts and reinforced landing platforms. These are designed for Lirath, Ancalion, and (secretly) Morvath. The high altitude and cold air suit the dragons well.
@@ -46,7 +58,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage and the house’s long history.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
 
 ## Other Key Locations
 
