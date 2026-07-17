@@ -1,26 +1,31 @@
 # Magic & Power System
 
 ## Core Magic System Name
-[ e.g. Veilweaving / Shadowbinding / The Abyssal Pact ]
+**The Veilweave**
 
 ## How Magic Works
-[Detailed mechanics: Source of power (mana, life force, ancient pacts, blood, emotions), how it is accessed, channeled, and controlled.]
+Magic is the ability to weave and manipulate the **Veil** — an invisible layer between the physical world and the chaotic realm of raw power known as the Eternal Current. Users pierce or shape the Veil using Will and Bloodline Affinity. Stronger ancient bloodlines allow better access. Dragons are naturally attuned to the Veil and act as living amplifiers for bonded riders.
 
 ## Rules, Limitations & Costs
-- **Hard Rules** (never break these for consistency):
-  - [Rule 1]
-  - [Rule 2]
-- **Costs & Risks:** [Physical toll, madness, corruption, loss of humanity, backlash from entities]
-- **Taboos:** [What magic is forbidden and why — e.g. soul-binding, raising the dead, pact with certain entities]
+- **Hard Rules**:
+  - Magic cannot create something from nothing — it must reshape existing energy or matter.
+  - All magic leaves a detectable trace in the Veil.
+  - Dragons are the only beings that can safely channel large amounts of power without severe backlash.
+- **Costs & Risks**: Physical toll, Veilrot (madness, mutations, loss of humanity), emotional backlash, and spell instability.
+- **Taboos**: Soul-binding, raising the dead, and forced dragon bonding tear the Veil and invite catastrophic consequences.
 
 ## Types of Magic / Abilities
-- Shadow / Void manipulation
-- Blood oaths and bindings
-- Illusion and fear-weaving
-- [Add more as developed]
+- **Shadow / Void Manipulation** (House Caldrith specialty) — Pulling power from the darker parts of the Veil.
+- **Blood Oaths & Bindings** — Creating unbreakable contracts or controlling others.
+- **Illusion & Fear-Weaving** — Mental and perceptual magic.
+- **Arcane Weaving** (House Myrath specialty) — Scholarly study and preservation of ancient spells.
+- **Elemental Weaving** — Fire, water, wind, etc. (common in naval houses).
+- **Dragon Amplification** — Using a bonded dragon to dramatically boost power.
+- **Commandments** (Extremely Rare & Ancient): An innate, congenital form of magic. Users can **command other entities** (including dragons) with just their voice. Extremely dangerous because it bypasses physical damage. Proper use requires immense Will and control. Misuse can backfire catastrophically on the user.
 
 ## Magical Creatures, Relics & Artifacts
-[List important ones with brief descriptions]
+- **Dragons**: Living amplifiers of Veil power.
+- **Ancient Relics**: Objects that can stabilize or amplify Veilweaving (guarded by houses like Myrath).
 
 ## Dragons
 
@@ -73,6 +78,6 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond.
+Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path.
 
 *This is one of the most important sections for long-term consistency, especially if magic evolves or has consequences.*
