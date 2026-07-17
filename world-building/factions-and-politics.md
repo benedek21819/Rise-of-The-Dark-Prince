@@ -52,7 +52,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - The main elite force of House Caldrith.  
 - Responsible for executing the direct orders of the head of the house and for the personal protection of the Caldrith family.  
 - Approximately **250 members**.  
-- Equipped with full **Cold Silver armor**, a massive **Cold Silver is** as their main weapon, a backup sword, and a shield carried on their back beneath a silver cloak.  
+- Equipped with full **Cold Silver armor**, a massive **Cold Silver glaive** as their main weapon, a backup sword, and a shield carried on their back beneath a silver cloak.  
 - Represent the open, heavily armored might of the house.
 
 **Shadow Guard**  
