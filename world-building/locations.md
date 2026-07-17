@@ -24,6 +24,9 @@ Inside the mountain on which the castle stands lies a rich vein of **Cold Silver
 #### The Cold Silver Forges
 Deep within the mountain are specialized forges known only to House Caldrith. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
 
+#### Ancestral Sword: Mercy
+House Caldrith possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel. Mercy is both a powerful weapon and a powerful symbol of the house’s authority and continuity.
+
 #### Dragon Roosts & Landing Platforms
 Carved into the upper cliffs of the mountain are large dragon roosts and reinforced landing platforms. These are designed for Lirath, Ancalion, and (secretly) Morvath. The high altitude and cold air suit the dragons well.
 
@@ -43,7 +46,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage and the house’s long history.
 
 ## Other Key Locations
 
