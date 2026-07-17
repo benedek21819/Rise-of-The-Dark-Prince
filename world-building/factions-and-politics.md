@@ -55,6 +55,12 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - Equipped with full **Cold Silver armor**, a massive **Cold Silver glaive** as their main weapon, a backup sword, and a shield carried on their back beneath a silver cloak.  
 - Represent the open, heavily armored might of the house.
 
+**Culture & Mentality**: Extremely disciplined and formal. They value absolute loyalty, precision, and presentation. They speak little while on duty and see themselves as the living embodiment of House Caldrith’s open power and dignity.
+
+**Hierarchy**: Led by a Captain of the Silver Guard who answers directly to the head of the house (currently Lord Vesper). Ranks include Captain → Lieutenants → Sergeants → Guardsmen. Promotion is based on skill, loyalty, and years of flawless service.
+
+**Training**: Candidates are drawn from the most promising soldiers in the regular Caldrith forces. Training is brutal and focuses on formation fighting, endurance in the harsh northern climate, and mastery of the Cold Silver glaive. Only a small percentage of candidates ever earn the right to wear the full Cold Silver armor.
+
 **Shadow Guard**  
 - The assassination and intelligence arm of House Caldrith.  
 - Highly trained in stealth, infiltration, and lethal combat.  
@@ -64,7 +70,13 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - Currently placed under the **direct command of Lucian Caldrith**.  
 - Represent the hidden, precise, and deadly side of the house’s power.
 
-Together, the Silver Guard and Shadow Guard give House Caldrith both overwhelming conventional strength and sophisticated covert capabilities.
+**Culture & Mentality**: Quiet, pragmatic, and emotionally detached while on mission. Loyalty is absolute but expressed through results rather than ceremony. Their guiding principle is that the house’s enemies should never see the blade that ends them.
+
+**Hierarchy**: Directly under Lucian’s command. Day-to-day leadership is handled by a Shadow Captain (sometimes called the First Blade) who reports only to Lucian. The structure is relatively flat — skill and reliability matter more than formal rank.
+
+**Training**: Recruited for exceptional stealth, adaptability, and mental resilience. Training includes infiltration, silent movement, dual-blade combat, poison use, and intelligence gathering. Many members are individuals with few outside ties, ensuring their loyalty remains focused entirely on the house.
+
+Together, the Silver Guard and Shadow Guard give House Caldrith both overwhelming conventional strength and sophisticated covert capabilities. The contrast between the two units — shining open power versus silent hidden lethality — perfectly reflects the dual nature of House Caldrith itself.
 
 ## Major Factions / Kingdoms / Organizations
 
