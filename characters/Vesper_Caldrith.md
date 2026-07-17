@@ -12,4 +12,6 @@
 
 **Abilities:** Bonded to the silver dragon **Lirath**. Highly skilled in military strategy and Veilweaving (likely as a Magic Knight).
 
-**Role in Story:** Mentor figure and current patriarch. He pushes Lucian hard while trying to maintain the house’s reclusive power.
+**Historical Context:** His father (Lucian’s grandfather) shared a deep, brother-like friendship with the father of King Aldric Kaelarion. That personal bond was the foundation of the political alliance between House Caldrith and House Kaelarion, which later secured the current royal dynasty’s rise to power during the Last Continental War.
+
+**Role in Story:** Mentor figure and current patriarch. He pushes Lucian hard while trying to maintain the house’s reclusive power and honor the alliance forged by the previous generation.
