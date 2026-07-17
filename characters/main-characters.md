@@ -23,7 +23,7 @@ This is the index for all major characters. Each character has their own dedicat
 ## Royal Family (House Kaelarion)
 
 - **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
-- **Crown Prince Dorian Kaelarion** — Ambitious heir of the royal family — *Profile to be expanded*
+- **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
 - **King Aldric Kaelarion** — Current ruler — *Profile to be expanded*
 
 ---
