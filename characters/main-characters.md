@@ -10,6 +10,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ## House Caldrith Family
 
+### Current Generation
 - **[Lord Vesper Caldrith](Vesper_Caldrith.md)** — Father, current head of House Caldrith
 - **[Lady Elara Caldrith](Elara_Caldrith.md)** — Main wife, Lucian’s mother
 - **[Lady Lyra Caldrith](Lyra_Caldrith.md)** — Older half-sister (from first concubine)
@@ -17,6 +18,9 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Lord Kael & Thorne Caldrith](Kael_and_Thorne_Caldrith.md)** — Younger half-brothers (twins)
 - **[Lady Mira Caldrith](Mira_Caldrith.md)** — First concubine, mother of Lyra
 - **[Lady Sable Caldrith](Sable_Caldrith.md)** — Second concubine, mother of the twins
+
+### Previous Generation
+- **[Lord Ravorn Caldrith](Ravorn_Caldrith.md)** — Lucian’s grandfather, previous head of House Caldrith, last rider of Morvath (deceased)
 
 ---
 
