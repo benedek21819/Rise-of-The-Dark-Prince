@@ -6,6 +6,12 @@
 ## How Magic Works
 Magic is the ability to weave and manipulate the **Veil** — an invisible layer between the physical world and the chaotic realm of raw power known as the Eternal Current. Users pierce or shape the Veil using Will and Bloodline Affinity. Stronger ancient bloodlines allow better access. Dragons are naturally attuned to the Veil and act as living amplifiers for bonded riders.
 
+## Magic User Paths
+All users train in Veilweaving. Specialization is common but not mandatory:
+- **Magic Knights** (Combat Path): Focus on integrating Veilweaving with physical combat. Faster and more effective in battle, but less optimal at complex rituals.
+- **Mages** (Scholarly Path): Focus on deep study, rituals, and large-scale effects. Slower in direct combat but more powerful and stable at high ranks.
+- **Hybrids**: Train both paths. Possible and versatile, but usually less effective than focusing on one path due to divided focus and slower mastery in each area.
+
 ## Rules, Limitations & Costs
 - **Hard Rules**:
   - Magic cannot create something from nothing — it must reshape existing energy or matter.
@@ -78,6 +84,6 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path.
+Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
 
-*This is one of the most important sections for long-term consistency, especially if magic evolves or has consequences.*
+*This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
