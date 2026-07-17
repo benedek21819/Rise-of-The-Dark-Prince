@@ -21,8 +21,17 @@ The ancestral seat of House Caldrith is built on the summit of one of the talles
 #### The Cold Silver Mine
 Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldrith has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the kingdom for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldrith’s long-term wealth and military superiority.
 
-#### The Cold Silver Forges
+#### The Cold Silver Forges & Dragon Bone Forging Process
 Deep within the mountain are specialized forges known only to House Caldrith. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
+
+**Dragon Bone Forging Process** (closely guarded secret):
+1. **Preparation of the Dragon Bone**: Only bones from dragons that died of natural causes or in honorable combat are traditionally used. The bone is carefully cleaned, dried, and slowly treated with controlled Veil energy over days or weeks to stabilize its residual power and prevent rejection of the Cold Silver.
+2. **Smelting the Cold Silver**: The metal is melted in specialized forges that combine extreme heat with Veilweaving. Without precise magical control, Cold Silver can become brittle or lose its conductivity.
+3. **The Binding Stage** (most critical): Prepared dragon bone is introduced into the molten Cold Silver. Master smiths and skilled Veilweavers work together to weave the two materials into a single substance. Success produces the distinctive deep black color with flowing silver patterns.
+4. **Folding and Shaping**: The alloy is folded multiple times while continuous low-level Veilweaving keeps the materials bonded, creating the Damascus-like patterns and further strengthening the blade.
+5. **Quenching and Final Attunement**: The finished blade is quenched and given a final attunement ritual so it begins to resonate with potential future wielders of the bloodline.
+
+The process is extremely dangerous. A failed binding can cause violent releases of Veil energy, permanent damage to the forge, or injury/death to the smiths. Using bones from living dragons or forced extractions is considered a severe taboo.
 
 #### Ancestral Sword: Mercy
 House Caldrith possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel.
@@ -38,6 +47,8 @@ House Caldrith possesses an ancestral sword named **Mercy**, which has been pass
 
 **Symbolism**:
 The name “Mercy” is deliberate and somewhat ironic. Previous heads of the house often used the sword to deliver clean, decisive ends in battle — a form of mercy compared to prolonged suffering. It also serves as a reminder that true strength includes the ability to end a fight cleanly. Receiving the sword at a relatively young age publicly confirmed Lucian as the clear heir and placed significant expectations upon him.
+
+Because it was forged from the first batch of Cold Silver and an especially potent source of dragon bone, Mercy carries a unique purity and resonance that later weapons have not fully matched.
 
 #### Dragon Roosts & Landing Platforms
 Carved into the upper cliffs of the mountain are large dragon roosts and reinforced landing platforms. These are designed for Lirath, Ancalion, and (secretly) Morvath. The high altitude and cold air suit the dragons well.
