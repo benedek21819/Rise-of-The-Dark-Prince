@@ -35,7 +35,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 ## The Protagonist’s House
 
 **House Caldrith**  
-**Duchy**: [Name TBD]  
+**Duchy**: Northern Duchy (Blackspire Keep)  
 
 - **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire kingdom.
 - **Military Strength**: The single strongest military force in the realm — surpassing even the Royal Family’s own forces.
@@ -45,6 +45,26 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Sigil**: A silver sword with black wings.
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
+
+### Elite Forces of House Caldrith
+
+**Silver Guard**  
+- The main elite force of House Caldrith.  
+- Responsible for executing the direct orders of the head of the house and for the personal protection of the Caldrith family.  
+- Approximately **250 members**.  
+- Equipped with full **Cold Silver armor** and massive **Cold Silver is**.
+- Represent the open, heavily armored might of the house.
+
+**Shadow Guard**  
+- The assassination and intelligence arm of House Caldrith.  
+- Highly trained in stealth, infiltration, and lethal combat.  
+- Approximately **100 members**.  
+- Wear light armor and black hooded cloaks.  
+- Wield dual blades and various hidden weapons.  
+- Currently placed under the **direct command of Lucian Caldrith**.  
+- Represent the hidden, precise, and deadly side of the house’s power.
+
+Together, the Silver Guard and Shadow Guard give House Caldrith both overwhelming conventional strength and sophisticated covert capabilities.
 
 ## Major Factions / Kingdoms / Organizations
 
