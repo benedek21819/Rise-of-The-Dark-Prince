@@ -22,10 +22,10 @@ This is the index for all major characters. Each character has their own dedicat
 
 ## Royal Family (House Kaelarion)
 
+- **[King Aldric Kaelarion](Aldric_Kaelarion.md)** — Current ruler, the Weary Stabilizer
 - **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Mother
-- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
 - **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
-- **King Aldric Kaelarion** — Current ruler — *Profile to be expanded*
+- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
 
 ---
 
