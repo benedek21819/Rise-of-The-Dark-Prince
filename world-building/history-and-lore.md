@@ -9,10 +9,12 @@
 
 ## Key Historical Events (Chronological)
 
-### The Bond Between the Previous Generation
-House Kaelarion and House Caldarion had maintained a strong alliance for generations, long before the Last Continental War. The deep, brother-like friendship between the father of King Aldric Kaelarion and Lord Ravorn Caldarion (Lucian’s grandfather) was a significant recent reinforcement of this already established alliance. Their personal bond strengthened their cooperation during the war, allowing House Caldarion to provide decisive military support that helped secure the Kaelarion victory and the current royal dynasty on the Continent of Kaelor.
+### The True History of Kaelor (Known Only to the Heads of Both Houses)
+Hundreds of years ago, an emperor of House Caldarion granted the continent of Kaelor to House Kaelarion with full autonomous rule. At the time, House Kaelarion was a loyal vassal house of the Caldarion Dynasty. House Kaelarion has ruled Kaelor publicly ever since.
 
-Lucian’s grandfather (the previous head of House Caldarion) was the last rider of the hidden dragon **Morvath**. He died in the Last Continental War, and it was publicly claimed that Morvath died with him. In reality, Morvath survived and has been kept hidden by House Caldarion ever since.
+Centuries later, the main line of House Caldarion was forced to flee the old continent. They chose Kaelor as their new home because it was remote, extremely difficult to access, and already ruled by their loyal vassal. As a result, **House Kaelarion is technically a vassal to House Caldarion**, even though this truth has been forgotten by almost everyone.
+
+Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
 ### The Last Continental War
 A catastrophic war in which nearly every major and minor house on the Continent of Kaelor fought for power and resources. The victory of House Kaelarion, secured through the crucial support of House Caldarion, established the current royal dynasty and the present balance of power in the Kingdom of Kaelor.
