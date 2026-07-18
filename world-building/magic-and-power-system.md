@@ -21,7 +21,7 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Taboos**: Soul-binding, raising the dead, and forced dragon bonding tear the Veil and invite catastrophic consequences.
 
 ## Types of Magic / Abilities
-- **Shadow / Void Manipulation** (House Caldarion specialty) — Pulling power from the darker parts of the Veil.
+- **Shadow / Void Manipulation** (House Caldarion specialty) — Pulling power from the darker parts of the Veil. Some members of House Caldarion possess an ancient and unusually deep connection to the primordial darkness on the other side of the Veil. While outwardly it appears as a powerful form of normal Veilweaving, it is in truth something far older and more fundamental.
 - **Blood Oaths & Bindings** — Creating unbreakable contracts or controlling others.
 - **Illusion & Fear-Weaving** — Mental and perceptual magic.
 - **Arcane Weaving** (House Myrath specialty) — Scholarly study and preservation of ancient spells.
