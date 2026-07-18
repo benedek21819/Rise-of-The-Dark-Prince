@@ -28,10 +28,21 @@ The Dark Throne served two purposes:
 
 As long as a Lord of House Caldarion sat upon the throne, the seal remained stable. The world believed the Emperors ruled from it. The truth: they guarded it.
 
+A fragment of the Black Star was forged into a sword named **Eclipse** — after the day the world went dark.
+
+**Characteristics**:
+- Deep black blade made from the unique Black Star metal.
+- No crossguard.
+- Designed as a ruler’s blade rather than a duelist’s blade.
+
+Eclipse became the symbol of Imperial authority. It was rarely drawn. Whenever it appeared, empires trembled, wars ended, and history changed.
+
+Eclipse and the Dark Throne are made from the same Black Star. Together they form the heart of the Imperial authority.
+
 Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure.
 
 **Story Importance**:
-Arcanor represents the lost homeland and former glory of House Caldarion. The Dark Throne was both the symbol of their power and the anchor that kept the primordial darkness sealed. Its abandonment after the voluntary exile is one of the reasons the dangers at sea slowly worsened.
+Arcanor represents the lost homeland and former glory of House Caldarion. The Dark Throne and Eclipse were both symbols of power and anchors that kept the primordial darkness sealed. Their abandonment after the voluntary exile contributed to the gradual worsening of dangers at sea.
 
 ## House Caldarion Territory (Northern Duchy)
 
