@@ -36,7 +36,7 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
 
 ### Previous Generation
-- **[King Kaelor Kaelarion](Kaelor_Kaelarion.md)** — Aldric’s father, charismatic visionary and close friend of Ravorn Caldarion (deceased)
+- **[King Aldorion Kaelarion](Aldorion_Kaelarion.md)** — Aldric’s father, charismatic visionary and close friend of Ravorn Caldarion (deceased)
 
 ---
 
