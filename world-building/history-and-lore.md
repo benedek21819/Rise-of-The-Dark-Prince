@@ -29,6 +29,16 @@ After the victory, something extraordinary happened. Those who witnessed the eve
 
 This moment marked the founding of **House Caldarion**.
 
+When the Veil closed, a **Black Star** emerged from the breach. It did not fall from the heavens — it came from the other side of the Veil itself. The material was unique: impossible to reproduce, unlike any material in the physical world — a fragment of the Eternal Current made physical.
+
+Most of the Black Star was left where it landed. From it was carved **The Dark Throne** — the seat of emperors. The capital city of Arcanor was eventually built around it.
+
+The Dark Throne served two purposes:
+- **Public purpose**: The seat of Imperial authority.
+- **Secret purpose**: A seal for the Primordial Darkness.
+
+As long as a Lord of House Caldarion sat upon the throne, the seal remained stable. The world believed the Emperors ruled from the throne. The truth: they guarded it.
+
 ### The Bond Between Aldorion and Ravorn
 King Aldorion Kaelarion (Aldric’s father) shared a deep, brother-like friendship with Lord Ravorn Caldarion. Their personal bond significantly reinforced the long-standing alliance between House Kaelarion and House Caldarion, helping secure the Kaelarion victory in the Last Continental War.
 
