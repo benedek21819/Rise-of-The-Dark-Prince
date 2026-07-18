@@ -2,7 +2,7 @@
 
 **Full Name:** Princess Seren Kaelarion  
 **Aliases / Titles:** The Sun Princess, Daughter of King Aldric Kaelarion  
-**Age:** 3 years younger than Lucian Caldrith
+**Age:** 3 years younger than Lucian Caldarion
 
 **Appearance:** Extremely beautiful with long, blonde-almost white hair and bright eyes. She has a warm, radiant presence that matches her nickname. Her style is elegant and soft, often incorporating the royal colors of deep crimson and gold.
 
@@ -15,10 +15,10 @@
 
 **Goals:**
 - Win Lucian’s genuine love and affection
-- Create a peaceful and lasting alliance between House Kaelarion and House Caldrith
+- Create a peaceful and lasting alliance between House Kaelarion and House Caldarion
 
 **Key Relationships:**
-- **Lucian Caldrith** (fiancé): Deeply in love with him and actively trying to win his favor, despite his emotional distance.
+- **Lucian Caldarion** (fiancé): Deeply in love with him and actively trying to win his favor, despite his emotional distance.
 - **Crown Prince Dorian Kaelarion** (older brother): Protective of him despite his many flaws and ambitions.
 - **King Aldric Kaelarion** (father): Close and loving daughter. She shares a warm bond with him.
 
