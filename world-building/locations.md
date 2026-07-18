@@ -3,26 +3,26 @@
 ## Overview of the Continent
 The story is set on a single continent ruled by one kingdom. The kingdom is divided into **9 Duchies**, each controlled by either one of the **8 Great Houses** or the Royal Family.
 
-## House Caldrith Territory (Northern Duchy)
+## House Caldarion Territory (Northern Duchy)
 
 **Location**: Northern part of the continent  
 **Climate**: Cold, mountainous, with frequent snowfall and long winters  
 **Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests
 
 ### Blackspire Keep
-The ancestral seat of House Caldrith is built on the summit of one of the tallest mountain peaks in the northern range. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
+The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
 
 **Key Features**:
 - Near-impregnable natural defenses due to altitude and terrain
-- Harsh, isolating environment that reinforces House Caldrith’s reclusive nature
+- Harsh, isolating environment that reinforces House Caldarion’s reclusive nature
 - Strategic vantage point over the surrounding northern lands
 - Limited accessibility, especially during winter
 
 #### The Cold Silver Mine
-Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldrith has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the kingdom for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldrith’s long-term wealth and military superiority.
+Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldarion has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the kingdom for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldarion’s long-term wealth and military superiority.
 
 #### The Cold Silver Forges & Dragon Bone Forging Process
-Deep within the mountain are specialized forges known only to House Caldrith. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
+Deep within the mountain are specialized forges known only to House Caldarion. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
 
 **Dragon Bone Forging Process** (closely guarded secret):
 1. **Preparation of the Dragon Bone**: Only bones from dragons that died of natural causes or in honorable combat are traditionally used. The bone is carefully cleaned, dried, and slowly treated with controlled Veil energy over days or weeks to stabilize its residual power and prevent rejection of the Cold Silver.
@@ -34,9 +34,9 @@ Deep within the mountain are specialized forges known only to House Caldrith. Wo
 The process is extremely dangerous. A failed binding can cause violent releases of Veil energy, permanent damage to the forge, or injury/death to the smiths. Using bones from living dragons or forced extractions is considered a severe taboo.
 
 #### Ancestral Sword: Mercy
-House Caldrith possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel.
+House Caldarion possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel.
 
-**Current Wielder**: Lucian Caldrith received Mercy on his 17th birthday in recognition of his exceptional martial prowess and as a formal symbol of his status as the heir of House Caldrith.
+**Current Wielder**: Lucian Caldarion received Mercy on his 17th birthday in recognition of his exceptional martial prowess and as a formal symbol of his status as the heir of House Caldarion.
 
 **Properties**:
 - Resonates with the wielder’s Will and Veil affinity. The stronger the user’s focus and control, the more responsive and effective the blade becomes.
@@ -69,7 +69,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldrith’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the kingdom. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
 
 ## Royal Capital: Aurelia
 
@@ -101,7 +101,7 @@ Aurelia is built along a major central river that serves as the primary trade ar
 - **Noble Residences / Embassies**: Each Great House maintains a presence here, creating a constant undercurrent of rivalry and alliance-building.
 
 **Story Importance**:
-Aurelia is the political and cultural heart of the kingdom. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldrith and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
+Aurelia is the political and cultural heart of the kingdom. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
 
 ## Other Key Locations
 
@@ -110,8 +110,8 @@ Aurelia is the political and cultural heart of the kingdom. It is the primary st
 | [Other Duchies] | Regions | Territories of the remaining Great Houses | Political and military balance | Varied climates and resources |
 
 ## Geography Notes
-- The northern mountains create a natural barrier and contribute to House Caldrith’s isolation and defensive strength.
-- Travel to and from the Caldrith lands is difficult, especially in winter, which limits both trade and political interference.
+- The northern mountains create a natural barrier and contribute to House Caldarion’s isolation and defensive strength.
+- Travel to and from the Caldarion lands is difficult, especially in winter, which limits both trade and political interference.
 - Control of Cold Silver is a closely guarded economic and military advantage.
 - Aurelia’s central location and river access make it the natural hub of politics, trade, and information.
 
