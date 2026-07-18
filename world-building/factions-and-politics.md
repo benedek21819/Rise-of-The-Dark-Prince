@@ -18,23 +18,23 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 **Duchy**: Royal Demesne (directly ruled by the crown)  
 
 - **Current Ruler**: King Aldric Kaelarion (middle-aged, pragmatic, and cautious).
-- **Dynasty Personality**: Pragmatic and cautious. They understand they owe their throne to House Caldrith and carefully maintain the alliance while trying to avoid becoming too dependent.
-- **How They Rose to Power**: Won the Last Continental War with significant military and political support from House Caldrith and several other allied houses.
-- **Reputation**: Seen as legitimate rulers who brought stability after a devastating war, though their power is still heavily reliant on alliances (especially with House Caldrith).
+- **Dynasty Personality**: Pragmatic and cautious. They understand they owe their throne to House Caldarion and carefully maintain the alliance while trying to avoid becoming too dependent.
+- **How They Rose to Power**: Won the Last Continental War with significant military and political support from House Caldarion and several other allied houses.
+- **Reputation**: Seen as legitimate rulers who brought stability after a devastating war, though their power is still heavily reliant on alliances (especially with House Caldarion).
 - **Colors**: Deep crimson and gold.
 - **Sigil**: A golden sun with a crimson sword.
 - **Dragon**: Owns 1 dragon.
 - **Family**:
   - King Aldric has two children:
-    - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldrith and weaken their alliance with the crown.
+    - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldarion and weaken their alliance with the crown.
     - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by the people — especially commoners, who call her **"the Sun Princess"**. She has fallen deeply in love with Lucian and is earnestly trying to win his affection and favor.
-- **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldrith).
-- **Weaknesses**: Military power is weaker than House Caldrith’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldrith) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
-- **Current Relationship with House Caldrith**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldrith’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
+- **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldarion).
+- **Weaknesses**: Military power is weaker than House Caldarion’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldarion) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
+- **Current Relationship with House Caldarion**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldarion’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
 
 ## The Protagonist’s House
 
-**House Caldrith**  
+**House Caldarion**  
 **Duchy**: Northern Duchy (Blackspire Keep)  
 
 - **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire kingdom.
@@ -46,37 +46,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
-### Elite Forces of House Caldrith
-
-**Silver Guard**  
-- The main elite force of House Caldrith.  
-- Responsible for executing the direct orders of the head of the house and for the personal protection of the Caldrith family.  
-- Approximately **250 members**.  
-- Equipped with full **Cold Silver armor**, a massive **Cold Silver glaive** as their main weapon, a backup sword, and a shield carried on their back beneath a silver cloak.  
-- Represent the open, heavily armored might of the house.
-
-**Culture & Mentality**: Extremely disciplined and formal. They value absolute loyalty, precision, and presentation. They speak little while on duty and see themselves as the living embodiment of House Caldrith’s open power and dignity.
-
-**Hierarchy**: Led by a Captain of the Silver Guard who answers directly to the head of the house (currently Lord Vesper). Ranks include Captain → Lieutenants → Sergeants → Guardsmen. Promotion is based on skill, loyalty, and years of flawless service.
-
-**Training**: Candidates are drawn from the most promising soldiers in the regular Caldrith forces. Training is brutal and focuses on formation fighting, endurance in the harsh northern climate, and mastery of the Cold Silver glaive. Only a small percentage of candidates ever earn the right to wear the full Cold Silver armor.
-
-**Shadow Guard**  
-- The assassination and intelligence arm of House Caldrith.  
-- Highly trained in stealth, infiltration, and lethal combat.  
-- Approximately **100 members**.  
-- Wear light armor and black hooded cloaks.  
-- Wield dual blades and various hidden weapons.  
-- Currently placed under the **direct command of Lucian Caldrith**.  
-- Represent the hidden, precise, and deadly side of the house’s power.
-
-**Culture & Mentality**: Quiet, pragmatic, and emotionally detached while on mission. Loyalty is absolute but expressed through results rather than ceremony. Their guiding principle is that the house’s enemies should never see the blade that ends them.
-
-**Hierarchy**: Directly under Lucian’s command. Day-to-day leadership is handled by a Shadow Captain (sometimes called the First Blade) who reports only to Lucian. The structure is relatively flat — skill and reliability matter more than formal rank.
-
-**Training**: Recruited for exceptional stealth, adaptability, and mental resilience. Training includes infiltration, silent movement, dual-blade combat, poison use, and intelligence gathering. Many members are individuals with few outside ties, ensuring their loyalty remains focused entirely on the house.
-
-Together, the Silver Guard and Shadow Guard give House Caldrith both overwhelming conventional strength and sophisticated covert capabilities. The contrast between the two units — shining open power versus silent hidden lethality — perfectly reflects the dual nature of House Caldrith itself.
+House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire on the old continent. For unknown reasons, the Caldarion family relocated to this small, remote continent, which was granted autonomous governance. The continent is heavily isolated by layers of dangerous natural barriers (no-wind zone, violent storms, and monster-infested open ocean), making external contact extremely difficult and expensive.
 
 ## Major Factions / Kingdoms / Organizations
 
@@ -87,26 +57,26 @@ Together, the Silver Guard and Shadow Guard give House Caldrith both overwhelmin
 - **Dragon**: None.
 - **Strengths**: Extensive magical knowledge, ancient relics, skilled mages and scholars, large archives of forbidden or lost lore.
 - **Weaknesses**: Militarily weak, politically isolated due to their neutrality, sometimes viewed as arrogant or self-serving.
-- **Relationship to House Caldrith**: Polite but distant. They respect House Caldrith’s power but disapprove of their secrecy and military dominance.
+- **Relationship to House Caldarion**: Polite but distant. They respect House Caldarion’s power but disapprove of their secrecy and military dominance.
 - **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
 ### House Sylvaron
 - **Specialty**: Trade, banking, and economic power.
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
-- **Political Stance**: Tense relationship with House Caldrith. They resent Caldrith’s overwhelming military dominance and see them as a threat to their economic interests.
+- **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
 - **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the kingdom.
-- **Weaknesses**: Militarily weak compared to houses like Caldrith and Dravenhall. Their power is purely economic and political.
-- **Relationship to House Caldrith**: Rivalrous / Tense. They would prefer to weaken House Caldrith through economic and political means rather than direct conflict.
+- **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political.
+- **Relationship to House Caldarion**: Rivalrous / Tense. They would prefer to weaken House Caldarion through economic and political means rather than direct conflict.
 
 ### House Vaelmar
 - **Specialty**: Naval power and maritime trade.
 - **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
-- **Political Stance**: Wary and competitive toward House Caldrith. They respect strength but dislike Caldrith’s overwhelming military superiority and reclusive nature.
+- **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion’s overwhelming military superiority and reclusive nature.
 - **Dragon**: 1 dragon (used for naval dominance).
 - **Strengths**: Strong navy, control of major ports and sea trade routes, one dragon for naval power.
-- **Weaknesses**: Less influential on land compared to houses like Caldrith or Sylvaron.
-- **Relationship to House Caldrith**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
+- **Weaknesses**: Less influential on land compared to houses like Caldarion or Sylvaron.
+- **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
 
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
