@@ -20,6 +20,15 @@ When the Caldarions first arrived on Kaelor, the oceans surrounding the continen
 
 Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
+### The First Eclipse – The Founding of House Caldarion
+Long before the Caldarion Empire existed, catastrophe struck the world. At midday, a tear appeared in the sky. The sun vanished, plunging the world into darkness as the Veil split open. From the breach emerged the **Primordial Darkness** — an ancient and terrifying force from beyond the Veil and the Eternal Current.
+
+As kings, armies, and people fled in terror, one man remained. Rather than destroying the darkness, he **dominated it** and forced it back beyond the Veil. The tear closed. The world was saved.
+
+After the victory, something extraordinary happened. Those who witnessed the event — commoners, lords, nobles, and kings alike — instinctively knelt before the man who had confronted the darkness. He never sought a crown. The people chose him, not because he conquered, but because he saved them.
+
+This moment marked the founding of **House Caldarion**.
+
 ### The Bond Between Aldorion and Ravorn
 King Aldorion Kaelarion (Aldric’s father) shared a deep, brother-like friendship with Lord Ravorn Caldarion. Their personal bond significantly reinforced the long-standing alliance between House Kaelarion and House Caldarion, helping secure the Kaelarion victory in the Last Continental War.
 
