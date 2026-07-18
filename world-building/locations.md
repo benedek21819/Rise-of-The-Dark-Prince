@@ -3,6 +3,18 @@
 ## Overview of the Continent
 The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**, each controlled by either one of the **8 Great Houses** or the Royal Family.
 
+## The Old Continent: Arcanor
+
+**Status**: Former seat of the ancient Caldarion Empire  
+**Current State**: Largely abandoned or in decline following the voluntary exile of the main Caldarion line centuries ago.
+
+Arcanor was the original homeland of House Caldarion and the center of their ancient empire. It was from here that an emperor of House Caldarion once granted autonomous rule over Kaelor to the loyal vassal house of Kaelarion.
+
+After a misinterpreted ancient prophecy, the Caldarion Dynasty voluntarily went into exile and relocated to Kaelor. Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following their departure.
+
+**Story Importance**:
+Arcanor represents the lost homeland and former glory of House Caldarion. Its abandonment is closely tied to the family’s ancient connection to the primordial darkness on the other side of the Veil. The gradual escalation of oceanic dangers after their departure has made returning to or learning about Arcanor nearly impossible for most people of Kaelor.
+
 ## House Caldarion Territory (Northern Duchy)
 
 **Location**: Northern part of the Continent of Kaelor  
