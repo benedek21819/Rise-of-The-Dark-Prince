@@ -18,10 +18,20 @@ As kings, armies, and people fled in terror, one man remained. Rather than destr
 
 After his victory, those who witnessed the event — commoners, lords, nobles, and kings alike — instinctively knelt before him. He never sought a crown. The people chose him because he saved them, not because he conquered. This moment marked the founding of **House Caldarion**.
 
-Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure from the old continent.
+When the Veil closed, a **Black Star** emerged from the breach. It did not fall from the heavens — it came from the other side of the Veil itself. The material was unique: impossible to reproduce, a fragment of the Eternal Current made physical.
+
+Most of the Black Star remained where it landed. From it was carved **The Dark Throne** — the seat of emperors. The capital city of Arcanor was eventually built around it.
+
+The Dark Throne served two purposes:
+- **Public purpose**: The seat of Imperial authority.
+- **Secret purpose**: A seal for the Primordial Darkness.
+
+As long as a Lord of House Caldarion sat upon the throne, the seal remained stable. The world believed the Emperors ruled from it. The truth: they guarded it.
+
+Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure.
 
 **Story Importance**:
-Arcanor represents the lost homeland and former glory of House Caldarion. Its abandonment is closely tied to the family’s ancient connection to the Primordial Darkness. The gradual escalation of oceanic dangers after their departure has made returning to or learning about Arcanor nearly impossible for most people of Kaelor.
+Arcanor represents the lost homeland and former glory of House Caldarion. The Dark Throne was both the symbol of their power and the anchor that kept the primordial darkness sealed. Its abandonment after the voluntary exile is one of the reasons the dangers at sea slowly worsened.
 
 ## House Caldarion Territory (Northern Duchy)
 
