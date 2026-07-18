@@ -8,12 +8,20 @@ The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelo
 **Status**: Former seat of the ancient Caldarion Empire  
 **Current State**: Largely abandoned or in decline following the voluntary exile of the main Caldarion line centuries ago.
 
-Arcanor was the original homeland of House Caldarion and the center of their ancient empire. It was from here that an emperor of House Caldarion once granted autonomous rule over Kaelor to the loyal vassal house of Kaelarion.
+### At Its Height
+At the height of its power, House Caldarion ruled Arcanor as emperors. House Kaelarion governed the remote western province that would later become the independent Continent of Kaelor. The imperial sigil of the Caldarion Empire was the **Black Sun**.
 
-After a misinterpreted ancient prophecy, the Caldarion Dynasty voluntarily went into exile and relocated to Kaelor. Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following their departure.
+### The First Eclipse – The Founding
+Long before the empire existed, catastrophe struck the world. At midday, a tear appeared in the sky. The sun vanished, plunging the world into darkness as the Veil split open. From the breach emerged the **Primordial Darkness** — an ancient force from beyond the Veil and the Eternal Current.
+
+As kings, armies, and people fled in terror, one man remained. Rather than destroying the darkness, he **dominated it** and forced it back beyond the Veil. The tear closed. The world was saved.
+
+After his victory, those who witnessed the event — commoners, lords, nobles, and kings alike — instinctively knelt before him. He never sought a crown. The people chose him because he saved them, not because he conquered. This moment marked the founding of **House Caldarion**.
+
+Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure from the old continent.
 
 **Story Importance**:
-Arcanor represents the lost homeland and former glory of House Caldarion. Its abandonment is closely tied to the family’s ancient connection to the primordial darkness on the other side of the Veil. The gradual escalation of oceanic dangers after their departure has made returning to or learning about Arcanor nearly impossible for most people of Kaelor.
+Arcanor represents the lost homeland and former glory of House Caldarion. Its abandonment is closely tied to the family’s ancient connection to the Primordial Darkness. The gradual escalation of oceanic dangers after their departure has made returning to or learning about Arcanor nearly impossible for most people of Kaelor.
 
 ## House Caldarion Territory (Northern Duchy)
 
