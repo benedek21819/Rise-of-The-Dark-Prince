@@ -2,7 +2,7 @@
 
 ## The Kingdom and Its Political Structure
 
-The story is set on the **Continent of Kaeloria**, unified under the **Kingdom of Kaeloria**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by either one of the **8 Great Houses** or the **Royal Family** itself.
+The story is set on the **Continent of Kaelor**, unified under the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by either one of the **8 Great Houses** or the **Royal Family** itself.
 
 ### Power Structure
 - **Great Houses**: The eight most powerful noble families. They command significant land, wealth, armies, and political influence.
@@ -10,7 +10,7 @@ The story is set on the **Continent of Kaeloria**, unified under the **Kingdom o
 - **Lesser Houses**: Vassal families who serve under the Great Houses or directly under the Crown. They provide troops, manage local lands, and can rise or fall based on the politics of their liege lords.
 
 ### The Great Houses
-There are eight Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the Kingdom of Kaeloria. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
+There are eight Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the Kingdom of Kaelor. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
 
 ## The Royal Dynasty
 
@@ -37,7 +37,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 **House Caldarion**  
 **Duchy**: Northern Duchy (Blackspire Keep)  
 
-- **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire Kingdom of Kaeloria.
+- **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire Kingdom of Kaelor.
 - **Military Strength**: The single strongest military force in the realm — surpassing even the Royal Family’s own forces.
 - **Political Position**: Extremely influential. They played a decisive role in helping the current royal dynasty seize the throne and have remained strong backers ever since.
 - **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about them beyond two facts: their overwhelmingly powerful military and the fact that they helped the current royal dynasty gain the throne.
@@ -46,7 +46,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
-House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire on the old continent. For unknown reasons, the Caldarion family relocated to this small, remote continent (Kaeloria), which was granted autonomous governance. The continent is heavily isolated by layers of dangerous natural barriers (no-wind zone, violent storms, and monster-infested open ocean), making external contact extremely difficult and expensive.
+House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire on the old continent. For unknown reasons, the Caldarion family relocated to this small, remote continent (Kaelor), which was granted autonomous governance. The continent is heavily isolated by layers of dangerous natural barriers (no-wind zone, violent storms, and monster-infested open ocean), making external contact extremely difficult and expensive.
 
 ## Major Factions / Kingdoms / Organizations
 
@@ -65,7 +65,7 @@ House Caldarion is the main line of an ancient dynasty that once ruled a much la
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
 - **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
-- **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaeloria.
+- **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaelor.
 - **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political.
 - **Relationship to House Caldarion**: Rivalrous / Tense. They would prefer to weaken House Caldarion through economic and political means rather than direct conflict.
 
