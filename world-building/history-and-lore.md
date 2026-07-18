@@ -12,11 +12,11 @@
 ### The True History of Kaelor (Known Only to the Heads of Both Houses)
 Hundreds of years ago, an emperor of House Caldarion granted the continent of Kaelor to House Kaelarion with full autonomous rule. At the time, House Kaelarion was a loyal vassal house of the Caldarion Dynasty. House Kaelarion has ruled Kaelor publicly ever since.
 
-Centuries later, an ancient prophecy about a coming doom was misinterpreted by the people of the old continent (Arcanon). They came to believe that the Caldarion Dynasty would be the cause of the disasters. Under pressure from the people, the emperor of that time accepted the will of the people and voluntarily entered exile with his family, leaving the old continent behind.
+Centuries later, an ancient prophecy about a coming doom was misinterpreted by the people of the old continent (Arcanor). They came to believe that the Caldarion Dynasty would be the cause of the disasters. Under pressure from the people, the emperor of that time accepted the will of the people and voluntarily entered exile with his family, leaving the old continent behind.
 
 The Caldarion family chose Kaelor as their new home because it was remote, extremely difficult to access, and already ruled by their loyal vassal house. As a result, **House Kaelarion is technically a vassal to House Caldarion**, even though this truth has been forgotten by almost everyone.
 
-When the Caldarions first arrived on Kaelor, the oceans surrounding the continent were still navigable with conventional means. However, in their absence from Arcanon, the loss of their control over the primordial darkness on the other side of the Veil caused a gradual escalation of dangers at sea. Over the course of many decades, the no-wind zones expanded, violent storms became more frequent and severe, and monstrous creatures began appearing in greater numbers. What was once difficult but possible travel slowly became nearly impossible.
+When the Caldarions first arrived on Kaelor, the oceans surrounding the continent were still navigable with conventional means. However, in their absence from Arcanor, the loss of their control over the primordial darkness on the other side of the Veil caused a gradual escalation of dangers at sea. Over the course of many decades, the no-wind zones expanded, violent storms became more frequent and severe, and monstrous creatures began appearing in greater numbers. What was once difficult but possible travel slowly became nearly impossible.
 
 Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
