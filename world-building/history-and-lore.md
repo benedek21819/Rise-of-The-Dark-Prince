@@ -12,7 +12,9 @@
 ### The True History of Kaelor (Known Only to the Heads of Both Houses)
 Hundreds of years ago, an emperor of House Caldarion granted the continent of Kaelor to House Kaelarion with full autonomous rule. At the time, House Kaelarion was a loyal vassal house of the Caldarion Dynasty. House Kaelarion has ruled Kaelor publicly ever since.
 
-Centuries later, the main line of House Caldarion was forced to flee the old continent. They chose Kaelor as their new home because it was remote, extremely difficult to access, and already ruled by their loyal vassal. As a result, **House Kaelarion is technically a vassal to House Caldarion**, even though this truth has been forgotten by almost everyone.
+Centuries later, an ancient prophecy about a coming doom was misinterpreted by the people of the old continent (Arcanon). They came to believe that the Caldarion Dynasty would be the cause of the disasters. Under pressure from the people, the emperor of that time accepted the will of the people and voluntarily entered exile with his family, leaving the old continent behind.
+
+The Caldarion family chose Kaelor as their new home because it was remote, extremely difficult to access, and already ruled by their loyal vassal house. As a result, **House Kaelarion is technically a vassal to House Caldarion**, even though this truth has been forgotten by almost everyone.
 
 Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
