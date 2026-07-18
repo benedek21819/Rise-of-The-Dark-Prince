@@ -46,7 +46,12 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
-House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire on the old continent. For unknown reasons, the Caldarion family relocated to this small, remote continent (Kaelor), which was granted autonomous governance. The continent is heavily isolated by layers of dangerous natural barriers (no-wind zone, violent storms, and monster-infested open ocean), making external contact extremely difficult and expensive.
+**True Status of House Caldarion**
+House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire. Hundreds of years ago, an emperor of House Caldarion granted Kaelor to House Kaelarion (then a loyal vassal) with full autonomous rule. Centuries later, the Caldarion main line was forced to leave the old continent and relocated to Kaelor — a remote, difficult-to-access land already ruled by their loyal vassal.
+
+As a result, **House Kaelarion is technically a vassal to House Caldarion**, though this truth has been forgotten by almost everyone. Only the current heads of both houses know the real history.
+
+House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
 ## Major Factions / Kingdoms / Organizations
 
