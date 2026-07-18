@@ -16,6 +16,8 @@ Centuries later, an ancient prophecy about a coming doom was misinterpreted by t
 
 The Caldarion family chose Kaelor as their new home because it was remote, extremely difficult to access, and already ruled by their loyal vassal house. As a result, **House Kaelarion is technically a vassal to House Caldarion**, even though this truth has been forgotten by almost everyone.
 
+When the Caldarions first arrived on Kaelor, the oceans surrounding the continent were still navigable with conventional means. However, in their absence from Arcanon, the loss of their control over the primordial darkness on the other side of the Veil caused a gradual escalation of dangers at sea. Over the course of many decades, the no-wind zones expanded, violent storms became more frequent and severe, and monstrous creatures began appearing in greater numbers. What was once difficult but possible travel slowly became nearly impossible.
+
 Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
 ### The Bond Between Aldorion and Ravorn
