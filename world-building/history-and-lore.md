@@ -16,6 +16,11 @@ Centuries later, the main line of House Caldarion was forced to flee the old con
 
 Over time, the real history faded from public knowledge. Most people now believe House Kaelarion has always been the rightful ruling dynasty of Kaelor. Only the current heads of the two houses — Lord Vesper Caldarion and King Aldric Kaelarion — still know the truth.
 
+### The Bond Between Aldorion and Ravorn
+King Aldorion Kaelarion (Aldric’s father) shared a deep, brother-like friendship with Lord Ravorn Caldarion. Their personal bond significantly reinforced the long-standing alliance between House Kaelarion and House Caldarion, helping secure the Kaelarion victory in the Last Continental War.
+
+Lucian’s grandfather (the previous head of House Caldarion) was the last rider of the hidden dragon **Morvath**. He died in the Last Continental War, and it was publicly claimed that Morvath died with him. In reality, Morvath survived and has been kept hidden by House Caldarion ever since.
+
 ### The Last Continental War
 A catastrophic war in which nearly every major and minor house on the Continent of Kaelor fought for power and resources. The victory of House Kaelarion, secured through the crucial support of House Caldarion, established the current royal dynasty and the present balance of power in the Kingdom of Kaelor.
 
