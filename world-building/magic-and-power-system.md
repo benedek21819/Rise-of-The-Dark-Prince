@@ -21,7 +21,7 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Taboos**: Soul-binding, raising the dead, and forced dragon bonding tear the Veil and invite catastrophic consequences.
 
 ## Types of Magic / Abilities
-- **Shadow / Void Manipulation** (House Caldrith specialty) — Pulling power from the darker parts of the Veil.
+- **Shadow / Void Manipulation** (House Caldarion specialty) — Pulling power from the darker parts of the Veil.
 - **Blood Oaths & Bindings** — Creating unbreakable contracts or controlling others.
 - **Illusion & Fear-Weaving** — Mental and perceptual magic.
 - **Arcane Weaving** (House Myrath specialty) — Scholarly study and preservation of ancient spells.
@@ -46,16 +46,16 @@ Dragons are extremely rare and immensely powerful creatures.
 Currently, only **6 dragons** are publicly known to exist on the continent.
 
 **Current Known Distribution:**
-- **House Caldrith**: 2 dragons (including the current largest and strongest dragon on the continent)
+- **House Caldarion**: 2 dragons (including the current largest and strongest dragon on the continent)
 - **Royal Family**: 1 dragon
 - **Other Great Houses**: 1 dragon each in three different houses
 
-### House Caldrith’s Dragons (Public vs Reality)
+### House Caldarion’s Dragons (Public vs Reality)
 **Public Story:**
-House Caldrith publicly owns one large female dragon bonded to the current house head (**Lirath**), and one younger dragon bonded to Lucian Caldrith (**Ancalion**). The egg that became Ancalion was laid by Lirath.
+House Caldarion publicly owns one large female dragon bonded to the current house head (**Lirath**), and one younger dragon bonded to Lucian Caldarion (**Ancalion**). The egg that became Ancalion was laid by Lirath.
 
 **Reality:**
-House Caldrith secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male (**Morvath**) — the father of Ancalion. This gives them a powerful hidden breeding advantage.
+House Caldarion secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male (**Morvath**) — the father of Ancalion. This gives them a powerful hidden breeding advantage.
 
 **Ancalion:**
 Ancalion (the youngest publicly known dragon on the continent) was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
@@ -66,7 +66,7 @@ Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, a
 **Morvath (Father):**
 Morvath is nearly 300 years old and is significantly larger than Lirath. He has dark grey scales with a subtle green tint depending on the lighting, green eyes, and green flames. He bears many battle scars. He has an imperious and solitary personality — he does not seek conflict but is extremely aggressive if provoked.
 
-Morvath currently has **no bonded rider**. His last rider was Lucian Caldrith’s grandfather, who died during the **Last Continental War**. This devastating conflict saw almost all great and small houses fighting each other for power and resources. The winning side was the current royal family, heavily supported by House Caldrith and several other allied houses. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldrith as one of their most powerful secret weapons.
+Morvath currently has **no bonded rider**. His last rider was Lucian Caldarion’s grandfather, who died during the **Last Continental War**. This devastating conflict saw almost all great and small houses fighting each other for power and resources. The winning side was the current royal family, heavily supported by House Caldarion and several other allied houses. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldarion as one of their most powerful secret weapons.
 
 ### Royal Dragon (House Kaelarion)
 
@@ -79,11 +79,11 @@ Morvath currently has **no bonded rider**. His last rider was Lucian Caldrith’
 This dragon represents the traditional symbol of royal power and stability for House Kaelarion.
 
 ### Hidden Dragons & Legal Requirements
-It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldrith’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
+It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
 
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldrith is bonded to **Ancalion**, the youngest dragon owned by House Caldrith. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
+Lucian Caldarion is bonded to **Ancalion**, the youngest dragon owned by House Caldarion. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
 
 *This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
