@@ -1,16 +1,16 @@
 # Locations & Geography
 
 ## Overview of the Continent
-The story is set on the **Continent of Kaeloria**, ruled by the **Kingdom of Kaeloria**. The kingdom is divided into **9 Duchies**, each controlled by either one of the **8 Great Houses** or the Royal Family.
+The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**, each controlled by either one of the **8 Great Houses** or the Royal Family.
 
 ## House Caldarion Territory (Northern Duchy)
 
-**Location**: Northern part of the Continent of Kaeloria  
+**Location**: Northern part of the Continent of Kaelor  
 **Climate**: Cold, mountainous, with frequent snowfall and long winters  
 **Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests
 
 ### Blackspire Keep
-The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaeloria. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
+The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaelor. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
 
 **Key Features**:
 - Near-impregnable natural defenses due to altitude and terrain
@@ -19,7 +19,7 @@ The ancestral seat of House Caldarion is built on the summit of one of the talle
 - Limited accessibility, especially during winter
 
 #### The Cold Silver Mine
-Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldarion has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the Kingdom of Kaeloria for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldarion’s long-term wealth and military superiority.
+Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldarion has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the Kingdom of Kaelor for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldarion’s long-term wealth and military superiority.
 
 #### The Cold Silver Forges & Dragon Bone Forging Process
 Deep within the mountain are specialized forges known only to House Caldarion. Working Cold Silver is extremely difficult and requires both intense heat and precise Veilweaving techniques. Only a small number of highly trusted master smiths are permitted to work the metal.
@@ -69,15 +69,15 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaeloria. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
 
 ## Royal Capital: Aurelia
 
-**Location**: Geographical center of the Continent of Kaeloria  
+**Location**: Geographical center of the Continent of Kaelor  
 **Type**: Capital city and seat of House Kaelarion  
 **Atmosphere**: Bright, prosperous, and carefully maintained — a deliberate contrast to the cold, dark isolation of Blackspire Keep
 
-Aurelia is built along a major central river that serves as the primary trade artery of the Kingdom of Kaeloria. The city rises in clear layers from the waterfront up to the elevated Royal District, creating both a physical and social hierarchy.
+Aurelia is built along a major central river that serves as the primary trade artery of the Kingdom of Kaelor. The city rises in clear layers from the waterfront up to the elevated Royal District, creating both a physical and social hierarchy.
 
 ### City Layout
 
@@ -101,7 +101,7 @@ Aurelia is built along a major central river that serves as the primary trade ar
 - **Noble Residences / Embassies**: Each Great House maintains a presence here, creating a constant undercurrent of rivalry and alliance-building.
 
 **Story Importance**:
-Aurelia is the political and cultural heart of the Kingdom of Kaeloria. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
+Aurelia is the political and cultural heart of the Kingdom of Kaelor. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
 
 ## Other Key Locations
 
