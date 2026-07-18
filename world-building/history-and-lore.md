@@ -39,6 +39,17 @@ The Dark Throne served two purposes:
 
 As long as a Lord of House Caldarion sat upon the throne, the seal remained stable. The world believed the Emperors ruled from the throne. The truth: they guarded it.
 
+A fragment of the Black Star was forged into a sword. Its name: **Eclipse** — named after the day the world went dark.
+
+**Characteristics**:
+- Deep black blade made from the unique Black Star metal.
+- No crossguard.
+- Designed as a ruler’s blade rather than a duelist’s blade.
+
+Eclipse became the symbol of Imperial authority. It was rarely drawn. Whenever it appeared, empires trembled, wars ended, and history changed.
+
+Eclipse and the Dark Throne are made from the same Black Star. Together they form the heart of the Imperial authority.
+
 ### The Bond Between Aldorion and Ravorn
 King Aldorion Kaelarion (Aldric’s father) shared a deep, brother-like friendship with Lord Ravorn Caldarion. Their personal bond significantly reinforced the long-standing alliance between House Kaelarion and House Caldarion, helping secure the Kaelarion victory in the Last Continental War.
 
