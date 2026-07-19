@@ -12,7 +12,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Current Generation
 - **[Lord Vesper Caldarion](Vesper_Caldarion.md)** — Father, current head of House Caldarion
-- **[Lady Elara Caldarion](Elara_Caldarion.md)** — Main wife, Lucian’s mother
+- **[Lady Elara Caldarion](Elara_Caldarion.md)** — Main wife, Lucian's mother
 - **[Lady Lyra Caldarion](Lyra_Caldarion.md)** — Older half-sister (from first concubine)
 - **[Lady Selene Caldarion](Selene_Caldarion.md)** — Younger full sister
 - **[Lord Kael & Thorne Caldarion](Kael_and_Thorne_Caldarion.md)** — Younger half-brothers (twins)
@@ -20,7 +20,7 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Lady Sable Caldarion](Sable_Caldarion.md)** — Second concubine, mother of the twins
 
 ### Previous Generation
-- **[Lord Ravorn Caldarion](Ravorn_Caldarion.md)** — Lucian’s grandfather, previous head of House Caldarion, last rider of Morvath (deceased)
+- **[Lord Ravorn Caldarion](Ravorn_Caldarion.md)** — Lucian's grandfather, previous head of House Caldarion, last rider of Morvath (deceased)
 
 ### Key Retainers
 - **[Captain Garrick](Garrick.md)** — Captain of the Silver Guard, The Living Monument
@@ -31,12 +31,12 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Current Generation
 - **[King Aldric Kaelarion](Aldric_Kaelarion.md)** — Current ruler, the Weary Stabilizer
-- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Mother
+- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Consort
 - **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
-- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian’s fiancée (“the Sun Princess”)
+- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian's fiancée ("the Sun Princess")
 
 ### Previous Generation
-- **[King Aldorion Kaelarion](Aldorion_Kaelarion.md)** — Aldric’s father, charismatic visionary and close friend of Ravorn Caldarion (deceased)
+- **[King Aldorion Kaelarion](Aldorion_Kaelarion.md)** — Aldric's father, charismatic visionary and close friend of Ravorn Caldarion (deceased)
 
 ---
 
