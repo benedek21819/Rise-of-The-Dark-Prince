@@ -103,6 +103,18 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Weaknesses**: Less influential on land compared to houses like Caldarion or Sylvaron.
 - **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
 
+### House Thalorin
+- **Specialty**: Healing arts, medicine, protective magic, and political soft power.
+- **Personality**: Reserved, disciplined, and outwardly compassionate. Beneath the caring reputation, they are careful political operators who understand the value of being indispensable.
+- **Colors**: White and soft blue (with silver accents).
+- **Sigil**: A silver serpent coiled around a staff.
+- **Dragon**: None.
+- **Strengths**: Best healers and medical knowledge in the kingdom. High moral reputation among commoners and many nobles. Their services are needed by almost every major house and the royal family, giving them quiet but significant leverage.
+- **Weaknesses**: Militarily weak. Prefer influence over open confrontation, which can make them slow to act in crises.
+- **Political Approach**: They avoid direct conflict and instead use their essential role to gain favors, access, and long-term influence. Nobles who depend on Thalorin healers are often reluctant to move against them.
+- **Relationship to House Caldarion**: Neutral to mildly positive. They maintain respectful distance and occasionally provide medical support, which gives them limited goodwill without deep entanglement.
+- **Relationship to the Crown**: Cooperative and valued. The royal family relies on their expertise, which grants Thalorin subtle influence at court.
+
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
 
