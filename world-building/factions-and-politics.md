@@ -65,6 +65,16 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Current Interest & Arrival**: Princess Seren Kaelarion has manifested Veilsight. The Sisters sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, and the Outer Deep — the first sustained contact between the isolated Continent of Kaelor and the mainland in a long time. They formally request custody of Seren. The Kaelarions are hesitant (they respect the order but do not wish to lose their daughter). Before any compromise can be reached, Lucian Caldarion rejects the request entirely: Seren is his future wife. Nobody will take her. Lord Vesper Caldarion supports his son. Because the Lord of House Caldarion has spoken, the Sisters cannot force the issue. For the first time in centuries, someone openly says no to the Sisters of the Current. The Sisters are shocked — not because they lost, but because nobody has ever openly refused them before (not kings, not nobles, not rulers). Unable to enforce their demands, they retreat, but they intend to return.
 - **Accompanying Expedition**: The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many view Kaelor as a distant and insignificant land and consider Lucian a minor noble from the edge of the world. One of these visitors publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively and kills the man. The victim is only a minor member of an old mainland noble family, so the incident remains local for now.
 
+### House Dravenhall
+- **Specialty**: Militaristic, honor-bound, and aggressive warfare.
+- **Personality**: Proud, confrontational, and highly competitive. They value strength, personal honor, and martial glory.
+- **Political Stance**: Long-standing rivals of House Caldarion. They were one of the main opposing forces during the Last Continental War.
+- **Dragon**: 1 dragon.
+- **Strengths**: Strong military tradition, aggressive tactics, and a culture that produces fierce warriors.
+- **Weaknesses**: Can be reckless or overly prideful. Their open rivalry with Caldarion sometimes isolates them politically.
+- **Relationship to House Caldarion**: Openly competitive and hostile. They resent Caldarion’s superior military strength and mysterious privileges.
+- **Relationship to the Crown**: Complicated. They accept the current royal dynasty but remain bitter about the outcome of the Last Continental War.
+
 ### House Myrath
 - **Specialty**: Magic studies, research, and preservation of old knowledge.
 - **Reputation**: Traditional and proud. They are highly respected for their vast archives and scholarly work but are often criticized for their strict neutrality.
