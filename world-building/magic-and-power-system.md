@@ -59,7 +59,7 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 **Current Known Distribution:**
 - **House Caldarion**: 2 dragons (including the current largest and strongest dragon on the continent)
 - **Royal Family (House Kaelarion)**: 1 dragon (Solara)
-- **House Dravenhall**: 1 dragon
+- **House Dravenhall**: 1 dragon (**Korrath**)
 - **House Vaelmar**: 1 dragon
 - **House Thalorin**: 1 dragon (**Ashira**)
 
@@ -102,6 +102,19 @@ This dragon represents the traditional symbol of royal power and stability for H
 **Personality**: Outwardly serene, graceful, and composed. She projects an aura of calm elegance that matches House Thalorin’s public image as healers and stabilizers. However, when provoked or when her rider/house is threatened, she is capable of sudden, precise, and lethally efficient violence. She does not rage — she ends threats cleanly.
 
 **Role**: Reflects the true nature of House Thalorin’s soft power. Gentle and indispensable on the surface, but quietly dangerous when necessary. She is more of a surgical instrument than a weapon of mass destruction.
+
+### House Dravenhall’s Dragon
+
+**Name**: Korrath  
+**Gender**: Male  
+**Age**: 120 years  
+**Theme**: The Warbeast
+
+**Appearance**: Rust-red and charcoal scales. He possesses a distinctive crest or frill along his head and neck. His flames are loud and explosive, designed as much to intimidate as to destroy.
+
+**Personality**: Aggressive, proud, and highly competitive. Korrath thrives in combat and responds strongly to displays of strength and courage. He has little patience for weakness or hesitation. Disrespect toward his rider or house is likely to provoke a violent response.
+
+**Role**: A living embodiment of House Dravenhall’s martial culture and their long-standing rivalry with House Caldarion. He is a straightforward engine of war rather than a subtle or elegant creature.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
