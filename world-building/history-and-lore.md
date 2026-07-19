@@ -81,6 +81,8 @@ Some families in Arcanor still maintain old traditions. They possess little know
 
 When the dead man’s family receives news of the incident, the report includes a name: **Lucian Caldarion**. That single word changes everything. The family has spent generations searching for any clue. They possess no proof, yet the name alone is enough. They quietly organize a small expedition — not an army or a royal mission — with the goal of determining why someone in Kaelor bears the name Caldarion.
 
+The loyalists do not discover the truth through books. They discover it through a **symbol**. When they reach Blackspire Keep they notice an ancient relic (an abandoned gate, an old wall, or a forgotten courtyard). Carved into it is the **Black Sun** — the symbol they have searched for over centuries.
+
 ## Prophecies & Legends
 [Any prophecies that involve a "Dark Prince" or rising darkness — this can be central to the plot.]
 
