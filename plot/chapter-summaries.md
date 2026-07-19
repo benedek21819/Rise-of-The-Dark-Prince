@@ -86,4 +86,39 @@ Closing chapter of Phase 2. Lucian is around 15. The cold public face is now nat
 
 ---
 
-*Phase 3 outline will be added next.*
+## Arc 1 – Phase 3: Heir’s Threshold (Ages ~16–17)
+**Theme:** “What am I willing to carry?”
+
+### Chapter 25: The Edge of Manhood
+Lucian at 16. Training reaches a new level of intensity. Vesper begins treating him more as a future lord than a son. Lucian feels both the weight and the quiet pride of it.
+
+### Chapter 26: Mercy
+On his 17th birthday, Lucian formally receives the ancestral sword **Mercy**. The ceremony is restrained but meaningful. For the first time he truly feels the history and expectation of the direct line.
+
+### Chapter 27: The Political Chain
+The betrothal is reconfirmed and given more formal weight. Discussions of future marriage timelines begin. Lucian remains emotionally distant from the idea.
+
+### Chapter 28: Second Meeting
+Lucian and Seren meet again, this time for a longer period. She is still warm and persistent. He still finds her clingy and emotionally overwhelming, but he begins to notice her sincerity. He remains polite and cold.
+
+### Chapter 29: Cracks in the Ice
+Small moments where Seren’s persistence starts to affect him slightly. He becomes irritated not only by her, but by the fact that she is difficult to completely ignore. Ancalion reacts to his conflicting emotions.
+
+### Chapter 30: The Shadow Guard
+Lucian is given greater authority over the Shadow Guard (the 100-member elite unit under his direct command). This marks a concrete step into real power and responsibility within the house.
+
+### Chapter 31: Quiet Conversations with Vesper
+Important private talks between father and son about duty, the true nature of their house, and the cost of leadership. Vesper remains measured and does not reveal everything.
+
+### Chapter 32: Seren’s Light
+A longer interaction with Seren. She openly expresses her desire for a real relationship rather than a purely political marriage. Lucian is unsettled by her honesty. He does not soften, but he no longer dismisses her as purely annoying.
+
+### Chapter 33: The First Real Weight
+A small political or military matter is placed on Lucian’s shoulders for the first time. He handles it with cold competence. The people around him begin treating him differently.
+
+### Chapter 34: Threshold
+Closing chapter of Arc 1. Lucian stands at the edge of true adulthood. He has the sword, the authority, the cold reputation, and a betrothed he does not yet understand. The foundations are complete. In the distance, the first subtle signs of external forces (the Sisters sensing Seren’s emerging Veilsight or the earliest mainland interest) begin to stir.
+
+---
+
+**Arc 1 is now fully outlined.**
