@@ -58,8 +58,10 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 
 **Current Known Distribution:**
 - **House Caldarion**: 2 dragons (including the current largest and strongest dragon on the continent)
-- **Royal Family**: 1 dragon
-- **Other Great Houses**: 1 dragon each in three different houses
+- **Royal Family (House Kaelarion)**: 1 dragon (Solara)
+- **House Dravenhall**: 1 dragon
+- **House Vaelmar**: 1 dragon
+- **House Thalorin**: 1 dragon
 
 ### House Caldarion’s Dragons (Public vs Reality)
 **Public Story:**
