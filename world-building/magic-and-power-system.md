@@ -71,7 +71,7 @@ House Caldarion publicly owns one large female dragon bonded to the current hous
 House Caldarion secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male (**Morvath**) — the father of Ancalion. This gives them a powerful hidden breeding advantage.
 
 **Ancalion:**
-Ancalion (the youngest publicly known dragon on the continent) was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
+Ancalion is the youngest publicly known dragon on the continent. He was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
 
 **Lirath (Mother):**
 Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, and blue flames. She has a warm and friendly personality.
@@ -120,14 +120,14 @@ This dragon represents the traditional symbol of royal power and stability for H
 
 **Name**: Nereus  
 **Gender**: Male  
-**Age**: 20 years  
+**Age**: 20 years older than Ancalion (he was 20 years old when Ancalion hatched)  
 **Theme**: The Stormwing
 
 **Appearance**: Deep ocean-blue and teal scales with silver markings that resemble seafoam or lightning. Eyes are storm-grey or electric blue. His flames are pale blue-white and crackle like lightning or release bursts of pressurized steam.
 
-**Personality**: Proud, restless, and free-spirited. Nereus dislikes being confined inland for long periods and thrives in open skies and over the sea. He is still young and somewhat impulsive, but already shows strong affinity for speed, storms, and naval support roles.
+**Personality**: Proud, restless, and free-spirited. Nereus dislikes being confined inland for long periods and thrives in open skies and over the sea. He is still relatively young and somewhat impulsive, but already shows strong affinity for speed, storms, and naval support roles.
 
-**Role**: A young but promising instrument of House Vaelmar’s naval dominance. Excellent for scouting, striking ships, and projecting power along the coasts and open waters. His youth means he is still growing into his full potential.
+**Role**: A promising instrument of House Vaelmar’s naval dominance. Excellent for scouting, striking ships, and projecting power along the coasts and open waters. His relative youth means he is still growing into his full potential.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
