@@ -2,15 +2,15 @@
 
 ## The Kingdom and Its Political Structure
 
-The story is set on the **Continent of Kaelor**, unified under the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by either one of the **8 Great Houses** or t[...]
+The story is set on the **Continent of Kaelor**, unified under the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by either one of the **8 Great Houses** or the Royal Family itself.
 
 ### Power Structure
 - **Great Houses**: The eight most powerful noble families. They command significant land, wealth, armies, and political influence.
 - **Royal Family**: Rules one duchy directly as the royal demesne and holds the throne. Their authority is supported by tradition and alliances with the Great Houses.
-- **Lesser Houses**: Vassal families who serve under the Great Houses or directly under the Crown. They provide troops, manage local lands, and can rise or fall based on the politics of their liege[...]
+- **Lesser Houses**: Vassal families who serve under the Great Houses or directly under the Crown. They provide troops, manage local lands, and can rise or fall based on the politics of their liege lords.
 
 ### The Great Houses
-There are eight Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the Kingdom of Kaelor. Rivalries, alliances, marriages, and success[...]
+There are eight Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the Kingdom of Kaelor. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
 
 ## The Royal Dynasty
 
@@ -26,33 +26,33 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Dragon**: Owns 1 dragon.
 - **Family**:
   - King Aldric has two children:
-    - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldarion and weaken thei[...]
-    - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by th[...]
+    - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldarion and weaken their alliance with the crown.
+    - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by the people — especially commoners, who call her **"the Sun Princess"**. She has fallen deeply in love with Lucian and is earnestly trying to win his affection and favor. She has manifested **Veilsight**, making her one of the rarest people in the world.
   - **Queen Isolde Kaelarion** (Queen Consort): Intelligent, politically sharp, and more ambitious than her husband King Aldric.
 - **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldarion).
-- **Weaknesses**: Military power is weaker than House Caldarion's. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldarion) from becoming to[...]
-- **Current Relationship with House Caldarion**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldarion's superior milita[...]
+- **Weaknesses**: Military power is weaker than House Caldarion’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldarion) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
+- **Current Relationship with House Caldarion**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldarion’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
 
-## The Protagonist's House
+## The Protagonist’s House
 
 **House Caldarion**  
 **Duchy**: Northern Duchy (Blackspire Keep)  
 
 - **Specialization**: Military-focused. They maintain the largest, most professional, and best-equipped army in the entire Kingdom of Kaelor.
-- **Military Strength**: The single strongest military force in the realm — surpassing even the Royal Family's own forces.
+- **Military Strength**: The single strongest military force in the realm — surpassing even the Royal Family’s own forces.
 - **Political Position**: Extremely influential. They played a decisive role in helping the current royal dynasty seize the throne and have remained strong backers ever since.
-- **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about [...]
+- **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about them beyond two facts: their overwhelmingly powerful military and the fact that they helped the current royal dynasty gain the throne.
 - **Aesthetic & Symbolism**: Dark aesthetic. The house is strongly associated with the colors **black and silver**.
 - **Sigil**: A silver sword with black wings.
-- **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature crea[...]
+- **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
 **True Status of House Caldarion**
-House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire. Hundreds of years ago, an emperor of House Caldarion granted Kaelor to House Kaelarion (then a loyal va[...]
+House Caldarion is the main line of an ancient dynasty that once ruled a much larger empire. Hundreds of years ago, an emperor of House Caldarion granted Kaelor to House Kaelarion (then a loyal vassal) with full autonomous rule. Centuries later, the Caldarion main line was forced to leave the old continent and relocated to Kaelor — a remote, difficult-to-access land already ruled by their loyal vassal.
 
 As a result, **House Kaelarion is technically a vassal to House Caldarion**, though this truth has been forgotten by almost everyone. Only the current heads of both houses know the real history.
 
-House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to t[...]
+House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
 ## Major Factions / Kingdoms / Organizations
 
@@ -60,10 +60,10 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Type**: Ancient all-female prophetic order of **Veilseers**.
 - **Belief**: The Veil chooses women. No male Veilseer has ever existed.
 - **Role**: For thousands of years they have trained every known Veilseer, preserved prophetic knowledge, advised rulers and kingdoms, and become enormously wealthy and influential.
-- **Doctrine**: A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children. The order believes emotional attachments a[...]
+- **Doctrine**: A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children. The order believes emotional attachments and family responsibilities endanger the gift of Veilsight.
 - **Reputation**: Feared and respected. Many noble families dread the possibility of a daughter awakening as a Veilseer and being claimed by the order.
-- **Current Interest & Arrival**: Princess Seren Kaelarion has manifested Veilsight. The Sisters sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, an[...]
-- **Accompanying Expedition**: The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many view Kaelor as a distant and insignificant land[...]
+- **Current Interest & Arrival**: Princess Seren Kaelarion has manifested Veilsight. The Sisters sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, and the Outer Deep — the first sustained contact between the isolated Continent of Kaelor and the mainland in a long time. They formally request custody of Seren. The Kaelarions are hesitant (they respect the order but do not wish to lose their daughter). Before any compromise can be reached, Lucian Caldarion rejects the request entirely: Seren is his future wife. Nobody will take her. Lord Vesper Caldarion supports his son. Because the Lord of House Caldarion has spoken, the Sisters cannot force the issue. For the first time in centuries, someone openly says no to the Sisters of the Current. The Sisters are shocked — not because they lost, but because nobody has ever openly refused them before (not kings, not nobles, not rulers). Unable to enforce their demands, they retreat, but they intend to return.
+- **Accompanying Expedition**: The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many view Kaelor as a distant and insignificant land and consider Lucian a minor noble from the edge of the world. One of these visitors publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively and kills the man. The victim is only a minor member of an old mainland noble family, so the incident remains local for now.
 
 ### House Myrath
 - **Specialty**: Magic studies, research, and preservation of old knowledge.
@@ -72,13 +72,13 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Dragon**: None.
 - **Strengths**: Extensive magical knowledge, ancient relics, skilled mages and scholars, large archives of forbidden or lost lore.
 - **Weaknesses**: Militarily weak, politically isolated due to their neutrality, sometimes viewed as arrogant or self-serving.
-- **Relationship to House Caldarion**: Polite but distant. They respect House Caldarion's power but disapprove of their secrecy and military dominance.
+- **Relationship to House Caldarion**: Polite but distant. They respect House Caldarion’s power but disapprove of their secrecy and military dominance.
 - **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
 ### House Sylvaron
 - **Specialty**: Trade, banking, and economic power.
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
-- **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion's overwhelming military dominance and see them as a threat to their economic interests.
+- **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
 - **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaelor.
 - **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political.
@@ -87,7 +87,7 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 ### House Vaelmar
 - **Specialty**: Naval power and maritime trade.
 - **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
-- **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion's overwhelming military superiority and reclusive nature.
+- **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion’s overwhelming military superiority and reclusive nature.
 - **Dragon**: 1 dragon (used for naval dominance).
 - **Strengths**: Strong navy, control of major ports and sea trade routes, one dragon for naval power.
 - **Weaknesses**: Less influential on land compared to houses like Caldarion or Sylvaron.
@@ -97,6 +97,6 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
 
 ## Intrigue & Power Dynamics
-[Key political plots, succession crises, spy networks, religious influence on politics, resentment toward the protagonist's house due to its military dominance and mysterious nature.]
+[Key political plots, succession crises, spy networks, religious influence on politics, resentment toward the protagonist’s house due to its military dominance and mysterious nature.]
 
 *Politics and factions are often the real "magic" in dark fantasy throne stories. Develop this deeply.*
