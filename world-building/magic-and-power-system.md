@@ -61,7 +61,7 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 - **Royal Family (House Kaelarion)**: 1 dragon (Solara)
 - **House Dravenhall**: 1 dragon
 - **House Vaelmar**: 1 dragon
-- **House Thalorin**: 1 dragon
+- **House Thalorin**: 1 dragon (**Ashira**)
 
 ### House Caldarion’s Dragons (Public vs Reality)
 **Public Story:**
@@ -90,6 +90,18 @@ Morvath currently has **no bonded rider**. His last rider was Lucian Caldarion�
 **Bond**: Bonded to **King Aldric Kaelarion** since she hatched. She has never known another rider.
 
 This dragon represents the traditional symbol of royal power and stability for House Kaelarion.
+
+### House Thalorin’s Dragon
+
+**Name**: Ashira  
+**Gender**: Female  
+**Theme**: Dual Nature — beauty that hides quiet danger
+
+**Appearance**: White scales with faint grey or silver veining. Eyes are a soft but piercing blue-grey. Her flames are pure white but leave a lingering cold sensation in the air.
+
+**Personality**: Outwardly serene, graceful, and composed. She projects an aura of calm elegance that matches House Thalorin’s public image as healers and stabilizers. However, when provoked or when her rider/house is threatened, she is capable of sudden, precise, and lethally efficient violence. She does not rage — she ends threats cleanly.
+
+**Role**: Reflects the true nature of House Thalorin’s soft power. Gentle and indispensable on the surface, but quietly dangerous when necessary. She is more of a surgical instrument than a weapon of mass destruction.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
