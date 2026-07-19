@@ -11,9 +11,7 @@
 
 **Background:** A martial genius from a young age. He was personally chosen by Lord Ravorn Caldarion (Lucian’s grandfather) to command the Silver Guard. He has served the family for many decades and has become one of the strongest individuals on the continent through relentless refinement of his skill and Will.
 
-**Power Level:** High **Veil Sovereign** (bordering on early Veil Ascendant). His strength comes from pure martial mastery, exceptional Will, and decades of disciplined training rather than unstable or exotic techniques.
-
-**Abilities:** Master of the Cold Silver glaive and heavy combat. Exceptional battlefield command, formation tactics, and personal combat prowess. One of the most formidable pure combatants alive.
+**Abilities:** Master of the Cold Silver glaive and heavy combat. Exceptional battlefield command, formation tactics, and personal combat prowess. One of the most formidable pure combatants alive. His strength comes from pure martial mastery, exceptional Will, and decades of disciplined training rather than unstable or exotic techniques.
 
 **Key Relationships:**
 - **Lord Vesper Caldarion**: Absolute professional loyalty. Answers directly to him as head of the house.
