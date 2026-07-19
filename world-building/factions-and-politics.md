@@ -80,6 +80,21 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Political Role**: Serves as one of the primary instruments of House Sylvaron’s economic power. While it maintains a public face of neutrality, its decisions often align with Sylvaron interests. Many houses are reluctant to move openly against Sylvaron because of their financial entanglements with the Vault.
 - **Relationship to House Caldarion**: Distant and cautious. House Caldarion makes little use of the Vault, preferring to rely on its own internal resources and Cold Silver wealth. This financial independence is one more reason other houses view Caldarion with a mixture of respect and resentment.
 
+### The Crown’s Eyes
+- **Type**: Royal intelligence network / information service.
+- **Allegiance**: The Crown (House Kaelarion).
+- **Status**: Semi-formal. Not openly acknowledged in full, but its existence is an open secret among the higher nobility.
+- **Purpose**:
+  - Gather political and military intelligence across the kingdom
+  - Monitor the activities and ambitions of the Great Houses
+  - Protect the royal family from internal and external threats
+  - Provide the King (and sometimes the Queen) with independent sources of information
+- **Methods**: Network of informants, embedded agents among servants and lesser officials, coded correspondence, and selective interrogation. Prefers subtlety over overt action.
+- **Strengths**: Broad reach within the central regions and among houses that interact regularly with the court. Relatively well-funded and protected by royal authority.
+- **Weaknesses**: Limited effectiveness against House Caldarion due to Blackspire’s extreme isolation, secrecy, and internal loyalty. Also vulnerable to internal royal politics — different factions within the royal family (especially King Aldric vs Queen Isolde / Prince Dorian) may try to direct or withhold information for their own purposes.
+- **Reputation**: Respected and feared in equal measure by those who know of it. Viewed as a necessary tool of royal power, but also as a potential instrument of court intrigue.
+- **Relationship to House Caldarion**: Largely ineffective. The Crown’s Eyes have never successfully penetrated the deeper secrets of Blackspire or the true extent of Caldarion power. This intelligence gap is a source of quiet frustration for the royal family.
+
 ### House Dravenhall
 - **Specialty**: Militaristic, honor-bound, and aggressive warfare.
 - **Personality**: Proud, confrontational, and highly competitive. They value strength, personal honor, and martial glory.
