@@ -1,7 +1,35 @@
 # Locations & Geography
 
 ## Overview of the Continent
-The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**, each controlled by either one of the **8 Great Houses** or the Royal Family.
+The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**.
+
+**Relative Position:** Kaelor lies to the **west** of the old continent of Arcanor. The eastern coast of Kaelor faces the mainland and contains the most important ports.
+
+## Territorial Division of Kaelor
+
+| # | Duchy Name              | Ruling House     | Location & Geography                          | Key Characteristics                              | Strategic Role                              |
+|---|-------------------------|------------------|-----------------------------------------------|--------------------------------------------------|---------------------------------------------|
+| 1 | **Northern Duchy**      | **Caldarion**    | Far north – high mountains, cold, heavy snow | Isolated, extremely defensible, Cold Silver mines, Blackspire Keep | Military heartland and strongest natural fortress |
+| 2 | **Royal Demesne**       | **Kaelarion**    | Center of the continent                       | Fertile, well-connected, contains the capital **Aurelia** | Political and administrative center         |
+| 3 | **Eastern Marches**     | **Vaelmar**      | Eastern coastline                             | Major ports facing Arcanor, naval bases, coastal cities | Naval power and gateway to the mainland     |
+| 4 | **Iron Hills**          | **Ironveil**     | Central-east, resource-rich hills             | Mines, forges, industrial towns                  | Heavy industry and weapons production       |
+| 5 | **Dravenhold**          | **Dravenhall**   | Southeast / eastern highlands                 | Rugged hills and plateaus, strong fortresses     | Militaristic stronghold, ally of Ironveil   |
+| 6 | **Golden Lowlands**     | **Sylvaron**     | South-central plains                          | Fertile farmland, major trade routes, wealthy cities | Economic and financial power                |
+| 7 | **Verdant Reach**       | **Thalorin**     | Southwest / milder inland region              | Rivers, good land, temperate climate             | Healing, medicine, soft power               |
+| 8 | **Oldwood**             | **Myrath**       | Western interior / deep forests               | Dense ancient forests, ruins, isolated towers    | Knowledge, magic research, neutrality       |
+| 9 | **Western Shore**       | **Kaelarion**    | Western coastline                             | Wilder coast, fewer major ports, harsher seas facing the open ocean | Secondary royal territory                   |
+
+### Summary of Control
+- **House Caldarion**: Northern Duchy
+- **House Kaelarion**: Royal Demesne + Western Shore
+- **House Vaelmar**: Eastern Marches
+- **House Ironveil**: Iron Hills
+- **House Dravenhall**: Dravenhold
+- **House Sylvaron**: Golden Lowlands
+- **House Thalorin**: Verdant Reach
+- **House Myrath**: Oldwood
+
+---
 
 ## The Old Continent: Arcanor
 
@@ -152,12 +180,15 @@ Aurelia is the political and cultural heart of the Kingdom of Kaelor. It is the 
 
 | Location | Type | Description | Strategic / Story Importance | Notable Features |
 |----------|------|-------------|------------------------------|--------------------|
-| [Other Duchies] | Regions | Territories of the remaining Great Houses | Political and military balance | Varied climates and resources |
+| Eastern Ports | Coastal cities | Major ports under House Vaelmar facing Arcanor | Gateway for any contact with the mainland | Naval bases, trade hubs |
+| Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Ironveil |
+| Oldwood ruins | Ancient sites | Scattered ruins and towers | Magical research | Controlled by House Myrath |
 
 ## Geography Notes
 - The northern mountains create a natural barrier and contribute to House Caldarion’s isolation and defensive strength.
 - Travel to and from the Caldarion lands is difficult, especially in winter, which limits both trade and political interference.
 - Control of Cold Silver is a closely guarded economic and military advantage.
 - Aurelia’s central location and river access make it the natural hub of politics, trade, and information.
+- The eastern coast faces Arcanor and holds the primary ports of the kingdom.
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
