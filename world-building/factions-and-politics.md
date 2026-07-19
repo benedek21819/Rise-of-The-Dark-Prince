@@ -54,6 +54,70 @@ As a result, **House Kaelarion is technically a vassal to House Caldarion**, tho
 
 House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
+### The Silver Guard
+Elite open military force of House Caldarion. Approximately 250 members. Equipped with full Cold Silver armor and Cold Silver glaives. Responsible for guarding the family and executing the direct orders of the house head. Commanded by Captain Garrick.
+
+### The Shadow Guard
+
+**Type**: Elite covert force of House Caldarion  
+**Size**: Approximately 100 members  
+**Command**: Directly under **Lucian Caldarion**  
+**Role**: Assassination, intelligence, infiltration, and the silent elimination of threats
+
+**Identity**  
+The Shadow Guard is the hidden blade of House Caldarion. Where the Silver Guard represents the house’s open strength and honor, the Shadow Guard exists to handle what cannot be done in the light. They are specialists in stealth, lethal precision, and absolute discretion.
+
+**Structure – Hierarchical Cells**  
+The Shadow Guard is organized into small, tightly controlled cells of 5–8 members each.  
+
+- Each cell is led by a **Cell Leader**.  
+- Cell Leaders report to a small number of senior officers.  
+- Only the highest ranks have a full picture of ongoing operations.  
+- Lucian sits at the top as overall commander.
+
+This structure limits damage if a single cell is exposed and reinforces secrecy.
+
+**Ranks** (lowest to highest):
+- Shadow
+- Blade
+- Wraith
+- Night Captain
+- Shadow Commander (reports directly to Lucian)
+
+**Selection & Training**  
+Members are recruited young from loyal lesser families, orphans raised under the house’s protection, or exceptional individuals identified for their potential. Training is secretive and extremely demanding, focusing on:
+- Stealth and silent movement
+- Lethal combat with dual blades and hidden weapons
+- Poison craft
+- Disguise and infiltration
+- Endurance and mental conditioning
+- Absolute loyalty to House Caldarion
+
+Failure rates are high. Those who do not complete the training rarely speak of what they experienced.
+
+**Culture**  
+- Silence is valued. Unnecessary speech is discouraged.
+- Personal identity is secondary to the role.
+- Success is measured by whether the target falls without the Shadow Guard’s involvement ever being proven.
+- There is quiet pride in being the unseen weapon of the house.
+- Emotional detachment is common and often deliberately cultivated.
+
+**Equipment**  
+- Dual short blades or curved daggers (frequently Cold Silver or Cold Silver-edged)
+- Hidden weapons (needles, wires, poisoned implements)
+- Light, flexible black armor worn beneath hooded black cloaks
+- Tools for climbing, lock-breaking, and concealment
+
+**Relationship to Other Forces**  
+- **Silver Guard**: Mutual respect mixed with distance. The Silver Guard is the house’s public strength; the Shadow Guard is its private necessity.
+- **Lord Vesper**: Retains ultimate authority over the house, but operational command of the Shadow Guard has been entrusted to Lucian.
+- **Lucian**: As their direct commander, his cold, calculating nature aligns closely with their purpose. The Shadow Guard is one of the clearest instruments of his growing personal authority.
+
+**Story Role**  
+The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. Their existence raises moral and political questions as he begins to use them more actively. They also represent the darker, more pragmatic side of House Caldarion’s power.
+
+---
+
 ## Major Factions / Kingdoms / Organizations
 
 ### The Sisters of the Current
