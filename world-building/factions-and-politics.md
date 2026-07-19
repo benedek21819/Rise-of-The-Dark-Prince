@@ -75,6 +75,18 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Relationship to House Caldarion**: Openly competitive and hostile. They resent Caldarion’s superior military strength and mysterious privileges.
 - **Relationship to the Crown**: Complicated. They accept the current royal dynasty but remain bitter about the outcome of the Last Continental War.
 
+### House Ironveil
+- **Specialty**: Heavy industry, weapons manufacturing, siege engines, and mass military production.
+- **Personality**: Blunt, pragmatic, industrious, and competitive.
+- **Colors**: Iron grey and deep red.
+- **Sigil**: A black anvil struck by a crimson hammer.
+- **Dragon**: None.
+- **Strengths**: Controls much of the kingdom’s conventional weapons, armor, and siege equipment production. Strong industrial base and logistical capability.
+- **Weaknesses**: Less elite than Caldarion’s forces and less prestigious in pure martial glory compared to Dravenhall. Their power is tied to production rather than battlefield legend.
+- **Political Stance**: Strong ally of House Dravenhall. Together they form a militaristic bloc that often stands in opposition to Caldarion’s dominance.
+- **Relationship to House Caldarion**: Competitive and resentful. They respect raw strength but dislike Caldarion’s superior elite forces, Cold Silver monopoly, and mysterious privileges.
+- **Relationship to the Crown**: Pragmatic. They supply the kingdom’s armies but push for greater influence and recognition of their industrial importance.
+
 ### House Myrath
 - **Specialty**: Magic studies, research, and preservation of old knowledge.
 - **Reputation**: Traditional and proud. They are highly respected for their vast archives and scholarly work but are often criticized for their strict neutrality.
