@@ -65,21 +65,21 @@ Currently, only **6 dragons** are publicly known to exist on the continent.
 
 ### House Caldarion’s Dragons (Public vs Reality)
 **Public Story:**
-House Caldarion publicly owns one large female dragon bonded to the current house head (**Lirath**), and one younger dragon bonded to Lucian Caldarion (**Ancalion**). The egg that became Ancalion was laid by Lirath.
+House Caldarion publicly owns one large female dragon bonded to the current house head (**Lirath**), and one younger dragon bonded to Lucian Caldarion (**Ancalion**).
 
 **Reality:**
-House Caldarion secretly owns a **mating pair** of dragons. The hidden dragon is a significantly larger male (**Morvath**) — the father of Ancalion. This gives them a powerful hidden breeding advantage.
+House Caldarion secretly owns a third dragon — the very large male **Morvath**. Ancalion’s egg was **not** laid by Lirath. The egg was laid by a currently **unknown dragon** around Imperial Year 800 and was one of the catalysts that contributed to the political pressure leading to the exile of House Caldarion from Arcanor. The egg was brought with the family during the exile and only hatched much later, bonding with Lucian through the cradling ritual.
 
 **Ancalion:**
-Ancalion is the youngest publicly known dragon on the continent. He was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s.
+Ancalion is the youngest publicly known dragon on the continent. He was cradled with Lucian since birth. Cradling dragon eggs with newborns significantly increases the chance of successful hatching and creates a deeper, more effective bond. Ancalion is male, has a very large wingspan relative to his body (making him exceptionally fast), completely black scales, pitch black flames, and deep dark purple eyes similar to Lucian’s. His exact parentage remains unknown.
 
-**Lirath (Mother):**
-Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, and blue flames. She has a warm and friendly personality.
+**Lirath:**
+Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, and blue flames. She has a warm and friendly personality. She is bonded to the current head of House Caldarion (Lord Vesper).
 
-**Morvath (Father):**
+**Morvath:**
 Morvath is nearly 300 years old and is significantly larger than Lirath. He has dark grey scales with a subtle green tint depending on the lighting, green eyes, and green flames. He bears many battle scars. He has an imperious and solitary personality — he does not seek conflict but is extremely aggressive if provoked.
 
-Morvath currently has **no bonded rider**. His last rider was Lucian Caldarion’s grandfather, who died during the **Last Continental War**. This devastating conflict saw almost all great and small houses fighting each other for power and resources. The winning side was the current royal family, heavily supported by House Caldarion and several other allied houses. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldarion as one of their most powerful secret weapons.
+Morvath currently has **no bonded rider**. His last rider was Lucian Caldarion’s grandfather, who died during the **Last Continental War**. Publicly, it is believed that Morvath died in battle alongside his rider. In reality, he survived and has been kept hidden by House Caldarion as one of their most powerful secret weapons.
 
 ### Royal Dragon (House Kaelarion)
 
@@ -101,7 +101,7 @@ This dragon represents the traditional symbol of royal power and stability for H
 
 **Personality**: Outwardly serene, graceful, and composed. She projects an aura of calm elegance that matches House Thalorin’s public image as healers and stabilizers. However, when provoked or when her rider/house is threatened, she is capable of sudden, precise, and lethally efficient violence. She does not rage — she ends threats cleanly.
 
-**Role**: Reflects the true nature of House Thalorin’s soft power. Gentle and indispensable on the surface, but quietly dangerous when necessary. She is more of a surgical instrument than a weapon of mass destruction.
+**Role**: Reflects the true nature of House Thalorin’s soft power. Gentle and indispensable on the surface, but quietly dangerous when necessary.
 
 ### House Dravenhall’s Dragon
 
@@ -110,11 +110,9 @@ This dragon represents the traditional symbol of royal power and stability for H
 **Age**: 120 years  
 **Theme**: The Warbeast
 
-**Appearance**: Rust-red and charcoal scales. He possesses a distinctive crest or frill along his head and neck. His flames are loud and explosive, designed as much to intimidate as to destroy.
+**Appearance**: Rust-red and charcoal scales with a distinctive crest or frill. His flames are loud and explosive.
 
-**Personality**: Aggressive, proud, and highly competitive. Korrath thrives in combat and responds strongly to displays of strength and courage. He has little patience for weakness or hesitation. Disrespect toward his rider or house is likely to provoke a violent response.
-
-**Role**: A living embodiment of House Dravenhall’s martial culture and their long-standing rivalry with House Caldarion. He is a straightforward engine of war rather than a subtle or elegant creature.
+**Personality**: Aggressive, proud, and highly competitive. Thrives in combat and responds strongly to displays of strength and courage.
 
 ### House Vaelmar’s Dragon
 
@@ -125,9 +123,9 @@ This dragon represents the traditional symbol of royal power and stability for H
 
 **Appearance**: Deep ocean-blue and teal scales with silver markings that resemble seafoam or lightning. Eyes are storm-grey or electric blue. His flames are pale blue-white and crackle like lightning or release bursts of pressurized steam.
 
-**Personality**: Proud, restless, and free-spirited. Nereus dislikes being confined inland for long periods and thrives in open skies and over the sea. He is still relatively young and somewhat impulsive, but already shows strong affinity for speed, storms, and naval support roles.
+**Personality**: Proud, restless, and free-spirited. Dislikes being confined inland and thrives over the open sea and in storms. Still relatively young and somewhat impulsive.
 
-**Role**: A promising instrument of House Vaelmar’s naval dominance. Excellent for scouting, striking ships, and projecting power along the coasts and open waters. His relative youth means he is still growing into his full potential.
+**Role**: Instrument of House Vaelmar’s naval dominance. Excellent for scouting, striking ships, and projecting power along the coasts and open waters.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) represents a major hidden asset and a serious legal/political risk if discovered.
@@ -135,6 +133,6 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldarion is bonded to **Ancalion**, the youngest dragon owned by House Caldarion. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
+Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
 
 *This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
