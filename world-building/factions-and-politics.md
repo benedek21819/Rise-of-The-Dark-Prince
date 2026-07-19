@@ -95,6 +95,19 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Reputation**: Respected and feared in equal measure by those who know of it. Viewed as a necessary tool of royal power, but also as a potential instrument of court intrigue.
 - **Relationship to House Caldarion**: Largely ineffective. The Crown’s Eyes have never successfully penetrated the deeper secrets of Blackspire or the true extent of Caldarion power. This intelligence gap is a source of quiet frustration for the royal family.
 
+### The Free Blades
+- **Type**: Decentralized mercenary network / collection of independent companies.
+- **Structure**: Not a single unified guild. Instead, it is a shared name and loose identity used by various independent mercenary captains and their bands across Kaelor.
+- **Membership**: Attracts veterans of the Last Continental War, former house soldiers, disgraced knights, wanderers, and skilled fighters who refuse permanent service to any Great House.
+- **Character**: Quality, reliability, and methods vary greatly between different Free Blade companies. Some are relatively disciplined and professional; others are little more than armed bands for hire.
+- **Operations**: Escort work, temporary military reinforcement, private enforcement, and more questionable contracts depending on the captain.
+- **Reputation**: Unpredictable. The name “Free Blades” carries no guarantee of honor or consistency — only that the fighters are not bound to a Great House.
+- **Political Role**: Provides a source of deniable or temporary military force for houses and factions that cannot or will not commit their own troops. Useful to weaker houses and dangerous in the hands of ambitious ones.
+- **Relationship to the Great Houses**:
+  - Most houses view them with a mixture of utility and distrust.
+  - House Caldarion rarely, if ever, employs them, preferring its own highly disciplined forces.
+  - Houses with weaker personal armies are more likely to make use of Free Blade companies.
+
 ### House Dravenhall
 - **Specialty**: Militaristic, honor-bound, and aggressive warfare.
 - **Personality**: Proud, confrontational, and highly competitive. They value strength, personal honor, and martial glory.
