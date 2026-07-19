@@ -15,7 +15,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 ## The Royal Dynasty
 
 **House Kaelarion**  
-**Duchy**: Royal Demesne (directly ruled by the crown)  
+**Duchy**: Royal Demesne + Western Shore  
 
 - **Current Ruler**: King Aldric Kaelarion (middle-aged, pragmatic, and cautious).
 - **Dynasty Personality**: Pragmatic and cautious. They understand they owe their throne to House Caldarion and carefully maintain the alliance while trying to avoid becoming too dependent.
@@ -29,7 +29,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
     - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldarion and weaken their alliance with the crown.
     - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by the people — especially commoners, who call her **"the Sun Princess"**. She has fallen deeply in love with Lucian and is earnestly trying to win his affection and favor. She has manifested **Veilsight**, making her one of the rarest people in the world.
   - **Queen Isolde Kaelarion** (Queen Consort): Intelligent, politically sharp, and more ambitious than her husband King Aldric.
-- **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldarion).
+- **Strengths**: Political legitimacy, control of the royal demesne and Western Shore, strong alliances (particularly with House Caldarion).
 - **Weaknesses**: Military power is weaker than House Caldarion’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldarion) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
 - **Current Relationship with House Caldarion**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldarion’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
 
@@ -64,6 +64,21 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Reputation**: Feared and respected. Many noble families dread the possibility of a daughter awakening as a Veilseer and being claimed by the order.
 - **Current Interest & Arrival**: Princess Seren Kaelarion has manifested Veilsight. The Sisters sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, and the Outer Deep — the first sustained contact between the isolated Continent of Kaelor and the mainland in a long time. They formally request custody of Seren. The Kaelarions are hesitant (they respect the order but do not wish to lose their daughter). Before any compromise can be reached, Lucian Caldarion rejects the request entirely: Seren is his future wife. Nobody will take her. Lord Vesper Caldarion supports his son. Because the Lord of House Caldarion has spoken, the Sisters cannot force the issue. For the first time in centuries, someone openly says no to the Sisters of the Current. The Sisters are shocked — not because they lost, but because nobody has ever openly refused them before (not kings, not nobles, not rulers). Unable to enforce their demands, they retreat, but they intend to return.
 - **Accompanying Expedition**: The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many view Kaelor as a distant and insignificant land and consider Lucian a minor noble from the edge of the world. One of these visitors publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively and kills the man. The victim is only a minor member of an old mainland noble family, so the incident remains local for now.
+
+### The Golden Vault
+- **Type**: Largest and most powerful banking institution on Kaelor.
+- **Headquarters**: Aurelia (Merchant District).
+- **Official Status**: Independent banking house operating under royal charter.
+- **Actual Control**: Heavily influenced and effectively dominated by **House Sylvaron**. Senior positions are largely filled by Sylvaron-aligned families.
+- **Functions**:
+  - Large-scale deposits and lending for noble houses and major merchants
+  - Issuance of sealed letters of credit recognized across the kingdom
+  - Financing of trade ventures and major construction projects
+  - Quiet political influence through debt and financial dependency
+- **Reputation**: Discreet, reliable, and extremely well-protected. Known for strict contracts and the quiet power that comes from knowing who owes what.
+- **Facilities**: Heavily guarded vaults, private counting houses, and secure record rooms. The deepest vaults are said to be among the most secure locations in Aurelia outside the Royal Palace itself.
+- **Political Role**: Serves as one of the primary instruments of House Sylvaron’s economic power. While it maintains a public face of neutrality, its decisions often align with Sylvaron interests. Many houses are reluctant to move openly against Sylvaron because of their financial entanglements with the Vault.
+- **Relationship to House Caldarion**: Distant and cautious. House Caldarion makes little use of the Vault, preferring to rely on its own internal resources and Cold Silver wealth. This financial independence is one more reason other houses view Caldarion with a mixture of respect and resentment.
 
 ### House Dravenhall
 - **Specialty**: Militaristic, honor-bound, and aggressive warfare.
@@ -102,7 +117,7 @@ House Caldarion receives enormous privileges that no other house enjoys — most
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
 - **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
-- **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaelor.
+- **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaelor. Effective control of the Golden Vault.
 - **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political.
 - **Relationship to House Caldarion**: Rivalrous / Tense. They would prefer to weaken House Caldarion through economic and political means rather than direct conflict.
 
