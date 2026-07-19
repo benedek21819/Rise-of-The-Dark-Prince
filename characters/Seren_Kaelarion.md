@@ -23,12 +23,18 @@
 **Conflict with The Sisters of the Current:**
 The Sisters of the Current (an ancient all-female prophetic order) immediately take interest in Seren once her Veilsight manifests. A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children, as the order believes emotional attachments endanger the gift of Veilsight.
 
+The first sustained contact between the isolated Continent of Kaelor and the mainland occurs because of Seren. The Sisters sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, and the Outer Deep to retrieve her.
+
+This situation mirrors an ancient event: Long ago a Kaelarion girl became a Veilseer → the order arrived → Kaelarion refused → the Caldarions intervened. Now history begins to repeat itself.
+
+The Sisters formally request custody of Seren. The Kaelarions are hesitant — they respect the order but do not wish to lose their daughter. Before any compromise can be reached, Lucian rejects the request entirely. His position is simple: Seren is his future wife. Nobody will take her.
+
 Unlike most Veilseers, Seren has already chosen her future. She wishes to remain in Kaelor, marry Lucian, and build a family. This directly conflicts with the doctrines of the Sisters.
 
 **Key Relationships:**
-- **Lucian Caldarion** (fiancé → one of his people): Initially, Lucian is distant and cold toward her. Over time they become close. Lucian eventually accepts Seren and decides he will marry her. By the time the Sisters arrive, Seren is no longer merely his betrothed — she is one of his people.
+- **Lucian Caldarion** (fiancé → one of his people): Initially, Lucian is distant and cold toward her. Over time they become close. Lucian eventually accepts Seren and decides he will marry her. By the time the Sisters arrive, Seren is no longer merely his betrothed — she is one of his people, and he intervenes decisively to protect her.
 - **Crown Prince Dorian Kaelarion** (older brother): Protective of him despite his many flaws and ambitions.
 - **King Aldric Kaelarion** (father): Close and loving daughter. She shares a warm bond with him.
-- **The Sisters of the Current**: They seek to claim her for the order. This creates major conflict.
+- **The Sisters of the Current**: They seek to claim her for the order. This creates major conflict and forces the first real contact between Kaelor and the mainland in a long time.
 
-**Role in Story:** Emotional contrast to Lucian. She represents light, warmth, and sincerity against his coldness and growing darkness. Her manifestation of Veilsight and refusal to join the Sisters introduces a powerful external conflict that tests Lucian’s protectiveness and the strength of their bond. Her persistence may gradually soften him — or lead to deep personal pain if he continues down a darker path.
+**Role in Story:** Emotional contrast to Lucian. She represents light, warmth, and sincerity against his coldness and growing darkness. Her manifestation of Veilsight and refusal to join the Sisters introduces a powerful external conflict that tests Lucian’s protectiveness and the strength of their bond. Her persistence may gradually soften him — or lead to deep personal pain if he continues down a darker path. The arrival of the Sisters also reopens ancient patterns of Caldarion intervention on behalf of House Kaelarion.
