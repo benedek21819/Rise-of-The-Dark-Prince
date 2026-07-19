@@ -45,11 +45,45 @@ Closing chapter of the early childhood phase. Lucian is a little older (around 9
 
 ---
 
-## Later Opening Scene (Previously Recorded)
+## Arc 1 – Phase 2: Formative Years (Ages ~11–15)
+**Theme:** “What must I become?”
 
-### Opening Scene / Later Chapter: The Remnant in the Garden
-Lucian (older) walks through the gardens of Blackspire Keep with his father, Lord Vesper. They come upon the remnants of an old stone gate, covered in moss and partially ruined. Carved upon it is a radiant Black Sun — the rays and disk made from deep dark stone. Lucian asks what it is. Vesper replies that it is merely “a remnant of the past,” explaining that it was part of the earliest structures built by their family. Nothing more. The conversation moves on, leaving the symbol unexplained and the moment deceptively quiet.
+### Chapter 13: The Weight of Expectation
+Lucian’s training intensifies. Vesper becomes more directly involved. The difference between being a child of the house and being the heir becomes clearer. Lucian is reminded that he has been betrothed to the royal princess since birth — a political arrangement he has always known about but never truly thought about.
+
+### Chapter 14: Steel and Silence
+Focus on combat training. Lucian shows natural talent and unusual composure. He begins learning to bury emotion during training.
+
+### Chapter 15: The Veil Opens
+More structured introduction to Veilweaving. Lucian begins walking the hybrid path. Subtle hints of something deeper (latent Commandments / darkness affinity).
+
+### Chapter 16: Lyra’s Watch
+Deeper exploration of Lucian’s relationship with Lyra. Quiet conversations about family, duty, and the loneliness of their house. She gently mentions the betrothal and what it will eventually mean.
+
+### Chapter 17: The Twins and the Youngest
+Lucian’s relationship with the younger siblings develops. His protective but emotionally selective nature becomes clearer.
+
+### Chapter 18: Ancalion Grows
+The bond with Ancalion deepens significantly. Shared emotions become stronger and more instinctive.
+
+### Chapter 19: Visitors in the Snow
+First meaningful exposure to outsiders. Lucian’s cold public demeanor is fully on display. The betrothal is mentioned again in a political context by visiting nobles or messengers.
+
+### Chapter 20: Cold Silver Lessons
+Lucian is taken deeper into the family’s military and economic foundations. He begins to understand the practical sources of House Caldarion’s power.
+
+### Chapter 21: Night Without Warmth
+A quiet emotional low point. Lucian struggles with the growing distance between his private self and the cold persona he shows the world.
+
+### Chapter 22: The First Command
+Subtle first manifestation or near-manifestation of his latent Commandment ability. It unsettles him.
+
+### Chapter 23: First Meeting
+Lucian’s first real encounter with Seren. She is warm, open, and openly happy to meet her future husband. Lucian finds her overly emotional, clingy, and exhausting. He remains polite but cold and distant. The contrast between her sunlight personality and his frozen demeanor is sharp.
+
+### Chapter 24: The Heir’s Eyes
+Closing chapter of Phase 2. Lucian is around 15. The cold public face is now natural. Only a few people still see the warmth beneath. The betrothal has moved from abstract knowledge to a living, slightly irritating reality. The foundations of the Dark Prince are firmly set.
 
 ---
 
-*Add new chapters and arcs below as they are developed.*
+*Phase 3 outline will be added next.*
