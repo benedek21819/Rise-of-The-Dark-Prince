@@ -58,6 +58,20 @@ Lucian’s grandfather (the previous head of House Caldarion) was the last rider
 ### The Last Continental War
 A catastrophic war in which nearly every major and minor house on the Continent of Kaelor fought for power and resources. The victory of House Kaelarion, secured through the crucial support of House Caldarion, established the current royal dynasty and the present balance of power in the Kingdom of Kaelor.
 
+### Ancient Parallel: The First Kaelarion Veilseer
+Long ago, a daughter of House Kaelarion manifested as a Veilseer. The Sisters of the Current arrived to claim her. House Kaelarion refused. House Caldarion intervened on behalf of their vassals. The conflict established a precedent of Caldarion protection over Kaelarion daughters who awakened Veilsight.
+
+### Current Events – History Repeats
+The first sustained contact between the isolated Continent of Kaelor and the mainland occurs because of Princess Seren Kaelarion. The Sisters of the Current sense the appearance of a new Veilseer and cross the Silent Belt (no-wind zone), the Storm Ring, and the Outer Deep to retrieve her.
+
+The situation mirrors the ancient event:
+- Then: A Kaelarion girl becomes a Veilseer → The order arrives → Kaelarion refuses → The Caldarions intervene.
+- Now: Seren becomes a Veilseer → The Sisters arrive → The Kaelarions hesitate → Lucian intervenes.
+
+History begins to repeat itself.
+
+The Sisters formally request custody of Seren. The Kaelarions are hesitant — they respect the order but do not wish to lose their daughter. Before any compromise can be reached, Lucian Caldarion rejects the request entirely. His position is simple: Seren is his future wife. Nobody will take her.
+
 ## Prophecies & Legends
 [Any prophecies that involve a "Dark Prince" or rising darkness — this can be central to the plot.]
 
