@@ -27,15 +27,16 @@
 - An emperor of House Caldarion formally grants the continent of Kaelor to House Kaelarion with full autonomous rule.
 - House Kaelarion remains a vassal in truth.
 
-### ≈ Year 800 – The Unknown Egg
-- An egg is laid by a currently **unknown dragon**.
-- This event becomes one of the catalysts that intensifies fear and political pressure against House Caldarion.
-- Combined with the misinterpreted prophecy, it contributes to the growing belief that the Caldarions are tied to coming doom.
+### ≈ Year 800 – The Secret Egg
+- A secret Caldarion dragon, one that was never publicly acknowledged and was unusually close to the Primordial Darkness, lays an egg.
+- The existence of this dragon was already a closely guarded secret within the highest levels of the house.
+- The appearance of the egg intensifies fear and political pressure against House Caldarion.
+- Combined with the misinterpreted prophecy, the egg becomes one of the catalysts that contributes to the growing demand for the main line of the house to leave Arcanor.
 
 ### ≈ Year 812 – The Exile
 - Under immense popular and political pressure, the reigning Caldarion emperor accepts the will of the people and voluntarily leads the main line of the house into exile.
 - They leave Arcanor and settle on Kaelor.
-- The egg laid around Year 800 is taken with them. This egg will much later hatch as **Ancalion**.
+- The secret egg is taken with them rather than risked falling into anyone else’s hands. This egg will much later hatch as **Ancalion**.
 - At the time of the exile, the oceans are still difficult but navigable.
 
 ### Year 812 onward – Gradual Escalation of the Seas
@@ -58,15 +59,16 @@
 - Vesper Caldarion, Aldric Kaelarion, Isolde, and other members of the current older generation are born.
 
 ### ≈ Year 1052–1057 – Present Day (Approximate)
-- Lucian Caldarion is approximately 17 years old.
-- Ancalion (hatched from the egg laid around Year 800 by an unknown dragon) is bonded to Lucian.
+- Lucian Caldarion is approximately 17 years old (born 1038 IE).
+- Ancalion (hatched from the secret egg laid around Year 800) is bonded to Lucian.
 - The main story begins.
 
 ---
 
-**Important Notes:**
-- Ancalion’s egg was laid by an **unknown dragon** around Year 800 IE and served as one of the catalysts for the exile of House Caldarion.
-- **Lirath is not Ancalion’s mother**.
-- The exact parentage of Ancalion remains unknown for now.
+**Important Notes on Ancalion’s Origin:**
+- The egg was laid by a **secret Caldarion dragon** that was unusually close to the Primordial Darkness.
+- This dragon was never publicly acknowledged.
+- The appearance of the egg around Year 800 helped catalyze the political pressure that led to the exile.
+- The exact fate of the parent dragon after laying the egg remains unknown.
 
 *This is the official chronological reference for the Story Bible. Update as new events are established.*
