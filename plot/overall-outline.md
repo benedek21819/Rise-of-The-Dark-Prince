@@ -24,21 +24,27 @@
 - The ultimate cost of the throne
 - New status quo or powerful sequel hook
 
-## Arc 1 Structure (Current Working Version)
+## Arc 1 Structure (Fully Outlined)
 
-**Arc Title:** The Dark Prince of Blackspire (or Foundations)
+**Arc Title:** The Dark Prince of Blackspire (Foundations)
 
-**Overall Approach:** Slow, emotionally rich introduction to the world through Lucian’s early years. Focus on family, Blackspire, the bond with Ancalion, early training, and the quiet formation of his personality before larger external forces arrive.
+**Overall Approach:** Slow, emotionally rich introduction to the world through Lucian’s early years. Focus on family, Blackspire, the bond with Ancalion, early training, the formation of his personality, and the beginning of his relationship with Seren before larger external forces arrive.
 
 ### Phase 1 – Early Childhood (Ages ~5–10)
-Theme: “What is home, and who is mine?”
-- Detailed chapter outline saved in `plot/chapter-summaries.md`
+**Theme:** “What is home, and who is mine?”  
+Detailed 12-chapter outline saved in `plot/chapter-summaries.md`
 
 ### Phase 2 – Formative Years (Ages ~11–15)
-Focus: Learning, responsibility, and emotional hardening
+**Theme:** “What must I become?”  
+Detailed 12-chapter outline saved in `plot/chapter-summaries.md`  
+Includes the betrothal (known since birth) and Lucian’s first meeting with Seren (he finds her clingy and remains distant).
 
 ### Phase 3 – Heir’s Threshold (Ages ~16–17)
-Focus: Responsibility crystallizes + first major emotional crossroads (receiving Mercy, engagement to Seren, first real meetings with her)
+**Theme:** “What am I willing to carry?”  
+Detailed 10-chapter outline saved in `plot/chapter-summaries.md`  
+Includes receiving Mercy, growing authority, further interactions with Seren, and the quiet completion of his foundations as the Dark Prince.
+
+**Status:** Arc 1 is fully outlined (34 chapters total).
 
 ## Major Plot Beats & Twists (High Level)
 - [List 8–12 key moments you want to hit across the story]
