@@ -27,7 +27,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Family**:
   - King Aldric has two children:
     - **Crown Prince Dorian Kaelarion** (the heir): Ambitious, craven, jealous, and easily manipulated. He seeks more personal power and actively tries to undermine House Caldarion and weaken their alliance with the crown.
-    - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by the people — especially commoners, who call her **"the Sun Princess"**. She has fallen deeply in love with Lucian and is earnestly trying to win his affection and favor.
+    - **Princess Seren Kaelarion** (younger daughter): Extremely beautiful with long blonde, almost white hair and bright eyes. She has a warm, open, and kind personality, making her beloved by the people — especially commoners, who call her **"the Sun Princess"**. She has fallen deeply in love with Lucian and is earnestly trying to win his affection and favor. She has manifested **Veilsight**, making her one of the rarest people in the world.
 - **Strengths**: Political legitimacy, control of the royal demesne, strong alliances (particularly with House Caldarion).
 - **Weaknesses**: Military power is weaker than House Caldarion’s. Their position depends heavily on maintaining alliances and preventing any single house (especially Caldarion) from becoming too dominant. Internal divisions within the royal family (especially the heir’s ambitions) create additional instability.
 - **Current Relationship with House Caldarion**: Strong alliance based on gratitude and mutual benefit from the war. However, there is underlying tension due to House Caldarion’s superior military strength and reclusive nature. King Aldric is cautious about becoming too reliant on them, while his son actively works to undermine the relationship.
@@ -54,6 +54,14 @@ As a result, **House Kaelarion is technically a vassal to House Caldarion**, tho
 House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
 ## Major Factions / Kingdoms / Organizations
+
+### The Sisters of the Current
+- **Type**: Ancient all-female prophetic order of **Veilseers**.
+- **Belief**: The Veil chooses women. No male Veilseer has ever existed.
+- **Role**: For thousands of years they have trained every known Veilseer, preserved prophetic knowledge, advised rulers and kingdoms, and become enormously wealthy and influential.
+- **Doctrine**: A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children. The order believes emotional attachments and family responsibilities endanger the gift of Veilsight.
+- **Reputation**: Feared and respected. Many noble families dread the possibility of a daughter awakening as a Veilseer and being claimed by the order.
+- **Current Interest**: Princess Seren Kaelarion has manifested Veilsight. The Sisters of the Current have immediately taken interest in her. Unlike most Veilseers, Seren has already chosen her future — she wishes to remain in Kaelor, marry Lucian Caldarion, and build a family. This directly conflicts with the doctrines of the Sisters.
 
 ### House Myrath
 - **Specialty**: Magic studies, research, and preservation of old knowledge.
