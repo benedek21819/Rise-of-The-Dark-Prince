@@ -58,6 +58,7 @@ The ancestral seat of House Caldarion is built on the summit of one of the talle
 - Harsh, isolating environment that reinforces House Caldarion’s reclusive nature
 - Strategic vantage point over the surrounding northern lands
 - Limited accessibility, especially during winter
+- **Ancient Imperial Relics**: Scattered throughout the keep and its older sections (abandoned gates, old walls, forgotten courtyards) are carvings of the **Black Sun** — the ancient imperial sigil of House Caldarion from their time as emperors of Arcanor. Most inhabitants of Kaelor do not recognize the symbol’s true significance. To the rare visitors from Arcanor who still remember the old traditions, these carvings are unmistakable proof of the Caldarions’ identity.
 
 #### The Cold Silver Mine
 Inside the mountain on which the castle stands lies a rich vein of **Cold Silver**, an extremely valuable metal that House Caldarion has controlled for generations. Cold Silver possesses high magical conductivity and steel-like strength, making it one of the best materials in the Kingdom of Kaelor for weapons and armor. The steady supply of this rare metal is a major foundation of House Caldarion’s long-term wealth and military superiority.
@@ -110,7 +111,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name.
 
 ## Royal Capital: Aurelia
 
