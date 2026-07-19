@@ -29,6 +29,17 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Dragon Amplification** — Using a bonded dragon to dramatically boost power.
 - **Commandments** (Extremely Rare & Ancient): An innate, congenital form of magic. Users can **command other entities** (including dragons) with just their voice. Extremely dangerous because it bypasses physical damage. Proper use requires immense Will and control. Misuse can backfire catastrophically on the user.
 
+## Veilseers and The Sisters of the Current
+**Veilseers** are a rare and distinct type of magic user. While ordinary Veilweavers manipulate the Veil, Veilseers **perceive possible futures** through the Eternal Current.
+
+- The accepted belief is that the Veil chooses women. No male Veilseer has ever been recorded.
+- All known Veilseers are trained and claimed by the ancient all-female order known as **The Sisters of the Current**.
+- For thousands of years the Sisters have trained every known Veilseer, preserved prophetic knowledge, advised rulers and kingdoms, and become enormously wealthy and influential.
+- A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children. The order believes emotional attachments and family responsibilities endanger the gift of Veilsight.
+- Many noble families fear losing daughters who awaken as Veilseers.
+
+**Princess Seren Kaelarion** has manifested Veilsight, making her one of the rarest people in the world. The Sisters of the Current have immediately taken interest in her. Unlike most Veilseers, Seren has already chosen her future: she wishes to remain in Kaelor, marry Lucian Caldarion, and build a family. This directly conflicts with the doctrines of the Sisters.
+
 ## Magical Creatures, Relics & Artifacts
 - **Dragons**: Living amplifiers of Veil power.
 - **Ancient Relics**: Objects that can stabilize or amplify Veilweaving (guarded by houses like Myrath).
