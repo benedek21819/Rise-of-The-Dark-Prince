@@ -172,9 +172,45 @@ Aurelia is built along a major central river that serves as the primary trade ar
 - **Grand Plaza**: Large public square near the Royal District used for royal appearances and festivals.
 - **River Bridges**: Multiple elegant bridges connecting the districts and symbolizing the flow of power and commerce.
 - **Noble Residences / Embassies**: Each Great House maintains a presence here, creating a constant undercurrent of rivalry and alliance-building.
+- **The Hall of Inquiry**: Kaelor’s largest scholarly institution (see full entry below).
 
 **Story Importance**:
 Aurelia is the political and cultural heart of the Kingdom of Kaelor. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
+
+### The Hall of Inquiry
+
+**Type**: Largest scholarly institution on Kaelor  
+**Location**: Aurelia (Noble Quarter / academic district near the Royal District)  
+**Status**: Operates under royal charter
+
+**Purpose**:  
+The Hall of Inquiry is the kingdom’s primary center for the preservation and advancement of non-magical and semi-scholarly knowledge. It focuses on three main pillars:
+- Cartography and geography
+- History
+- Natural studies (flora, fauna, climate, geology, and oceanic phenomena)
+
+**Atmosphere & Structure**:  
+A large, multi-winged complex of stone halls, libraries, scriptoriums, and observation towers. The architecture is orderly, restrained, and deliberately neutral — neither martial like Blackspire nor ornate like the Royal Palace. Long quiet corridors, high windows, and carefully controlled lighting create an environment suited to concentration and study.
+
+**Key Sections**:
+- **The Great Archive**: The largest collection of written histories on Kaelor, covering the period since the arrival of House Caldarion and the establishment of the current kingdom.
+- **The Map Room**: Holds the most accurate existing charts of Kaelor and the surrounding seas. Some older maps contain fragmentary information about routes toward Arcanor.
+- **The Sea Watch / Observatory**: Scholars here study weather patterns, the Silent Belt, the Storm Ring, the Outer Deep, and other dangerous oceanic phenomena.
+- **Restricted Vaults**: Contain incomplete, sensitive, or potentially dangerous records related to the exile, early Caldarion history on Kaelor, and certain catastrophic ocean events. Access is tightly controlled.
+
+**Political Position**:  
+Officially neutral and under royal protection. In practice, **House Myrath** holds significant influence over its leadership, senior scholars, and the direction of research. Many instructors and archivists come from Myrath or were trained under their traditions.
+
+**Relationships**:
+- **House Myrath**: Strong influence and ideological alignment.
+- **The Crown**: Provides funding and legal protection in exchange for maps, historical counsel, and educational services.
+- **House Caldarion**: Distant. The Hall possesses very little reliable internal information about Blackspire or the deeper secrets of the Caldarion line.
+- **Other Great Houses**: Frequently send younger members for education. The Hall is considered a prestigious but politically safe place of learning.
+
+**Story Potential**:  
+A natural location for research into history, geography, and the dangers of the sea. It can serve as a source of incomplete or carefully restricted information about Arcanor, the exile, and the true age of certain records. Its neutral reputation also makes it a possible quiet meeting ground.
+
+---
 
 ## Other Key Locations
 
