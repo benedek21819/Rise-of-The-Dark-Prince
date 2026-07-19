@@ -9,7 +9,7 @@ Magic is the ability to weave and manipulate the **Veil** — an invisible layer
 ## Magic User Paths
 All users train in Veilweaving. Specialization is common but not mandatory:
 - **Magic Knights** (Combat Path): Focus on integrating Veilweaving with physical combat. Faster and more effective in battle, but less optimal at complex rituals.
-- **Mages** (Scholarly Path): Focus on deep study, rituals, and large-scale effects. Slower in direct combat but more powerful and stable at high ranks.
+- **Mages** (Scholarly Path): Focus on deep study, rituals, and large-scale effects. Slower in direct combat but often more powerful and stable when dealing with complex or large-scale workings.
 - **Hybrids**: Train both paths. Possible and versatile, but usually less effective than focusing on one path due to divided focus and slower mastery in each area.
 
 ## Rules, Limitations & Costs
@@ -136,3 +136,7 @@ Dragons represent a massive strategic, military, and symbolic advantage. Their o
 Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
 
 *This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
+
+---
+
+**Note:** A formal numbered power-level / rank system has been intentionally removed. Strength is treated as relative, contextual, and influenced by bloodline, Will, dragon bonds, experience, and other factors rather than fixed ranks.
