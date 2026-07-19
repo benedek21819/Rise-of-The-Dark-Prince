@@ -72,6 +72,15 @@ History begins to repeat itself.
 
 The Sisters formally request custody of Seren. The Kaelarions are hesitant — they respect the order but do not wish to lose their daughter. Before any compromise can be reached, Lucian Caldarion rejects the request entirely. His position is simple: Seren is his future wife. Nobody will take her.
 
+**Lord Vesper Caldarion supports his son’s decision.** Because the Lord of House Caldarion has spoken, the Kaelarions cannot effectively oppose him, and the Sisters cannot force the issue. For the first time in centuries, someone openly says no to the Sisters of the Current. The Sisters are shocked — not because they lost, but because nobody has ever openly refused them before (not kings, not nobles, not rulers). Unable to enforce their demands, they retreat, but they intend to return.
+
+The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many of them view Kaelor as a distant and insignificant land and consider Lucian a minor noble from the edge of the world. One of these mainland visitors publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively to protect his bonded lord and kills the man. The victim is only a minor member of an old mainland noble family, so the incident remains local for now.
+
+### Ripple in Arcanor
+Some families in Arcanor still maintain old traditions. They possess little knowledge of the past. They only know: The true rulers of Arcanor were called **Caldarion**. Their symbol was the **Black Sun**. One day they vanished. Everything else has been lost.
+
+When the dead man’s family receives news of the incident, the report includes a name: **Lucian Caldarion**. That single word changes everything. The family has spent generations searching for any clue. They possess no proof, yet the name alone is enough. They quietly organize a small expedition — not an army or a royal mission — with the goal of determining why someone in Kaelor bears the name Caldarion.
+
 ## Prophecies & Legends
 [Any prophecies that involve a "Dark Prince" or rising darkness — this can be central to the plot.]
 
