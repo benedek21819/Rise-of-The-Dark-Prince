@@ -55,7 +55,7 @@ As a result, **House Kaelarion is technically a vassal to House Caldarion**, tho
 House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
 ### The Silver Guard
-Elite open military force of House Caldarion. Approximately 250 members. Equipped with full Cold Silver armor and Cold Silver glaives. Responsible for guarding the family and executing the direct orders of the house head. Commanded by Captain Garrick.
+Elite open military force of House Caldarion. Approximately 250 members. Equipped with full Cold Silver armor and Cold Silver glaives. Responsible for guarding the family and executing the direct orders of the house head. Commanded by **Captain Valtor**.
 
 ### The Shadow Guard
 
