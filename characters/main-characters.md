@@ -24,6 +24,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Key Retainers
 - **[Captain Garrick](Garrick.md)** — Captain of the Silver Guard, The Living Monument
+- **[Cazius](Cazius.md)** — Shadow Commander of the Shadow Guard (Lucian calls him **Caz**)
 
 ---
 
