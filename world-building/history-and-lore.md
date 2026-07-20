@@ -29,6 +29,22 @@ After the victory, something extraordinary happened. Those who witnessed the eve
 
 This moment marked the founding of **House Caldarion**.
 
+#### The Loyalist Phrase
+In that same moment — as the witnesses knelt beneath the darkened sky — the first vassals and those who would become the line of true Loyalists spoke the words that would endure for centuries:
+
+**“Hail the Monarch of the Dark.”**
+
+The phrase was not created by House Caldarion. It was spoken *to* them by those who chose to follow. It became the formal loyalty hail of the old vassals and later of the hidden Loyalist lines that preserved memory of the true imperial house.
+
+On Kaelor, the saying is almost entirely forgotten. Among certain mainland remnants and traditionalist families who still search for the vanished Caldarion line, it survives as ritual language — often without full understanding of its original weight.
+
+**Later dramatic use:**
+When true Loyalists first encounter Lucian Caldarion, they kneel and speak the ancient hail:
+
+> “Hail the Monarch of the Dark.”
+
+Lucian does not understand why they would say this to him. The moment should feel sudden, ceremonial, and unsettling. No full explanation is given at that time.
+
 When the Veil closed, a **Black Star** emerged from the breach. It did not fall from the heavens — it came from the other side of the Veil itself. The material was unique: impossible to reproduce, unlike any material in the physical world — a fragment of the Eternal Current made physical.
 
 Most of the Black Star was left where it landed. From it was carved **The Dark Throne** — the seat of emperors. The capital city of Arcanor was eventually built around it.
