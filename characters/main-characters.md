@@ -23,7 +23,7 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Lord Ravorn Caldarion](Ravorn_Caldarion.md)** — Lucian's grandfather, previous head of House Caldarion, last rider of Morvath (deceased)
 
 ### Key Retainers
-- **[Captain Garrick](Garrick.md)** — Captain of the Silver Guard, The Living Monument
+- **[Captain Valtor](Valtor.md)** — Captain of the Silver Guard, The Living Monument
 - **[Cazius](Cazius.md)** — Shadow Commander of the Shadow Guard (Lucian calls him **Caz**)
 
 ---
