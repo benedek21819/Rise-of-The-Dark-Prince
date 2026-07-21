@@ -1,5 +1,6 @@
 Chapter 1: Burden
 
+NARRATOR:
 The corridors of Blackspire were always cold.
 
 Lucian had learned that before he learned many other things. The stone drank the warmth from the air and gave nothing back. Even in the hours when the fires were lit in the lower halls, the cold remained — settled into the walls, the floors, the long stretches of dark glass that looked out onto the mountains. The light that entered through those windows seemed thinner somehow, as though it had to earn its right to touch anything inside. It reached the edges of the floor and then faded, leaving the center of the corridors in a quiet, permanent dusk.
@@ -14,20 +15,38 @@ His mother’s hand was warm around his.
 
 Lady Elara walked at an unhurried pace, her silver hair catching the pale light as they moved. She did not seem to feel the cold the way others did. Or if she did, she refused to let it touch her voice or the steady rhythm of her steps.
 
-“You are quiet this morning,” she said.
+ELARA:
+“You are quiet this morning,”
 
-Lucian looked up at her. “I am always quiet.”
+NARRATOR:
+she said.
 
-A soft smile touched her mouth. “Not always. Only when you are thinking too much.”
+LUCIAN:
+“I am always quiet.”
 
+NARRATOR:
+A soft smile touched her mouth.
+
+ELARA:
+“Not always. Only when you are thinking too much.”
+
+NARRATOR:
 He did not deny it. He was thinking. About the way the servants stepped aside when they passed, eyes lowered. About the distant sound of boots somewhere deeper in the keep, sharp and ordered. About the fact that his father had sent for him.
 
 That last thought sat heavier than the others.
 
 Elara’s thumb brushed lightly over the back of his hand.
 
-“There is nothing to fear,” she said. “Your father only wishes to speak with you.”
+ELARA:
+“There is nothing to fear,”
 
+NARRATOR:
+she said.
+
+ELARA:
+“Your father only wishes to speak with you.”
+
+NARRATOR:
 Lucian nodded. He did not say that he was not afraid. Not exactly. It was something closer to caution. A tightening behind the ribs. The same feeling he got when standing too close to the edge of the high terraces, looking down at the long drop of stone and snow.
 
 They turned a corner. The corridor widened. The ceilings climbed higher still. More banners lined the walls here, the silver swords and black wings repeating in a long, silent procession.
@@ -36,16 +55,25 @@ Blackspire did not decorate itself with soft things. Even its beauty was sharp.
 
 Elara glanced down at him again as they walked.
 
+ELARA:
 “Your cloak is straight. Good. Stand tall when you greet him.”
 
+LUCIAN:
 “I will.”
 
+ELARA:
 “And listen carefully.”
 
+LUCIAN:
 “I always do.”
 
-Her smile deepened, just a little. “Yes. You do.”
+NARRATOR:
+Her smile deepened, just a little.
 
+ELARA:
+“Yes. You do.”
+
+NARRATOR:
 For a few steps longer, the warmth of her presence held the cold at bay. Lucian kept close to her side, matching her pace as best he could. The sound of their footsteps was soft against the stone, almost swallowed by the size of the hall. Somewhere far behind them, a door closed. Somewhere ahead, the air seemed to thin.
 
 He could feel the change before he saw its cause.
@@ -58,24 +86,38 @@ He was dressed in black, as he almost always was, the silver at his cuffs and co
 
 Elara slowed.
 
-“My lord,” she said, her voice still soft, but more measured now.
+ELARA:
+“My lord,”
+
+NARRATOR:
+she said, her voice still soft, but more measured now.
 
 Vesper’s gaze moved from her to Lucian. For a moment he simply looked at his son, as though weighing something silent and precise. Lucian felt the weight of that look settle over him. He did not look away, but something in his chest drew tight.
 
-“Leave us,” Vesper said.
+VESPER:
+“Leave us,”
+
+NARRATOR:
+Vesper said.
 
 There was no harshness in the words. Only finality.
 
 Elara hesitated for half a breath. Her hand, still resting lightly against Lucian’s shoulder, gave the smallest squeeze — a quiet reassurance that did not need language. Then she released him and stepped back.
 
-“I will be nearby,” she said quietly.
+ELARA:
+“I will be nearby,”
+
+NARRATOR:
+she said quietly.
 
 Lucian watched her go. The silver of her hair caught the light once more before the corridor took her. With her, the last of the morning’s warmth seemed to leave the air.
 
 Vesper turned toward the open archway.
 
+VESPER:
 “Come.”
 
+NARRATOR:
 Lucian followed.
 
 They walked out into the cold.
@@ -90,42 +132,77 @@ For a time, neither of them spoke. Their footsteps were the only sound — one s
 
 Then Vesper spoke.
 
+VESPER:
 “You are the heir of this house.”
 
-Lucian looked up. “Yes, Father.”
+LUCIAN:
+“Yes, Father.”
 
+VESPER:
 “Do you know what that means?”
 
-He thought for a moment, careful with the answer. “That I will lead after you.”
+NARRATOR:
+He thought for a moment, careful with the answer.
 
+LUCIAN:
+“That I will lead after you.”
+
+VESPER:
 “That is the smallest part of it.”
 
+NARRATOR:
 Vesper did not look at him as he spoke. His eyes remained on the path ahead, or on the distant mountains. His voice was even, almost quiet, but every word landed with weight, as though it had been shaped long before this morning.
 
+VESPER:
 “It means that every life within these walls will one day rest on your decisions. The guards who stand the walls. The servants who keep the fires. Your mother. Your sister. The men who will follow your banners into war. Their survival will depend on whether you are strong enough to carry what is given to you.”
 
+NARRATOR:
 Lucian’s fingers curled slightly inside his cloak. The cold seemed to press closer.
 
-“I will be strong,” he said.
+LUCIAN:
+“I will be strong,”
 
+NARRATOR:
+he said.
+
+VESPER:
 “You will need to be.”
 
+NARRATOR:
 They walked on.
 
 The path curved through a broader stretch of the garden, past a stand of dark pines and a shallow reflecting pool whose surface had frozen into a pale sheet. Further along, an older section opened where the stone was darker and the vines thicker. An ancient gate stood there among the other weathered structures, half-swallowed by moss. Time had worn its edges, and at its center remained a dark circular carving, with faint lines spreading outward like rays.
 
 Lucian’s steps slowed.
 
-“Father,” he said. “What is that?”
+LUCIAN:
+“Father,”
 
+NARRATOR:
+he said.
+
+LUCIAN:
+“What is that?”
+
+NARRATOR:
 Vesper followed his gaze only briefly. His expression did not change.
 
-“An old mark,” he said. “Something left from long before your time.”
+VESPER:
+“An old mark,”
 
+NARRATOR:
+he said.
+
+VESPER:
+“Something left from long before your time.”
+
+LUCIAN:
 “What does it mean?”
 
+VESPER:
 “It does not matter now.”
 
+NARRATOR:
 The answer was calm. Final. Vesper was already moving again.
 
 Lucian looked at the gate a moment longer, then followed.
@@ -136,49 +213,98 @@ Mountains upon mountains. Deep valleys cut by pale rivers of ice. Forests darken
 
 Vesper rested one hand on the cold stone of the wall.
 
-“Look,” he said.
+VESPER:
+“Look,”
+
+NARRATOR:
+he said.
 
 Lucian looked.
 
 For a moment he only tried to take it in — the sheer size of it, the way the land seemed to go on without end. From the high corridors of Blackspire the world had always felt distant. Here, standing at the edge, it felt immediate. Heavy. Real.
 
-“Everything you see,” Vesper continued, “will one day be yours. The peaks. The valleys. The people who live in their shadow. The strength of this house. The fear it commands. All of it.”
+VESPER:
+“Everything you see,”
 
+NARRATOR:
+Vesper continued,
+
+VESPER:
+“will one day be yours. The peaks. The valleys. The people who live in their shadow. The strength of this house. The fear it commands. All of it.”
+
+NARRATOR:
 The wind pulled at Lucian’s cloak. He did not step back from the wall.
 
-“But it is not a gift,” Vesper said. “It is a burden.”
+VESPER:
+“But it is not a gift,”
 
+NARRATOR:
+Vesper said.
+
+VESPER:
+“It is a burden.”
+
+NARRATOR:
 He was silent for a moment, eyes still on the distant land.
 
+VESPER:
 “No crown without weight.”
 
+NARRATOR:
 The words settled into the cold air.
 
+VESPER:
 “Do you know what it means?”
 
-Lucian answered carefully. “The words of our house.”
+NARRATOR:
+Lucian answered carefully.
 
-“That is what they are,” Vesper said. “Not what they mean.”
+LUCIAN:
+“The words of our house.”
 
+VESPER:
+“That is what they are,”
+
+NARRATOR:
+Vesper said.
+
+VESPER:
+“Not what they mean.”
+
+NARRATOR:
 He glanced down at his son.
 
+VESPER:
 “My father spoke them to me. His father spoke them to him. And so it has gone, through the line. They are not decoration. They are a standard.”
 
+NARRATOR:
 His voice remained even.
 
+VESPER:
 “It means that power is never free. Authority, land, loyalty, fear — none of it comes without cost. The one who claims them must also carry them. A lord who wants the strength of this house but refuses its burden has no right to either.”
 
+NARRATOR:
 A pause.
 
+VESPER:
 “A Caldarion who sets the weight aside does not deserve the name. Do you understand?”
 
+NARRATOR:
 Lucian stared out at the vast, cold land. It seemed endless. Too large for his hands. Too heavy for his shoulders. And yet something in his chest answered the sight of it — a quiet, steady pressure that was not entirely fear. Something that felt like recognition, even if he did not yet have the words for it.
 
-“Yes, Father,” he said.
+LUCIAN:
+“Yes, Father,”
+
+NARRATOR:
+he said.
 
 Vesper held his gaze a moment longer. For a brief instant, something unreadable passed through his eyes. Not warmth. Not pride, exactly. Something closer to recognition — as though he had seen a shape of the future standing small beside him in the wind.
 
-“Good,” he said.
+VESPER:
+“Good,”
+
+NARRATOR:
+he said.
 
 They stood in silence after that, father and son, looking out over the territory that would one day demand everything of the boy beside him.
 
