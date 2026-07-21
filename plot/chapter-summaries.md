@@ -13,6 +13,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 5. Lessons  
 6. Firsthold  
 7. Kin  
+8. Silver  
 
 ---
 
