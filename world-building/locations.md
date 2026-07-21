@@ -9,7 +9,7 @@ The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelo
 
 | # | Duchy Name              | Ruling House     | Location & Geography                          | Key Characteristics                              | Strategic Role                              |
 |---|-------------------------|------------------|-----------------------------------------------|--------------------------------------------------|---------------------------------------------|
-| 1 | **Northern Duchy**      | **Caldarion**    | Far north – high mountains, cold, heavy snow | Isolated, extremely defensible, Cold Silver mines, Blackspire Keep | Military heartland and strongest natural fortress |
+| 1 | **Northern Duchy**      | **Caldarion**    | Far north – high mountains, cold, heavy snow | Isolated, extremely defensible, Cold Silver mines, Blackspire Keep, capital **Firsthold** | Military heartland and strongest natural fortress |
 | 2 | **Royal Demesne**       | **Kaelarion**    | Center of the continent                       | Fertile, well-connected, contains the capital **Aurelia** | Political and administrative center         |
 | 3 | **Eastern Marches**     | **Vaelmar**      | Eastern coastline                             | Major ports facing Arcanor, naval bases, coastal cities | Naval power and gateway to the mainland     |
 | 4 | **Iron Hills**          | **Ironveil**     | Central-east, resource-rich hills             | Mines, forges, industrial towns                  | Heavy industry and weapons production       |
@@ -76,7 +76,8 @@ Arcanor represents the lost homeland and former glory of House Caldarion. The Da
 
 **Location**: Northern part of the Continent of Kaelor  
 **Climate**: Cold, mountainous, with frequent snowfall and long winters  
-**Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests
+**Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests  
+**Capital**: **Firsthold** (valley city at the foot of Blackspire’s mountain)
 
 ### History of the Northern Duchy
 
@@ -86,9 +87,19 @@ The combination of harsh weather, rough mountainous terrain, poor soil, and a la
 
 When House Caldarion arrived on Kaelor after their exile from Arcanor, the crown granted them the northern territory as their domain. They first settled in a **valley at the foot of a great mountain** — the same peak on which **Blackspire Keep** would later be raised.
 
-From that valley base, the Caldarions systematically cleared much of the wild beast population and established the first lasting order in the region. Their presence made settlement possible for ordinary people for the first time. As more settlers arrived under Caldarion protection, the original valley settlement grew into the **largest city and capital of the North**.
+From that valley base, the Caldarions systematically cleared much of the wild beast population and established the first lasting order in the region. Their presence made settlement possible for ordinary people for the first time. As more settlers arrived under Caldarion protection, the original valley settlement grew into **Firsthold**, the largest city and capital of the North.
 
-During this early period, House Caldarion discovered rich deposits of **Cold Silver** within the mountain itself. Recognizing both the value of the metal and the defensive strength of the peak, they chose to raise **Blackspire Keep** on the summit, while the valley city below remained the living heart of northern population and trade.
+During this early period, House Caldarion discovered rich deposits of **Cold Silver** within the mountain itself. Recognizing both the value of the metal and the defensive strength of the peak, they chose to raise **Blackspire Keep** on the summit, while **Firsthold** in the valley below remained the living heart of northern population and trade.
+
+### Firsthold
+
+**Type**: Capital city of the Northern Duchy  
+**Location**: Valley at the foot of the mountain that holds Blackspire Keep  
+**Origin**: The first lasting Caldarion settlement on Kaelor
+
+Firsthold began as a fortified valley camp and grew into the North’s main center of population, trade, and administration. It sits under the protection of Blackspire above and serves as the practical capital of the duchy, while the keep remains the seat of House Caldarion itself.
+
+The city’s name preserves its founding meaning: this was the **first lasting hold** in a land that had been empty Wildlands before the Caldarions arrived.
 
 ### Loyalty of the Northern Houses
 Because House Caldarion was the reason the North could be inhabited at all — and because they ruled as relatively fair lords who aided the population in times of need — most **northern lesser houses are exceptionally loyal** to them. This loyalty is deeper and more personal than ordinary feudal obligation. To many northern families, the Caldarions are not merely overlords; they are the house that made life in the North possible.
@@ -99,7 +110,7 @@ The ancestral seat of House Caldarion is built on the summit of one of the talle
 **Key Features**:
 - Near-impregnable natural defenses due to altitude and terrain
 - Harsh, isolating environment that reinforces House Caldarion’s reclusive nature
-- Strategic vantage point over the surrounding northern lands
+- Strategic vantage point over the surrounding northern lands, including Firsthold in the valley below
 - Limited accessibility, especially during winter
 - **Ancient Imperial Relics**: Scattered throughout the keep and its older sections (abandoned gates, old walls, forgotten courtyards) are carvings of the **Black Sun** — the ancient imperial sigil of House Caldarion from their time as emperors of Arcanor. Most inhabitants of Kaelor do not recognize the symbol’s true significance. To the rare visitors from Arcanor who still remember the old traditions, these carvings are unmistakable proof of the Caldarions’ identity.
 
@@ -151,13 +162,13 @@ Multiple levels of training arenas are carved into the mountain, including open-
 Deep below the castle, near the Cold Silver mine, lie heavily guarded vaults. These contain ancient weapons, important records, and possibly forbidden knowledge related to dragons and Commandments. Only the head of the house and a few trusted individuals know the full extent of what is stored there.
 
 #### The Path of Ascent
-The only practical way up the mountain is a long, fortified path with multiple defensive checkpoints. In winter the path becomes extremely dangerous, further isolating the castle and ensuring that almost no outsider ever visits uninvited.
+The only practical way up the mountain is a long, fortified path with multiple defensive checkpoints. In winter the path becomes extremely dangerous, further isolating the castle and ensuring that almost no outsider ever visits uninvited. The path links Blackspire above with **Firsthold** in the valley below.
 
 #### Thermal Springs
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name. The exceptional loyalty of northern houses is rooted in the fact that the Caldarions made the North livable and have ruled it fairly ever since.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name. The exceptional loyalty of northern houses is rooted in the fact that the Caldarions made the North livable and have ruled it fairly ever since. **Firsthold** remains the living capital of that legacy in the valley below the keep.
 
 ## Royal Capital: Aurelia
 
@@ -231,6 +242,7 @@ A natural location for research into history, geography, and the dangers of the 
 
 | Location | Type | Description | Strategic / Story Importance | Notable Features |
 |----------|------|-------------|------------------------------|--------------------|
+| **Firsthold** | Northern capital | Valley city at the foot of Blackspire’s mountain | Administrative and population center of the Northern Duchy | First lasting Caldarion settlement on Kaelor |
 | Eastern Ports | Coastal cities | Major ports under House Vaelmar facing Arcanor | Gateway for any contact with the mainland | Naval bases, trade hubs |
 | Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Ironveil |
 | Oldwood ruins | Ancient sites | Scattered ruins and towers | Magical research | Controlled by House Myrath |
@@ -242,5 +254,6 @@ A natural location for research into history, geography, and the dangers of the 
 - Aurelia’s central location and river access make it the natural hub of politics, trade, and information.
 - The eastern coast faces Arcanor and holds the primary ports of the kingdom.
 - The North was once uninhabited Wildlands; settlement only became viable after House Caldarion cleared beasts and established lasting order.
+- **Firsthold** is the capital of the Northern Duchy; **Blackspire Keep** is the seat of House Caldarion above it.
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
