@@ -150,7 +150,11 @@ The name “Mercy” is deliberate and somewhat ironic. Previous heads of the ho
 Because it was forged from the first batch of Cold Silver and an especially potent source of dragon bone, Mercy carries a unique purity and resonance that later weapons have not fully matched.
 
 #### Dragon Roosts & Landing Platforms
-Carved into the upper cliffs of the mountain are large dragon roosts and reinforced landing platforms. These are designed for Lirath, Ancalion, and (secretly) Morvath. The high altitude and cold air suit the dragons well.
+High in the upper cliffs of the mountain lies an ancient natural cave system that predates the arrival of House Caldarion. When the house settled the North and began raising Blackspire, their dragons claimed this cave as their primary dwelling.
+
+Over generations, broad reinforced landing platforms were carved into the outer cliffs and connected to the ancient cave by stone bridges and cut paths. The platforms serve for landing and launch; the dragons themselves live within the older cave.
+
+The high altitude and cold air suit them. The depth and complexity of the cave also allow quieter, more secluded sections farther inside the mountain — sections that remain largely unknown even to most of the household.
 
 #### The Black Halls
 The main residential and ceremonial sections of the castle are built from dark stone with Cold Silver accents. The architecture is severe, elegant, and imposing, reflecting the house’s black-and-silver aesthetic. Thick walls, limited windows, and long echoing corridors reinforce the sense of isolation and power.
