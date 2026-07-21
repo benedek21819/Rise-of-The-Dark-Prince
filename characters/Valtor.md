@@ -5,7 +5,7 @@
 **Affiliation:** House Caldarion  
 **Age:** Middle-aged to older (has served since the time of Lord Ravorn)
 
-**Appearance:** Tall and imposing with the bearing of a lifelong warrior. Almost always seen in the full Cold Silver armor of the Silver Guard: muted plate, closed or near-closed helm when on duty, heavy black cloak, and the same dark fur lining used against the northern cold. Even out of armor he carries himself with perfect posture and controlled movement. His expression is usually calm and unreadable. He is distinguished less by ornament than by presence — older authority, heavier stillness, the sense of a standard the rest of the Guard is measured against.
+**Appearance:** Tall and imposing with the bearing of a lifelong warrior. Almost always seen in the full Cold Silver armor of the Silver Guard: muted plate, heavy black cloak, and dark fur lining against the northern cold. **Unlike the rank-and-file, whose helms are fully closed, Valtor wears a half-open helm** that leaves the lower face visible — the sole command distinction of that kind in the Guard. Even out of armor he carries himself with perfect posture and controlled movement. His expression is usually calm and unreadable. He is marked less by ornament than by presence: older authority, heavier stillness, and the half-open helm that makes him the one recognizably human point in a wall of sealed silver.
 
 **Personality:** The Living Monument — extremely formal, disciplined, and reserved. He speaks little and always with precision. He views the Silver Guard as a sacred duty rather than merely a military unit. Absolute loyalty to House Caldarion defines him. He is the living embodiment of the house’s open power, tradition, and unyielding standards.
 
