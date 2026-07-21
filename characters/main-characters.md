@@ -24,6 +24,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Previous Generation
 - **[Lord Ravorn Caldarion](Ravorn_Caldarion.md)** — Lucian's grandfather, previous head of House Caldarion, last rider of Morvath (deceased)
+- **[Lady Orlena Caldarion](Orlena_Caldarion.md)** — Lucian's grandmother; widow of Ravorn; mother of Vesper and Dain; Political Elder at Blackspire
 
 ### Key Retainers
 - **[Captain Valtor](Valtor.md)** — Captain of the Silver Guard, The Living Monument
