@@ -105,7 +105,7 @@ The city’s name preserves its founding meaning: this was the **first lasting h
 Because House Caldarion was the reason the North could be inhabited at all — and because they ruled as relatively fair lords who aided the population in times of need — most **northern lesser houses are exceptionally loyal** to them. This loyalty is deeper and more personal than ordinary feudal obligation. To many northern families, the Caldarions are not merely overlords; they are the house that made life in the North possible.
 
 ### Blackspire Keep
-The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaelor. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
+The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaelor. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating **the Ascend**, a steep fortified route that is easily defended and often blocked by snow or rockfalls.
 
 **Key Features**:
 - Near-impregnable natural defenses due to altitude and terrain
@@ -161,14 +161,29 @@ Multiple levels of training arenas are carved into the mountain, including open-
 #### The Hidden Vaults
 Deep below the castle, near the Cold Silver mine, lie heavily guarded vaults. These contain ancient weapons, important records, and possibly forbidden knowledge related to dragons and Commandments. Only the head of the house and a few trusted individuals know the full extent of what is stored there.
 
-#### The Path of Ascent
-The only practical way up the mountain is a long, fortified path with multiple defensive checkpoints. In winter the path becomes extremely dangerous, further isolating the castle and ensuring that almost no outsider ever visits uninvited. The path links Blackspire above with **Firsthold** in the valley below.
+#### The Ascend
+**The Ascend** is the only practical route from **Firsthold** in the valley up to **Blackspire Keep** on the summit. It is a long, fortified mountain path with multiple defensive checkpoints, watch posts, and chokepoints designed to make any hostile approach extremely costly.
+
+The Ascend is **guarded and patrolled by the Silver Guard**. In winter the route becomes especially dangerous, further isolating the castle and ensuring that almost no outsider ever reaches Blackspire uninvited.
+
+#### Guard Accommodations (Under-Castle Barracks)
+Directly beneath Blackspire Keep, carved into the living stone of the mountain and still connected to the castle above, lie the permanent accommodations of House Caldarion’s two elite forces.
+
+The two Guard forces are housed on **opposing sides of the mountain**, deliberately separated from one another:
+
+- **Silver Guard Barracks** — one flank of the mountain  
+  Open, ordered, and martial in design. Built to house the full strength of the Silver Guard (~250). Includes sleeping halls, armories for Cold Silver equipment, mess areas, briefing chambers, and direct internal access routes upward into the keep and outward toward the Ascend. The atmosphere is disciplined, bright with Cold Silver accents, and openly hierarchical.
+
+- **Shadow Guard Barracks** — the opposite flank of the mountain  
+  Lower-profile, quieter, and more restricted. Built to house the Shadow Guard (~100). Includes private cells and small dormitories, sealed training spaces, equipment vaults for light armor and covert tools, and limited access points known primarily to the Guard itself and the highest levels of the house. The atmosphere is subdued and controlled; silence is part of the architecture as much as the culture.
+
+Both complexes remain **connected to Blackspire Keep** through internal stone passages, allowing rapid deployment into the castle, onto the Ascend, or into deeper mountain levels as required. Physical separation between the two forces reduces friction, preserves operational secrecy for the Shadow Guard, and reinforces the distinct identities of open strength versus hidden blade.
 
 #### Thermal Springs
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name. The exceptional loyalty of northern houses is rooted in the fact that the Caldarions made the North livable and have ruled it fairly ever since. **Firsthold** remains the living capital of that legacy in the valley below the keep.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name. The exceptional loyalty of northern houses is rooted in the fact that the Caldarions made the North livable and have ruled it fairly ever since. **Firsthold** remains the living capital of that legacy in the valley below the keep. **The Ascend** and the separated under-castle barracks make the military structure of Blackspire physically visible in the mountain itself: Silver Guard on one side, Shadow Guard on the other, both beneath the house they serve.
 
 ## Royal Capital: Aurelia
 
@@ -243,6 +258,7 @@ A natural location for research into history, geography, and the dangers of the 
 | Location | Type | Description | Strategic / Story Importance | Notable Features |
 |----------|------|-------------|------------------------------|--------------------|
 | **Firsthold** | Northern capital | Valley city at the foot of Blackspire’s mountain | Administrative and population center of the Northern Duchy | First lasting Caldarion settlement on Kaelor |
+| **The Ascend** | Fortified mountain route | Path from Firsthold to Blackspire Keep | Only practical approach to the keep; controlled by Silver Guard | Checkpoints, winter isolation |
 | Eastern Ports | Coastal cities | Major ports under House Vaelmar facing Arcanor | Gateway for any contact with the mainland | Naval bases, trade hubs |
 | Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Ironveil |
 | Oldwood ruins | Ancient sites | Scattered ruins and towers | Magical research | Controlled by House Myrath |
@@ -255,5 +271,7 @@ A natural location for research into history, geography, and the dangers of the 
 - The eastern coast faces Arcanor and holds the primary ports of the kingdom.
 - The North was once uninhabited Wildlands; settlement only became viable after House Caldarion cleared beasts and established lasting order.
 - **Firsthold** is the capital of the Northern Duchy; **Blackspire Keep** is the seat of House Caldarion above it.
+- **The Ascend** is the guarded route between them, patrolled by the Silver Guard.
+- Silver Guard and Shadow Guard barracks are carved into opposite sides of the mountain beneath the keep, connected internally but kept physically separate.
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
