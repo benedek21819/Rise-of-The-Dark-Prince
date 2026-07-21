@@ -15,12 +15,17 @@ She is not naive — she understands the weight of the house and the expectation
 
 Her upbringing in House Thalorin (a house known for healing, restraint, and soft power) strongly influenced her more compassionate and emotionally open nature, creating a lasting contrast with the austere culture of House Caldarion.
 
+**Birth Family (House Thalorin):**
+- **Lord Halric Thalorin** — Father; pragmatic head of House Thalorin
+- **Lady Ysara Thalorin** — Mother; warmer healer figure and major source of Elara’s open affection
+- **Lord Elias Thalorin** — Brother; rising political face / heir of House Thalorin
+
 **Key Relationships:**
 - **Lord Vesper Caldarion**: Respects and supports him as the head of the house, though their temperaments differ. She sometimes softens his colder decisions in private.
 - **Lucian Caldarion**: Deeply loves her son and worries about how cold and isolated he is becoming. She is one of the few people whose concern he cannot completely ignore.
 - **Selene Caldarion**: Very affectionate and protective toward her youngest daughter.
 - Maintains a composed and proper relationship with the two concubines (Mira and Sable), though there is natural distance.
-- Retains ties to her birth house, **House Thalorin**.
+- Retains active ties to her birth house through Halric, Ysara, and Elias.
 
 **Strengths:**
 - Genuine emotional warmth
