@@ -12,7 +12,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Current Generation
 - **[Lord Vesper Caldarion](Vesper_Caldarion.md)** — Father, current head of House Caldarion
-- **[Lady Elara Caldarion](Elara_Caldarion.md)** — Main wife, Lucian's mother
+- **[Lady Elara Caldarion](Elara_Caldarion.md)** — Main wife, Lucian's mother (née Thalorin)
 - **[Lady Lyra Caldarion](Lyra_Caldarion.md)** — Older half-sister (from first concubine)
 - **[Lady Selene Caldarion](Selene_Caldarion.md)** — Younger full sister
 - **[Lord Kael & Thorne Caldarion](Kael_and_Thorne_Caldarion.md)** — Younger half-brothers (twins)
@@ -29,6 +29,14 @@ This is the index for all major characters. Each character has their own dedicat
 ### Key Retainers
 - **[Captain Valtor](Valtor.md)** — Captain of the Silver Guard, The Living Monument
 - **[Cazius](Cazius.md)** — Shadow Commander of the Shadow Guard (Lucian calls him **Caz**)
+
+---
+
+## House Thalorin (Elara’s Birth House)
+
+- **[Lord Halric Thalorin](Halric_Thalorin.md)** — Head of House Thalorin; Elara’s father; maternal grandfather of Lucian
+- **[Lady Ysara Thalorin](Ysara_Thalorin.md)** — Lady of House Thalorin; Elara’s mother; maternal grandmother of Lucian
+- **[Lord Elias Thalorin](Elias_Thalorin.md)** — Elara’s brother; rising political face / heir of House Thalorin; maternal uncle of Lucian
 
 ---
 
