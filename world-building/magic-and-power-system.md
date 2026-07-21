@@ -29,6 +29,69 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Dragon Amplification** — Using a bonded dragon to dramatically boost power.
 - **Commandments** (Extremely Rare & Ancient): An innate, congenital form of magic. Users can **command other entities** (including dragons) with just their voice. Extremely dangerous because it bypasses physical damage. Proper use requires immense Will and control. Misuse can backfire catastrophically on the user.
 
+## The Still Blade — House Caldarion Combat Doctrine
+
+**Name:** The Still Blade  
+**Origin:** Imperial-era martial doctrine preserved by the main Caldarion line after exile from Arcanor  
+**Nature:** A complete martial system first; Veil use is a restricted branch, not the foundation
+
+### Core Identity
+The Still Blade is built on absolute economy of motion, control before display, and decisive finality. A trained practitioner wastes almost nothing. Fights often look restrained, even late, until they end cleanly.
+
+To other houses on Kaelor, the style appears unnatural: too quiet, too patient, and too absolute. Local martial cultures favor pressure, honor-combat, formation power, flourish, or separate spellcasting. The Still Blade does not compete with those approaches on their terms. It ends exchanges by controlling distance, timing, and intent.
+
+### Internal Principle — Weight
+Practitioners train presence as technique. Stance, breath, timing, and will are used to impose pressure so opponents feel late, crowded, and burdened. This is not theatrical intimidation. It is disciplined dominance.
+
+### Structure
+
+**1. Foundation — The Still Blade (pure martial)**
+- Stance, breath, distance, and economy
+- Guard without panic
+- Strike without waste
+- Repetition until motion becomes decision
+- Usable by any disciplined fighter of the house, with or without Veil talent
+
+**2. Field Application**
+- Duel form
+- Battlefield form
+- Command presence while fighting
+
+**3. Veil Branch — optional / restricted**
+Only for those with genuine Veil capacity.
+- Breath, step, and Veil pulse aligned
+- Cold Silver used as stabilizer and conductor where available
+- Advanced users sharpen timing, pressure, and finishing certainty
+- Never replaces blade fundamentals
+- A fighter who leans on Veil without stillness is considered poorly trained
+
+### Force Variants within House Caldarion
+
+**Conventional Caldarion Troops — Soldier’s Measure**  
+A practical form of the Still Blade designed and modified specifically for the house’s regular soldiers under field command (including forces overseen by figures such as Lord Dain).  
+- Simplified for unit cohesion, formation fighting, and battlefield endurance  
+- Emphasizes discipline, controlled advances, clean finishing, and refusal to break ranks for personal glory  
+- Still recognizably Caldarion: quieter and more exact than other Kaelor armies  
+- Does not include the full personal refinement expected of house elites or the heir’s line
+
+**Silver Guard — Open Elite Technique**  
+The Silver Guard does **not** simply use the common troop form. They maintain their own elite open-combat technique, built on Still Blade principles but refined for:  
+- Full Cold Silver armor and glaive work  
+- Fortress defense, ceremonial severity, and direct protection of the family  
+- Unbroken formation presence and absolute visible discipline  
+Their fighting is the public face of Caldarion martial power: imposing, exact, and openly superior.
+
+**Shadow Guard — Covert Elite Technique**  
+The Shadow Guard also maintains its own techniques, derived from Still Blade logic but adapted for silent work:  
+- Dual blades / short weapons  
+- Killing efficiency without spectacle  
+- Movement, entry, and exit under concealment  
+- Absolute economy in confined or covert conditions  
+Where the Silver Guard is the house’s open strength, the Shadow Guard is its hidden application of the same underlying doctrine: no waste, no performance, only the necessary end.
+
+### House Meaning
+The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch and latent Commandments.
+
 ## Veilseers and The Sisters of the Current
 **Veilseers** are a rare and distinct type of magic user. While ordinary Veilweavers manipulate the Veil, Veilseers **perceive possible futures** through the Eternal Current.
 
@@ -142,7 +205,7 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation.
+Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation. His early martial formation is in **The Still Blade**, with later potential to enter its Veil branch.
 
 *This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
 
