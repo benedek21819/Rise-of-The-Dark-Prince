@@ -44,6 +44,7 @@ There are eight Great Houses, each controlling one duchy. Together with the Roya
 - **Reputation & Public Perception**: Highly mysterious and reclusive. They rarely interfere in the affairs of the kingdom. To most of the public and even other nobles, very little is known about them beyond two facts: their overwhelmingly powerful military and the fact that they helped the current royal dynasty gain the throne.
 - **Aesthetic & Symbolism**: Dark aesthetic. The house is strongly associated with the colors **black and silver**.
 - **Sigil**: A silver sword with black wings.
+- **Combat Doctrine**: **The Still Blade** (imperial martial tradition). Conventional troops use a modified soldier’s form; the elite Guards maintain their own techniques.
 - **Current Stance toward the Crown**: Loyal and supportive of the current Royal Family due to their historical alliance. However, their overwhelming military superiority and reclusive nature create underlying tension and potential for future conflict.
 - **Key Advantage**: Combination of supreme military power + strong political influence from being kingmakers, while maintaining an aura of mystery.
 
@@ -54,8 +55,13 @@ As a result, **House Kaelarion is technically a vassal to House Caldarion**, tho
 
 House Caldarion receives enormous privileges that no other house enjoys — most notably, they are not required to bow or bend the knee to the crown. Publicly, these privileges are attributed to the crown’s reliance on Caldarion’s military power. In reality, they exist because House Caldarion are the true overlords of Kaelor. Despite this, House Caldarion has no interest in directly ruling the kingdom. They deliberately remain reclusive and let House Kaelarion handle governance.
 
+### Conventional Forces
+The broader Caldarion army, outside the elite Guards, is trained in **Soldier’s Measure** — a practical form of **The Still Blade** designed and modified specifically for regular troops. It emphasizes unit cohesion, controlled advances, clean finishing, and refusal to break ranks for personal glory. These forces fall under field command structures such as that of **Lord Dain Caldarion**.
+
 ### The Silver Guard
 Elite open military force of House Caldarion. Approximately 250 members. Equipped with full Cold Silver armor and Cold Silver glaives. Responsible for guarding the family and executing the direct orders of the house head. Commanded by **Captain Valtor**.
+
+**Combat Technique:** The Silver Guard does not use the common troop form. They maintain their own **open elite technique**, built on Still Blade principles but refined for full Cold Silver armor, glaive work, fortress defense, ceremonial severity, and direct protection of the family. Their fighting is the public face of Caldarion martial power: imposing, exact, and openly superior.
 
 ### The Shadow Guard
 
@@ -67,6 +73,8 @@ Elite open military force of House Caldarion. Approximately 250 members. Equippe
 
 **Identity**  
 The Shadow Guard is the hidden blade of House Caldarion. Where the Silver Guard represents the house’s open strength and honor, the Shadow Guard exists to handle what cannot be done in the light. They are specialists in stealth, lethal precision, and absolute discretion.
+
+**Combat Technique:** The Shadow Guard maintains its own **covert elite techniques**, derived from Still Blade logic but adapted for silent work: dual blades and short weapons, killing efficiency without spectacle, movement under concealment, and absolute economy in confined conditions.
 
 **Structure – Hierarchical Cells**  
 The Shadow Guard is organized into small, tightly controlled cells of 5–8 members each.  
