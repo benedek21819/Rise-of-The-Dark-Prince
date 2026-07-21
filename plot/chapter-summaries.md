@@ -2,6 +2,18 @@
 
 This file is for tracking individual chapters (novel/webnovel) or episodes (webtoon).
 
+**Note on continuity (updated 2026-07-21):**  
+Written chapters use single-noun titles and a revised early sequence. The older outline titles below are retained for reference but are no longer 1:1 with the prose.
+
+**Written & saved:**  
+1. Burden  
+2. Bond  
+3. Sister  
+4. Household  
+5. Lessons  
+6. Firsthold  
+7. Kin  
+
 ---
 
 ## Arc 1 – Early Childhood (Ages ~5–10)
