@@ -78,6 +78,21 @@ Arcanor represents the lost homeland and former glory of House Caldarion. The Da
 **Climate**: Cold, mountainous, with frequent snowfall and long winters  
 **Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests
 
+### History of the Northern Duchy
+
+Before the arrival of House Caldarion, the far north of Kaelor was **mostly uninhabited**.
+
+The combination of harsh weather, rough mountainous terrain, poor soil, and a large population of dangerous wild beasts made the region undesirable to nearly everyone. Officially, the north fell under the authority of **House Kaelarion**, but in practice it remained **uninhabited Wildlands** — claimed on maps, empty in reality.
+
+When House Caldarion arrived on Kaelor after their exile from Arcanor, the crown granted them the northern territory as their domain. They first settled in a **valley at the foot of a great mountain** — the same peak on which **Blackspire Keep** would later be raised.
+
+From that valley base, the Caldarions systematically cleared much of the wild beast population and established the first lasting order in the region. Their presence made settlement possible for ordinary people for the first time. As more settlers arrived under Caldarion protection, the original valley settlement grew into the **largest city and capital of the North**.
+
+During this early period, House Caldarion discovered rich deposits of **Cold Silver** within the mountain itself. Recognizing both the value of the metal and the defensive strength of the peak, they chose to raise **Blackspire Keep** on the summit, while the valley city below remained the living heart of northern population and trade.
+
+### Loyalty of the Northern Houses
+Because House Caldarion was the reason the North could be inhabited at all — and because they ruled as relatively fair lords who aided the population in times of need — most **northern lesser houses are exceptionally loyal** to them. This loyalty is deeper and more personal than ordinary feudal obligation. To many northern families, the Caldarions are not merely overlords; they are the house that made life in the North possible.
+
 ### Blackspire Keep
 The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaelor. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating steep, treacherous paths that are easily defended and often blocked by snow or rockfalls.
 
@@ -142,7 +157,7 @@ The only practical way up the mountain is a long, fortified path with multiple d
 Natural hot springs exist in certain lower caverns of the mountain. They are used by the family for private bathing and recovery, providing a rare source of warmth and comfort in an otherwise harsh environment.
 
 **Story Importance**:
-The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name.
+The isolation of Blackspire Keep reflects and strengthens the house’s mysterious, withdrawn reputation. The Cold Silver mine explains much of House Caldarion’s enduring wealth and military edge. The combination of natural defenses, internal resources, and secrecy makes the castle one of the most secure and enigmatic locations in the Kingdom of Kaelor. The ancestral sword Mercy serves as a powerful symbol of the direct lineage, the house’s history, and Lucian’s position as heir. The presence of ancient Black Sun carvings — especially the moss-covered gate in the gardens — becomes critical when visitors from Arcanor arrive seeking confirmation of the Caldarion name. The exceptional loyalty of northern houses is rooted in the fact that the Caldarions made the North livable and have ruled it fairly ever since.
 
 ## Royal Capital: Aurelia
 
@@ -226,5 +241,6 @@ A natural location for research into history, geography, and the dangers of the 
 - Control of Cold Silver is a closely guarded economic and military advantage.
 - Aurelia’s central location and river access make it the natural hub of politics, trade, and information.
 - The eastern coast faces Arcanor and holds the primary ports of the kingdom.
+- The North was once uninhabited Wildlands; settlement only became viable after House Caldarion cleared beasts and established lasting order.
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
