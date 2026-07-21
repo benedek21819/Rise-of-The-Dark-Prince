@@ -19,6 +19,9 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Lady Mira Caldarion](Mira_Caldarion.md)** — First concubine, mother of Lyra
 - **[Lady Sable Caldarion](Sable_Caldarion.md)** — Second concubine, mother of the twins
 
+### Extended Family
+- **[Lord Dain Caldarion](Dain_Caldarion.md)** — Vesper’s younger brother; Soldier-Uncle; field commander of conventional forces; Warden of Firsthold (military)
+
 ### Previous Generation
 - **[Lord Ravorn Caldarion](Ravorn_Caldarion.md)** — Lucian's grandfather, previous head of House Caldarion, last rider of Morvath (deceased)
 
