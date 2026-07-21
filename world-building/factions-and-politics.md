@@ -65,14 +65,14 @@ Elite open military force of House Caldarion. Approximately 250 members. Respons
 
 **Appearance:**
 - **Armor:** Full plate of **Cold Silver**, muted rather than bright parade-chrome — a colder silver with a slight dark undertone. Clean lines, minimal ornament. The house sigil (silver sword with black wings) appears small and exact at the breast or shoulder, never as large display heraldry.
-- **Helm:** Closed or near-closed, with a narrow visor. Faces are hidden. The Guard reads as an institution, not a collection of individuals.
+- **Helm:** Fully **closed** for all rank-and-file Silver Guard, with only a narrow visor slit. Faces are completely hidden. The Guard reads as an institution, not a collection of individuals. **Only the commander (Captain Valtor)** wears a **half-open** helm, leaving the lower face visible — a deliberate mark of command authority and recognition.
 - **Cloak:** Heavy black cloaks over the silver, cut for mountain wind and long posts. Simple silver clasps. From a distance the Guard appears as black-and-silver stillness.
 - **Warmth:** Dark fur or pelt lining under the armor and cloak — black, deep grey, or very dark brown. Visible only at the collar, cloak edge, and occasionally the cuffs. Practical against northern cold; never shaggy, tribal, or decorative.
-- **Weapon:** Tall Cold Silver glaives / halberds. Held upright at rest. The metal looks denser and darker than ordinary steel.
-- **Rank marks:** Ordinary members wear plain Cold Silver. Officers bear thin black enamel lines on gorget or pauldron. Captain Valtor is distinguished by presence and older, heavier authority more than ornament.
+- **Weapon:** Tall Cold Silver glaives /halberds. Held upright at rest. The metal looks denser and darker than ordinary steel.
+- **Rank marks:** Ordinary members wear plain Cold Silver. Officers bear thin black enamel lines on gorget or pauldron. Captain Valtor is further distinguished by the half-open helm and by presence — older authority, heavier stillness — more than by ornament.
 - **Formation presence:** Exact spacing, almost no idle movement. When they shift, they shift together. Sound is controlled: soft plate, measured boots, very little speech.
 
-**Impression:** Elite, impersonal, and northern. Up close, the dark fur at throat and cloak lining reveals the practicality beneath the metal. From afar they remain the living public face of House Caldarion — severe, uniform, and unmistakably not ordinary soldiers.
+**Impression:** Elite, impersonal, and northern. Rank-and-file faces are sealed away; only the commander’s half-open helm marks a human point of command. Up close, the dark fur at throat and cloak lining reveals the practicality beneath the metal. From afar they remain the living public face of House Caldarion — severe, uniform, and unmistakably not ordinary soldiers.
 
 ### The Shadow Guard
 
