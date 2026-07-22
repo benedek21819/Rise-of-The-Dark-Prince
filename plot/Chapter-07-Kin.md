@@ -36,19 +36,57 @@ A faint inclination of her head. “He will not waste time on softness. That is 
 
 Lucian said nothing. He had already learned that silence was often the expected answer in this house, and that unnecessary words only revealed the speaker.
 
-For a time the only sound in the solar was the low, occasional shift of the brazier as the wood settled. Then, from somewhere beyond the inner archway that connected to the quieter family rooms, a different noise reached them. It was soft and contained: the brief cry of a very young child, quickly soothed, followed by the light scuff of small feet against stone and the low, steady voice of a nurse. Orlena did not turn toward the sound. She merely allowed it to exist in the air between them, as one might note a change in the wind without needing to comment upon it.
+For a time the only sound in the solar was the low, occasional shift of the brazier as the wood settled. Then Orlena spoke again.
 
-“The house is not only the heir,” she said at last. “It is also what follows him.”
+“Name the members of this house.”
 
-Through the open arch Lucian could see a narrow stretch of gallery lit by the same thin afternoon light. A nurse moved past with careful steps, one hand guiding a small dark-haired girl who walked with the unsteady determination of the very young. The child’s steps were short and slightly uneven. She looked once toward the solar, curiosity plain on her face, before the nurse gently redirected her with a hand at her shoulder and led her onward.
+Lucian looked at her.
 
-A moment later two sturdy boys appeared farther down the same passage, held under the firm supervision of a second attendant. Even at their age they carried a restless physical energy that the quiet of the keep seemed to press against. One of them made a short, wordless sound of protest and was answered with quiet firmness. Then they too were moved on, and the gallery returned to its previous stillness.
+“All of them,” she said. “In order of blood and place. Briefly. Who they are.”
 
-Orlena watched Lucian’s face rather than the children.
+He was quiet for a moment, gathering what he knew.
+
+“Lord Vesper,” he began. “My father. Head of the house.”
+
+Orlena gave no sign of approval or correction. She simply waited.
+
+“Lady Elara. My mother.”
+
+“Continue.”
+
+“Lyra. My older sister.”
+
+“Half-sister,” Orlena corrected evenly. “Daughter of Lady Mira. Go on.”
+
+“Lady Mira,” Lucian said. “And Lady Sable.”
+
+“Concubines,” Orlena supplied. “Mira bore Lyra. Sable bore the twins. State it properly.”
+
+“Lady Mira. Mother of Lyra. Lady Sable. Mother of Riven and Thorne.”
+
+“The twins are younger than you. Remember that. Continue.”
+
+“Selene. My younger sister.”
+
+“Full sister,” Orlena said. “Born of Lady Elara. Yes.”
+
+“Uncle Dain.”
+
+“Your father’s brother. He trains you. He holds no children of his own.” A slight pause. “And?”
+
+Lucian met her eyes. “You, Grandmother.”
+
+“Lady Orlena,” she said. “Mother of your father and of Dain. The elder of this house.” Her gaze remained steady. “Is that the full accounting?”
+
+“Yes, Grandmother.”
+
+“It is sufficient for now.” She studied him a moment longer. “You will know them by more than names as you grow. Their places. Their weight. Their claims. The house is not only the heir. It is also what follows him and what stands beside him. Do not forget the shape of it.”
+
+Through the open archway that connected to the quieter family rooms, a soft, contained sound reached them — the brief cry of a very young child, quickly soothed, followed by the light scuff of small feet and a nurse’s low voice. Orlena did not turn toward it. She merely allowed the sound to exist in the air between them.
 
 “They are young,” she said. “Too young for use. But they are already of the blood. The boys will have strength. The girl will require shaping. All of them will look to you in time, whether they understand it yet or not.”
 
-Lucian kept his gaze steady on her. He did not step toward the archway or crane for another look. He simply registered what he had been shown: small lives already inside the same cold stone, already carrying the same name, already placed within the long accounting of the house. The knowledge settled with the same quiet weight as the chill that lived in the walls.
+Lucian kept his gaze steady on her. He did not step toward the archway. He simply registered what he had been shown: small lives already inside the same cold stone, already carrying the same name, already placed within the long accounting of the house.
 
 Orlena’s attention returned fully to him. She studied him for another long moment, as though weighing something that could not be spoken aloud in full. The pale light from the window caught the silver in her hair and the exact line of her shoulder.
 
@@ -66,10 +104,10 @@ She sat back. The brief contact was already erased from her bearing, and the ass
 
 “You may go.”
 
-He bowed once more, exact in the angle and the duration. As he turned toward the door he was aware of the gallery beyond the arch—empty now, the younger children already taken elsewhere—and of the precise place at his throat where her fingers had rested a moment longer than needed. The knowledge of both remained with him as he crossed the threshold.
+He bowed once more, exact in the angle and the duration. As he turned toward the door he was aware of the gallery beyond the arch—empty now—and of the precise place at his throat where her fingers had rested a moment longer than needed. The knowledge of both remained with him as he crossed the threshold.
 
-Cole closed the door behind them without comment. The colder air of the corridor met Lucian’s face at once. They walked in silence, the attendant a few measured paces behind, the sound of their boots soft against the older stone. Lucian did not speak of what he had seen or what had been said. The conversation remained inside him all the same: the small figures in the gallery, the dry weight of Orlena’s words, and the brief, unnecessary pressure of her hand at his collar.
+Cole closed the door behind them without comment. The colder air of the corridor met Lucian’s face at once. They walked in silence, the attendant a few measured paces behind, the sound of their boots soft against the older stone. Lucian did not speak of what he had seen or what had been said. The conversation remained inside him all the same: the names, the places, the dry weight of Orlena’s words, and the brief, unnecessary pressure of her hand at his collar.
 
-The keep held more lives than the ones he had previously held in mind. Those lives already belonged to the same long, cold line. The understanding did not warm him. It only settled deeper into the quiet place where the rest of the house’s burdens already lived.
+The keep held more lives than the ones he had previously held in mind. Those lives already belonged to the same long, cold line. The understanding settled without ceremony, another layer added to the quiet place where the rest of the burdens already lived.
 
 Behind them, the older wing of Blackspire returned to its customary stillness, as though nothing of consequence had occurred at all.
