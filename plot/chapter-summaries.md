@@ -2,7 +2,7 @@
 
 This file is for tracking individual chapters (novel/webnovel) or episodes (webtoon).
 
-**Note on continuity (updated 2026-07-22):**  
+**Note on continuity (updated 2026-07-23):**  
 Written chapters use single-noun titles and a revised early sequence. The older outline titles below are retained for reference but are no longer 1:1 with the prose.
 
 **Written & saved:**  
@@ -18,6 +18,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 10. Quiet  
 11. Veil  
 12. Home  
+13. Path  
 
 ---
 
