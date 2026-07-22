@@ -34,6 +34,20 @@ Lucian almost smiled. He returned to his own food. The morning felt simple and c
 
 ---
 
+The ordinary severity of Blackspire reasserted itself as the morning advanced.
+
+Lucian left the solar and moved through the upper corridors without urgency. The warmth of the small fire and his mother’s voice stayed with him only as a residual impression, already thinning against the colder stone. The banners hung still. The light remained thin and colorless. Servants passed him with lowered eyes and the same careful distance as always.
+
+Further on, the keep began to show quiet signs of the evening ahead.
+
+In one of the wider passages near the formal wing, two stewards directed a pair of younger attendants carrying polished Cold Silver settings wrapped in dark cloth. Their steps were measured, their voices low. A third servant moved ahead of them to open a side door that led toward the dining chambers. None of them looked at Lucian directly, but the purpose in their movement was clear. The house was preparing.
+
+He continued past without slowing. The residual softness of the morning breakfast sat at a distance now, held inside the larger order of the keep rather than opposing it. Both belonged. The private warmth and the formal gathering were simply different faces of the same place.
+
+By the time the light in the high windows had shifted toward afternoon, the corridors near the family wing had grown quieter still. The preparations continued somewhere out of sight. Lucian returned to his own chambers to wait.
+
+---
+
 Later, in his chambers, Lyra helped him prepare for the evening.
 
 She straightened the fall of his dark tunic with precise hands, then adjusted the silver clasp at his throat.
