@@ -116,6 +116,6 @@ These were the people who formed the inner circle of the house. His father at th
 
 He did not feel the need to speak further. The morning’s private warmth with Elara and Selene still existed behind the formal atmosphere, just as the lessons of the forges and the Veil and the high roosts still existed. All of it belonged here. All of it was home.
 
-Outside, the wind moved across the high stone of Blackspire. Inside, the family table held its silence and its order. Phase 1 settled into place around him, complete in its foundations.
+Outside, the wind moved across the high stone of Blackspire. Inside, the family table held its silence and its order.
 
 He remained where he was, among his own.
