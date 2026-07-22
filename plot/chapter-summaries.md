@@ -15,6 +15,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 7. Kin  
 8. Silver  
 9. Scale  
+10. Quiet  
 
 ---
 
