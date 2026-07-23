@@ -19,6 +19,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 11. Veil  
 12. Home  
 13. Path  
+14. Choice  
 
 ---
 
