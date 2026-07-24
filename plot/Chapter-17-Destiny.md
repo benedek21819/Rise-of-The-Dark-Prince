@@ -1,6 +1,6 @@
 # Chapter 17: Destiny
 
-Weeks had passed since the training hall, since Vesper had laid the blade and the Veil and the narrow, costly road between them in front of his son and left the deciding to him. Blackspire had not paused for the question. The keep continued its ordinary severity — the same cold, the same order, the same unhurried weight in every corridor — as if a choice this size were no different from any other unfinished lesson waiting its turn.
+Months had passed since the training hall, since Vesper had laid the blade and the Veil and the narrow, costly road between them in front of his son and left the deciding to him. The Corvane matter had come and gone in that time, folded into the deeper, quieter work of the Shadow Guard, and still the question had not resolved itself the way lesser things resolved themselves with distance. Blackspire had not paused for it. The keep continued its ordinary severity — the same cold, the same order, the same unhurried weight in every corridor — as if a choice this size were no different from any other unfinished lesson waiting its turn.
 
 Lucian had turned it over in the same disciplined manner he turned over a form that would not hold — reset, begin again, examine where the line broke. Dain's account. His father's account. The reasoning he had given Dain that day, sound and complete within its own terms, and Dain's answer that the reasoning had not been the deciding thing.
 
