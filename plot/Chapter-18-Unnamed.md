@@ -1,4 +1,4 @@
-# Chapter 18: Eyes
+# Chapter 18: Unnamed
 
 The lower terrace was colder than the training halls, and Dain had chosen it for that reason.
 
@@ -64,18 +64,12 @@ The cold behind his eyes eased by degrees as the wider sense collapsed back into
 
 Lucian followed him from the terrace and down through the colder inner stair, the residual ache of the effort still sitting behind his eyes, the strange, unfinished shape of what he had sensed still unresolved somewhere beneath it. Dain did not speak further on the walk down, and Lucian did not ask.
 
-The hall they were given for the reception was one of the lesser formal chambers, chosen, Lucian understood without being told, because the greater hall would have said more than his father intended to say this early. Vesper stood near the head of it when Lucian arrived, dressed in the plain severity that passed for formality in Blackspire, and gave his son a single measuring look before returning his attention to the door.
+At the turn toward the family wing, a herald's voice reached them from the lower gallery, pitched to carry, formal in a way the keep's ordinary voices never were.
 
-The Kaelarion party entered in loose order — an escort first, then a steward, then the rest, cloaks still marked by the cold of the Ascend, voices kept low in the way visitors learned quickly to keep them in this house. Lucian stood where he had been placed and watched them arrive the way he had been taught to watch anything unfamiliar: without staring, without missing anything.
+“The King's envoy, and the House of Kaelarion, received under the peace of Blackspire.”
 
-She was near the back, half a step behind a nurse who kept one hand near her shoulder without quite touching it. Pale hair, near-white in the thin light through the high windows. A traveling cloak too fine for the cold it was meant to answer. She looked around the hall the way a child looks at a room too large for her, curious rather than afraid, and for a moment her attention crossed the space and settled, without any particular purpose, on him.
+Lucian stopped mid-step. Dain did not.
 
-Her eyes were a clear, pale blue, and they did not move away.
+“Come,” he said. “Your father will want you presentable within the hour. That is enough for today.”
 
-It lasted less than the length of a breath. The nurse's hand found her shoulder properly and turned her gently back toward the steward's introductions, and the moment closed as plainly as it had opened. Lucian looked away a beat after she did, not before.
-
-He did not know her name yet. It would be given within the hour, in the flat, procedural tone his father used for anything that mattered too much to dress up — Seren, of House Kaelarion, and some sentence after it about the crown and the betrothal that Lucian would carry out of the hall the way he carried everything else the house gave him, folded in with the rest.
-
-He did not think of the Veil again that evening. But later, in the quiet before sleep, it was not the strange unresolved shape from the terrace that stayed with him.
-
-It was the color of her eyes, and the fact that they had not looked away first.
+Lucian followed, the ache behind his eyes not yet clear, the shape of what he had sensed on the terrace still without a name — and no clearer idea, from the herald's voice alone, of who exactly had just arrived, or why the party his uncle had promised for later had come to Blackspire ahead of itself.
