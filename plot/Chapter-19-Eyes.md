@@ -10,7 +10,7 @@ Lucian did not ask why the envoy had come early, or why the crown had sent its o
 
 The hall was smaller than the great chamber, chosen, Lucian understood without being told, because the great hall would have said more than his father intended to say this early. Vesper stood near the head of it, dressed in the plain severity that passed for formality in Blackspire. Lady Orlena occupied a chair near the wall, upright and unhurried, watching the door the way she watched everything — as an account already half-taken. Vesper gave his son a single measuring look, took in the black, the collar, the composed stillness Cole had built into him in under an hour, and returned his attention to the door.
 
-“The envoy travels under the crown's colors,” Vesper said, low enough that it was meant for Lucian alone. “Whatever is said in this room, you will hear more in what is not said. Watch the steward. He speaks for the King before he speaks for the house he escorts.”
+“The envoy travels under the crown's colors,” Vesper said, low enough that it was meant for Lucian alone. “Whatever is said in this room, you will hear more in what is not said. Watch the steward. He speaks for the King's purposes before he speaks for the girl he escorts.”
 
 “Yes, Father.”
 
