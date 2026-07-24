@@ -2,13 +2,11 @@
 
 The corridors of Blackspire were always cold.
 
-Lucian had learned that before he learned many other things. The stone drank the warmth from the air and gave nothing back. Even in the hours when the fires were lit in the lower halls, the cold remained — settled into the walls, the floors, the long stretches of dark glass that looked out onto the mountains. The light that entered through those windows seemed thinner somehow, as though it had to earn its right to touch anything inside. It reached the edges of the floor and then faded, leaving the center of the corridors in a quiet, permanent dusk.
+Lucian had learned that before he learned many other things. The stone drank the warmth from the air and gave nothing back. The light through the tall dark windows reached the edges of the floor and then failed, leaving the center of every corridor in a quiet, permanent dusk.
 
 His footsteps sounded too small here.
 
-The pillars that lined the hall rose far above his head, carved with severe, elegant lines that caught what little brightness there was and broke it into narrow edges. High on the walls, dark banners hung at intervals, their fabric heavy and still. Each one bore the same mark in silver thread: a sword standing upright, its blade clean and narrow, with black wings unfurled from the hilt. The sigil of House Caldarion. Lucian had seen it every day of his life, yet in the dim light it still looked sharp, as if the metal threads could cut.
-
-He had walked this path many times, but the keep never quite became ordinary. It watched. Or at least it felt that way to him — as if the silence itself had weight, and the stone remembered every person who had ever passed beneath it.
+The pillars that lined the hall rose far above his head, carved with severe, elegant lines that broke what little brightness there was into narrow edges. Dark banners hung at intervals, each bearing the same mark in silver thread: a sword standing upright, black wings unfurled from the hilt. The sigil of House Caldarion. He had seen it every day of his life. In the dim light it still looked sharp enough to cut.
 
 His mother’s hand was warm around his.
 
@@ -28,11 +26,9 @@ Elara’s thumb brushed lightly over the back of his hand.
 
 “There is nothing to fear,” she said. “Your father only wishes to speak with you.”
 
-Lucian nodded. He did not say that he was not afraid. Not exactly. It was something closer to caution. A tightening behind the ribs. The same feeling he got when standing too close to the edge of the high terraces, looking down at the long drop of stone and snow.
+Lucian nodded. His grip on her hand tightened by a fraction he did not correct.
 
-They turned a corner. The corridor widened. The ceilings climbed higher still. More banners lined the walls here, the silver swords and black wings repeating in a long, silent procession.
-
-Blackspire did not decorate itself with soft things. Even its beauty was sharp.
+They turned a corner. The corridor widened. The ceilings climbed higher still. More banners lined the walls, the silver swords and black wings repeating in a long, silent procession.
 
 Elara glanced down at him again as they walked.
 
@@ -46,21 +42,19 @@ Elara glanced down at him again as they walked.
 
 Her smile deepened, just a little. “Yes. You do.”
 
-For a few steps longer, the warmth of her presence held the cold at bay. Lucian kept close to her side, matching her pace as best he could. The sound of their footsteps was soft against the stone, almost swallowed by the size of the hall. Somewhere far behind them, a door closed. Somewhere ahead, the air seemed to thin.
+For a few steps longer, the warmth of her presence held the cold at bay. Lucian kept close to her side, matching her pace as best he could. Somewhere far behind them, a door closed. Somewhere ahead, the air seemed to thin.
 
-He could feel the change before he saw its cause.
-
-It began as a quiet pressure in his shoulders, a subtle instinct to straighten, to still. The distant sounds of the keep — the faint movement of servants, the occasional ring of metal — seemed to fall away. Even the light from the high windows felt less welcome, as if it hesitated to reach too far into this part of the corridor.
+He straightened before he understood why. His shoulders found the line Lyra was always correcting on him, though Lyra was not there. The distant sounds of the keep — servants, the ring of metal somewhere deep in the stone — fell away by degrees.
 
 Lord Vesper Caldarion stood near one of the tall arched openings that led toward the outer terraces.
 
-He was dressed in black, as he almost always was, the silver at his cuffs and collar the only concession to ornament. His hair, streaked with iron-gray, was tied back cleanly. His face was calm. Controlled. Unreadable. He did not shift or adjust as they approached. He simply waited, as though the keep itself had arranged the space around him.
+He was dressed in black, as he almost always was, the silver at his cuffs and collar the only concession to ornament. His hair, streaked with iron-gray, was tied back cleanly. His face gave nothing away. He did not shift or adjust as they approached. He simply waited.
 
 Elara slowed.
 
 “My lord,” she said, her voice still soft, but more measured now.
 
-Vesper’s gaze moved from her to Lucian. For a moment he simply looked at his son, as though weighing something silent and precise. Lucian felt the weight of that look settle over him. He did not look away, but something in his chest drew tight.
+Vesper’s gaze moved from her to Lucian and stayed there, weighing something silent and precise. Lucian did not look away. He did not blink either, until his eyes began to sting and he let himself blink anyway.
 
 “Leave us,” Vesper said.
 
@@ -80,11 +74,11 @@ Lucian followed.
 
 They walked out into the cold.
 
-The gardens of Blackspire were not soft places. They were walled and ordered, built into the mountain’s shoulder where the wind could not fully reach. Stone paths cut between hardy evergreens and low hedges of dark foliage that held their color even in the depth of winter. Pale blooms clung stubbornly to life along the borders — white and muted blue, their petals edged with frost. Here and there, narrow channels of clear water ran beneath thin skins of ice, fed by the mountain itself. Stone benches stood at intervals, their surfaces worn smooth by years of weather, and tall iron braziers waited unlit along the outer walk, ready for the long nights.
+The gardens of Blackspire were walled and ordered, cut into the mountain’s shoulder where the wind could not fully reach. Stone paths ran between hardy evergreens and hedges that held their color even in the depth of winter. Pale blooms clung to the borders, petals edged with frost. Narrow channels of water ran beneath thin skins of ice. Stone benches stood at intervals, and iron braziers waited unlit along the outer walk.
 
-Beyond the low walls, the world fell away into peaks and deep valleys, all of it white and gray beneath a sky the color of steel.
+Beyond the low walls, the world fell away into peaks and deep valleys, white and gray beneath a sky the color of steel.
 
-The air bit sharper out here. Lucian pulled his cloak a little closer without thinking, his shorter legs working to keep pace with his father. Vesper did not slow for him. He never did. His stride remained even, unhurried, the dark of his cloak moving cleanly against the pale stone.
+The air bit sharper out here. Lucian pulled his cloak closer without thinking, his shorter legs working to keep pace. Vesper did not slow for him. He never did.
 
 For a time, neither of them spoke. Their footsteps were the only sound — one set firm and measured, the other lighter, quicker, determined not to fall behind.
 
@@ -104,7 +98,7 @@ Vesper did not look at him as he spoke. His eyes remained on the path ahead, or 
 
 “It means that every life within these walls will one day rest on your decisions. The guards who stand the walls. The servants who keep the fires. Your mother. Your sister. The men who will follow your banners into war. Their survival will depend on whether you are strong enough to carry what is given to you.”
 
-Lucian’s fingers curled slightly inside his cloak. The cold seemed to press closer.
+Lucian’s fingers curled inside his cloak, and stayed curled.
 
 “I will be strong,” he said.
 
@@ -112,7 +106,7 @@ Lucian’s fingers curled slightly inside his cloak. The cold seemed to press cl
 
 They walked on.
 
-The path curved through a broader stretch of the garden, past a stand of dark pines and a shallow reflecting pool whose surface had frozen into a pale sheet. Further along, an older section opened where the stone was darker and the vines thicker. An ancient gate stood there among the other weathered structures, half-swallowed by moss. Time had worn its edges, and at its center remained a dark circular carving, with faint lines spreading outward like rays.
+The path curved past a stand of dark pines and a reflecting pool frozen into a pale sheet. Further along, an older section opened where the stone was darker and the vines thicker. An ancient gate stood there, half-swallowed by moss, its edges worn smooth. At its center remained a dark circular carving, faint lines spreading outward from it like rays.
 
 Lucian’s steps slowed.
 
@@ -172,11 +166,11 @@ A pause.
 
 “A Caldarion who sets the weight aside does not deserve the name. Do you understand?”
 
-Lucian stared out at the vast, cold land. It seemed endless. Too large for his hands. Too heavy for his shoulders. And yet something in his chest answered the sight of it — a quiet, steady pressure that was not entirely fear. Something that felt like recognition, even if he did not yet have the words for it.
+Lucian stared out at the vast, cold land. It seemed endless. Too large for his hands. Too heavy for his shoulders. His breath had gone quiet and even, the way it did when he stood too near the edge of the high terraces and made himself not step back.
 
 “Yes, Father,” he said.
 
-Vesper held his gaze a moment longer. For a brief instant, something unreadable passed through his eyes. Not warmth. Not pride, exactly. Something closer to recognition — as though he had seen a shape of the future standing small beside him in the wind.
+Vesper held his gaze a moment longer. Something passed through his eyes that was not warmth, and not quite pride — as though he had seen a shape of the future standing small beside him in the wind.
 
 “Good,” he said.
 
