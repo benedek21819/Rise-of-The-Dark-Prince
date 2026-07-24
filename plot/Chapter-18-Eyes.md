@@ -1,4 +1,4 @@
-# Chapter 17: Eyes
+# Chapter 18: Eyes
 
 The lower terrace was colder than the training halls, and Dain had chosen it for that reason.
 

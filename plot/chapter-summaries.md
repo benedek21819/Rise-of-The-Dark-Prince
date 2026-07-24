@@ -22,6 +22,8 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 14. Choice  
 15. Consequence  
 16. Veil  
+17. Destiny  
+18. Eyes  
 
 ---
 

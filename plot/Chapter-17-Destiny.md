@@ -1,12 +1,8 @@
-# Chapter 18: Destiny
+# Chapter 17: Destiny
 
-The Kaelarion party left within the week, and Blackspire closed back over itself the way it always did — the same cold, the same order, the same unhurried severity, as though the strangers in the lower hall had been nothing more than a draft through an open door.
+Weeks had passed since the training hall, since Vesper had laid the blade and the Veil and the narrow, costly road between them in front of his son and left the deciding to him. Blackspire had not paused for the question. The keep continued its ordinary severity — the same cold, the same order, the same unhurried weight in every corridor — as if a choice this size were no different from any other unfinished lesson waiting its turn.
 
-Lucian did not think of the girl again in any way he could have named. The unresolved shape from the terrace — the presence that had not fit — surfaced sometimes at the edge of a lesson, thin and unfinished, and he let it pass the way Dain had told him to let it pass. Not everything found a name waiting for it.
-
-The choice his father had given him did not pass the same way.
-
-It had been weeks since the training hall, since Vesper had laid the blade and the Veil and the narrow, costly road between them in front of him and left the deciding to his son. Lucian had turned it over in the same disciplined manner he turned over a form that would not hold — reset, begin again, examine where the line broke. Dain's account. His father's account. The reasoning he had given Dain that day, sound and complete within its own terms, and Dain's answer that the reasoning had not been the deciding thing.
+Lucian had turned it over in the same disciplined manner he turned over a form that would not hold — reset, begin again, examine where the line broke. Dain's account. His father's account. The reasoning he had given Dain that day, sound and complete within its own terms, and Dain's answer that the reasoning had not been the deciding thing.
 
 He had not decided.
 
@@ -32,7 +28,7 @@ Lucian reached out and set two fingers against the cold stone, at the edge of on
 
 The choice sat behind the thought, patient as the mark itself. Blade or Veil. Mastery, singular and reliable, the sensible road his own reasoning had already built a case for in Dain's cold command room. Or both — the rarer road, the one that had made legends of a handful and ruined the rest, the one his father had called a heavier responsibility than having only one true road at all.
 
-He thought of the terrace. Of holding the field open across a courtyard full of strangers and finding, among them, a shape that fit none of his categories — something his own uncle, a man who wasted no words and offered no comfort he did not mean, had not been able to name either. *Not everything you find has a name waiting for it,* Dain had said. But Lucian had wanted the name anyway. He had wanted, standing on that terrace with the cold gathering behind his eyes, to be the kind of blade that could cut all the way through a thing and know what it was.
+He thought of the lower approaches beyond Firsthold, the cold night the Shadow Guard had taken him into the field for the first time — holding the sense open across empty ground, marking concealment by the wrongness of it, presence by its plain weight, until the effort left a residue behind his eyes that had not fully cleared by morning. He had wanted more of it even then. Not the mission. The reach. The clean edge of knowing a thing completely rather than only well enough.
 
 The sensible path did not want that. The sensible path wanted mastery, not reach.
 
