@@ -23,6 +23,7 @@ Toward his children he is distant but not uncaring. He pushes Lucian especially 
 - **Lyra, Riven, Thorne, Selene**: Maintains a more distant but protective stance toward his other children.
 - **Lirath**: Strong bond with his dragon.
 - Continues to uphold the alliance with House Kaelarion.
+- **King Aldric Kaelarion**: Beyond the political alliance, the two share a private secret from the war's aftermath — Vesper told Aldric personally when it became clear Morvath had survived, and the two of them jointly decided to keep it hidden rather than risk what its exposure would cost both houses. Known only to the two of them.
 
 **Strengths:**
 - Exceptional strategic mind
