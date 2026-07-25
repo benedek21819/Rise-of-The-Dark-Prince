@@ -119,15 +119,25 @@ Dragons are extremely rare and immensely powerful creatures.
 ### Growth & Size
 Dragons continue growing in size for their entire lives — there is no fixed adult size, only a natural lifespan of roughly 300–350 years, and the oldest living dragons are the largest by default (Morvath, at nearly 300, is the largest known dragon on the continent for exactly this reason).
 
-Growth is front-loaded rather than linear: a dragon reaches a large share of what will eventually look like "large adult" size within its first few decades, then continues growing slowly and steadily for centuries afterward. This is why raw age dominates size among older dragons regardless of individual variation (Lirath at 170 is still far larger than any young dragon could plausibly be), while among younger dragons, individual growth *rate* can matter as much as age.
+Growth is gradual and spans the full lifespan rather than front-loading into the first few decades. A dragon under roughly 100 years old is still meaningfully young and nowhere near the scale of a centuries-old dragon; real size comes from raw age far more than from the passage of a few decades. This is why Lirath (170) and Morvath (~300) are so much larger than any young dragon could plausibly be, and why the difference between Lirath and Morvath is itself still significant despite both being "old" by any ordinary standard — growth never meaningfully stops.
 
-Growth rate varies by individual. Most dragons grow at a broadly average pace. A minority grow unusually fast, especially early in life — Ancalion is one of these, consistent with his unusual origin close to the Primordial Darkness. This can let a young, fast-growing dragon match or exceed the size of an older, average-paced dragon within roughly the same young-adult bracket (a matter of single-digit multiples of age), without threatening the dominance of truly old dragons whose size advantage comes from centuries, not rate.
+Growth *rate* varies by individual on top of this curve. Most dragons grow at a broadly average pace. A minority grow faster — Ancalion is one of these, consistent with his unusual origin close to the Primordial Darkness, growing at roughly **twice the average rate**, especially pronounced during the early hatchling/juvenile growth spurt (the only period of genuinely rapid, visible growth for an average dragon, roughly the first 10–15 years of life). In practical terms, treat Ancalion's size as tracking what an average-paced dragon would be at roughly double his true age — enough to close most of the gap with a dragon in the young-adult bracket noticeably older than him, without erasing it.
 
 **Approximate relative sizing, for continuity (not stated in-world as exact figures):**
 - Morvath (~300 yrs, average pace): largest known dragon.
-- Lirath (~170 yrs, average pace): far larger than any young dragon; the standing example of raw age dominating size.
-- Solara (~30 yrs as of the main story's present) and Nereus (always 20 years older than Ancalion): mature but comparatively young; average pace.
-- Ancalion (same age as Lucian; fast pace): can plausibly match or slightly exceed Solara despite the age gap, given Solara's roughly 2x age advantage is not enough to overcome Ancalion's rate at this bracket. He remains well short of Nereus (whose age advantage over him is fixed and slightly larger) and far short of Lirath or Morvath.
+- Lirath (~170 yrs, average pace): far larger than any young dragon; the standing example of raw age dominating size even among two dragons that are both, by ordinary terms, old.
+- Solara (~30 yrs as of the main story's present) and Nereus (always 20 years older than Ancalion): young by dragon standards, still growing steadily; average pace.
+- Ancalion (same age as Lucian; roughly 2x average pace, i.e. tracking an effective growth-age near double his true age): closing in on Solara's size without yet matching or exceeding it, and further still from Nereus, Lirath, or Morvath. The gap narrows visibly over time rather than closing all at once.
+
+### Combat Capability Beyond Size
+Size is the single most significant factor in a dragon's raw destructive potential, but it is not the only one, and it does not by itself decide the outcome of a fight between two dragons. Also relevant:
+- **Speed and agility** — wing proportion, build, and youth can matter more than raw bulk in a fast-moving engagement. Ancalion's unusually large wingspan relative to his body is a established example.
+- **Endurance** — a larger dragon tires a smaller one out, or the reverse, depending on how a fight is fought.
+- **Temperament and aggression** — some dragons (Korrath) are bred toward and thrive in direct confrontation; others (Solara, Lirath) are naturally calmer and less inclined to press an advantage even when they have one.
+- **Experience** — a dragon that has fought before, or lived through danger, reacts differently than one that has not, independent of size or age.
+- **The bond** — a strong rider bond sharpens timing, coordination, and resolve beyond what the dragon would manage alone, and can be the deciding factor between otherwise closely matched dragons.
+
+A larger, older dragon should be assumed to win a straightforward contest of raw power. A close, tactically interesting fight — the kind worth writing — is one where a smaller or younger dragon's speed, agility, temperament, or bond gives it a real path to offset a size disadvantage, without pretending the size disadvantage isn't real.
 
 ### Publicly Known Dragons
 Currently, only **6 dragons** are publicly known to exist on the continent.
