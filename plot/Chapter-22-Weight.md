@@ -34,7 +34,7 @@ Lucian held his father's eyes. “Divided attention is the common road to incomp
 
 For a long moment Vesper said nothing at all. His face held its ordinary stillness, the same controlled, unreadable calm it wore in every room Lucian had ever seen him occupy, and Lucian had learned by now not to expect that stillness to break simply because a moment seemed to call for it. It did not break now, exactly. But something moved beneath it, brief and contained, the way a current moves under ice without ever breaking the surface — there, and then folded away again before it could be named.
 
-“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain had the freedom I never had — a freedom only the second son of this line is ever granted — and he spent it on a sword rather than a house. Before the exile, there were those among the old imperial line who walked both roads and were remembered for it. Since we came to Kaelor, no heir of this house has had both roads genuinely open. None, so far as I know, has chosen to walk them together.”
+“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain had the freedom I never had — a freedom only the second son of this line is ever granted — and he spent it on a sword rather than a house. Dain will have told you there are exceptions, elsewhere, in the wider history of the Veil. I will not tell you whether there have been exceptions closer to home. In the time I have held this house, no heir has had both roads genuinely open. None has chosen to walk them together.”
 
 He let that settle in the cold air between them.
 
