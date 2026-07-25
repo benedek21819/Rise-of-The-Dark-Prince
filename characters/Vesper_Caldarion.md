@@ -7,6 +7,9 @@
 **Appearance:**  
 Tall and imposing. He has black hair heavily streaked with silver, a weathered face marked by years of responsibility and past conflict, and piercing dark eyes. His presence carries a quiet but heavy authority. He almost always dresses in black and silver, favoring practical, high-quality clothing over ornamentation. There is a visible weariness in his bearing, as if he has carried the weight of the house for a very long time.
 
+**Background:**  
+Became head of House Caldarion at twenty, when the Last Continental War killed his father Ravorn and a substantial portion of the rest of the direct and extended family, reducing the line to himself, his brother Dain, and their mother Orlena. In the aftermath, Orlena urged him to take additional wives to rebuild the line as quickly and securely as possible. He refused — Elara, his betrothed, would be his one true wife and the lady of the house — but accepted concubinage as the practical alternative, taking Lady Mira and later Lady Sable into the household toward that end. The decision shaped the household he raised his children in: one legitimate mother, two concubines, and a line rebuilt out of necessity rather than desire.
+
 **Personality:**  
 Calm, strategic, and emotionally reserved. Vesper views nearly everything through the long-term survival and power of House Caldarion. He is pragmatic and capable of ruthlessness when he believes it necessary, but he is not cruel for its own sake.
 

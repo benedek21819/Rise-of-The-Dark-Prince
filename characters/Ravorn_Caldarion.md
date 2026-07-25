@@ -11,6 +11,8 @@
 **Strengths:** Exceptional combat skill, mastery of dragon-riding (especially with Morvath), ability to inspire absolute loyalty, charismatic leadership.
 **Flaws:** Could be reckless when protecting those he cared about. His death left a heavy legacy and created the need for secrecy around Morvath.
 
+**The War's Toll:** Ravorn's death near the end of the Last Continental War was not an isolated loss. A substantial portion of the rest of House Caldarion's direct and extended family died in the same war, leaving the line reduced to three: his sons Vesper and Dain, and his widow Orlena. The scale of that near-extinction, more than his death alone, shaped the decade that followed — including Vesper's decision to take concubines rather than risk the line's survival on a single marriage.
+
 **Abilities:** Last bonded rider of the hidden dragon **Morvath**. One of the most formidable warriors and dragon riders of his generation.
 
 **Key Relationships:**
