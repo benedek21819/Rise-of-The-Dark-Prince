@@ -25,6 +25,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 17. Destiny  
 18. Unnamed  
 19. Eyes  
+20. Trust  
 
 ---
 
