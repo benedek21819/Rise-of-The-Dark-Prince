@@ -32,6 +32,10 @@ It was thin, as Lucian had already suspected it would be. The man gave a name th
 
 “A man hired for coin does not know who pays the coin at its source,” Vesper said. “That is the point of hiring him. We will not trace this to a name through his mouth.”
 
+“Then what was the purpose of it.” Lucian turned the question over as he said it, and did not like where it led. “A hired man, untraceable, caught before he accomplished anything. If it was meant to be used against us, it gives them nothing. No incident to point to. No grievance either side can name aloud.”
+
+“You are still thinking of it as a move meant to be seen,” Vesper said. “It was not. Whoever built this did not need it to succeed, and did not need it to be provable. They needed only to learn, and to be felt.” He held Lucian's eyes. “They now know how quickly Firsthold answers a threat to this house, and how quickly you answer one to your sister. They know the shape of your training, tested against a real edge rather than a drilled one. They know something about the city's readiness that no amount of watching from a distance would have told them. All of that was worth the cost of one expendable man, whether he was caught or not — and deniability was never a failure of the plan. It was the plan.”
+
 “Then how.”
 
 “Slowly. Through other doors.” Vesper's gaze was steady, unreadable. “You will not be shown that work either. Not yet.”
