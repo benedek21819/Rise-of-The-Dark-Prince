@@ -116,6 +116,19 @@ Dragons are extremely rare and immensely powerful creatures.
 - A bonded dragon can be ridden.
 - If the bond between dragon and rider is strong enough, they can sense each other’s emotions.
 
+### Growth & Size
+Dragons continue growing in size for their entire lives — there is no fixed adult size, only a natural lifespan of roughly 300–350 years, and the oldest living dragons are the largest by default (Morvath, at nearly 300, is the largest known dragon on the continent for exactly this reason).
+
+Growth is front-loaded rather than linear: a dragon reaches a large share of what will eventually look like "large adult" size within its first few decades, then continues growing slowly and steadily for centuries afterward. This is why raw age dominates size among older dragons regardless of individual variation (Lirath at 170 is still far larger than any young dragon could plausibly be), while among younger dragons, individual growth *rate* can matter as much as age.
+
+Growth rate varies by individual. Most dragons grow at a broadly average pace. A minority grow unusually fast, especially early in life — Ancalion is one of these, consistent with his unusual origin close to the Primordial Darkness. This can let a young, fast-growing dragon match or exceed the size of an older, average-paced dragon within roughly the same young-adult bracket (a matter of single-digit multiples of age), without threatening the dominance of truly old dragons whose size advantage comes from centuries, not rate.
+
+**Approximate relative sizing, for continuity (not stated in-world as exact figures):**
+- Morvath (~300 yrs, average pace): largest known dragon.
+- Lirath (~170 yrs, average pace): far larger than any young dragon; the standing example of raw age dominating size.
+- Solara (~30 yrs as of the main story's present) and Nereus (always 20 years older than Ancalion): mature but comparatively young; average pace.
+- Ancalion (same age as Lucian; fast pace): can plausibly match or slightly exceed Solara despite the age gap, given Solara's roughly 2x age advantage is not enough to overcome Ancalion's rate at this bracket. He remains well short of Nereus (whose age advantage over him is fixed and slightly larger) and far short of Lirath or Morvath.
+
 ### Publicly Known Dragons
 Currently, only **6 dragons** are publicly known to exist on the continent.
 

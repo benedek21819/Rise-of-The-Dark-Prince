@@ -8,7 +8,7 @@ They were in one of the lesser sitting rooms, the adults occupied with the slow 
 
 “He is not tame,” Lucian said. It was not a refusal. It was accurate.
 
-“Solara is tame,” Seren said, with the particular flatness of a complaint worn smooth by repetition. “She is my father's. I am allowed near her twice a year, when it is arranged, and never close enough to touch. You have your own. You are not much older than me.”
+“Solara is tame,” Seren said, with the particular flatness of a complaint worn smooth by repetition. “She is my father's. I am allowed near her twice a year, when it is arranged, and never close enough to touch. You have your own, and no one arranges anything for you to see him. That is not fair, even if you are older than me.”
 
 She said it as though the unfairness of that arrangement were self-evident, which, to a child who had never been permitted anything of her own that large, it likely was.
 
@@ -24,9 +24,11 @@ Ancalion did not settle so easily.
 
 Seren stopped a full pace behind Lucian, closer to the edge of her own courage than she let show. For a moment she only looked — the size of him, the width of the folded wings, the way the black scales seemed to drink the pale morning light rather than reflect it. Her nurse's hand found her shoulder. Seren did not step back into it.
 
-“He's bigger than I thought,” she said, quietly, for once without the flatness.
+“He's bigger than I thought,” she said, quietly, for once without the flatness. “Solara is not this big, and Solara is old. My father says she has been full-grown since before he was born.”
 
-“He is still young,” Lucian said. “He will be larger.”
+“He is still young,” Lucian said. “He will be larger yet.”
+
+Behind them, Dain said nothing, but Lucian caught the small, considering stillness in his uncle's face that meant the observation had landed and would be turned over later, in a room without a princess in it. It was not the first time Lucian had heard some version of that comparison — Dain himself had said, more than once, that Ancalion's growth did not sit easily beside what was ordinary for a dragon his age. Lucian had not thought much of it before. He thought of it now, watching Seren's small, upturned face measure the black shape against whatever memory she carried of a dragon three times his age.
 
 Ancalion's head lowered toward them, and something in the set of it changed as the distance closed — not toward Lucian, whose presence he had answered a thousand times without thought, but toward the smaller, unfamiliar shape half a step behind him. The great head angled. A low sound moved through his chest, not a warning exactly, but not the easy recognition he gave Lucian either. Dain's hand shifted, unhurried but ready, and Lyra drew half a step nearer to Seren without seeming to decide to.
 
