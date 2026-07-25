@@ -4,7 +4,7 @@ Vesper was waiting at the gate when they returned, which told Lucian more than a
 
 His father did not wait at gates. In fourteen years of Lucian's life, in all the comings and goings the keep's ordinary business required, Vesper had never once stood at the threshold for an arrival. He stood there now, black cloak still against the wind, and the stillness in him was not the practiced stillness Lucian knew from a thousand corridors and training halls. It was something held very deliberately in place, the way a hand is held steady over a wound.
 
-His gaze went to Lyra first. Then to Lucian. Then, briefly, to the blade at Lucian's hip, still faintly marked despite the cloth Cole had used to clean it on the ride up.
+His gaze went to Lyra first. Then to Lucian. Then, briefly, to the blade at Lucian's hip, still faintly marked despite the cloth Cole had used to clean it on the climb up.
 
 “Inside,” Vesper said. “Both of you.”
 
@@ -68,7 +68,7 @@ He found Lyra afterward in the same gallery where he had once told her, not so m
 
 “You were about to.”
 
-Her mouth curved, faint and tired. “You know me too well for your own comfort.” She turned then, and the composure she had worn through the ride home and the questioning after had thinned enough that he could see, underneath it, something rawer — not fear exactly, but its residue, the way frost lingers on stone after the sun has already returned. “I keep thinking of the moment before you moved. How close it was.”
+Her mouth curved, faint and tired. “You know me too well for your own comfort.” She turned then, and the composure she had worn through the long climb home and the questioning after had thinned enough that he could see, underneath it, something rawer — not fear exactly, but its residue, the way frost lingers on stone after the sun has already returned. “I keep thinking of the moment before you moved. How close it was.”
 
 “It was not close.”
 
