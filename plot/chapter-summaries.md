@@ -29,6 +29,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 21. Patience  
 22. Weight  
 23. Roots  
+24. Distance  
 
 ---
 
