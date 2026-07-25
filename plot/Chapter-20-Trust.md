@@ -24,7 +24,7 @@ Ancalion did not settle so easily.
 
 Seren stopped a full pace behind Lucian, closer to the edge of her own courage than she let show. For a moment she only looked — the size of him, the width of the folded wings, the way the black scales seemed to drink the pale morning light rather than reflect it. Her nurse's hand found her shoulder. Seren did not step back into it.
 
-“He's bigger than I thought,” she said, quietly, for once without the flatness. “Solara is not this big, and Solara is already full-grown. She was already large before I was born.”
+“He's bigger than I thought,” she said, quietly, for once without the flatness. “Solara is not this big, and Solara was already large before I was born. She has not grown that I have ever noticed.”
 
 “He is still young,” Lucian said. “He will be larger yet.”
 
