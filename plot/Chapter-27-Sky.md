@@ -42,7 +42,7 @@ They leveled into a long, driving glide south, and the cold up here was a differ
 
 Midway through the first hour, he found the procession.
 
-It was small from this height, a dark, orderly thread of carriages and outriders moving along the southern road, banners too distant to read but unmistakable all the same — the black and silver, small as a single struck note against the pale road, carrying his mother and his brothers toward the same destination by the slower, older way. Lucian held the altitude and let Ancalion bank once, wide and unhurried, low enough that a keen eye below might have marked the shape of a dragon passing without alarm, high enough that nothing on the ground could mistake it for a threat. He did not know if Elara looked up. He liked to think she did.
+It was small from this height, a dark, orderly thread of carriages and outriders moving along the southern road, banners too distant to read but unmistakable all the same — the black and silver, small as a single struck note against the pale road, carrying his father and his brothers toward the same destination by the slower, older way. Lucian held the altitude and let Ancalion bank once, wide and unhurried, low enough that a keen eye below might have marked the shape of a dragon passing without alarm, high enough that nothing on the ground could mistake it for a threat. He did not know if Vesper looked up. He liked to think he did.
 
 Ancalion's attention followed his own down toward the moving thread of black and silver, and something in the bond eased further, some last thin thread of restlessness settling now that the rest of what he guarded was accounted for and visible.
 
