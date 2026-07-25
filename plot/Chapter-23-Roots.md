@@ -34,7 +34,7 @@ Lady Ysara did not wait for the courtesies to finish. She came around her husban
 
 “No, my lady.”
 
-“Ysara,” she corrected. “Only Ysara, here.”
+“Grandmother,” she corrected, with a firmness that had no argument built into it at all. “Not my lady. Not here.”
 
 He did not quite know what to do with that either, and said nothing, and she seemed to find that answer sufficient in its own way, patting his hand once before releasing it.
 
