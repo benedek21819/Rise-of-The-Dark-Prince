@@ -2,7 +2,7 @@
 
 Vesper was waiting at the gate when they returned, which told Lucian more than anything said in the hour that followed.
 
-His father did not wait at gates. In seventeen years of Lucian's life, in all the comings and goings the keep's ordinary business required, Vesper had never once stood at the threshold for an arrival. He stood there now, black cloak still against the wind, and the stillness in him was not the practiced stillness Lucian knew from a thousand corridors and training halls. It was something held very deliberately in place, the way a hand is held steady over a wound.
+His father did not wait at gates. In fourteen years of Lucian's life, in all the comings and goings the keep's ordinary business required, Vesper had never once stood at the threshold for an arrival. He stood there now, black cloak still against the wind, and the stillness in him was not the practiced stillness Lucian knew from a thousand corridors and training halls. It was something held very deliberately in place, the way a hand is held steady over a wound.
 
 His gaze went to Lyra first. Then to Lucian. Then, briefly, to the blade at Lucian's hip, still faintly marked despite the cloth Cole had used to clean it on the ride up.
 
