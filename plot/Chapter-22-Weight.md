@@ -34,7 +34,7 @@ Lucian held his father's eyes. “Divided attention is the common road to incomp
 
 For a long moment Vesper said nothing at all. His face held its ordinary stillness, the same controlled, unreadable calm it wore in every room Lucian had ever seen him occupy, and Lucian had learned by now not to expect that stillness to break simply because a moment seemed to call for it. It did not break now, exactly. But something moved beneath it, brief and contained, the way a current moves under ice without ever breaking the surface — there, and then folded away again before it could be named.
 
-“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain had the freedom I never had — a freedom only the second son of this line is ever granted — and he spent it on a sword rather than a house. No heir before you has had both roads genuinely open. None, so far as I know, has chosen to walk them together.”
+“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain had the freedom I never had — a freedom only the second son of this line is ever granted — and he spent it on a sword rather than a house. Before the exile, there were those among the old imperial line who walked both roads and were remembered for it. Since we came to Kaelor, no heir of this house has had both roads genuinely open. None, so far as I know, has chosen to walk them together.”
 
 He let that settle in the cold air between them.
 
@@ -60,13 +60,13 @@ He stopped.
 
 Lucian did not ask how. He inclined his head instead, and left his father standing alone in the cold center of the hall, and did not look back to see whatever expression the empty room might have finally permitted him to wear.
 
-Dain was waiting in the lower training chamber, arms folded, the same economical stillness he brought to every hour of every day Lucian had ever trained under him. He did not ask what had passed between father and son. He had likely already been told the shape of it, if not the words.
+Dain was waiting in the lower training chamber, arms folded, the same economical stillness he brought to every hour of every day Lucian had ever trained under him. He did not ask what had passed between father and son. He only waited, in the way that made clear he expected to be told.
 
-“Your father tells me the choice is made,” Dain said. “Both.”
+“Both,” Lucian said.
 
-“Yes.”
+Dain's expression did not change, though something in his stance settled by a fraction, as though a private wager with himself had just been decided one way rather than the other.
 
-“Then the forms you know are finished being the whole of your instruction.” He gestured Lucian to the center of the floor. “What you have learned until now is called the Foundation. Stance, breath, distance, economy. It is real training and it is not nothing, but it is only the ground beneath the house's actual doctrine. It has a name. The Still Blade.”
+“Then it is done,” he said. “And the forms you know are finished being the whole of your instruction.” He gestured Lucian to the center of the floor. “What you have learned until now is called the Foundation. Stance, breath, distance, economy. It is real training and it is not nothing, but it is only the ground beneath the house's actual doctrine. It has a name. The Still Blade.”
 
 Lucian repeated it once, silently, feeling the shape of it settle beside the other names the house had given him — Blackspire, Firsthold, the sigil, the motto.
 
