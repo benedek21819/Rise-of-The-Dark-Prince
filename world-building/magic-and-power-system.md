@@ -139,6 +139,18 @@ Size is the single most significant factor in a dragon's raw destructive potenti
 
 A larger, older dragon should be assumed to win a straightforward contest of raw power. A close, tactically interesting fight — the kind worth writing — is one where a smaller or younger dragon's speed, agility, temperament, or bond gives it a real path to offset a size disadvantage, without pretending the size disadvantage isn't real.
 
+A dragon that is visibly smaller than expected for the threat it poses also carries a tactical advantage in its own right: opponents used to reading danger by size underestimate it, at least until proven otherwise. This is Ancalion's expected combat profile — smaller than his older opponents, faster and more agile than his size would suggest, and dangerous in ways that aren't obvious until he has already closed the distance.
+
+### Ancalion's Primordial Abilities
+Beyond speed and growth rate, Ancalion's unusually close tie to the Primordial Darkness gives him two abilities not shared by ordinary dragons:
+
+- **Void-touched flame.** His black flame is not simply a color variant of ordinary dragonfire. It draws on the same darker current of the Veil that House Caldarion's Shadow/Void magic draws on — resistant to being countered by conventional means, and capable of degrading wards or Veil-based defenses rather than only burning flesh and stone.
+- **Bond-amplified combat.** As Lucian's own Veil affinity and (eventually) Commandment ability grow, they feed directly into Ancalion through the bond during combat, raising his effective ceiling in step with Lucian's own development rather than as a fixed, separate trait. This ties Ancalion's long-term combat viability to Lucian's personal arc rather than to age or size alone.
+
+**Costs, applied moderately — noticeable, not crippling:**
+- **A trace worth noticing.** All magic leaves a detectable trace in the Veil; void-touched flame and bond-amplified combat leave a distinctly heavier one, closer to a signature than ordinary Veilweaving. Using them at full strength is a small, real risk of being noticed by anyone Veil-sensitive enough to read it — other Veilseers, the Sisters of the Current, old Arcanor loyalists already listening for signs of the bloodline. Not an immediate danger in most fights, but a cost that matters more the more attention the house can least afford.
+- **A toll on Lucian.** Drawing power through the bond costs Lucian more than his own solitary Veil-sense does — beyond the ordinary residual fatigue, a harder, colder aftertaste that lingers for a time afterward: shorter patience, a sharper edge toward people he'd otherwise simply be indifferent to. Mild and temporary on its own, but a real contributor to the same imbalance — warmth for the few, coldness for everyone else — that already defines him.
+
 ### Publicly Known Dragons
 Currently, only **6 dragons** are publicly known to exist on the continent.
 
