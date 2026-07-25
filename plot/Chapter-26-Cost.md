@@ -22,7 +22,7 @@ Vesper's jaw worked once, almost imperceptibly, and something passed behind his 
 
 “I want to know what he says.”
 
-“You will be told what is useful for you to know.” Vesper's voice did not rise, but the line beneath it was absolute. “That is not the same as everything he says, and it will not be the same conversation regardless of whether you sit in the room.”
+“You will be told what is useful for you to know.” Vesper's voice did not rise, but the line beneath it was absolute. “That is not the same as everything he says. And if you sat in the room, the men asking the questions would not conduct themselves the same way with the heir watching. You would not be hearing the true conversation either way.”
 
 Lucian did not argue further. He recognized, even through the residual heat of the morning, that this was not a door his father intended to open, and pressing at a closed door had never once moved it.
 
