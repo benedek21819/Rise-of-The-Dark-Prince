@@ -2,6 +2,7 @@
 
 **Full Name:** Princess Seren Kaelarion  
 **Aliases / Titles:** The Sun Princess, Daughter of King Aldric Kaelarion  
+**Birth Year:** 1041 IE  
 **Age:** 3 years younger than Lucian Caldarion
 
 **Appearance:** Extremely beautiful with long, blonde-almost white hair and bright eyes. She has a warm, radiant presence that matches her nickname. Her style is elegant and soft, often incorporating the royal colors of deep crimson and gold.
@@ -34,6 +35,7 @@ Unlike most Veilseers, Seren has already chosen her future. She wishes to remain
 **Key Relationships:**
 - **Lucian Caldarion** (fiancé → one of his people): Initially, Lucian is distant and cold toward her. Over time they become close. Lucian eventually accepts Seren and decides he will marry her. By the time the Sisters arrive, Seren is no longer merely his betrothed — she is one of his people, and he intervenes decisively to protect her.
 - **Crown Prince Dorian Kaelarion** (older brother): Protective of him despite his many flaws and ambitions.
+- **Prince Corvin Kaelarion** (older brother): Her closest sibling bond by far — neither of them stands to inherit real power, and both have found something like relief in that shared position rather than resentment of it.
 - **King Aldric Kaelarion** (father): Close and loving daughter. She shares a warm bond with him.
 - **The Sisters of the Current**: They seek to claim her for the order. This creates major conflict and forces the first real contact between Kaelor and the mainland in a long time.
 

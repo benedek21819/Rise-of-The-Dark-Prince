@@ -2,6 +2,7 @@
 
 **Full Name:** Crown Prince Dorian Kaelarion  
 **Titles:** Heir to the Throne of the Kingdom  
+**Birth Year:** 1037 IE  
 **Age:** 1 year older than Lucian Caldarion
 
 **Appearance:** Handsome but softer and less commanding than Lucian. He has blonde hair and blue eyes, and is slightly shorter than Lucian. His features are refined and aristocratic, but he lacks the cold intensity and natural presence of the Dark Prince.
@@ -19,7 +20,9 @@
 
 **Key Relationships:**
 - **Lucian Caldarion**: Sees him as a dangerous rival and a threat to his future authority. Actively works to undermine him and House Caldarion.
+- **Prince Corvin Kaelarion** (younger brother): Dismisses him as unambitious and beneath serious rivalry — the one relationship in the family Dorian never has to manage, precisely because he underestimates it so completely.
 - **Princess Seren Kaelarion** (younger sister): Protective of her, but also resentful of her closeness to Lucian and the political engagement.
 - **King Aldric Kaelarion** (father): Strained relationship. Dorian wants more power and independence from his father’s cautious leadership.
+- **Queen Isolde Kaelarion** (mother): The center of her ambition and attention in a way his siblings have never been. He has never had to earn that focus, which may be part of why he has never learned to earn much else.
 
 **Role in Story:** Primary internal antagonist within the royal family. His schemes against House Caldarion and Lucian create ongoing political tension and conflict.

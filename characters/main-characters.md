@@ -15,7 +15,7 @@ This is the index for all major characters. Each character has their own dedicat
 - **[Lady Elara Caldarion](Elara_Caldarion.md)** — Main wife, Lucian's mother (née Thalorin)
 - **[Lady Lyra Caldarion](Lyra_Caldarion.md)** — Older half-sister (from first concubine)
 - **[Lady Selene Caldarion](Selene_Caldarion.md)** — Younger full sister
-- **[Lord Kael & Thorne Caldarion](Kael_and_Thorne_Caldarion.md)** — Younger half-brothers (twins)
+- **[Lord Riven & Thorne Caldarion](Riven_and_Thorne_Caldarion.md)** — Younger half-brothers (twins)
 - **[Lady Mira Caldarion](Mira_Caldarion.md)** — First concubine, mother of Lyra
 - **[Lady Sable Caldarion](Sable_Caldarion.md)** — Second concubine, mother of the twins
 
@@ -44,9 +44,11 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Current Generation
 - **[King Aldric Kaelarion](Aldric_Kaelarion.md)** — Current ruler, the Weary Stabilizer
-- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Consort
+- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Consort, née Dravenhall
 - **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
+- **[Prince Corvin Kaelarion](Corvin_Kaelarion.md)** — Second prince, the overlooked but genuinely capable second son
 - **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian's fiancée ("the Sun Princess")
+- **[Lady Liora Kaelarion](Liora_Kaelarion.md)** — Aldric's younger sister, married into House Sylvaron
 
 ### Previous Generation
 - **[King Aldorion Kaelarion](Aldorion_Kaelarion.md)** — Aldric's father, charismatic visionary and close friend of Ravorn Caldarion (deceased)

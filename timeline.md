@@ -66,6 +66,10 @@
 - House Kaelarion is firmly established as the ruling royal family of Kaelor.
 - The present political structure of 8 Great Houses + the Royal Family takes shape.
 
+### ≈ Year 1032 – A Reconciliation Marriage
+- King Aldric Kaelarion (b. 1006) marries Isolde of House Dravenhall (b. 1009), daughter of the Dravenhall lord who fought against Kaelarion in the war. The match is deliberate policy — binding the defeated, bitter house into the new order through blood rather than leaving its grievance to fester untethered from the crown. Isolde's brother, Roderic, inherits the Dravenhall seat from their father and accepts the marriage as the price of peace, without ever fully making peace with it himself.
+- Crown Prince Dorian is born in 1037, Prince Corvin in 1039, Princess Seren in 1041.
+
 ### ≈ Year 1052–1057 – Present Day (Approximate)
 - Lucian Caldarion is approximately 17 years old (born 1038 IE).
 - Ancalion (hatched from the secret egg laid around Year 800) is bonded to Lucian.

@@ -196,6 +196,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
   - Houses with weaker personal armies are more likely to make use of Free Blade companies.
 
 ### House Dravenhall
+- **Current Lord**: **Lord Roderic Dravenhall** — inherited the seat from his and Queen Isolde's father, the lord who led Dravenhall against Kaelarion in the Last Continental War. Accepted his sister's marriage to Aldric as the price of peace; has never fully made peace with it himself.
 - **Specialty**: Militaristic, honor-bound, and aggressive warfare.
 - **Personality**: Proud, confrontational, and highly competitive. They value strength, personal honor, and martial glory.
 - **Political Stance**: Long-standing rivals of House Caldarion. They were one of the main opposing forces during the Last Continental War.
