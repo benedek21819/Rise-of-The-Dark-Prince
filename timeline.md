@@ -48,8 +48,14 @@
 - Almost all great and small houses on Kaelor fight for power and resources.
 - Many old dragons and dragon riders die.
 - House Kaelarion wins the war with decisive support from House Caldarion.
-- Lucian’s grandfather, Ravorn Caldarion (rider of Morvath), dies in the war.
-- Publicly it is claimed that Morvath also died. In reality he survives and is hidden by House Caldarion.
+- House Caldarion pays for that support heavily. Lord Ravorn Caldarion (rider of Morvath) dies in the war, along with a substantial number of the house's other direct and extended family members — cousins, secondary branches, and several who would have stood between Vesper and the headship under ordinary circumstances.
+- Publicly it is claimed that Morvath also died with Ravorn. In reality he survives, badly wounded, and is quietly recovered and hidden by what remains of the house rather than risked in the open — both because his existence was never legally reported to the crown, and because a wounded, riderless dragon is a liability the house cannot afford to expose while it is this vulnerable.
+- By the war's end, the direct line of House Caldarion has been reduced to three living members: Vesper (young, newly head of house), his brother Dain, and their mother Orlena.
+
+### ≈ Year 995–996 – The Succession Crisis
+- With the house reduced to three, and Vesper already betrothed to Lady Elara Thalorin, Orlena urges her son to take additional wives to rebuild the line as quickly and securely as possible — the ordinary solution for a great house facing exactly this kind of loss.
+- Vesper refuses to take additional wives. He will keep Elara as his one true wife and the lady of the house, but accepts the practical necessity of more children than one marriage reliably guarantees, and agrees to take concubines toward that end instead.
+- Lady Mira and, somewhat later, Lady Sable enter the household on these terms. Their children (Lyra; the twins Riven and Thorne) are raised as full members of the house, though the household hierarchy around Elara and her children is never in question.
 
 ### ≈ Year 996 onward – Current Order
 - House Kaelarion is firmly established as the ruling royal family of Kaelor.
