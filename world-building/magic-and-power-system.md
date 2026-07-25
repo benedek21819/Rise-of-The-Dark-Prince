@@ -115,6 +115,7 @@ Dragons are extremely rare and immensely powerful creatures.
 - They can be **bonded** to specific individuals (almost always high-ranking nobles).
 - A bonded dragon can be ridden.
 - If the bond between dragon and rider is strong enough, they can sense each other’s emotions.
+- **Dragons can bond more than once across a lifetime.** Given a natural lifespan of centuries against a human one, a dragon that could only ever bond once would spend most of its life riderless after an ordinary human death — rebonding after losing a rider is normal, not exceptional. What does change with age is the *likelihood of a strong bond forming again*: the older a dragon is when it loses a rider, the rarer and harder-won a new strong bond becomes. A dragon as old as Morvath (~300) forming a genuine bond again would be a notable rarity even by the standards of rebonding generally, not a simple formality — it would need real cause, not just proximity or willingness.
 
 ### Growth & Size
 Dragons continue growing in size for their entire lives — there is no fixed adult size, only a natural lifespan of roughly 300–350 years, and the oldest living dragons are the largest by default (Morvath, at nearly 300, is the largest known dragon on the continent for exactly this reason).
