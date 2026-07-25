@@ -14,7 +14,7 @@ Vesper was already there. He stood near the center of the floor with his hands b
 
 Lucian had rehearsed nothing. He had decided, somewhere between the gate and this morning, that the words did not require rehearsal — only accuracy.
 
-“I have chosen both,” he said. “The blade and the Veil. The hybrid path.”
+“I have chosen both roads,” he said. “The blade, and the Veil.”
 
 He did not soften it with reasoning. He had given Dain the reasoning once already, in a cold command room above a training yard, and Dain had told him plainly that the reasoning had not been the deciding thing. He did not offer it again now.
 
@@ -34,7 +34,7 @@ Lucian held his father's eyes. “Divided attention is the common road to incomp
 
 For a long moment Vesper said nothing at all. His face held its ordinary stillness, the same controlled, unreadable calm it wore in every room Lucian had ever seen him occupy, and Lucian had learned by now not to expect that stillness to break simply because a moment seemed to call for it. It did not break now, exactly. But something moved beneath it, brief and contained, the way a current moves under ice without ever breaking the surface — there, and then folded away again before it could be named.
 
-“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain was given the freedom I never had, and he spent it on a sword rather than a house. You are the first in three generations to stand where both roads are genuinely open, and to choose the harder one on purpose.”
+“My father did not give me this choice,” Vesper said. “My path was decided by the shape of what I was, before I was old enough to want anything else. Dain had the freedom I never had — a freedom only the second son of this line is ever granted — and he spent it on a sword rather than a house. No heir before you has had both roads genuinely open. None, so far as I know, has chosen to walk them together.”
 
 He let that settle in the cold air between them.
 
@@ -62,7 +62,7 @@ Lucian did not ask how. He inclined his head instead, and left his father standi
 
 Dain was waiting in the lower training chamber, arms folded, the same economical stillness he brought to every hour of every day Lucian had ever trained under him. He did not ask what had passed between father and son. He had likely already been told the shape of it, if not the words.
 
-“Your father tells me the choice is made,” Dain said. “Hybrid.”
+“Your father tells me the choice is made,” Dain said. “Both.”
 
 “Yes.”
 
