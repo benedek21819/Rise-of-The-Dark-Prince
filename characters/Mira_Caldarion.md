@@ -12,7 +12,7 @@ Composed, intelligent, and socially aware. She understands her position as a con
 
 **Key Relationships:**
 - **Lady Lyra Caldarion**: Deeply attached to her daughter and supportive of her. She takes quiet pride in Lyra’s grace and potential.
-- **Lord Vesper Caldarion**: Maintains a proper, respectful, and non-confrontational relationship with him.
+- **Lord Vesper Caldarion**: Entered the household in the aftermath of the succession crisis, but the relationship that followed became a genuine one on both sides — Vesper chose her within the structure he'd settled on, not merely tolerated her presence within it. Proper and dignified in public, as the household requires, with real warmth beneath it.
 - **Lady Elara Caldarion** (main wife): Respectful and somewhat distant. She is careful not to overstep.
 - **Lucian Caldarion**: Treats him with correct courtesy, fully aware that he is the heir of the house.
 

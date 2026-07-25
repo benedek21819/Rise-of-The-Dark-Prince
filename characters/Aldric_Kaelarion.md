@@ -18,7 +18,7 @@
 - **Crown Prince Dorian Kaelarion** (son): Strained relationship. He is disappointed by Dorian’s jealousy and impatience, and struggles to guide him toward more responsible leadership.
 - **Princess Seren Kaelarion** (daughter): Close and loving. He is protective of her and supportive of the engagement to Lucian as a means of securing lasting peace.
 - **House Caldarion**: Views them as essential allies. He is grateful but also quietly concerned about their overwhelming military power. This gratitude is rooted in the deep, brother-like friendship between his father **Aldorion Kaelarion** and Lucian’s grandfather, who together forged the original alliance between the two houses.
-- **Lord Vesper Caldarion**: Beyond the alliance, the two share a secret from the war's aftermath — Vesper told him personally when it became clear Morvath had survived, and together, each newly carrying the weight of his own house, they decided concealment served both sides better than exposure. Aldric has kept it in the decades since, telling no one, not even Isolde or Dorian.
+- **Lord Vesper Caldarion**: Beyond the alliance, the two share a private matter from the war's aftermath — Vesper, freshly head of his own house, told the already-reigning Aldric personally when it became clear Morvath had survived. The report satisfied the law; making it public was Aldric's choice to withhold, well within his right as king. He and Vesper agreed discretion served both houses better than disclosure, and Aldric has kept it in the decades since, telling no one, not even Isolde or Dorian.
 
 **Goals:**
 - Maintain peace and stability in the kingdom

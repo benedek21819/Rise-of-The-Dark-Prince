@@ -12,7 +12,7 @@ Warm, straightforward, and practical. She is less concerned with politics and st
 
 **Key Relationships:**
 - **Riven and Thorne Caldarion**: Very affectionate and protective toward her twin sons. She is proud of their martial talent and their loyalty to Lucian.
-- **Lord Vesper Caldarion**: Accepts her position without much political ambition and maintains a relatively uncomplicated relationship with him.
+- **Lord Vesper Caldarion**: Entered the household somewhat later than Mira, within the same arrangement, and without much political ambition of her own — but the bond between them is genuine rather than merely accepted, uncomplicated in the sense that neither of them treats it as a transaction.
 - Generally stays out of deeper household power dynamics and avoids conflict with Lady Elara and Lady Mira.
 
 **Strengths:**
