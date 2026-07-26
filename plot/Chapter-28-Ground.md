@@ -48,7 +48,7 @@ The silence that followed was not long, but it carried weight enough to fill the
 
 "I have not accused Lord Roderic of anything," Vesper said, carefully. "I would not, without proof, even to you."
 
-"No. You are too careful for that, and I am grateful for it, because I am not sure what I would do with an accusation I could neither dismiss nor act on." Aldric rose and crossed to the window, looking out over gardens that gave no indication they had ever known a war. "I married Isolde to end a grievance, Vesper. Four decades, and I still cannot tell you whether it worked or whether it only taught the grievance to wait longer and choose its moments more carefully. If it was Roderic's hand behind Firsthold, he did not act with my wife's knowledge — I believe that as surely as I believe anything in this world — but I have learned not to mistake a wife's innocence for a house's."
+"No. You are too careful for that, and I am grateful for it, because I am not sure what I would do with an accusation I could neither dismiss nor act on." Aldric rose and crossed to the window, looking out over gardens that gave no indication they had ever known a war. "I married Isolde to end a grievance, Vesper. Two decades, and I still cannot tell you whether it worked or whether it only taught the grievance to wait longer and choose its moments more carefully. If it was Roderic's hand behind Firsthold, he did not act with my wife's knowledge — I believe that as surely as I believe anything in this world — but I have learned not to mistake a wife's innocence for a house's."
 
 "I did not come here to ask you to choose between us," Vesper said. "I came to tell you what happened to my children in your capital's own north, and to ask that the crown's own eyes stay open in whatever direction they can, without requiring you to name a house you cannot yet prove."
 
@@ -56,7 +56,7 @@ The silence that followed was not long, but it carried weight enough to fill the
 
 "Your Majesty."
 
-"You defended your sister with a blade drawn against men who meant to take her, in the middle of a city that had every reason to think itself safe." Aldric held his gaze. "I have three children of my own. I do not know what I would have done in your place at your age, and I suspect I would rather not find out. You have my gratitude, for whatever a king's gratitude is worth against what you actually risked."
+"You defended your sister with a blade drawn against men who meant to take her, in the middle of a city that had every reason to think itself safe." Aldric held his gaze. "I have four children of my own. I do not know what I would have done in your place at your age, and I suspect I would rather not find out. You have my gratitude, for whatever a king's gratitude is worth against what you actually risked."
 
 "It is worth a great deal, Your Majesty." Lucian said it plainly, and meant it more than the formality suggested. "I would ask only that it be spent on finding what my father cannot yet prove."
 
