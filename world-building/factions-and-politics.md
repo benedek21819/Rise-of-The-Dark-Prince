@@ -197,6 +197,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 
 ### House Dravenhall
 - **Current Lord**: **Lord Roderic Dravenhall** — inherited the seat from his and Queen Isolde's father, the lord who led Dravenhall against Kaelarion in the Last Continental War. Accepted his sister's marriage to Aldric as the price of peace; has never fully made peace with it himself.
+- **Deep History**: Ruled Kaelor independently before ≈Year 620, when an emperor of House Caldarion granted the continent to House Kaelarion instead. Dravenhall submitted peacefully — no war, no siege, nothing to point to and blame — and has carried the grievance ever since, a wound sharpened rather than dulled by four centuries without a villain to name. Neither Roderic nor anyone in his line has ever known the decision came from the very empire whose last fragment is now hiding in the Northern Duchy.
 - **Specialty**: Militaristic, honor-bound, and aggressive warfare.
 - **Personality**: Proud, confrontational, and highly competitive. They value strength, personal honor, and martial glory.
 - **Political Stance**: Long-standing rivals of House Caldarion. They were one of the main opposing forces during the Last Continental War.

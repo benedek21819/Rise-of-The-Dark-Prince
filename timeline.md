@@ -26,6 +26,7 @@
 ### ≈ Year 620 – Granting of Kaelor
 - An emperor of House Caldarion formally grants the continent of Kaelor to House Kaelarion with full autonomous rule.
 - House Kaelarion remains a vassal in truth.
+- Before this grant, the land was not imperial territory at all — it was ruled independently by the ancestors of House Dravenhall, who had never sworn fealty to the Caldarion Empire. Facing the authority of the largest empire in the world, Dravenhall submits peacefully rather than resist what it cannot realistically oppose, and is folded into the new order as one Great House among several rather than Kaelor's sole ruler. No war marks the transition. The grievance still outlives it by centuries — a wound made worse, not better, for having no battle to point to and blame.
 
 ### ≈ Year 800 – The Secret Egg
 - A secret Caldarion dragon, one that was never publicly acknowledged and was unusually close to the Primordial Darkness, lays an egg.
