@@ -24,27 +24,13 @@ He gave his name at the entrance expecting delay, and got instead a young magist
 
 It was more than Lucian had expected to be given so plainly, and he said as much.
 
-"There is nothing here that endangers Myrath to share," Emeric said. "Dravenhall's grievance and Kaelarion's war are common knowledge dressed up as scholarship — every noble child on this continent learns some version of it before they are ten. I have simply given you the version with fewer omissions in it than the one your tutors likely used." Something in his manner shifted, subtly, as he led Lucian on toward the Map Room after. "It is only when the questions turn toward certain other houses that the Hall becomes more careful about what it offers."
+"There is nothing here that endangers Myrath to share," Emeric said. "Dravenhall's grievance and Kaelarion's war are common knowledge dressed up as scholarship — every noble child on this continent learns some version of it before they are ten. I have simply given you the version with fewer omissions in it than the one your tutors likely used."
 
-"You are careful with what you offer," Lucian said, somewhere past the second hour, when the pattern had become too consistent to be accidental.
+He led Lucian on toward the Map Room after, unhurried, filling the walk with the kind of easy commentary a good host offers a guest — the age of the eastern wing, a scriptorium fire two centuries back that had cost the Hall an entire section on Vaelmar's coastal charts, an old joke among the scholars about the Sea Watch's tower stairs. Lucian listened with half his attention and let the rest of it settle into the shape of the day, and did not think again of House Caldarion's own place in any of it until they had nearly reached the corridor's end, where a heavy iron-banded door sat apart from the ordinary run of reading rooms.
 
-"I have spent my whole career learning what is safe to know aloud and what is only safe to know quietly," Emeric said, and something behind the easy manner sharpened for a moment into a more genuine expression. "You would understand that better than most visitors we get here, I suspect, given your house's reputation for the same discipline."
+"Restricted Vaults," Emeric said, in the same unbothered tone he'd used for the scriptorium fire, when Lucian's gaze caught on it a moment longer than the rest of the corridor had held him. "Older records, mostly. Not much gets in there, and less gets out." He did not slow his pace to explain further, and the door passed behind them the way any closed door in an old building passes behind a visitor being shown the parts that are actually meant to be seen.
 
-"You know a great deal about my house's reputation for a man who has never met anyone from it."
-
-"I know a great deal about a great many things I have not met." Emeric's smile didn't waver, but it thinned, just slightly, into something more careful. "It is the nature of the work. History does not introduce itself in person. One only ever meets it secondhand, in fragments, and spends a career trying to decide which fragments are telling the truth and which are only telling a story someone found convenient at the time."
-
-"And which does House Caldarion's history tell?"
-
-It was, Lucian recognized even as he asked it, closer to a real question than the idle shape of the afternoon had intended. Emeric's gaze held his a beat longer than the question strictly required, weighing something Lucian could not read.
-
-"An incomplete one," Emeric said at last. "Which is true of every history old enough to matter, and no more suspicious in your house's case than in anyone else's. I would not read anything into that, Lord Caldarion, beyond what the words themselves say." He turned, gesturing toward a heavy door at the corridor's far end, iron-banded, plainly not part of the standard circuit. "The Restricted Vaults sit beyond there. I cannot take you in — that permission belongs to my aunt, and to very few besides her — but I mention it because you asked an honest question, and I did not want you to think I was hiding the existence of an answer, only the answer itself."
-
-"Fair enough."
-
-"Most people do not ask twice, once told that. You might be the exception, in time." Something flickered behind Emeric's eyes, curiosity folding briefly over itself, before he let the moment pass and turned them back toward the Archive's quieter halls. "For today, I think the Map Room has served you better than the Vaults would have. Knowing where your enemies stand is more useful than knowing where they came from. Usually."
-
-They parted at the Hall's outer steps as the afternoon light had begun to lean gold across the academic district's low roofs, and Lucian was still turning the word *usually* over, weighing its particular deliberate weight, when a small procession crossed the far end of the courtyard toward the Hall's private entrance — household guards in Kaelarion crimson, and at their center, unmistakable even at this distance, Queen Isolde.
+They parted at the Hall's outer steps as the afternoon light had begun to lean gold across the academic district's low roofs, and Lucian had already turned his thoughts toward the walk back when a small procession crossed the far end of the courtyard toward the Hall's private entrance — household guards in Kaelarion crimson, and at their center, unmistakable even at this distance, Queen Isolde.
 
 She did not see him, or did not choose to. She walked with the same composed, unreadable grace Lucian had watched her carry through the reception three nights before, a woman who had spent two decades learning to let nothing show that she had not first decided should be seen. Beside her walked a man in Hall robes Lucian did not recognize, older and more senior than Emeric, speaking low enough that the exchange did not carry across the courtyard's width.
 
