@@ -67,10 +67,10 @@ Eclipse became the symbol of Imperial authority. It was rarely drawn. Whenever i
 
 Eclipse and the Dark Throne are made from the same Black Star. Together they form the heart of the Imperial authority.
 
-Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure.
+Today, Arcanor is rarely visited due to the extreme dangers of ocean travel that developed gradually over the centuries following the Caldarions’ departure — and even those who reach it find a continent that has grown genuinely dangerous to live on in its own right. Blighted ground, worsening wildlife, and places where the Veil sits unnaturally thin have spread slowly outward for centuries, worst of all around the old imperial capital, where the Dark Throne still stands empty. It is avoided even by those otherwise willing to brave the rest of the wild continent.
 
 **Story Importance**:
-Arcanor represents the lost homeland and former glory of House Caldarion. The Dark Throne and Eclipse were both symbols of power and anchors that kept the primordial darkness sealed. Their abandonment after the voluntary exile contributed to the gradual worsening of dangers at sea.
+Arcanor represents the lost homeland and former glory of House Caldarion. The Dark Throne and Eclipse were both symbols of power and anchors that kept the primordial darkness sealed. Their abandonment after the voluntary exile contributed to the gradual worsening of dangers at sea — and, less visibly from Kaelor's distance, to a slow corruption of the land itself, worst nearest the throne.
 
 ## House Caldarion Territory (Northern Duchy)
 

@@ -41,10 +41,11 @@
 - The secret egg is taken with them rather than risked falling into anyone else’s hands. This egg will much later hatch as **Ancalion**.
 - At the time of the exile, the oceans are still difficult but navigable.
 
-### Year 812 onward – Gradual Escalation of the Seas
+### Year 812 onward – Gradual Escalation of the Seas and the Land
 - With the Caldarions no longer present on Arcanor to help maintain the seal of the Primordial Darkness, the dangers of the ocean slowly increase over the following decades and centuries.
 - No-wind zones expand, storms intensify, and monstrous creatures become more common.
 - Naval travel between the continents eventually becomes nearly impossible.
+- The failing seal presses on land as well as sea. Arcanor itself, nearest the empty Dark Throne, slowly grows more dangerous to live on — blighted ground, worsening wildlife, and pockets where the Veil sits unnaturally thin, worst of all around the old imperial capital and the throne itself. Kaelor is spared the equivalent decay only because distance and the ruined seas isolate it; Arcanor has no such protection.
 
 ### ≈ Year 1005–1012 – Birth of the Current Older Generation
 - Vesper Caldarion (b. ≈1010) and his brother Dain, Aldric Kaelarion, Isolde, and other members of the current older generation are born, in the years before the Last Continental War.
