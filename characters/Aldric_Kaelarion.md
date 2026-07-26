@@ -5,7 +5,7 @@
 **Birth Year:** 1006 IE  
 **Age:** Middle-aged (49 as of the main story's present, ≈1055 IE)
 
-**Appearance:** Dignified and regal, with the bearing of a long-time ruler. He carries visible signs of weariness and responsibility — subtle lines of stress and a quieter presence than in his younger years. He dresses in the royal colors of deep crimson and gold.
+**Appearance:** Dignified and regal, with the bearing of a long-time ruler. Kaelarion gold hair, now heavily greying, and blue eyes. He carries visible signs of weariness and responsibility — subtle lines of stress and a quieter presence than in his younger years. He dresses in the royal colors of deep crimson and gold.
 
 **Personality:** The Weary Stabilizer — a tired but responsible ruler who prioritizes peace and stability above all else. He is genuinely grateful to House Caldarion for their role in securing the throne and believes the alliance is the only thing preventing another devastating war. He is frustrated by both his wife Isolde’s ambition and his son Dorian’s impatience, but he is often too cautious to confront them openly. His greatest strength is his ability to keep fragile alliances intact, even if it means accepting uncomfortable compromises.
 
