@@ -13,7 +13,7 @@
 - The Primordial Darkness emerges.
 - The man who would become the First Caldarion dominates the darkness and forces it back beyond the Veil.
 - The Black Star emerges from the breach.
-- Almost all rulers, nobles, and people who witnessed the event instinctively kneel before him. The lord of what will become House Kaelarion is the first to kneel — a detail that means little in the moment, and everything centuries later.
+- Almost all rulers, nobles, and people who witnessed the event instinctively kneel before him. The lord of what will become House Kaelarion — at the time a minor, barely-surviving house with no name worth remembering — is the first to kneel. It buys them nothing immediately, only the first thread of a trust that will take more than six hundred years to fully pay out.
 - House Caldarion is founded.
 - Because nearly every ruler on Arcanor knelt, the **Caldarion Empire is established very shortly after the First Eclipse**.
 - The Dark Throne and the sword Eclipse are later created from the Black Star.
@@ -21,10 +21,11 @@
 ### Early Imperial Period (Years 0 – ~100)
 - Rapid consolidation of the Caldarion Empire across Arcanor.
 - The Black Sun becomes the imperial sigil.
-- House Kaelarion exists as a loyal vassal house.
+- House Kaelarion exists as a loyal vassal house — still minor, still unremarkable, but steady. Over the following centuries it slowly earns greater trust and responsibility within the empire through consistent service and loyalty the crown never has cause to doubt, rather than through any single dramatic act.
 
 ### ≈ Year 620 – Granting of Kaelor
-- An emperor of House Caldarion formally grants the continent of Kaelor to House Kaelarion with full autonomous rule.
+- An emperor of House Caldarion formally grants the continent of Kaelor to House Kaelarion with full autonomous rule — not a sudden reward, but the culmination of more than six hundred years of proven loyalty since the house's ancestor first knelt.
+- Upon receiving the continent, House Kaelarion sets aside the small, forgotten name it had carried since before the empire existed and takes a new one — Kaelarion, built from Kaelor itself — binding its new identity to the land the empire has finally trusted it to hold.
 - House Kaelarion remains a vassal in truth.
 - Before this grant, the land was not imperial territory at all — it was ruled independently by the ancestors of House Dravenhall, who had never sworn fealty to the Caldarion Empire. Facing the authority of the largest empire in the world, Dravenhall submits peacefully rather than resist what it cannot realistically oppose, and is folded into the new order as one Great House among several rather than Kaelor's sole ruler. No war marks the transition. The grievance still outlives it by centuries — a wound made worse, not better, for having no battle to point to and blame.
 
