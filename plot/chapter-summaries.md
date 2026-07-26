@@ -36,6 +36,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 28. Ground  
 29. Water  
 30. Crown  
+31. Inquiry  
 
 ---
 

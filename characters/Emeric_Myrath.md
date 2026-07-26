@@ -15,6 +15,6 @@
 - **Lady Ilyandra Myrath** (aunt, head of house): Respects her authority, chafes quietly at how much of Myrath's neutrality he's come to see as convenience rather than principle.
 - **The Hall of Inquiry**: His actual daily world — the Great Archive, the Map Room, and increasingly, the Restricted Vaults, where he has spent more unsupervised hours than the house officially knows.
 - **The prophecy fragment**: Has read it. Has not yet solved it. Suspects, without proof, that it means something other than what history has always assumed — a suspicion he has not shared with anyone, including Ilyandra.
-- **House Caldarion**: No direct relationship yet — a natural point of contact if Lucian, Seren, or anyone else in House Caldarion's orbit ever has reason to visit the Hall of Inquiry during time in Aurelia.
+- **House Caldarion**: Gave Lucian his first tour of the Hall during the Aurelia visit — the Great Archive and the Map Room, deliberately not the Restricted Vaults. Found Lucian sharper and more careful than he expected, and let slip more curiosity about Caldarion's "incomplete" history than he meant to. Neither of them has any idea yet how much that curiosity will eventually matter to the other.
 
 **Role in Story:** The most accessible thread into Myrath's slow-burn secret. Positioned to plausibly interact with Lucian or others during the Aurelia arc without requiring a trip to Oldwood, and carrying, unknowingly, a partial key to a truth that could unravel centuries of Caldarion secrecy if his curiosity ever outruns his caution.
