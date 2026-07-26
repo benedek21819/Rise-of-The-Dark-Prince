@@ -20,7 +20,7 @@ He gave his name at the entrance expecting delay, and got instead a young magist
 
 "And Dravenhall's dragon. Korrath."
 
-"Old before the war and older after it. One of the largest ever recorded on Kaelor, and essentially undiminished by the defeat — which is, if you want my honest reading rather than the Archive's careful one, the actual reason Dravenhall still has a seat at any table worth sitting at. A humbled house with a dragon that size is not a house anyone finishes destroying, whatever they may have wanted to at the time." Emeric glanced at him, something assessing in it. "Lord Roderic inherited both the seat and the grievance from his father. He has given no one cause, in the years since, to say he inherited nothing else. Whether that is discipline or patience, the Hall does not presume to know."
+"Large and dangerous before the war, and just as dangerous after it. He came through the fighting essentially undiminished — which is, if you want my honest reading rather than the Archive's careful one, the actual reason Dravenhall still has a seat at any table worth sitting at. A humbled house with a dragon that size is not a house anyone finishes destroying, whatever they may have wanted to at the time." Emeric glanced at him, something assessing in it. "Lord Roderic inherited both the seat and the grievance from his father. He has given no one cause, in the years since, to say he inherited nothing else. Whether that is discipline or patience, the Hall does not presume to know."
 
 It was more than Lucian had expected to be given so plainly, and he said as much.
 
