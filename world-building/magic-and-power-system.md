@@ -92,6 +92,24 @@ Where the Silver Guard is the house’s open strength, the Shadow Guard is its h
 ### House Meaning
 The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch and latent Commandments.
 
+## Caldarion Domain Abilities — Vesper and Lucian
+
+Both are advanced, personal expressions of the family's Shadow/Void affinity, distinct from each other in kind rather than only in strength — reflecting the difference between a duelist's precision and a ruler's absolute dominance. Both are rare even within the bloodline; most Caldarions with Shadow/Void affinity never manifest anything at this level.
+
+### Lucian — "The Hush" (sensory domain)
+A field centered on Lucian in which his own senses — sight, hearing, and Veil-perception — sharpen dramatically, while everyone else's senses within the radius are dulled or blacked out entirely. It is the natural extension of the widened radius-sense he has already trained (the terrace exercise, the Firsthold field mission): the same mechanic, crossing from passive detection into active suppression.
+
+- **Uncontrolled (current stage):** Triggers involuntarily under genuine danger, especially to those in his inner circle. Indiscriminate — it does not distinguish ally from enemy, meaning it can blind or deafen the very people he is trying to protect at the worst possible moment. A real cost, not a clean power-up.
+- **Controlled (future mastery):** Learning to exempt specific individuals from the suppression, turning a blunt area effect into a precise one. This is not a codified Still Blade technique — Dain has never taught it, because the Veil Branch itself has been withheld from Lucian until Foundation and Weight need no conscious effort. It is unprecedented within his own training, which means Lucian has to learn to name and control it himself rather than being taught.
+
+### Vesper — Literal Weight (gravitic domain)
+The mastery-tier expression of the Still Blade's own Weight principle — no longer a metaphor for imposing presence, but presence made physically real. Within Vesper's domain, everything and everyone besides himself becomes measurably, dramatically heavier: weapons grow difficult to lift, footsteps sink, breath labors, movement slows toward a crawl. Vesper himself can move the opposite way within the same field — lighter, freer, unnaturally at ease while everything around him is crushed toward stillness. The image is not subtle: when it is active, physics itself appears to defer to him.
+
+- **Nature:** Raw, overwhelming, and total rather than tactical — a ruler's tool, not a duelist's. Where Lucian's Hush denies information with precision, Vesper's Weight denies motion outright, indiscriminately, to everyone but himself.
+- **Cost and exposure:** Bending literal gravity is unmistakably, spectacularly magical — nothing about it could pass as ordinary force of personality. It leaves a correspondingly heavy trace in the Veil, far more detectable than ordinary Veilweaving, and using it in front of the wrong witness is closer to a public declaration than a private advantage. This is precisely why Vesper almost never uses it, even though he has carried the capability for decades: it announces something every single time, and a house built on controlled information cannot afford many announcements.
+
+Neither ability approaches Commandment-level control — both stop well short of compelling another person's actions directly. They are the ceiling of what Shadow/Void affinity can do through presence and domain; Commandments are a different, rarer, and more dangerous thing entirely.
+
 ## Veilseers and The Sisters of the Current
 **Veilseers** are a rare and distinct type of magic user. While ordinary Veilweavers manipulate the Veil, Veilseers **perceive possible futures** through the Eternal Current.
 
