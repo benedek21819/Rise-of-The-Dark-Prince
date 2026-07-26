@@ -38,13 +38,13 @@ Dorian's blade paused a half-beat longer than the exchange required, and somethi
 
 "I understand it better." Dorian's voice had lost the last of its performance, and for the length of a breath Lucian saw, underneath the ambition and the practiced charm, something rawer and more familiar than he had expected to find in a prince who resented him. "Do you know what it is to grow up the heir to a throne that everyone agrees is only still standing because another house's dragons keep it upright? I did not choose this arrangement between our families. I inherited it, the same as you inherited yours, and I have spent every year since old enough to understand it wondering what will be left of my own authority once I actually wear the crown my father is so tired of carrying."
 
-"You will wear a crown," Lucian said, and something in the flatness of it landed harder than he had intended. "My house has never worn one at all."
+"You will wear a crown," Lucian said. "I will only ever wear what my father decides I have earned, and he does not decide that gently."
 
-Dorian's blade stilled entirely.
+Dorian's blade stilled.
 
 "Explain that."
 
-"There is an old saying in my family. *No crown without weight.*" Lucian lowered his own blade, unhurried, and found, somewhat to his own surprise, that he wanted Dorian to actually hear this rather than simply be maneuvered past it. "No Caldarion has worn one, not since the first, not through everything that came after him. Some in my house read it as warning — that no one should wear a crown who has not already proven he can carry what it costs. Others read it as its opposite — that a man who already carries the true weight has no need of the symbol at all." He held Dorian's eyes. "You have the symbol waiting for you already, given by birth rather than earned by anything you have yet done. I understand why that might feel like an advantage. I am not certain it is one."
+"There is a saying in my house. *No crown without weight.*" Lucian lowered his own blade, unhurried, and found, somewhat to his own surprise, that he wanted Dorian to actually hear this rather than simply be maneuvered past it. "I do not know its origin. I know only what it is used to mean — that no one should be given authority he has not first proven he can carry, symbol or no symbol, and that a man who already carries the true weight of a thing has little need of anything else to prove it." He held Dorian's eyes. "You were given yours by birth, before you had carried anything at all. I understand why that might feel like an advantage. I am not certain it is one."
 
 For a long moment Dorian said nothing, the practice blade forgotten at his side, and something moved behind his expression that Lucian could not fully read — not gratitude, nothing so simple as that, but something closer to a man being told a truth he had suspected privately and never once heard said aloud by someone with no obvious reason to comfort him.
 
@@ -62,4 +62,4 @@ Then it closed over, the way a wound closes over when the person carrying it dec
 
 He left the training court without waiting for a reply, his guards falling into step behind him, and Lucian stood alone in the pale sand for a long moment afterward, turning the morning over the way he turned over everything Dain had never directly taught him.
 
-He had come expecting a rival. He left with something less simple than that — not an ally, not yet, and perhaps not ever entirely, but a man who wore a crown he had not chosen and resented it in ways Lucian, house of the crownless, was only beginning to understand.
+He had come expecting a rival. He left with something less simple than that — not an ally, not yet, and perhaps not ever entirely, but a man who wore a crown he had not chosen and resented it in ways Lucian was only beginning to understand.
