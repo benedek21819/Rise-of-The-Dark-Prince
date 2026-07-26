@@ -33,7 +33,7 @@
 - A secret Caldarion dragon, one that was never publicly acknowledged and was unusually close to the Primordial Darkness, lays an egg.
 - The existence of this dragon was already a closely guarded secret within the highest levels of the house.
 - The appearance of the egg intensifies fear and political pressure against House Caldarion.
-- Combined with the misinterpreted prophecy, the egg becomes one of the catalysts that contributes to the growing demand for the main line of the house to leave Arcanor.
+- Combined with the misinterpreted prophecy, the egg becomes one of the catalysts that contributes to the growing demand for the main line of the house to leave Arcanor. The prophecy itself — "When the Dark Throne is forsaken, the world shall remember what it was made to forget" — was a warning never to leave the throne unguarded, twisted by fear and convenient political misreading into a promise that removing Caldarion would bring relief rather than disaster (see history-and-lore.md, "The Prophecy," for the full mechanism).
 
 ### ≈ Year 812 – The Exile
 - Under immense popular and political pressure, the reigning Caldarion emperor accepts the will of the people and voluntarily leads the main line of the house into exile.

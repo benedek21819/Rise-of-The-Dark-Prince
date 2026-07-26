@@ -220,6 +220,9 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Relationship to the Crown**: Pragmatic. They supply the kingdom’s armies but push for greater influence and recognition of their industrial importance.
 
 ### House Myrath
+- **Current Head**: **Lady Ilyandra Myrath**, Archmagister of Oldwood — genuinely believes the house's neutrality is a principled stance, though it has also made Myrath extremely comfortable and never once required real risk in defense of anything it claims to value.
+- **Aurelia Presence**: **Magister Emeric Myrath**, her nephew, serves as the house's formal liaison to the Hall of Inquiry — the most accessible Myrath figure for anyone spending time in the capital, and someone whose curiosity already runs further than his aunt or his house's doctrine would prefer.
+- **The Prophecy Fragment**: The Hall of Inquiry's Restricted Vaults hold a damaged, incomplete copy of the prophecy that drove the Caldarion exile. Real, dangerous if ever fully understood, and badly enough preserved that even Emeric — who has read it more closely than anyone alive outside House Caldarion's own secrets — has only a suspicion, not proof, of what it actually means.
 - **Specialty**: Magic studies, research, and preservation of old knowledge.
 - **Reputation**: Traditional and proud. They are highly respected for their vast archives and scholarly work but are often criticized for their strict neutrality.
 - **Political Stance**: Maintained complete neutrality during the Last Continental War and refused to take sides.

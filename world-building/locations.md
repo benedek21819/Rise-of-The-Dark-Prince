@@ -241,7 +241,7 @@ A large, multi-winged complex of stone halls, libraries, scriptoriums, and obser
 - **The Great Archive**: The largest collection of written histories on Kaelor, covering the period since the arrival of House Caldarion and the establishment of the current kingdom.
 - **The Map Room**: Holds the most accurate existing charts of Kaelor and the surrounding seas. Some older maps contain fragmentary information about routes toward Arcanor.
 - **The Sea Watch / Observatory**: Scholars here study weather patterns, the Silent Belt, the Storm Ring, the Outer Deep, and other dangerous oceanic phenomena.
-- **Restricted Vaults**: Contain incomplete, sensitive, or potentially dangerous records related to the exile, early Caldarion history on Kaelor, and certain catastrophic ocean events. Access is tightly controlled.
+- **Restricted Vaults**: Contain incomplete, sensitive, or potentially dangerous records related to the exile, early Caldarion history on Kaelor, and certain catastrophic ocean events. Access is tightly controlled. Among the holdings is a damaged, incomplete fragment of the prophecy that drove the Caldarion exile — real, dangerous if ever properly understood, but badly enough preserved that no one has yet pieced together its true meaning. See history-and-lore.md, "The Prophecy."
 
 **Political Position**:  
 Officially neutral and under royal protection. In practice, **House Myrath** holds significant influence over its leadership, senior scholars, and the direction of research. Many instructors and archivists come from Myrath or were trained under their traditions.
