@@ -13,7 +13,7 @@
 - The Primordial Darkness emerges.
 - The man who would become the First Caldarion dominates the darkness and forces it back beyond the Veil.
 - The Black Star emerges from the breach.
-- Almost all rulers, nobles, and people who witnessed the event instinctively kneel before him.
+- Almost all rulers, nobles, and people who witnessed the event instinctively kneel before him. The lord of what will become House Kaelarion is the first to kneel — a detail that means little in the moment, and everything centuries later.
 - House Caldarion is founded.
 - Because nearly every ruler on Arcanor knelt, the **Caldarion Empire is established very shortly after the First Eclipse**.
 - The Dark Throne and the sword Eclipse are later created from the Black Star.
@@ -48,9 +48,10 @@
 - Vesper Caldarion (b. ≈1010) and his brother Dain, Aldric Kaelarion, Isolde, and other members of the current older generation are born, in the years before the Last Continental War.
 
 ### ≈ Year 1015–1030 – The Last Continental War (on Kaelor)
+- **Cause**: The Kaelarion king before Aldorion dies without an unquestioned heir. Aldorion inherits the claim young and militarily unproven, and House Dravenhall — never fully reconciled to Kaelarion's precedence — leads a coalition (joined by House Ironveil, arms and siege support) to break the claim and redraw Kaelor's balance of power. House Thalorin and House Vaelmar back Kaelarion (Vaelmar's early support uncertain enough that Aldric secures it permanently decades later via his marriage to Maris). House Myrath and House Sylvaron hold to neutrality, Sylvaron profiting quietly from both sides.
 - Almost all great and small houses on Kaelor fight for power and resources.
 - Many old dragons and dragon riders die.
-- House Kaelarion wins the war with decisive support from House Caldarion.
+- House Kaelarion wins the war with decisive support from House Caldarion — publicly attributed to the Ravorn-Aldorion friendship, privately driven by House Caldarion's duty to Kaelarion as its last surviving vassal from the old empire (see history-and-lore.md, "The Last Continental War").
 - ≈1027: King Aldorion Kaelarion dies partway through the war (age and its strain, not battle — consistent with his standing as statesman rather than warrior). Aldric ascends to the throne already bonded to Solara, and continues the war effort — and the Caldarion alliance — as king rather than as heir.
 - House Caldarion pays for that support heavily. Lord Ravorn Caldarion (rider of Morvath) dies near the war's end, along with a substantial number of the house's other direct and extended family members — cousins, secondary branches, and several who would have stood between Vesper and the headship under ordinary circumstances.
 - Publicly it is claimed that Morvath also died with Ravorn. In reality he survives, badly wounded, and is quietly recovered and hidden by what remains of the house rather than risked in the open — a wounded, riderless dragon is a liability the house cannot afford to expose while it is this vulnerable, regardless of the legal question.
