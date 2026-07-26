@@ -44,10 +44,12 @@ This is the index for all major characters. Each character has their own dedicat
 
 ### Current Generation
 - **[King Aldric Kaelarion](Aldric_Kaelarion.md)** — Current ruler, the Weary Stabilizer
-- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Consort, née Dravenhall
-- **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family
-- **[Prince Corvin Kaelarion](Corvin_Kaelarion.md)** — Second prince, the overlooked but genuinely capable second son
-- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian's fiancée ("the Sun Princess")
+- **[Queen Isolde Kaelarion](Isolde_Kaelarion.md)** — Ambitious Queen Consort, née Dravenhall (first wife)
+- **[Lady Maris Kaelarion](Maris_Kaelarion.md)** — Second wife, née Vaelmar
+- **[Crown Prince Dorian Kaelarion](Dorian_Kaelarion.md)** — Ambitious heir of the royal family (by Isolde)
+- **[Prince Corvin Kaelarion](Corvin_Kaelarion.md)** — Second prince, the overlooked but genuinely capable second son (by Isolde)
+- **[Princess Seren Kaelarion](Seren_Kaelarion.md)** — Lucian's fiancée ("the Sun Princess") (by Isolde)
+- **[Princess Nerissa Kaelarion](Nerissa_Kaelarion.md)** — Youngest child, by Maris
 - **[Lady Liora Kaelarion](Liora_Kaelarion.md)** — Aldric's younger sister, married into House Sylvaron
 
 ### Previous Generation
