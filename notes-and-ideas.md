@@ -32,8 +32,11 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 - Selene: 9 (bible-specified: b.1043, 5 years younger than Lucian; first on-page appearance since Ch.7-era childhood chapters)
 - Lyra: 19
 
-**Chapter 36 onward (a small time skip — several months later):**
+**Chapter 36–40 (a small time skip — several months later):**
 - Lucian: 15 (age not stated directly in the prose; tracked here for continuity)
+
+**Chapter 41 onward (another time skip):**
+- Lucian: close to 16 (age not stated directly in the prose; tracked here for continuity)
 
 ## Open Questions
 - [What still needs figuring out?]
