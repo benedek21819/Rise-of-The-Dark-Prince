@@ -1,4 +1,4 @@
-# Chapter 35: Branch
+# Chapter 35: Depth
 
 Dain dismissed him early on the fifth morning back, which was itself unusual enough that Lucian nearly asked the reason before he saw his father waiting in the corridor beyond the hall, and understood that the reason had simply arrived in person rather than needing to be spoken.
 
@@ -10,7 +10,7 @@ He led them not toward the solar or the study where most of their conversations 
 
 "Dain has said nothing of a next stage."
 
-"Dain would not. What I am about to describe to you is not part of the Still Blade's structure at all — not Foundation, not Weight as he teaches it, and not the Veil Branch he will eventually open to you when he judges the time right. That branch, when it comes, will still be his to give. This is something else." Vesper's gaze held steady, and something in it carried a gravity Lucian had rarely seen outside the coldest hours of the house's worst nights. "This is Domain."
+"Dain would not. What I am about to describe to you is not part of the Still Blade's structure at all — not Foundation, not Weight as he teaches it, nor anything that belongs to his floor to give you. This is something else entirely." Vesper's gaze held steady, and something in it carried a gravity Lucian had rarely seen outside the coldest hours of the house's worst nights. "This is Domain."
 
 "I do not know the word, in this context."
 
