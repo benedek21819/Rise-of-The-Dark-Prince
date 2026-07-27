@@ -20,3 +20,5 @@
 - **Lord Dain Caldarion**: Mutual respect between two martial pillars — Valtor commands the Silver Guard elite; Dain commands the wider conventional forces.
 
 **Role in Story:** A living symbol of House Caldarion’s traditional strength and discipline. He serves as a reliable pillar of support for the family and a high benchmark of martial excellence that Lucian (and others) must measure themselves against.
+
+**The Greyfen Hunt:** Accompanies Lucian on his first publicly commanded operation — a beast-culling hunt near the northern outpost of Greyfen — leading a company of twenty-five Silver Guard chosen for mountain work. Deliberately subordinate to Lucian's command despite being by far the more experienced field officer, exactly as Vesper instructed; makes his own judgment known plainly where it matters (troop selection, terrain reading) without ever overriding the authority given to Lucian. His approval, when Lucian earns it, is not offered lightly.
