@@ -93,6 +93,11 @@ From that valley base, the Caldarions systematically cleared much of the wild be
 
 During this early period, House Caldarion discovered rich deposits of **Cold Silver** within the mountain itself. Recognizing both the value of the metal and the defensive strength of the peak, they chose to raise **Blackspire Keep** on the summit, while **Firsthold** in the valley below remained the living heart of northern population and trade.
 
+### The Wild Beasts of the North
+Clearing the north never meant emptying it. The wolves, bears, and other large predators that made the region uninhabitable before House Caldarion's arrival were driven back from the settled valleys, not exterminated — the deeper mountains and wilder stretches beyond Firsthold's reach have always kept a real, breeding population, larger and more aggressive than the same species found anywhere else on Kaelor. It is quietly theorized, never proven, that centuries of proximity to whatever residual Veil activity lingers in the North's more remote reaches has shaped them into something more than ordinary wildlife — outsized, harder to kill, and more willing to hunt something that fights back. No scholar has confirmed the cause, and House Caldarion has never made the theory a matter of public record.
+
+To keep the settled valleys safe, House Caldarion has organized culling hunts against the beast population for as long as Firsthold has existed — not a single act of clearing, but a recurring duty passed down with the rest of the house's obligations to its own people. For generations the interval between hunts was long enough to be almost incidental. In recent decades that interval has been shrinking, hunts called more frequently than the generation before needed them. The most recent hunt was not so long ago, and already the signs of a beast population growing back faster than expected are becoming difficult to ignore — enough that another hunt, sooner than anyone would prefer, is beginning to look unavoidable.
+
 ### Firsthold
 
 **Type**: Capital city of the Northern Duchy  
