@@ -269,7 +269,7 @@ A natural location for research into history, geography, and the dangers of the 
 | Location | Type | Description | Strategic / Story Importance | Notable Features |
 |----------|------|-------------|------------------------------|--------------------|
 | **Firsthold** | Northern capital | Valley city at the foot of Blackspire’s mountain | Administrative and population center of the Northern Duchy | First lasting Caldarion settlement on Kaelor |
-| **Greyfen** | Logging & trapping outpost | Three days north of Firsthold along the high road, deep into the wilder mountain edge | Small enough to answer to Firsthold's steward rather than keep its own; site of the beast-culling hunt Lucian leads at 15 | Closest settled point to the North's worst wild-beast activity |
+| **Greyfen** | Logging & trapping outpost | Three days north of Firsthold along the high road, deep into the wilder mountain edge | Small enough to answer to Firsthold's steward rather than keep its own; the worst-hit sector of a duchy-wide beast-culling campaign, and the one Lucian is given to command at 15 | Closest settled point to the North's worst wild-beast activity |
 | **The Ascend** | Fortified mountain route | Path from Firsthold to Blackspire Keep | Only practical approach to the keep; controlled by Silver Guard | Checkpoints, winter isolation |
 | Eastern Ports | Coastal cities | Major ports under House Vaelmar facing Arcanor | Gateway for any contact with the mainland | Naval bases, trade hubs |
 | Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Ironveil |
