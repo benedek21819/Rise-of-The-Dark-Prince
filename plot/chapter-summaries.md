@@ -39,8 +39,9 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 31. Inquiry  
 32. Seam  
 33. Wake  
+34. Hearth  
 
-**Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). The household returns to Blackspire; the next chapter resumes there.
+**Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 
 ---
 

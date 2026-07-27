@@ -19,12 +19,18 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 - Lyra: 19 (bible-specified: 5 years older than Lucian)
 - Seren: 11 (has not appeared since Ch.21; age tracked for continuity only)
 
-**Chapters 27–30 (the Aurelia arc):**
+**Chapters 27–33 (the Aurelia arc):**
 - Lucian: 14
 - Seren: 11 (reappears on-page in Ch.29 for the first time since Ch.21)
 - Corvin: 13 (bible-specified: b.1039, 2 years older than Seren)
 - Dorian: 15 (bible-specified: b.1037, 1 year older than Lucian; first real on-page scene in Ch.30)
 - Riven & Thorne: 12 (bible-specified: 2 years younger than Lucian)
+- Nerissa: ~8 (bible-specified: b.1044)
+
+**Chapter 34 onward (back at Blackspire):**
+- Lucian: 14
+- Selene: 9 (bible-specified: b.1043, 5 years younger than Lucian; first on-page appearance since Ch.7-era childhood chapters)
+- Lyra: 19
 
 ## Open Questions
 - [What still needs figuring out?]
