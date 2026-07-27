@@ -1,8 +1,8 @@
 # Chapter 34: Hearth
 
-Ancalion had already settled into the high roost by the time the carriages finally climbed the last stretch of the Ascend, and Lucian was waiting at the gate when they arrived — a small, deliberate echo of the way his father had once waited there after Firsthold, though he did not fully realize he had chosen the same spot until Vesper stepped down and looked at him with something that might have been amusement, if his father's face allowed for anything so plain.
+Ancalion came down onto the high roost while the sun was still well short of setting, a full three days ahead of the carriages that carried his father and brothers home by the slower road, and for a while after the landing Lucian simply stood at the platform's edge and let the familiar cold of home settle back into his bones before he went looking for anyone to tell of it.
 
-He did not have long to consider it. The doors behind him opened before the last carriage had properly stopped, and Selene came through them at a dead run, disheveled as always, one shoe not quite fastened, calling his name across the courtyard in a voice that carried over every more careful greeting the arrival deserved.
+He did not have to go far. The doors below opened before he had finished the last stretch of stairs down from the roost, and Selene came through them at a dead run, disheveled as always, one shoe not quite fastened, calling his name across the courtyard in a voice that carried over every more careful greeting the arrival deserved.
 
 "You were gone *forever*," she informed him, colliding into him with the same unrestrained force she brought to everything, and he caught her out of habit more than surprise, the small solid weight of her settling against him in a way that undid something in his chest he had not realized the visit had wound tight. "I counted the days. There were eleven of them. Lyra said counting wouldn't make it go faster and she was right, which I did not appreciate her being."
 
@@ -10,7 +10,7 @@ He did not have long to consider it. The doors behind him opened before the last
 
 "It was longer than it was, if you were the one waiting for it to be over." She pulled back just far enough to study him properly, the way she always did, cataloguing whatever small changes eleven days might have made. "You look taller. Or maybe you only look taller because I missed you and missing people makes them seem bigger in your head. Riven says that isn't how it works but I don't think he's ever missed anyone enough to know."
 
-"He has," Lucian said, glancing at Riven, who was already halfway to the twins' usual rowdy report of any journey worth describing, Thorne a quieter half-step behind him. "He is simply worse at admitting it than you are."
+"He has," Lucian said. "He is simply worse at admitting it than you are. You will have the chance to test that claim yourself in a few days — he and Thorne are still three days behind me on the road, with Father and the carriages."
 
 Elara reached him next, and where Selene's greeting had been all noise and motion, his mother's was quiet — both hands finding his face for a moment, searching it the way she always searched it after any absence long enough to worry her, before she drew him into an embrace that held nothing back and asked, in its own way, more than any spoken question could have.
 
@@ -30,7 +30,7 @@ It was Lyra he found last, standing a little apart from the general noise of the
 
 "I did not say that."
 
-"You did not have to." He crossed the distance between them, and for a moment neither of them spoke, the old easy silence between them settling back into place as though it had never been interrupted. "I am unhurt. Ancalion is unhurt. Riven and Thorne came home more insufferable than they left, which I understand is its own kind of proof that nothing serious happened to either of them."
+"You did not have to." He crossed the distance between them, and for a moment neither of them spoke, the old easy silence between them settling back into place as though it had never been interrupted. "I am unhurt. Ancalion is unhurt. Riven and Thorne are still on the road with Father, but Father's letters will have told you they left Aurelia no worse than they arrived — more insufferable, if anything, which I understand is its own kind of proof that nothing serious happened to either of them."
 
 That drew something close to a real laugh out of her, quiet and relieved. "I am glad of that. I am glad of all of it." She reached out, the same old habitual gesture, and straightened a fold of his cloak that had not needed straightening since he was half his current height. "I do not like being the one who stays. I understand why it had to be this time — someone sensible needed to remain, and Father did not trust anyone else with that particular sense — but I do not like it, and I do not think I will like it any better the next time it is asked of me."
 
@@ -48,11 +48,11 @@ Dain was waiting in the lower training hall before Lucian had finished his first
 
 "I am aware."
 
-"Good. Then you are aware that a boy who spends eleven days managing kings, princes, and a queen who gives away nothing does not return home merely to be fed and admired by his sisters, however much he has earned both." Something almost like approval crossed Dain's face, brief and quickly folded away. "Riven tells me the two of them fought you properly in Aurelia. Together, for the first time, and pushed you further than he expected either of them to manage alone."
+"Good. Then you are aware that a boy who spends eleven days managing kings, princes, and a queen who gives away nothing does not return home merely to be fed and admired by his sisters, however much he has earned both." Something almost like approval crossed Dain's face, brief and quickly folded away. "Your father wrote that the twins fought you properly in Aurelia. Together, for the first time, and pushed you further than either of them managed alone."
 
 "They did."
 
-"I know. I designed the gap between what they could do separately and what I judged they could do together, and I kept them from closing it until I believed you were ready to be tested by the difference." Dain's eyes did not soften, but something in his voice carried, unmistakably, the shape of a compliment delivered in the only currency he ever spent it in. "You closed both falls. That tells me the eleven days did not soften you as much as I feared they might, watching you climb into that harness for the first time with a kingdom's whole attention fixed on you."
+"I know. Your father sent a rider ahead with word of it, days before either of you were due back — his letter reached me before you did, which is its own comment on how fast a man can move a message when he wants particular news carried ahead of his own return. I designed the gap between what the twins could do separately and what I judged they could do together, and I kept them from closing it until I believed you were ready to be tested by the difference." Dain's eyes did not soften, but something in his voice carried, unmistakably, the shape of a compliment delivered in the only currency he ever spent it in. "You closed both falls. That tells me the eleven days did not soften you as much as I feared they might, watching you climb into that harness for the first time with a kingdom's whole attention fixed on you."
 
 "It was not a kingdom's attention I was thinking of, in the moment it mattered."
 
