@@ -52,10 +52,14 @@ Dain was waiting in the lower training hall before Lucian had finished his first
 
 "They did."
 
-"I know. Your father sent a rider ahead with word of it, days before either of you were due back — his letter reached me before you did, which is its own comment on how fast a man can move a message when he wants particular news carried ahead of his own return. I designed the gap between what the twins could do separately and what I judged they could do together, and I kept them from closing it until I believed you were ready to be tested by the difference." Dain's eyes did not soften, but something in his voice carried, unmistakably, the shape of a compliment delivered in the only currency he ever spent it in. "You closed both falls. That tells me the eleven days did not soften you as much as I feared they might, watching you climb into that harness for the first time with a kingdom's whole attention fixed on you."
+"I know. Your father sent a rider ahead with word of it, days before either of you were due back — his letter reached me before you did, which is its own comment on how fast a man can move a message when he wants particular news carried ahead of his own return." Dain's eyes did not soften, but something in his voice carried, unmistakably, the shape of a compliment delivered in the only currency he ever spent it in. "You closed both falls. That tells me the eleven days did not soften you as much as I feared they might, watching you climb into that harness for the first time with a kingdom's whole attention fixed on you."
 
 "It was not a kingdom's attention I was thinking of, in the moment it mattered."
 
-"No," Dain agreed. "I did not imagine it was." He drew his blade, the familiar cold weight of the morning settling back over the hall the way it always did, discipline reasserting itself over the loosened, warmer shape of the night before. "Then let us see what eleven days away from this floor cost you, and what it did not."
+"No," Dain agreed. "I did not imagine it was."
+
+Lucian said nothing further, though he understood, turning the report over as he took his stance, exactly why Dain had kept the twins apart from him for so long before finally allowing the two of them the whole measure — a lesson that had never once needed to be spoken aloud to land, and Dain had clearly seen no reason to start explaining himself now.
+
+Dain drew his blade, the familiar cold weight of the morning settling back over the hall the way it always did, discipline reasserting itself over the loosened, warmer shape of the night before. "Then let us see what eleven days away from this floor cost you, and what it did not."
 
 Lucian took his stance, the hall's familiar cold closing back around him like a second homecoming, quieter and colder than the first but no less certain in its own way — the warmth of the hearth behind him now, the discipline of the floor ahead, and the whole of Blackspire settled once more into the shape it had always worn before Aurelia had ever asked him to carry anything else.
