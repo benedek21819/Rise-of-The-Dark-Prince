@@ -24,7 +24,7 @@ It came out low and fast in a way nothing that size should have been able to man
 
 He took the opening.
 
-It was, he understood even as he moved, the same reckless certainty that had once put a blade through a man's shoulder in Firsthold's market square rather than wait for a better angle — not fear, not panic, only the old, familiar conviction that he could end a threat faster alone than by waiting for the shape of a plan to catch up to the danger in front of him. He closed the distance in three strides, blade already rising, and the bear, faster to notice him than he had accounted for, turned from the flank it had been about to maul and met him instead — closer, and far sooner, than the arc's slower approach could yet support.
+It was, he understood even as he moved, the same reckless certainty that had once put a blade across a man's wrist in Firsthold's market square rather than wait for a better angle — not fear, not panic, only the old, familiar conviction that he could end a threat faster alone than by waiting for the shape of a plan to catch up to the danger in front of him. He closed the distance in three strides, blade already rising, and the bear, faster to notice him than he had accounted for, turned from the flank it had been about to maul and met him instead — closer, and far sooner, than the arc's slower approach could yet support.
 
 "Lucian!"
 
