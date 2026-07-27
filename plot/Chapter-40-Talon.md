@@ -1,4 +1,4 @@
-# Chapter 40: Mend
+# Chapter 40: Talon
 
 Vesper already knew.
 
