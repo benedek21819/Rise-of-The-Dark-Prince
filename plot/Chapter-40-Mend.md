@@ -30,11 +30,11 @@ Lucian found, leaving the study, that he did not entirely know how to obey the s
 
 "Forget what."
 
-"The hawk." She said it with the patient, faintly offended clarity of someone repeating something that should never have needed repeating in the first place. "The one above the eastern wall. I told you about it before you left for the North, and you said, and I quote you exactly, 'when I am back, we will go and see it properly,' and then you left for eleven days and came back with a war story about a bear instead of remembering the actual important thing."
+"The hawk." She said it with the patient, faintly offended clarity of someone repeating something that should never have needed repeating in the first place. "The one above the eastern wall. I told you about it before you left for Greyfen, and you said, and I quote you exactly, 'when I am back, we will go and see it properly,' and then you were gone nine days and came back with a war story about a bear instead of remembering the actual important thing."
 
-"It has been longer than eleven days this time."
+"Nine days is not so long."
 
-"Nineteen. I counted." She said it the way she said most facts that mattered to her, without apology for having kept the count at all. "Which means you owe me considerably more than a hawk at this point, but I am willing to accept the hawk as a start, provided you actually come this time instead of finding some excuse involving Dain or Father or a beast the size of a small mountain."
+"Nine days is exactly as long as I counted them, one at a time, which makes it precisely as long as it needed to be to matter." She said it the way she said most facts that mattered to her, without apology for having kept the count at all. "Which means you owe me considerably more than a hawk at this point, but I am willing to accept the hawk as a start, provided you actually come this time instead of finding some excuse involving Dain or Father or a beast the size of a small mountain."
 
 He looked down at her — smaller than she felt in the noise she made, one sleeve already smudged with something he did not have the energy to ask about, chin set in the particular determined angle she wore whenever she suspected an adult in her life was preparing to disappoint her — and found that whatever weight the study had left settled in him eased, not entirely, but enough to matter, simply from being looked at by someone who wanted nothing from him except an hour of his attention.
 
