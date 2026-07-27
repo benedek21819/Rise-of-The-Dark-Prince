@@ -27,10 +27,13 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 - Riven & Thorne: 12 (bible-specified: 2 years younger than Lucian)
 - Nerissa: ~8 (bible-specified: b.1044)
 
-**Chapter 34 onward (back at Blackspire):**
+**Chapter 34–35 (back at Blackspire, right after Aurelia):**
 - Lucian: 14
 - Selene: 9 (bible-specified: b.1043, 5 years younger than Lucian; first on-page appearance since Ch.7-era childhood chapters)
 - Lyra: 19
+
+**Chapter 36 onward (a small time skip — several months later):**
+- Lucian: 15 (age not stated directly in the prose; tracked here for continuity)
 
 ## Open Questions
 - [What still needs figuring out?]
