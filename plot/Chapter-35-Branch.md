@@ -10,7 +10,7 @@ He led them not toward the solar or the study where most of their conversations 
 
 "Dain has said nothing of a next stage."
 
-"Dain would not. What I am about to describe to you is not part of the Still Blade's structure at all — not Foundation, not Weight as he teaches it, and not the Veil Branch he will eventually open to you once your fundamentals need no thought behind them. That branch, when it comes, will still be his to give. This is something else." Vesper's gaze held steady, and something in it carried a gravity Lucian had rarely seen outside the coldest hours of the house's worst nights. "This is Domain."
+"Dain would not. What I am about to describe to you is not part of the Still Blade's structure at all — not Foundation, not Weight as he teaches it, and not the Veil Branch he will eventually open to you when he judges the time right. That branch, when it comes, will still be his to give. This is something else." Vesper's gaze held steady, and something in it carried a gravity Lucian had rarely seen outside the coldest hours of the house's worst nights. "This is Domain."
 
 "I do not know the word, in this context."
 
