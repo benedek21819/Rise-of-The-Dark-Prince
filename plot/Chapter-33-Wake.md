@@ -20,7 +20,15 @@ Something in Aldric's expression eased at that, tired but genuine, and beside hi
 
 "We will."
 
-The audience closed without further ceremony, and the household's actual leave-taking, looser and warmer than the study had allowed, happened in the courtyard below where the carriages already stood loaded and the guard had begun the last of its preparations. Corvin found Lucian first, quiet as ever, offering nothing more than a level nod and a handshake that held a fraction longer than courtesy required — the kind of gesture, Lucian understood, that meant more from a boy who spent nothing on gestures he didn't intend. Dorian was harder to read, correct and civil in front of the gathered household, but he found a moment near the gate, low enough that only Lucian caught it, to say that he would send word if anything worth sending ever crossed his desk regarding Roderic — a small thing, freely offered, that cost Dorian something Lucian suspected he did not often spend.
+The audience closed without further ceremony, and the household's actual leave-taking, looser and warmer than the study had allowed, happened in the courtyard below where the carriages already stood loaded and the guard had begun the last of its preparations. Lady Maris was there among the gathered household, plainer in dress and manner than Isolde had ever allowed herself to be, and offered Vesper a firm, unornamented handshake that owed nothing to court performance. "Safe roads," she said, in the direct way Lucian had heard described of Vaelmar's own captains. "And safe skies, for whichever of your sons prefers them." Beside her, small and solemn in a gown clearly too formal for her own comfort, Princess Nerissa studied Lucian with the frank, unhurried curiosity of an eight-year-old deciding whether a stranger merited real attention, and settled, after a moment, on a single question.
+
+"Does the dragon bite people he doesn't like?"
+
+"Only very rarely," Lucian said, "and never without asking me first."
+
+That seemed to satisfy her completely. She nodded once, gravely, as though a genuine diplomatic matter had been resolved, and retreated back to her mother's side without further comment.
+
+Corvin found Lucian next, quiet as ever, offering nothing more than a level nod and a handshake that held a fraction longer than courtesy required — the kind of gesture, Lucian understood, that meant more from a boy who spent nothing on gestures he didn't intend. Dorian was harder to read, correct and civil in front of the gathered household, but he found a moment near the gate, low enough that only Lucian caught it, to say that he would send word if anything worth sending ever crossed his desk regarding Roderic — a small thing, freely offered, that cost Dorian something Lucian suspected he did not often spend.
 
 Seren found him last, near the carriages, where the noise of departure gave the two of them the closest thing to privacy the morning had allowed.
 
