@@ -45,6 +45,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 37. Watched  
 38. Call  
 39. Claw  
+40. Mend  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 
