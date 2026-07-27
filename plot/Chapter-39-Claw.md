@@ -12,7 +12,7 @@ Valtor's gaze moved to Lucian, level and waiting, offering neither the plan nor 
 
 "Then you will lead the search," Lucian said to Corbin. "Not the Guard. You know this ground and we do not, and I have learned better than to pretend otherwise in front of men whose lives depend on the pretending being false." He turned to Valtor. "We move on Corbin's knowledge, confirmed from the air wherever Ancalion can manage it without driving the animal further than we can follow."
 
-"Then the rest is mine to set," Valtor said. "We do not engage until the arc is fully closed around it, whatever opening presents itself before then. This is not a hunt for glory. It is a cull, and a cull is patient, or it costs more than it needs to."
+"Then the rest is mine to set," Valtor said.
 
 "Agreed," Lucian said, and meant it as fully as he had ever meant anything.
 
