@@ -96,6 +96,8 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 Both are advanced, personal expressions of the family's Shadow/Void affinity, distinct from each other in kind rather than only in strength — reflecting the difference between a duelist's precision and a ruler's absolute dominance. Both are rare even within the bloodline; most Caldarions with Shadow/Void affinity never manifest anything at this level.
 
+Vesper introduced Lucian to the concept of Domain directly, in private, after Aurelia — demonstrating his own Weight as proof the word was real rather than as a preview of what Lucian's own would become. He was explicit that Domain cannot be taught in its particulars, only searched for: it emerges from what its bearer already is, magnified, and no two manifestations within the family's history have ever matched. At the time of that lesson, neither Vesper nor Lucian yet knows or names what Lucian's will be — the Hush already exists latently (see below) but remains unconnected, in-story, to anything Vesper has told him.
+
 ### Lucian — "The Hush" (sensory domain)
 A field centered on Lucian in which his own senses — sight, hearing, and Veil-perception — sharpen dramatically, while everyone else's senses within the radius are dulled or blacked out entirely. It is the natural extension of the widened radius-sense he has already trained (the terrace exercise, the Firsthold field mission): the same mechanic, crossing from passive detection into active suppression.
 
