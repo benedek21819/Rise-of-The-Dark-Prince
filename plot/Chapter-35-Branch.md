@@ -6,7 +6,7 @@ Dain dismissed him early on the fifth morning back, which was itself unusual eno
 
 He led them not toward the solar or the study where most of their conversations were held, but downward, past the level of the ordinary training halls, into a narrower stretch of corridor Lucian had passed a hundred times without once being invited through its door. The chamber beyond was small, windowless, lit by a handful of cold-flame sconces that gave off no smoke and cast no flicker — a room built, Lucian understood immediately, for privacy rather than comfort.
 
-"You have trained Veilweaving since you were eleven," Vesper said, once the door had closed behind them. "Sensing the Current. Drawing on it in small, disciplined amounts. Holding a Shadow-thread steady enough to be useful rather than merely felt. That was never in question. What comes next is a different matter entirely, and I did not want it taught to you by anyone but me."
+"You have trained Veilweaving since you were nine," Vesper said, once the door had closed behind them. "Sensing the Current. Drawing on it in small, disciplined amounts. Holding a Shadow-thread steady enough to be useful rather than merely felt. That was never in question. What comes next is a different matter entirely, and I did not want it taught to you by anyone but me."
 
 "Dain has said nothing of a next stage."
 
