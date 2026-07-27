@@ -12,9 +12,7 @@ Valtor's gaze moved to Lucian, level and waiting, offering neither the plan nor 
 
 "Then you will lead the search," Lucian said to Corbin. "Not the Guard. You know this ground and we do not, and I have learned better than to pretend otherwise in front of men whose lives depend on the pretending being false." He turned to Valtor. "We move on Corbin's knowledge, confirmed from the air wherever Ancalion can manage it without driving the animal further than we can follow."
 
-"Then the rest is mine to set," Valtor said.
-
-"Agreed," Lucian said, and meant it as fully as he had ever meant anything.
+Valtor gave a single nod and turned to begin arranging the company's approach, already speaking low to the nearest of his officers before Lucian had finished the thought aloud.
 
 They spent two days narrowing the ground — Corbin's read of old kill sites and half-frozen game trails, confirmed twice by Ancalion's long, careful passes over ridgelines no horse could safely climb, until the search had shrunk from an entire wilderness to a single steep fold of forest above a frozen stream, where the huntsman swore the animal had denned before and would den again if it had any sense left in it at all. The company moved into position on the third morning under a sky the color of old iron, spreading into a wide, patient arc through the timber the way Valtor had drilled them to, each man given a stretch of ground to hold and a signal to wait for before closing it.
 
