@@ -40,7 +40,7 @@ He looked down at her — smaller than she felt in the noise she made, one sleev
 
 "Show me the way," he said.
 
-She led him up through the eastern gallery and out along a narrow service stair he had not used since he was younger than she was now, chattering the whole climb about the hawk's habits, which she had apparently observed with a rigor that would have impressed even Dain — how it hunted mostly at dusk, how it had chased off a smaller bird twice her own size the week before, how she had named it Talon despite Lyra's insistence that naming wild things only made it harder when they eventually left. The nest sat in a gap between two old stones near the top of the wall, visible from a narrow ledge that required, Lucian noted with some private alarm, considerably more careful footing than he suspected Selene had ever admitted to their mother.
+She led him up through the eastern gallery and out along a narrow service stair he had not used since he was younger than she was now, chattering the whole climb about the hawk's habits, which she had apparently observed with a rigor that would have impressed even Dain — how it hunted mostly at dusk, how it had chased off a bird twice its own size the week before, how she had named it Talon despite Lyra's insistence that naming wild things only made it harder when they eventually left. The nest sat in a gap between two old stones near the top of the wall, visible from a narrow ledge that required, Lucian noted with some private alarm, considerably more careful footing than he suspected Selene had ever admitted to their mother.
 
 "You have been coming up here alone."
 
