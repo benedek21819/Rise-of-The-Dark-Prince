@@ -51,12 +51,14 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 43. Cruelty  
 44. Mercy  
 45. Draw  
+46. Rot  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 **Note:** Chapter 42 is the first on-page manifestation of Lucian's Domain, "the Absence."
 **Note:** Chapter 43 ends with House Corvane's fate left open, handed to Lucian to decide — resolved in Chapter 44.
 **Note:** Chapter 44 closes the Corvane/Harrow arc (Ch.41–44) and is where Lucian actually receives the ancestral sword Mercy — superseding the old outline's "17th birthday" framing (see `locations.md`).
 **Note:** Chapter 45 is Lucian's first attempt at deliberately controlling the Absence — achieves only a fraction-of-a-second effect on Thorne under real sparring pressure, nowhere near full control yet.
+**Note:** Chapter 46 opens a new arc: Vesper reveals he has long suspected a spy inside Blackspire (retroactively recontextualizing the lost intermediary in Ch.37), confirmed by the impossibly precise timing of the Ch.42 ambush. No suspect is named yet — a false-information trap is set in motion at the chapter's close. Ties toward the still-unrevealed Shadow Guard/Cazius thread and a planned future connection to the Crown's Eyes and royal court politics.
 
 ---
 
