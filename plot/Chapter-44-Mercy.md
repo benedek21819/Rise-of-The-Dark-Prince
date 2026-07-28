@@ -30,6 +30,8 @@ He lifted it from the wall, and the black steel caught the low light in slow, mo
 
 He held it out, hilt first, and Lucian took it into both hands, and felt, beneath the plain physical weight of good steel, something else entirely — a faint, deep resonance that seemed to settle rather than announce itself, quiet the way everything about this house's true strength had always been quiet.
 
+"Does it have a name?" Lucian asked.
+
 "Mercy," Vesper said, watching him hold it. "Not because we are a gentle house. Because the ones before you understood that true strength includes knowing how to end a thing cleanly, rather than letting it suffer past any purpose in the suffering. You have proven, this past turn of days, that you understand that too — in the cells, and at Corvane's border, in two decisions most men twice your age would have gotten wrong in one direction or the other." His hand rested a moment longer on the crossguard before he let it go entirely. "It is yours now. Carry it the way you carried the rest of it."
 
 Lucian said nothing for a while, turning the blade slightly so the silver patterns caught the light and shifted, black to grey to black again, and found that the weight in his hands felt, after everything the last weeks had asked of him, less like an ending than like the first honest beginning he had been given in a very long time.
