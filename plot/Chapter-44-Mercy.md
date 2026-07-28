@@ -20,11 +20,11 @@ Osric's bow was lower and steadier than the one he had given eight days into his
 
 Blackspire received them back into a stretch of quiet that felt, after the crossing and the cells and the writing of a verdict Lucian would carry the rest of his life, almost unfamiliar in its stillness. A week passed in ordinary things — reports, small correspondence, an evening where Selene dragged him up to the eastern wall to check on Talon's now-fledged chicks without any errand attached to it at all — before Vesper sent for him again, this time not to the solar, but to the old armory beneath the keep's eastern tower, a room Lucian had passed a hundred times and entered perhaps three.
 
-Mercy hung alone on the far wall, black and silver and unadorned, in a room otherwise given over to older, plainer steel.
+A single sword hung alone on the far wall, black and silver and unadorned, in a room otherwise given over to older, plainer steel.
 
 "I have carried this sword for over twenty years," Vesper said, without turning from it at first, "and I could count on one hand the number of times I have drawn it in that span. Not because it is not a fine blade. Because it was never truly built for the way I fight." He turned then, and something in his face had gone unusually open, the particular honesty Lucian had come to associate only with the quietest rooms in this house. "I lean almost entirely on the Veil now, Lucian — on Weight, when it must be used at all, and on presence the rest of the time. A blade in my hand is, more often than not, a formality I keep because a lord is expected to carry one, not because it is where my strength truly lives."
 
-He lifted Mercy from the wall, and the black steel caught the low light in slow, moving lines, like something in it were still deciding whether to answer.
+He lifted it from the wall, and the black steel caught the low light in slow, moving lines, like something in it were still deciding whether to answer.
 
 "You are not walking that path. You are walking both at once — the Still Blade in your hands and the Veil beneath it, hybrid in a way I never was and never will be, and a sword built from Cold Silver and dragon bone was made for exactly the kind of hands that can use the whole of it, not only half. I would be lying to both of us if I told you this was only about what you did at that crossing, or what you chose to do afterward in the cells below this keep, or the harder thing you chose about Corvane three days past. It is about all of that, and it is also, plainly, the truth that I have very little further use for a sword you will use better than I ever have."
 
