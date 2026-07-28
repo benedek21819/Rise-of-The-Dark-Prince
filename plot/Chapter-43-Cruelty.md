@@ -2,7 +2,7 @@
 
 Vesper listened to the whole of it without once interrupting, which was somehow worse than if he had.
 
-They sat in the lower solar, the same room where the first reports on Harrow and Corvane had been laid across the desk a lifetime ago, and Lucian gave the account plainly, the way Dorian's own instructors might have judged a report — the failed parley, Corvane's frightened, hollowed-out lord, the collapsed crossing, the eleven men who had come for him with rope rather than steel. He made himself say the last part carefully, because he did not yet have better words for it than the plain ones. "Something happened to me on that rock shelf. I did not choose it. It happened, the way falling happens."
+They sat in the lower solar, the same room where the first reports on Harrow and Corvane had been laid across the desk a lifetime ago, and Lucian gave the account plainly, without embellishment or excuse — the failed parley, Corvane's frightened, hollowed-out lord, the collapsed crossing, the eleven men who had come for him with rope rather than steel. He made himself say the last part carefully, because he did not yet have better words for it than the plain ones. "Something happened to me on that rock shelf. I did not choose it. It happened, the way falling happens."
 
 "Tell me exactly what you remember."
 
