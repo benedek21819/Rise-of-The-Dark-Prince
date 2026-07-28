@@ -16,7 +16,7 @@ They rode out to Harrow's border a final time three days later, a smaller compan
 
 Osric's bow was lower and steadier than the one he had given eight days into his grief, weeks before. "Harrow will not forget this, my lord. Neither the burning, nor who came to end it."
 
-"See that you build faster than you remember," Lucian said, not unkindly, and swung up into Ancalion's harness, turning him back toward home.
+"See that you build faster than you remember," Lucian said, not unkindly, and turned his horse back toward the column, the company falling in behind him for the ride home.
 
 Blackspire received them back into a stretch of quiet that felt, after the crossing and the cells and the writing of a verdict Lucian would carry the rest of his life, almost unfamiliar in its stillness. A week passed in ordinary things — reports, small correspondence, an evening where Selene dragged him up to the eastern wall to check on Talon's now-fledged chicks without any errand attached to it at all — before Vesper sent for him again, this time not to the solar, but to the old armory beneath the keep's eastern tower, a room Lucian had passed a hundred times and entered perhaps three.
 
