@@ -1,0 +1,59 @@
+# Chapter 47: Audience
+
+The false thread Vesper had planted took eleven days to move, and when it finally did, it did not move the way either of them had expected.
+
+"It did not surface with Dravenhall's people," the Shadow Guard reported, voice pitched low and even in the lower solar's dark. "It surfaced inside a channel we have no ordinary reason to be watching at all — a correspondence route we have confirmed, through two independent traces, belongs to the Crown's own intelligence service."
+
+Vesper was quiet for a long moment, and Lucian watched something recalculate behind his father's stillness — not alarm exactly, but the particular, unhurried recalibration of a man discovering the shape of a problem was larger than the one he had built his trap to catch.
+
+"Say that plainly," Vesper said. "Not Dravenhall. The Crown's Eyes."
+
+"The Crown's Eyes," the Shadow Guard confirmed. "Whether they intercepted it independently, or whether it passed through the same leak on its way to Dravenhall and was simply caught twice over, cannot yet be determined. What can be confirmed is that a piece of information that should only have existed inside three rooms in this keep is now known to people who answer to House Kaelarion, not to us."
+
+"Then our leak is not the only ear in this house that word can reach," Lucian said, "or the Crown's own people are simply better at listening than we credited them for."
+
+"Both readings trouble me equally," Vesper admitted, which was, from him, its own kind of alarm. "We narrowed the circle to catch a thief. We did not account for a second party already listening at the same door."
+
+The letter arrived four days later, carried by a courier in plain colors rather than Kaelarion crimson, sealed with wax bearing no crest at all — the particular kind of anonymity, Lucian had learned across a year of reading his father's correspondence, that royalty used only when it wished, very deliberately, not to be recognized as royalty. Vesper read it twice before he set it down, and when he looked up, something in his expression had already decided the matter before he spoke it aloud.
+
+"Queen Isolde requests a private audience with House Caldarion. Off any record either crown or house would ordinarily keep. She does not say why, though I imagine we have a fair guess between the two of us." He turned the letter so Lucian could see the plain, unadorned hand it had been written in — no scribe's flourish, a queen's own writing rather than a secretary's. "I cannot go."
+
+"Because of the investigation."
+
+"Because the moment I leave Blackspire for the capital, whoever is feeding information outward will read my absence as an opportunity, and I have spent a season and a half building patience I do not intend to spend carelessly now." Vesper set the letter down between them. "You will go in my place."
+
+Lucian felt something settle into a shape he recognized — not quite the same weight as the choice over the captives, or the choice over Corvane, but built from the same family of decisions Vesper had been handing him, one after another, since the crossing. "Sending you would be the expected answer. Sending me says something different."
+
+"It says that House Caldarion trusts its heir with matters it has not yet trusted the wider world to know he is trusted with. It says, to a woman who reads absolutely everything for what it is not saying as much as what it is, that I consider this important enough to send someone who matters, and cautious enough that I will not leave this house undefended to do it myself." Something almost like approval crossed Vesper's face. "You understood that before I finished explaining it. Go quietly. No banners, no formal escort beyond what safety actually requires. She asked for discretion. Give her more of it than she asked for, and see what she gives you in return."
+
+He flew out two mornings later, Ancalion carrying no colors at all beyond his own dark scales, climbing high and fast over country that had, the last time Lucian crossed it this way, been beneath a very different kind of company — a full ducal procession, banners snapping, a house announcing itself to a capital that had never quite known what to make of it. This time the sky over Aurelia's golden roofs held nothing but a single dragon descending toward a private landing ground within the palace's own walls, arranged, per the letter's precise instructions, without a single herald to mark the arrival.
+
+Isolde received him in a small, plainly furnished room Lucian did not recognize from either of his two prior visits — not a hall of state, not even a private solar of the kind Aldric might have used, but something smaller and more deliberately unremarkable, chosen, he understood immediately, for exactly the reason it looked like nowhere in particular.
+
+"Lucian Caldarion." She did not rise, and did not need to; the particular stillness with which she held a room was its own kind of authority, unhurried and entirely unthreatened by his presence in it. "I confess I expected your father."
+
+"He sends his regrets, and his trust. I am told those are meant to be read as the same gesture."
+
+Something that might, on a less careful face, have been the beginning of a smile crossed hers and was gone before it fully arrived. "Direct. I had heard that of you, though hearing a thing and watching it confirmed rarely feel the same." She gestured to the chair across from her, and waited until he had taken it before she continued. "I will not waste either of our time pretending this is a courtesy call. Something crossed my service's desk a fortnight past that should not exist — a piece of information narrow enough that only a handful of people in the world could have produced it, moving through a channel that has no business touching House Caldarion's affairs at all. I want you to understand, before anything else passes between us today, that I did not go looking for your house's troubles. Your house's troubles found their way to my door regardless, and I have decided I would rather speak with you honestly about that than pretend I never opened it."
+
+"You are telling me the Crown's Eyes intercepted a trap my father set for a spy inside his own walls."
+
+"I am telling you exactly that, because I suspect you already knew it, and there is very little dignity in either of us performing ignorance for the other's benefit." Isolde folded her hands, and for the first time since he had entered the room, something genuinely watchful entered her expression, weighing him the way Lucian imagined she weighed every person who was permitted this close to her honesty. "House Dravenhall has spent longer reaching into matters that are not theirs than either of our houses has been comfortable admitting aloud. My service has suspected their hand in a dozen small griefs across this kingdom that never quite added to a pattern anyone could act on. Your house's leak, whoever they are, may be the first thread either of us has held that actually pulls toward something whole."
+
+"You want to share it."
+
+"I want to know whether House Caldarion is prepared to trust the Crown with a piece of its own vulnerability, in exchange for a piece of mine." She held his gaze, level and unblinking, and Lucian understood, watching her, precisely the quality Aldric's own court had learned to fear and admire about her in equal measure. "I could withhold what my service knows and use it as leverage the next time your house needs something of me. I have not decided against that path entirely, and I will not insult you by pretending otherwise. But I find, examining the matter honestly, that a Caldarion beholden to me through blackmail is worth considerably less, in the long run of things, than a Caldarion who owes me a genuine debt freely acknowledged. I am offering you the second. I would ask that you remember, later, that I chose it."
+
+Lucian sat with that longer than courtesy strictly required, turning it the way he had learned to turn anything that arrived wearing more than one face at once. "What does the Crown's service actually know."
+
+"Less than you likely hope, and more than your father would like. Enough to know the channel exists. Not enough, yet, to know the name at the other end of it." Something almost dry crossed her expression. "We are, in that respect, in precisely the same position as you, which I suspect is the truest reason I chose to bring you here rather than simply file the matter away and wait to see what use it might one day serve me."
+
+"And if we shared what each of us has learned."
+
+"Then we would likely find the answer faster than either house alone ever will, and Dravenhall would have considerably less time to enjoy whatever this has cost you so far." Isolde rose, at last, the small unremarkable room suddenly carrying the full weight of her office despite its plainness. "I will not ask you to decide today. I imagine your father would prefer to weigh this himself before any promise is made in his name, and I would think less of you if you did not agree. But carry this back to him plainly: I did not open this door to threaten your house. I opened it because I believe, examined honestly, that Dravenhall's ambitions are a danger to the Crown and to Caldarion in equal measure, and I would rather spend my service's knowledge buying an ally than hoarding it as a private advantage I may never find the correct moment to use."
+
+Lucian rose as well, and found, studying her in the last unhurried moment before the audience formally closed, that he was thinking not of anything she had said today, but of a courtyard in the academic district, gold light falling across old stone, a queen crossing toward a private door with an unnamed scholar at her side and no explanation offered to anyone watching. He did not ask about it. Some part of him understood, with the same cold clarity Dain had built into him across years of learning what not to say aloud, that whatever had taken her to the Hall of Inquiry that afternoon belonged to a ledger she had not yet decided to open for him, and that pressing for it now would cost more than the asking could possibly be worth.
+
+"I will carry it back to him exactly as you have given it," he said instead. "Faithfully, and without embellishment either way."
+
+"That is all I am asking of you today." For the first time, something genuinely warm, or as close to warm as he suspected she allowed herself in rooms like this one, touched the edge of her composure. "Fly safely home, Lucian Caldarion. I find, examining the matter honestly, that I would rather this particular door remain open than see it close for good over a season's worth of caution."
