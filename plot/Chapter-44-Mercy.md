@@ -2,7 +2,7 @@
 
 Lucian did not sleep well that night, and did not expect to.
 
-He sat with it the way Dain had taught him to sit with anything too large to solve by force — turning it over slowly, refusing to let the shape of it settle before he had examined every edge — and by the time the grey northern dawn came up over the eastern wall, he understood he had not been searching for the correct answer so much as making certain he was not choosing the easy one simply because it required less of him.
+He turned it over slowly, refusing to let the shape of it settle before he had examined every edge, and by the time the grey northern dawn came up over the eastern wall, he understood he had not been searching for the correct answer so much as making certain he was not choosing the easy one simply because it required less of him.
 
 He found his father in the solar before Vesper had sent for him, which seemed to satisfy something in Vesper's expression before Lucian had said a single word.
 
