@@ -142,7 +142,7 @@ The process is extremely dangerous. A failed binding can cause violent releases 
 #### Ancestral Sword: Mercy
 House Caldarion possesses an ancestral sword named **Mercy**, which has been passed down from father to son in the direct lineage for generations. The blade was forged from the first batch of Cold Silver mined from the mountain, combined with dragon bones. This unique composition gives the sword a deep black color with flowing silver patterns similar to Damascus steel.
 
-**Current Wielder**: Lucian Caldarion received Mercy on his 17th birthday in recognition of his exceptional martial prowess and as a formal symbol of his status as the heir of House Caldarion.
+**Current Wielder**: Lucian Caldarion received Mercy from Vesper in Chapter 44, close to age 16 — not as a birthday rite, but as recognition following the Corvane/Harrow conflict: his field command, the involuntary manifestation of his Domain (the Absence), and two difficult judgments he carried alone (the captives' execution, House Corvane's dissolution). Vesper also frames the timing practically — having leaned almost entirely into pure Veilweaving and his own Domain (Weight) for decades, he has little remaining use for a blade built for close combat, while Lucian's hybrid Still Blade/Veilweaving path is exactly what Mercy was made for.
 
 **Properties**:
 - Resonates with the wielder’s Will and Veil affinity. The stronger the user’s focus and control, the more responsive and effective the blade becomes.

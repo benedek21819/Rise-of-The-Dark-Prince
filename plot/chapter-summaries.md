@@ -49,10 +49,12 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 41. Ember  
 42. Spark  
 43. Cruelty  
+44. Mercy  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 **Note:** Chapter 42 is the first on-page manifestation of Lucian's Domain, "the Absence."
-**Note:** Chapter 43 ends with House Corvane's fate left open, handed to Lucian to decide — unresolved going into Chapter 44.
+**Note:** Chapter 43 ends with House Corvane's fate left open, handed to Lucian to decide — resolved in Chapter 44.
+**Note:** Chapter 44 closes the Corvane/Harrow arc (Ch.41–44) and is where Lucian actually receives the ancestral sword Mercy — superseding the old outline's "17th birthday" framing (see `locations.md`).
 
 ---
 
