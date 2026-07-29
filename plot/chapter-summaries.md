@@ -53,6 +53,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 45. Draw  
 46. Rot  
 47. Audience  
+48. Return  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 **Note:** Chapter 42 is the first on-page manifestation of Lucian's Domain, "the Absence."
@@ -61,6 +62,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 **Note:** Chapter 45 is Lucian's first attempt at deliberately controlling the Absence — achieves only a fraction-of-a-second effect on Thorne under real sparring pressure, nowhere near full control yet.
 **Note:** Chapter 46 opens a new arc: Vesper reveals he has long suspected a spy inside Blackspire (retroactively recontextualizing the lost intermediary in Ch.37), confirmed by the impossibly precise timing of the Ch.42 ambush. No suspect is named yet — a false-information trap is set in motion at the chapter's close. Ties toward the still-unrevealed Shadow Guard/Cazius thread and a planned future connection to the Crown's Eyes and royal court politics.
 **Note:** Chapter 47 is Isolde's first real on-page scene — the planted trap is intercepted independently by the Crown's Eyes, prompting a private, off-record audience. Vesper sends Lucian in his place rather than going himself. Ends with a tentative, unconfirmed offer of information-sharing between the Crown and House Caldarion against Dravenhall; the mole's identity is still unknown. Lucian deliberately does not press Isolde about her unexplained Hall of Inquiry visit from Chapter 31 — still unresolved.
+**Note:** Chapter 48: Vesper opts for cautious, incremental trust with Isolde rather than a full alliance — the offer stays open, unresolved long-term. Second half is a quiet, plot-light scene with Elara, first real focus on her since Chapter 34.
 
 ---
 
