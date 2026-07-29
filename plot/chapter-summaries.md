@@ -53,7 +53,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 45. Draw  
 46. Rot  
 47. Audience  
-48. Return  
+48. Care  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 **Note:** Chapter 42 is the first on-page manifestation of Lucian's Domain, "the Absence."

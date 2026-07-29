@@ -1,4 +1,4 @@
-# Chapter 48: Return
+# Chapter 48: Care
 
 Vesper listened the way he always listened, without interrupting, and Lucian gave him the whole of it — the trap's unexpected surfacing inside the Crown's own channels, Isolde's offer, and the exchange that had, in Lucian's own judgment, done more to earn her a hearing than anything else said in that plain, unremarkable room.
 

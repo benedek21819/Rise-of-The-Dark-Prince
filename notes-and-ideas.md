@@ -41,6 +41,9 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 ## Open Questions
 - [What still needs figuring out?]
 
+## Reserved Chapter Titles
+- **Return** — reserved for the future chapter where Lucian goes to Arcanor (the old imperial capital, site of the Imperial Vault). Do not reuse for any other chapter before then.
+
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
 
