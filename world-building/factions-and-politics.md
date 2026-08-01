@@ -221,8 +221,8 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Colors**: Iron grey and deep red.
 - **Sigil**: A black anvil struck by a crimson hammer.
 - **Dragon**: None.
-- **Strengths**: Controls much of the kingdom’s conventional weapons, armor, and siege equipment production. Strong industrial base and logistical capability.
-- **Weaknesses**: Less elite than Caldarion’s forces and less prestigious in pure martial glory compared to Dravenhall. Their power is tied to production rather than battlefield legend.
+- **Strengths**: Controls much of the kingdom’s conventional weapons, armor, and siege equipment production. Strong industrial base and logistical capability. Their forges are fueled by **Deepcoal**, an unusually hot-burning coal mined from deep seams within their own territory — see `economy-and-resources.md` — which lets them out-produce every other house's forges in sheer volume.
+- **Weaknesses**: Less elite than Caldarion’s forces and less prestigious in pure martial glory compared to Dravenhall. Their power is tied to production rather than battlefield legend. Their entire industrial advantage rests on a single fuel source rather than several independent strengths, making Deepcoal supply a real point of vulnerability.
 - **Political Stance**: Strong ally of House Dravenhall. Together they form a militaristic bloc that often stands in opposition to Caldarion’s dominance.
 - **Relationship to House Caldarion**: Competitive and resentful. They respect raw strength but dislike Caldarion’s superior elite forces, Cold Silver monopoly, and mysterious privileges.
 - **Relationship to the Crown**: Pragmatic. They supply the kingdom’s armies but push for greater influence and recognition of their industrial importance.

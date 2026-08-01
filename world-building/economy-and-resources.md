@@ -14,6 +14,14 @@ A slow-growing timber, exceptionally hard and notably heavier than ordinary wood
 - **Secondary military use:** Valued for weapon components and siege equipment rather than blades or armor — bow staves, spear and axe hafts, and the heavy structural timbers of siege engines (trebuchet arms, ram frames, tower framing) all benefit from Ironwood's density and resistance to splintering or fatigue under repeated stress, in ways a full weapon or suit of armor made from it never would.
 - **Political significance:** Vaelmar's naval dominance owes as much to Ironwood as to the house's own skill or its single dragon. Because the timber isn't exclusive to Vaelmar's borders, other coastal or forested territories with access to it can become quietly valuable, or quietly contested, without ever rising to the level of a Cold-Silver-style monopoly.
 
+## Deepcoal
+A dense, unusually hot-burning coal mined from deep seams within House Ironveil's territory.
+
+- **Where it's found:** Concentrated in deep mine seams within Ironveil's own lands — not exclusive in the absolute sense, but Ironveil's mining infrastructure and expertise make them the dominant source by a wide margin.
+- **Property:** Burns hotter and longer than ordinary surface coal, letting forges reach and sustain temperatures other houses' fuel supplies cannot match.
+- **Significance:** The literal engine behind Ironveil's specialty — heavy industry, weapons manufacturing, siege engines, and mass military production owe as much to Deepcoal as to Ironveil's own skill or workforce. It is what lets them out-produce every other house's forges in volume, even without Cold Silver, a dragon, or Caldarion's elite training.
+- **Vulnerability:** Because Ironveil's industrial dominance rests on a single fuel source rather than several independent advantages, any serious disruption to Deepcoal's supply (a mine collapse, exhausted seams, denied access) would threaten the house's entire economic and military identity at once — a structural weakness Cold Silver's owner does not share to the same degree.
+
 ## Veilstone
 A rare, crystal-like stone of extremely high, pure Veil density, capable of powering magical constructs.
 
