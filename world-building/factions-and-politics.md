@@ -215,7 +215,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Relationship to House Caldarion**: Openly competitive and hostile. They resent Caldarion’s superior military strength and mysterious privileges.
 - **Relationship to the Crown**: Complicated. They accept the current royal dynasty but remain bitter about the outcome of the Last Continental War.
 
-### House Ironveil
+### House Kestrion
 - **Specialty**: Heavy industry, weapons manufacturing, siege engines, and mass military production.
 - **Personality**: Blunt, pragmatic, industrious, and competitive.
 - **Colors**: Iron grey and deep red.

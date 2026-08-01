@@ -12,8 +12,8 @@ The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelo
 | 1 | **Northern Duchy**      | **Caldarion**    | Far north – high mountains, cold, heavy snow | Isolated, extremely defensible, Cold Silver mines, Blackspire Keep, capital **Firsthold** | Military heartland and strongest natural fortress |
 | 2 | **Royal Demesne**       | **Kaelarion**    | Center of the continent                       | Fertile, well-connected, contains the capital **Aurelia** | Political and administrative center         |
 | 3 | **Eastern Marches**     | **Vaelmar**      | Eastern coastline                             | Major ports facing Arcanor, naval bases, coastal cities | Naval power and gateway to the mainland     |
-| 4 | **Iron Hills**          | **Ironveil**     | Central-east, resource-rich hills             | Mines, forges, industrial towns                  | Heavy industry and weapons production       |
-| 5 | **Dravenhold**          | **Dravenhall**   | Southeast / eastern highlands                 | Rugged hills and plateaus, strong fortresses     | Militaristic stronghold, ally of Ironveil   |
+| 4 | **Iron Hills**          | **Kestrion**     | Central-east, resource-rich hills             | Mines, forges, industrial towns                  | Heavy industry and weapons production       |
+| 5 | **Dravenhold**          | **Dravenhall**   | Southeast / eastern highlands                 | Rugged hills and plateaus, strong fortresses     | Militaristic stronghold, ally of Kestrion   |
 | 6 | **Golden Lowlands**     | **Sylvaron**     | South-central plains                          | Fertile farmland, major trade routes, wealthy cities | Economic and financial power                |
 | 7 | **Verdant Reach**       | **Thalorin**     | Southwest / milder inland region              | Rivers, good land, temperate climate             | Healing, medicine, soft power               |
 | 8 | **Oldwood**             | **Myrath**       | Western interior / deep forests               | Dense ancient forests, ruins, isolated towers    | Knowledge, magic research, neutrality       |
@@ -23,7 +23,7 @@ The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelo
 - **House Caldarion**: Northern Duchy
 - **House Kaelarion**: Royal Demesne + Western Shore
 - **House Vaelmar**: Eastern Marches
-- **House Ironveil**: Iron Hills
+- **House Kestrion**: Iron Hills
 - **House Dravenhall**: Dravenhold
 - **House Sylvaron**: Golden Lowlands
 - **House Thalorin**: Verdant Reach
@@ -272,7 +272,7 @@ A natural location for research into history, geography, and the dangers of the 
 | **Greyfen** | Logging & trapping outpost | Three days north of Firsthold along the high road, deep into the wilder mountain edge | Small enough to answer to Firsthold's steward rather than keep its own; site of the unconfirmed beast threat Lucian is given his first field command to hunt down, at 15 | Closest settled point to the North's worst wild-beast activity |
 | **The Ascend** | Fortified mountain route | Path from Firsthold to Blackspire Keep | Only practical approach to the keep; controlled by Silver Guard | Checkpoints, winter isolation |
 | Eastern Ports | Coastal cities | Major ports under House Vaelmar facing Arcanor | Gateway for any contact with the mainland | Naval bases, trade hubs |
-| Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Ironveil |
+| Iron Hills industrial centers | Towns & forges | Weapons and armor production | Military supply | Controlled by House Kestrion |
 | Oldwood ruins | Ancient sites | Scattered ruins and towers | Magical research | Controlled by House Myrath |
 
 ## Geography Notes
