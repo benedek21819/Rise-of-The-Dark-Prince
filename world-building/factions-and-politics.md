@@ -242,6 +242,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 
 ### House Sylvaron
 - **Specialty**: Trade, banking, and economic power.
+- **Colors**: Gold and green.
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
 - **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
@@ -251,6 +252,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 
 ### House Vaelmar
 - **Specialty**: Naval power and maritime trade.
+- **Colors**: Sea-blue.
 - **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
 - **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion’s overwhelming military superiority and reclusive nature.
 - **Dragon**: None. Naval dominance is built on their fleet, port control, and Ironwood shipbuilding rather than any dragon.
