@@ -243,13 +243,14 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
 ### House Sylvaron
+- **Current Head**: **Lord Marrick Sylvaron** — pragmatic and opportunistic per house type, running a banking and trade empire large enough that he genuinely does not scrutinize every account that moves through it. That convenient blindness is exactly how House Dravenhall's deniable coin-trail (see the Firsthold/Corvane funding network, `plot/Chapter-36-Door.md` onward) has been able to pass through Sylvaron's own vaults without his ever consciously choosing to help fund a war. Not secretly loyal to Dravenhall, not a villain by his own understanding of himself — complicit through negligence and a business model that rewards not asking questions, rather than through intent. Married to **Lady Liora Sylvaron** (née Kaelarion, the King's own sister — see `characters/Liora_Kaelarion.md`), which gives House Sylvaron real royal proximity, though Liora herself stays deliberately uninvolved in this side of the business and has no meaningful influence over the Crown's actual decisions — she keeps herself, by her own long-standing habit, "far enough to never be blamed for anything."
 - **Specialty**: Trade, banking, and economic power.
 - **Colors**: Gold and green.
 - **Reputation**: Wealthy, pragmatic, and opportunistic. They prioritize profit and influence over military strength.
 - **Political Stance**: Tense relationship with House Caldarion. They resent Caldarion’s overwhelming military dominance and see them as a threat to their economic interests.
 - **Dragon**: None.
 - **Strengths**: Enormous wealth, control of major trade routes, strong economic influence across the Kingdom of Kaelor. Effective control of the Golden Vault.
-- **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political.
+- **Weaknesses**: Militarily weak compared to houses like Caldarion and Dravenhall. Their power is purely economic and political. Their lax banking practices — a direct product of prioritizing volume and discretion over scrutiny — have made them an unwitting conduit for Dravenhall's funding network, a vulnerability that has not yet been discovered by anyone outside Dravenhall itself.
 - **Relationship to House Caldarion**: Rivalrous / Tense. They would prefer to weaken House Caldarion through economic and political means rather than direct conflict.
 
 ### House Vaelmar

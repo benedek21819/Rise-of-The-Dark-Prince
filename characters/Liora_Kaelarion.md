@@ -16,7 +16,7 @@
 
 **Key Relationships:**
 - **King Aldric Kaelarion** (elder brother): Fond, easy, mildly exasperated by his caution — one of the few relationships in his life that doesn't require careful management.
-- **House Sylvaron**: Married in, but has become genuinely useful to them rather than merely decorative; her Kaelarion blood opens doors her husband's own name would not.
+- **Lord Marrick Sylvaron** (husband): Married in, but has become genuinely useful to House Sylvaron rather than merely decorative; her Kaelarion blood opens doors his own name would not. She stays deliberately clear of the mechanics of his banking business — a habit that keeps her innocent of the fact that his vaults have become an unwitting conduit for House Dravenhall's coin (see `characters/Marrick_Sylvaron.md`), though it is also exactly the kind of thing she would prefer never to have to answer for either way.
 - **Queen Isolde Kaelarion**: Cordial rather than close. Liora finds Isolde's ambition on Dorian's behalf a touch naive for someone from a house that lost a war betting on strength alone.
 - **Dorian, Corvin, Seren** (niece and nephews): Fond but distant — the occasional letter, the rare visit, an aunt more than a fixture.
 

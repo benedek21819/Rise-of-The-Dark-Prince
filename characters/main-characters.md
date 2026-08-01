@@ -64,4 +64,11 @@ This is the index for all major characters. Each character has their own dedicat
 
 ---
 
+## House Sylvaron
+
+- **[Lord Marrick Sylvaron](Marrick_Sylvaron.md)** — Head of House Sylvaron; his vaults are an unwitting conduit for House Dravenhall's deniable funding network, undiscovered by anyone outside Dravenhall itself
+- **[Lady Liora Sylvaron](Liora_Kaelarion.md)** — His wife, née Kaelarion, the King's sister; stays deliberately uninvolved in the mechanics of his business and holds no real influence over the Crown
+
+---
+
 *Use the individual character files for detailed profiles, appearance, personality, and relationships.*
