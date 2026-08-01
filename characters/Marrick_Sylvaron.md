@@ -17,6 +17,7 @@ Shrewd, personable, and genuinely uninterested in conflict for its own sake — 
 
 **Key Relationships:**
 - **Lady Liora Sylvaron**: Wife, and House Sylvaron's most valuable asset by marriage — her Kaelarion blood opens doors his own name never could. He values her genuinely, not merely politically, though their marriage began as exactly the transaction it looks like. She has never involved herself in the mechanics of his banking business, and he has never invited her to.
+- **Callan Sylvaron**: Young son and heir, currently too young to attend a gathering like the Convocation. Carries both Sylvaron shrewdness and a trace of Kaelarion charisma through his mother — his eventual value as a political match, given his royal blood, is already a quiet fact of court calculation, though nothing either parent has yet acted on.
 - **House Dravenhall**: No direct alliance or loyalty. Marrick has never knowingly done business with Roderic Dravenhall's coin specifically — the funding has moved through layers of intermediaries deniable enough that he has no idea his own vaults are involved.
 - **House Caldarion**: Rivalrous in the ordinary Sylvaron way — sees them as a threat to economic interests, prefers to weaken them through trade and influence rather than open conflict. Has no idea his own house's negligence has made him an unwitting instrument in a war against them.
 - **King Aldric Kaelarion**: Cordial brother-in-law relationship, more social than political. Marrick has no real influence over the Crown's decisions and has never particularly sought any.
