@@ -37,7 +37,7 @@ The story is set on the **Continent of Kaelor**, ruled by the **Kingdom of Kaelo
 **Current State**: Largely abandoned or in decline following the voluntary exile of the main Caldarion line centuries ago.
 
 ### At Its Height
-At the height of its power, House Caldarion ruled Arcanor as emperors. House Kaelarion governed the remote western province that would later become the independent Continent of Kaelor. The imperial sigil of the Caldarion Empire was the **Black Sun**.
+At the height of its power, House Caldarion ruled the empire as emperors over **13 kingdoms** in total — **12 on Arcanor itself**, plus **Kaelor** as the empire's remote western province (governed by House Kaelarion as a loyal vassal). Kaelor only became isolated and independent once the seas closed following the exile, cutting it off from the other twelve along with everything else on the old continent. The imperial sigil of the Caldarion Empire was the **Black Sun**.
 
 ### The First Eclipse – The Founding
 Long before the empire existed, catastrophe struck the world. At midday, a tear appeared in the sky. The sun vanished, plunging the world into darkness as the Veil split open. From the breach emerged the **Primordial Darkness** — an ancient force from beyond the Veil and the Eternal Current.
