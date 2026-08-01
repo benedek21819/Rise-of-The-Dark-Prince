@@ -1,0 +1,22 @@
+# Economy & Resources
+
+## Currency
+Kaelor uses a single, unified currency, minted exclusively by the Crown (House Kaelarion). No Great House mints its own coin. This gives the Crown a quiet but constant point of leverage over every house's economy, regardless of that house's own wealth or resources.
+
+## Cold Silver
+Found only in House Caldarion's Northern Duchy. See `locations.md` for full detail on mining, properties, and use in Silver Guard armor and the ancestral sword Mercy. Caldarion's exclusive access to it is one of the foundations of the house's military and financial independence — one more reason other houses regard them with a mixture of respect and resentment.
+
+## Ironwood
+A slow-growing timber, exceptionally hard and notably heavier than ordinary wood.
+
+- **Where it grows:** Found mostly, though not exclusively, within House Vaelmar's eastern territory. Its slow growth makes it scarce and valuable regardless of where a given stand is found — a mature Ironwood tree represents generations of undisturbed growth, not a resource that can be farmed quickly to meet demand.
+- **Use:** Shipbuilding and construction, not weapons or armor. Its weight and density make it impractical and inferior to basic steel or iron for arms — a Ironwood blade or plate would be heavier, more expensive, and less durable than ordinary metal for the same purpose. Where it excels is in hulls and structural framing: a ship built from Ironwood is dramatically more resistant to ramming, boarding, rot, and fire than one built from ordinary timber, at the cost of added weight, slower construction, and the need for shipwrights trained specifically to work it.
+- **Political significance:** Vaelmar's naval dominance owes as much to Ironwood as to the house's own skill or its single dragon. Because the timber isn't exclusive to Vaelmar's borders, other coastal or forested territories with access to it can become quietly valuable, or quietly contested, without ever rising to the level of a Cold-Silver-style monopoly.
+
+## Veilstone
+A rare, crystal-like stone of extremely high, pure Veil density, capable of powering magical constructs.
+
+- **Formation:** Requires an extraordinarily long time to form — even a small deposit takes multiple centuries to develop naturally.
+- **Presence on Kaelor:** None. No Veilstone deposit has ever been found on the continent, and none is believed to exist there.
+- **How it is known at all:** Kaelor's knowledge of Veilstone comes entirely from old trade records, dating to the era when sea routes to Arcanor were still safe and navigable — before House Caldarion's exile and the subsequent worsening of the ocean's dangers (the Silent Belt, the Storm Ring, the Outer Deep; see `locations.md`) severed regular contact with the old continent. In that earlier age, Veilstone reached Kaelor as an imported luxury and curiosity, traded from Arcanor alongside other goods.
+- **Reputation today:** To most people in Kaelor, Veilstone is closer to legend than material fact — something referenced in old scholarly records (House Myrath's archives being the most likely holder of any surviving fragments or accounts) rather than something anyone living has actually seen firsthand. Any surviving Veilstone objects on Kaelor would necessarily be pre-exile antiques, centuries old, exceptionally rare, and largely unrecognized for what they are by anyone outside a small circle of scholars.
