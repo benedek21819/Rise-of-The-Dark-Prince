@@ -57,4 +57,11 @@ This is the index for all major characters. Each character has their own dedicat
 
 ---
 
+## House Kestrion
+
+- **Lord Halvard Kestrion** — Current head of House Kestrion; attends the Convocation focused on the unexplained Deepcoal mine crisis (see `world-building/economy-and-resources.md`)
+- **[Lord Bren Kestrion](Bren_Kestrion.md)** — Halvard's son and heir; more hands-on and personally affected by the mine crisis than his father
+
+---
+
 *Use the individual character files for detailed profiles, appearance, personality, and relationships.*

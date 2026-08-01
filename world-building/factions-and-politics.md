@@ -217,6 +217,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 
 ### House Kestrion
 - **Current Head**: **Lord Halvard Kestrion** — blunt and pragmatic on the surface, per house type, but currently carrying a harder edge of genuine fear beneath it: a man used to solving every problem with money, labor, and engineering, now facing something none of those tools touch. Attends the Convocation in person, focused entirely on finding the actual cause of the crisis in his mines (see `economy-and-resources.md`, "Deepcoal — The current crisis") rather than on old rivalries. Does not suspect any connection to House Caldarion and has no particular interest in them at this gathering; his attention is fixed on House Myrath's scholars as the most plausible source of real answers.
+- **Heir**: **Lord Bren Kestrion**, Halvard's son — see `characters/Bren_Kestrion.md`. More hands-on and personally affected by the mine crisis than his father, having lost a mining mentor to one of the ignitions; pushes for faster, harder action and has little patience for the Convocation's slower, cooperative approach.
 - **Specialty**: Heavy industry, weapons manufacturing, siege engines, and mass military production.
 - **Personality**: Blunt, pragmatic, industrious, and competitive.
 - **Colors**: Iron grey and deep red.
