@@ -4,7 +4,7 @@ The request came on the third day of the visit, delivered the way Seren delivere
 
 “I want to see him,” she said. “Your dragon.”
 
-They were in one of the lesser sitting rooms, the adults occupied with the slow business of formal talk a few paces off, and she had simply turned from whatever she had been half-listening to and said it, plainly, as though it required no more justification than asking for water. Lucian supposed, to her, it did not. Every dragon in the realm had to be reported to the crown the moment it hatched or bonded. She had likely known his name and Ancalion's in the same breath for most of her life, the way she knew the names of the other Great Houses' dragons — Korrath, Nereus, Ashira — facts of the world rather than secrets kept from her.
+They were in one of the lesser sitting rooms, the adults occupied with the slow business of formal talk a few paces off, and she had simply turned from whatever she had been half-listening to and said it, plainly, as though it required no more justification than asking for water. Lucian supposed, to her, it did not. Every dragon in the realm had to be reported to the crown the moment it hatched or bonded. She had likely known his name and Ancalion's in the same breath for most of her life, the way she knew the name of Dravenhall's own dragon, Korrath — a fact of the world rather than a secret kept from her, and one of vanishingly few she had ever had reason to learn, since so few houses beyond the Crown and Caldarion itself had a dragon at all.
 
 “He is not tame,” Lucian said. It was not a refusal. It was accurate.
 

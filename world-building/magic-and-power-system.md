@@ -149,8 +149,8 @@ Growth *rate* varies by individual on top of this curve. Most dragons grow at a 
 **Approximate relative sizing, for continuity (not stated in-world as exact figures):**
 - Morvath (~300 yrs, average pace): largest known dragon.
 - Lirath (~170 yrs, average pace): far larger than any young dragon; the standing example of raw age dominating size even among two dragons that are both, by ordinary terms, old.
-- Solara (~30 yrs as of the main story's present) and Nereus (always 20 years older than Ancalion): young by dragon standards, still growing steadily; average pace.
-- Ancalion (same age as Lucian; roughly 2x average pace, i.e. tracking an effective growth-age near double his true age): closing in on Solara's size without yet matching or exceeding it, and further still from Nereus, Lirath, or Morvath. The gap narrows visibly over time rather than closing all at once.
+- Solara (~30 yrs as of the main story's present): young by dragon standards, still growing steadily; average pace.
+- Ancalion (same age as Lucian; roughly 2x average pace, i.e. tracking an effective growth-age near double his true age): closing in on Solara's size without yet matching or exceeding it, and further still from Lirath or Morvath. The gap narrows visibly over time rather than closing all at once.
 
 ### Combat Capability Beyond Size
 Size is the single most significant factor in a dragon's raw destructive potential, but it is not the only one, and it does not by itself decide the outcome of a fight between two dragons. Also relevant:
@@ -175,14 +175,17 @@ Beyond speed and growth rate, Ancalion's unusually close tie to the Primordial D
 - **A toll on Lucian.** Drawing power through the bond costs Lucian more than his own solitary Veil-sense does — beyond the ordinary residual fatigue, a harder, colder aftertaste that lingers for a time afterward: shorter patience, a sharper edge toward people he'd otherwise simply be indifferent to. Mild and temporary on its own, but a real contributor to the same imbalance — warmth for the few, coldness for everyone else — that already defines him.
 
 ### Publicly Known Dragons
-Currently, only **6 dragons** are publicly known to exist on the continent.
+Currently, only **4 dragons** are publicly known to exist on the continent — a deliberately small number, meant to keep dragon ownership feeling genuinely rare rather than a routine mark of Great House status.
 
 **Current Known Distribution:**
 - **House Caldarion**: 2 dragons (including the current largest and strongest dragon on the continent)
 - **Royal Family (House Kaelarion)**: 1 dragon (Solara)
 - **House Dravenhall**: 1 dragon (**Korrath**)
-- **House Vaelmar**: 1 dragon (**Nereus**)
-- **House Thalorin**: 1 dragon (**Ashira**)
+- **House Vaelmar**: None.
+- **House Thalorin**: None.
+- **House Sylvaron**: None.
+- **House Kestrion**: None.
+- **House Myrath**: None.
 
 ### House Caldarion’s Dragons (Public vs Reality)
 **Public Story:**
@@ -221,18 +224,6 @@ Morvath currently has **no bonded rider**. His last rider was Lucian Caldarion�
 
 This dragon represents the traditional symbol of royal power and stability for House Kaelarion.
 
-### House Thalorin’s Dragon
-
-**Name**: Ashira  
-**Gender**: Female  
-**Theme**: Dual Nature — beauty that hides quiet danger
-
-**Appearance**: White scales with faint grey or silver veining. Eyes are a soft but piercing blue-grey. Her flames are pure white but leave a lingering cold sensation in the air.
-
-**Personality**: Outwardly serene, graceful, and composed. She projects an aura of calm elegance that matches House Thalorin’s public image as healers and stabilizers. However, when provoked or when her rider/house is threatened, she is capable of sudden, precise, and lethally efficient violence. She does not rage — she ends threats cleanly.
-
-**Role**: Reflects the true nature of House Thalorin’s soft power. Gentle and indispensable on the surface, but quietly dangerous when necessary.
-
 ### House Dravenhall’s Dragon
 
 **Name**: Korrath  
@@ -243,19 +234,6 @@ This dragon represents the traditional symbol of royal power and stability for H
 **Appearance**: Rust-red and charcoal scales with a distinctive crest or frill. His flames are loud and explosive.
 
 **Personality**: Aggressive, proud, and highly competitive. Thrives in combat and responds strongly to displays of strength and courage.
-
-### House Vaelmar’s Dragon
-
-**Name**: Nereus  
-**Gender**: Male  
-**Age**: 20 years older than Ancalion (he was 20 years old when Ancalion hatched)  
-**Theme**: The Stormwing
-
-**Appearance**: Deep ocean-blue and teal scales with silver markings that resemble seafoam or lightning. Eyes are storm-grey or electric blue. His flames are pale blue-white and crackle like lightning or release bursts of pressurized steam.
-
-**Personality**: Proud, restless, and free-spirited. Dislikes being confined inland and thrives over the open sea and in storms. Still relatively young and somewhat impulsive.
-
-**Role**: Instrument of House Vaelmar’s naval dominance. Excellent for scouting, striking ships, and projecting power along the coasts and open waters.
 
 ### Hidden Dragons & Legal Requirements
 It is **legally required** to report all owned dragons and dragon eggs to the crown. However, there are also **unknown dragons**, mostly wild ones that have not been claimed or bonded. House Caldarion’s unreported male dragon (Morvath) and the secret history of Ancalion’s parent represent major hidden assets and serious political risks if discovered.

@@ -9,7 +9,6 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 - Ancalion: 12 (bonded from birth, same age as Lucian)
 - Seren: 9 (bible-specified: 3 years younger than Lucian)
 - Solara: ~25 (bible lists ~30 as of the main story's present, ~5 story-years later)
-- Nereus: 32 (bible-specified: always 20 years older than Ancalion)
 - Lirath: ~165 (bible lists 170 as of a later point)
 - Morvath: ~295 (bible lists "nearly 300," close to the end of his natural lifespan)
 

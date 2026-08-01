@@ -14,7 +14,7 @@ It began reasonably enough. She sought him out after the second morning's traini
 
 “I am occupied.”
 
-“You are always occupied.” She did not say this as a complaint, which somehow made it worse. “I only wanted to tell you that Ashira — House Thalorin's dragon — has white flame, but it feels cold instead of hot. I read that. Did you know that?”
+“You are always occupied.” She did not say this as a complaint, which somehow made it worse. “I only wanted to tell you that Korrath — House Dravenhall's dragon — can be heard breathing fire from nearly a mile off, even over the wind. I read that. Did you know that?”
 
 “I did not need to know that.”
 

@@ -253,8 +253,8 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Specialty**: Naval power and maritime trade.
 - **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
 - **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion’s overwhelming military superiority and reclusive nature.
-- **Dragon**: 1 dragon (used for naval dominance).
-- **Strengths**: Strong navy, control of major ports and sea trade routes, one dragon for naval power.
+- **Dragon**: None. Naval dominance is built on their fleet, port control, and Ironwood shipbuilding rather than any dragon.
+- **Strengths**: Strong navy, control of major ports and sea trade routes, access to Ironwood for exceptionally durable hulls.
 - **Weaknesses**: Less influential on land compared to houses like Caldarion or Sylvaron.
 - **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
 
@@ -263,8 +263,8 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Personality**: Reserved, disciplined, and outwardly compassionate. Beneath the caring reputation, they are careful political operators who understand the value of being indispensable.
 - **Colors**: White and soft blue (with silver accents).
 - **Sigil**: A silver serpent coiled around a staff.
-- **Dragon**: 1 dragon.
-- **Strengths**: Best healers and medical knowledge in the kingdom. High moral reputation among commoners and many nobles. Their services are needed by almost every major house and the royal family, giving them quiet but significant leverage. Possession of a dragon further elevates their status.
+- **Dragon**: None.
+- **Strengths**: Best healers and medical knowledge in the kingdom. High moral reputation among commoners and many nobles. Their services are needed by almost every major house and the royal family, giving them quiet but significant leverage.
 - **Weaknesses**: Militarily weak compared to pure martial houses. Prefer influence over open confrontation, which can make them slow to act in crises.
 - **Political Approach**: They avoid direct conflict and instead use their essential role to gain favors, access, and long-term influence. Nobles who depend on Thalorin healers are often reluctant to move against them.
 - **Relationship to House Caldarion**: Neutral to mildly positive. They maintain respectful distance and occasionally provide medical support, which gives them limited goodwill without deep entanglement.
