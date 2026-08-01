@@ -40,7 +40,7 @@ Lucian went down with two men of his own escort onto a narrow shelf of rock belo
 
 They did not come at him with drawn steel raised to kill. They came with rope, and a weighted net, and a low, disciplined voice somewhere behind them saying *alive, he is worth nothing to us broken* — and Lucian felt something in his chest go very still and very cold, the particular stillness of a man realizing that dying was not, after all, the worst thing being offered to him today.
 
-His own two men fell fast, wounded rather than killed, dragged back and pinned before Lucian could reach either of them — not through any lack of skill, but through sheer weight of numbers, more than a dozen men closing from three sides on ground too narrow to give either of them room to fight the way they had trained — and then there was only him, and eleven men moving with the flat, coordinated patience of people who had rehearsed this exact taking more than once before.
+His own two men fell fast, wounded rather than killed, dragged back and pinned before Lucian could reach either of them — not through any lack of skill, but through sheer weight of numbers, eleven men closing from three sides on ground too narrow to give either of them room to fight the way they had trained — and then there was only him, and eleven men moving with the flat, coordinated patience of people who had rehearsed this exact taking more than once before.
 
 He never chose what happened next. It happened to him, the way falling happens to a man who has already lost his footing.
 
