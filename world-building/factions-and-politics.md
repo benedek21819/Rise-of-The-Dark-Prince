@@ -2,7 +2,7 @@
 
 ## The Kingdom and Its Political Structure
 
-The story is set on the **Continent of Kaelor**, unified under the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by either one of the **7 Great Houses** or the Royal Family itself (House Kaelarion holds two duchies — the Royal Demesne and the Western Shore).
+The story is set on the **Continent of Kaelor**, unified under the **Kingdom of Kaelor**. The kingdom is divided into **9 Duchies**. Each duchy is ruled by one of the **8 Great Houses** — House Kaelarion, as the Royal Family, holds two duchies (the Royal Demesne and the Western Shore), while the other seven each hold one.
 
 ### Power Structure
 - **Great Houses**: The eight most powerful noble families. They command significant land, wealth, armies, and political influence.
@@ -10,7 +10,7 @@ The story is set on the **Continent of Kaelor**, unified under the **Kingdom of 
 - **Lesser Houses**: Vassal families who serve under the Great Houses or directly under the Crown. They provide troops, manage local lands, and can rise or fall based on the politics of their liege lords.
 
 ### The Great Houses
-There are seven Great Houses, each controlling one duchy. Together with the Royal Family, they form the highest tier of power in the Kingdom of Kaelor. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
+There are eight Great Houses in total, including House Kaelarion as the Royal Family. Together they form the highest tier of power in the Kingdom of Kaelor. Rivalries, alliances, marriages, and succession disputes between these houses drive much of the political intrigue.
 
 ### Marriage, Succession, and Concubinage
 Among the Great Houses and the crown alike, a single principal wife or husband holds the formal title and runs the household, but multiple marriages and, more commonly, concubinage beneath a single principal spouse are ordinary and unremarkable practice — a standard tool for securing a line against exactly the kind of loss war, disease, or dragon-riding can inflict on a great house in a single generation. Legitimacy and inheritance follow the principal marriage; children of concubines are still raised as full members of the house, with the internal hierarchy around the principal wife's own children never seriously in question. House Caldarion's own arrangement — Lady Elara as Vesper's one true wife, Ladies Mira and Sable as concubines — is a direct product of this norm, adopted in the aftermath of the Last Continental War rather than out of any particular excess on Vesper's part.
