@@ -2,7 +2,7 @@
 
 Cole had the formal black laid out before Lucian reached his chambers, as though the herald's voice had carried there ahead of him.
 
-“The King's envoy,” Lucian said. “Not only Kaelarion.”
+“The King's envoy,” Lucian said. “Not merely a family visit.”
 
 “So it is said, young lord.” Cole fastened the collar with quick, exact hands. “Lord Vesper has asked that you not be late.”
 
@@ -16,7 +16,7 @@ The hall was smaller than the great chamber, chosen, Lucian understood without b
 
 The doors opened.
 
-The party entered in loose order — an escort first, cloaks marked by the cold of the Ascend, then a steward in the crown's grey over Kaelarion crimson, then the rest, voices already dropping to the low register visitors learned quickly to keep in this house. The steward reached the center of the floor and bowed with the exact, practiced depth of a man who had rehearsed the same bow in a dozen halls colder than this one.
+The party entered in loose order — an escort first, cloaks marked by the cold of the Ascend, then a steward in formal grey trimmed with Kaelarion crimson, then the rest, voices already dropping to the low register visitors learned quickly to keep in this house. The steward reached the center of the floor and bowed with the exact, practiced depth of a man who had rehearsed the same bow in a dozen halls colder than this one.
 
 “Lord Vesper Caldarion. By the King's word, House Kaelarion presents itself under the old agreement, and asks the House of Caldarion's welcome.”
 
