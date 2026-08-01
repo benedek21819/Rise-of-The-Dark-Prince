@@ -74,6 +74,8 @@ The Dark Throne served two purposes:
 
 As long as a Lord of House Caldarion sat upon the throne, the seal remained stable. The world believed the Emperors ruled from the throne. The truth: they guarded it.
 
+**The true mechanism (not known to any living Caldarion, including Vesper):** The Dark Throne draws Veil energy from whoever sits upon it. Drawing on that energy to stabilize the Veil itself is not unique to the bloodline — in principle, anyone with sufficient Veil energy and control could sit the throne and hold that half of the seal steady. Stabilizing the **Primordial Darkness** specifically, however, is unique to Caldarion blood alone; no amount of raw Veil strength in a non-Caldarion substitutes for it. At the time of the exile, the family believed — reasonably, given what they understood of the throne's workings — that a sufficiently capable successor dynasty could maintain the seal in their absence, and left believing the true danger was only ever going unheld, not going unheld *by them specifically*. No successor ever took the throne at all, leaving it empty rather than testing that belief — but even if one had, the seal on the Primordial Darkness would have failed regardless, since it was never a matter of strength alone. This distinction has been lost for centuries, unrecorded even in the family's own guarded histories, and no one now living — not Vesper, not any scholar, not even the Sisters of the Current — knows that the growing wrongness in the world traces back to an absence that only Caldarion blood, not merely a throne being occupied, could ever have prevented.
+
 A fragment of the Black Star was forged into a sword. Its name: **Eclipse** — named after the day the world went dark.
 
 **Characteristics**:
