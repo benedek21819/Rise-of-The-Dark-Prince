@@ -36,6 +36,6 @@ They rode out three days later, the North's short summer already beginning to th
 
 Harrow's steward met them at the border of contested ground with a face already carrying the exhausted, grateful relief Greyfen's own people had worn on arrival, and behind him, half a mile further along the scorched tree line, the first columns of smoke from a burning way-station still rose thin and grey into the pale northern sky.
 
-"They struck again three nights past, my lord," the steward said. "Worse than before. I do not know how a house as poor as Corvane has ever managed men and arms enough for this."
+"They struck again eight days past, my lord," the steward said. "Worse than before. I do not know how a house as poor as Corvane has ever managed men and arms enough for this."
 
 "I do," Lucian said, and did not elaborate further, though something in the flat certainty of it seemed to settle the steward more than any explanation could have. "Show me what is left."

@@ -36,6 +36,14 @@ Key supporting characters who live and work at Blackspire Keep.
 
 ---
 
+### Greta – Senior Kitchen Cook
+
+**Role:** Works alongside Bram in the kitchens, often the one who actually notices and feeds the children when they wander in unannounced (Chapter 4).  
+**Personality:** Older, broad-shouldered, weathered by ovens and years of work. Quietly warm rather than loud — where Bram brings noise and energy, Greta's warmth shows in small unasked-for gestures, like sending a favorite treat to a cold, hesitant child without waiting to be asked.  
+**Notes:** Provides a quieter, gentler counterpart to Bram's louder kitchen presence.
+
+---
+
 ### Fenn – Senior Stable Master
 
 **Role:** Oversees the ordinary mounts and assists with the practical needs of the dragons when required (under strict supervision).  

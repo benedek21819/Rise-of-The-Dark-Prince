@@ -48,7 +48,7 @@ He straightened before he understood why. His shoulders found the line Lyra was 
 
 Lord Vesper Caldarion stood near one of the tall arched openings that led toward the outer terraces.
 
-He was dressed in black, as he almost always was, the silver at his cuffs and collar the only concession to ornament. His hair, streaked with iron-gray, was tied back cleanly. His face gave nothing away. He did not shift or adjust as they approached. He simply waited.
+He was dressed in black, as he almost always was, the silver at his cuffs and collar the only concession to ornament. His hair, streaked with silver, was tied back cleanly. His face gave nothing away. He did not shift or adjust as they approached. He simply waited.
 
 Elara slowed.
 

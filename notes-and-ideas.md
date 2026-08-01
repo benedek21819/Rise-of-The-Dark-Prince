@@ -12,7 +12,7 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 - Lirath: ~165 (bible lists 170 as of a later point)
 - Morvath: ~295 (bible lists "nearly 300," close to the end of his natural lifespan)
 
-**Chapter 25 onward (over a year after Ch.24, Blood):**
+**Chapter 25 onward (over a year after Ch.24, Distance):**
 - Lucian: 14
 - Ancalion: 14
 - Lyra: 19 (bible-specified: 5 years older than Lucian)
@@ -28,7 +28,7 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 **Chapter 34–35 (back at Blackspire, right after Aurelia):**
 - Lucian: 14
-- Selene: 9 (bible-specified: b.1043, 5 years younger than Lucian; first on-page appearance since Ch.7-era childhood chapters)
+- Selene: 9 (bible-specified: b.1043, 5 years younger than Lucian; last appeared on-page in Ch.23, traveling to House Thalorin)
 - Lyra: 19
 
 **Chapter 36–40 (a small time skip — several months later):**
