@@ -47,7 +47,7 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
-- **Orlena begins proposing marriage options for Lyra.** Planted thread, deliberately held until after the current Great Houses' Convocation arc resolves. Lyra (now ~21, 5 years older than Lucian) is old enough that Orlena — established as "especially attentive to marriages, alliances, public image" — would plausibly start applying real pressure rather than this staying background characterization. Lyra's own character file already notes she "may eventually be pressured into a political marriage she does not want." No specific house/match chosen yet.
+- **Orlena proposing marriage options for Lyra.** Now live as of Chapter 49 ("Match") — Orlena has raised the subject with Vesper, Lucian knows, Mira (Lyra's actual mother) has given a more complex, less purely protective reaction than expected, and Lyra herself knows pressure is coming. No specific suitor/house named yet; deliberately left open for future chapters.
 
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]
