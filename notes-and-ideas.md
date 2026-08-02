@@ -45,6 +45,9 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 ## Reserved Chapter Titles
 - **Return** — reserved for the future chapter where Lucian goes to Arcanor (the old imperial capital, site of the Imperial Vault). Do not reuse for any other chapter before then.
 
+## Standing Instruction — Cazius
+Cazius must stay entirely unnamed and off-page to Lucian until he is formally revealed as Shadow Commander. As of Chapter 51 ("Oversight"), this reveal now has a concrete mechanism: Vesper is doubling the Shadow Guard from 50 to 100 members following Serris's betrayal (Ch.50), recruiting/training a new second 50-member unit (a couple of years' work) that will be placed under Lucian's direct command once complete, with Cazius (currently Night Captain in the existing 50-member force, still under Vesper) projected to rise to Shadow Commander of that unit by the time it's ready. The reveal chapter should coincide with the second unit's actual completion — likely requiring a future time skip to reach. See `world-building/factions-and-politics.md` ("The Shadow Guard") and `characters/Cazius.md` for full detail.
+
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
 - **Orlena proposing marriage options for Lyra.** Now live as of Chapter 49 ("Match") — Orlena has raised the subject with Vesper, Lucian knows, Mira (Lyra's actual mother) has given a more complex, less purely protective reaction than expected, and Lyra herself knows pressure is coming. No specific suitor/house named yet; deliberately left open for future chapters.

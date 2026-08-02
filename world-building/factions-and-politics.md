@@ -88,9 +88,9 @@ Elite open military force of House Caldarion. Approximately 250 members. Respons
 ### The Shadow Guard
 
 **Type**: Elite covert force of House Caldarion  
-**Size**: Approximately 100 members  
-**Command**: Directly under **Lucian Caldarion**  
-**Shadow Commander**: **Cazius** (addressed by Lucian as **Caz**)  
+**Current Size**: 50 members, entirely under Lord Vesper's direct command — Lucian has not yet been given command of any portion of the Guard.  
+**Expansion (set in motion Chapter 51, "Oversight")**: Following the discovery of Serris's coercion (Ch.50), Vesper judged the Guard's existing size and the house's vetting practices insufficient and committed to doubling the Shadow Guard to 100 members. The second 50-member unit is being freshly recruited and trained — a process expected to take a couple of years given the demands of the training itself — and will be placed under **Lucian's** direct command once fully formed and organized. Lucian is personally involved in the recruitment process from the outset, though the unit itself does not yet exist as an operational force.  
+**Shadow Commander (projected)**: **Cazius**, currently ranked Night Captain within the existing 50-member force (see `characters/Cazius.md`), is expected — given his established trajectory as a once-in-a-generation talent — to rise to Shadow Commander of the new second unit by the time it is ready, reporting directly to Lucian. Not yet formalized; this is the anticipated outcome of the expansion, not a completed fact.  
 **Role**: Assassination, intelligence, infiltration, and the silent elimination of threats
 
 **Identity**  
@@ -104,7 +104,7 @@ The Shadow Guard is organized into small, tightly controlled cells of 5–8 memb
 - Each cell is led by a **Cell Leader**.  
 - Cell Leaders report to a small number of senior officers.  
 - Only the highest ranks have a full picture of ongoing operations.  
-- Lucian sits at the top as overall commander, with **Cazius** as Shadow Commander handling day-to-day operations.
+- Currently, Vesper sits at the top of the existing 50-member force as overall commander. Once the second unit is formed, Lucian will sit at the top of that unit specifically, with Cazius (projected) as its Shadow Commander handling day-to-day operations.
 
 This structure limits damage if a single cell is exposed and reinforces secrecy.
 
@@ -112,8 +112,8 @@ This structure limits damage if a single cell is exposed and reinforces secrecy.
 - Shadow
 - Blade
 - Wraith
-- Night Captain
-- Shadow Commander (Cazius — reports directly to Lucian)
+- Night Captain (Cazius's current rank)
+- Shadow Commander (projected future rank for Cazius, once the second unit is formed)
 
 **Selection & Training**  
 Members are recruited young from loyal lesser families, orphans raised under the house’s protection, or exceptional individuals identified for their potential. Training is secretive and extremely demanding, focusing on:
@@ -141,11 +141,11 @@ Failure rates are high. Those who do not complete the training rarely speak of w
 
 **Relationship to Other Forces**  
 - **Silver Guard**: Mutual respect mixed with distance. The Silver Guard is the house’s public strength; the Shadow Guard is its private necessity.
-- **Lord Vesper**: Retains ultimate authority over the house, but operational command of the Shadow Guard has been entrusted to Lucian.
-- **Lucian**: As their direct commander, his cold, calculating nature aligns closely with their purpose. The Shadow Guard is one of the clearest instruments of his growing personal authority. He addresses the Shadow Commander simply as **Caz**.
+- **Lord Vesper**: Retains ultimate authority over the house and, currently, direct command of the entire existing Shadow Guard. Will retain the original 50-member unit under his own command even after the second unit is formed and handed to Lucian.
+- **Lucian**: Not yet their commander, and does not yet know Cazius exists — per standing story doctrine, Cazius stays entirely unnamed and off-page to Lucian until he is formally revealed as Shadow Commander of the new unit. Lucian is involved in recruitment for the new second unit as of Chapter 51, with operational command of that unit to be entrusted to him once it is fully formed and organized. The private familiarity of Lucian addressing him as **Caz** begins only once that reveal happens.
 
 **Story Role**  
-The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. Their existence raises moral and political questions as he begins to use them more actively. They also represent the darker, more pragmatic side of House Caldarion’s power.
+The Shadow Guard, once Lucian is given command of its second unit, will give him a direct, deniable, and highly effective tool. Their existence raises moral and political questions as he begins to use them more actively. They also represent the darker, more pragmatic side of House Caldarion’s power.
 
 ---
 
