@@ -12,7 +12,7 @@ Selene had commandeered the breakfast table for a full accounting of Talon's fle
 
 "Lyra is not here," Thorne said, mildly, "which is presumably why you are explaining it to Lucian instead."
 
-It was, Lucian thought, watching the ordinary noise of the table close back over the small interruption, exactly the kind of morning the house had not been able to afford itself in longer than he cared to number precisely — no report waiting in the solar, no letter demanding to be read twice for what it declined to say, only the plain, undemanding company of people who wanted nothing from him beyond his attention to a hawk's chicks.
+It was, Lucian thought, watching the ordinary noise of the table close back over the small interruption, exactly the kind of morning the house had not been able to afford itself in longer than he cared to number precisely — no report waiting in the solar, no decision pressing to be made before the day's end, only the plain, undemanding company of people who wanted nothing from him beyond his attention to a hawk's chicks.
 
 It did not last past the second bell.
 
