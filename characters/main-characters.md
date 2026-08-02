@@ -76,6 +76,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 - **[Lord Ellard Vaelmar](Ellard_Vaelmar.md)** — Head of House Vaelmar; strongest navy of the Great Houses, but presiding over a centuries-long economic stagnation since the sea routes to Arcanor closed, and hungry to be the one who restores it
 - **[Lady Meret Vaelmar](Meret_Vaelmar.md)** — His wife; genuinely shares his ambition and gives him steadiness rather than resistance or escalation
+- **[Lord Joren Vaelmar](Joren_Vaelmar.md)** — Their son and heir; shares his father's ambition but has far less patience for decades of careful waiting
 
 ---
 

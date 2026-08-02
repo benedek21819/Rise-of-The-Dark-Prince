@@ -17,5 +17,6 @@ Practical, warm, and genuinely convinced her husband's ambition is worth backing
 
 **Key Relationships:**
 - **Lord Ellard Vaelmar** (husband): A genuine partnership rather than a purely political one. She believes in what he wants for the house and gives him steadiness rather than either resistance or escalation — the calm center he returns to between the demands of the ambition itself.
+- **Lord Joren Vaelmar** (son): Closer to her steadiness in temperament than to his father's restlessness, though his ambition is entirely his own. She neither encourages nor tempers his impatience with Ellard's methods, giving him the same even hand she gives her husband.
 
 **Role in Story:** Rounds out House Vaelmar as a real household rather than a single man's ambition — gives Ellard a partner whose support carries weight precisely because it is neither blind encouragement nor quiet doubt, but considered belief.

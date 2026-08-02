@@ -17,6 +17,7 @@ Proud, expansionist, and genuinely capable — Vaelmar's navy is the strongest a
 **Key Relationships:**
 - **House Caldarion**: Wary and competitive rather than openly hostile — he respects Caldarion's strength and resents their reclusive dominance in roughly equal measure, without any inherited blood grudge the way Dravenhall carries one. He has no idea that Vaelmar's own centuries of decline trace back to the same failing seal that forced Caldarion's own exile — a shared, unintended tragedy neither house had any hand in causing, should it ever come to light.
 - **Lady Meret Vaelmar** (wife): A genuine partnership. She believes in his ambition to restore the house rather than merely tolerating it, and gives him steadiness rather than either resistance or further escalation.
+- **Lord Joren Vaelmar** (son and heir): Shares his ambition completely, disagrees with him constantly on method — Joren has little patience left for the decades of careful positioning Ellard still believes are necessary, and the friction between them is real, if fond rather than bitter.
 - **House Sylvaron**: A quiet, unspoken rivalry of a different kind than Caldarion's — Sylvaron's wealth has long since eclipsed Vaelmar's own, a fact Ellard is acutely, privately aware of every time trade and finance come up at a gathering like the Convocation.
 - **House Kestrion**: No particular history; both houses' current struggles (Kestrion's mine crisis, Vaelmar's stagnation) are unrelated, though Ellard would recognize the shape of another proud house facing real trouble.
 
