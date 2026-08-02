@@ -18,5 +18,6 @@ Ambitious, impatient, and genuinely capable — every bit his father's son in wh
 **Key Relationships:**
 - **Lord Ellard Vaelmar** (father): Shares his goal completely, disagrees with him constantly on method — a source of real, if fond, friction rather than open rebellion. Joren has never doubted his father's love for the house; he doubts his father's patience is still serving it.
 - **Lady Meret Vaelmar** (mother): Closer to her steadiness than to his father's restlessness in temperament, though his ambition is entirely his own rather than inherited from her. She neither encourages nor discourages his impatience, the same even hand she gives Ellard.
+- **Lord Dunstan Vaelmar** (uncle): Cordial rather than warm. Dunstan views him as living proof of everything he warned the house about when he lost the succession to Ellard — the same ambition, inherited and sharpened rather than tempered by another generation.
 
 **Role in Story:** A second generation carrying House Vaelmar's restoration ambition forward with less patience than his father — useful if the story ever needs Vaelmar to actually take a risk toward Arcanor rather than simply hope for one, since Joren is the more plausible candidate to push past decades of careful waiting.
