@@ -37,7 +37,9 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 **Chapter 41–48 (Corvane/Harrow arc through the quiet aftermath):**
 - Lucian: close to 16 (age not stated directly in the prose; tracked here for continuity)
 
-**Chapter 49 onward:** Not yet written — the previous "Convocation arc" plan (one-year time skip, Lucian turning 16) was deleted along with Chapters 49-51 and is no longer part of continuity. Next chapter's direction, timing, and any time skip are undecided.
+**Chapters 49–51 (Match/Debt/Oversight):** Lucian close to 16, as tracked since Ch.41-48. No time skip across these three chapters.
+
+**Chapter 52 onward (Anchor):** A small time skip of about two months past Chapter 51. Ages not meaningfully changed by a skip this short; tracked here for continuity only.
 
 ## Open Questions
 - [What still needs figuring out?]
@@ -50,7 +52,7 @@ Cazius must stay entirely unnamed and off-page to Lucian until he is formally re
 
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
-- **Orlena proposing marriage options for Lyra.** Now live as of Chapter 49 ("Match") — Orlena has raised the subject with Vesper, Lucian knows, Mira (Lyra's actual mother) has given a more complex, less purely protective reaction than expected, and Lyra herself knows pressure is coming. No specific suitor/house named yet; deliberately left open for future chapters.
+- **Orlena proposing marriage options for Lyra.** Live since Chapter 49 ("Match"). As of Chapter 52 ("Anchor"), a concrete offer has finally arrived: House Vaelmar, on behalf of heir **Joren Vaelmar**, has formally sought Lyra's hand. Lyra has not accepted or refused — she intends to actually meet Joren before deciding anything. Selene's fear of losing her sister is now an open, on-page thread as well. Still unresolved; future chapters should either bring Joren on-page for Lyra to actually meet, or continue the household's deliberation.
 
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]
