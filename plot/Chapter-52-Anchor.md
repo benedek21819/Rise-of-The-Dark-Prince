@@ -8,13 +8,15 @@ The letter came on an unremarkable morning, carried into the solar with the same
 
 "Vaelmar," Vesper said, when he had finished, setting the letter down with the particular care of a man handling something heavier than its weight. "Lord Ellard writes on behalf of his son. Joren seeks Lyra's hand."
 
-"That did not take as long as I expected," Orlena said, and there was no triumph in it, only the flat satisfaction of a woman watching a thing she had predicted arrive on schedule. "Vaelmar has been hungry for a real alliance since long before either of you were born. A marriage into this house is worth more to them than anything they could win by ship or by coin, and Ellard is proud enough to know it without needing it explained."
+"Not the first such letter this house has received on her behalf," Orlena said, and there was no triumph in it, only the flat satisfaction of a woman watching a thing she had predicted arrive on schedule. "Only the first you have let reach this room instead of turning it aside yourself before either of your children ever heard of it."
 
-"Joren is the one who wrote it, beneath his father's seal." Vesper's gaze had not left the letter. "Ellard has spent thirty years positioning carefully before committing to anything. This does not read like careful positioning. It reads like a son who convinced his father to move faster than he otherwise would have."
+"There is a difference between quietly declining houses with nothing real to offer and sitting on an offer from one of the Eight." Vesper's gaze had not left the letter. "Vaelmar has been hungry for a real alliance since long before either of you were born. A marriage into this house is worth more to them than anything they could win by ship or by coin, and Ellard is proud enough to know it without needing it explained."
+
+"Joren is the one who wrote it, beneath his father's seal." He set it down again, considering. "Ellard has spent thirty years positioning carefully before committing to anything. This does not read like careful positioning. It reads like a son who convinced his father to move faster than he otherwise would have."
 
 "Is that a mark against him or in his favor?"
 
-"I have not decided." He looked up, and whatever calculation had occupied his face a moment before eased, deliberately, into something closer to his son's own weight in the matter. "I did not intend to decide it alone, in any case. Lyra has waited two months for this house to stop merely discussing the shape of her future. She has earned the right to weigh in on the first real offer that arrives, rather than simply be told of it after the fact."
+"I have not decided." He looked up, and whatever calculation had occupied his face a moment before eased, deliberately, into something closer to his son's own weight in the matter. "I did not intend to decide it alone, in any case. Lyra has waited two months for this house to stop merely discussing the shape of her future. She has earned the right to weigh in on the first offer worth taking seriously, rather than simply be told, after the fact, of every one I judged not worth troubling her with."
 
 Lucian left the solar with the letter's contents sitting uneasily in him, and found, before he had gone looking for either Lyra or anyone else, that Selene had found him first.
 
@@ -44,7 +46,11 @@ He found Lyra in her own rooms again, as he so often did, and she looked up befo
 
 "Vaelmar. Joren, specifically, writing beneath his father's seal."
 
-Something crossed her face that was not quite surprise — she had known this was coming, in the abstract, for two months now — but was not entirely composed either. "I do not know him. I have heard of him. Ambitious, I am told, more so than his father, which by the sound of things is saying something."
+Something crossed her face that was not quite surprise — she had known offers of this kind existed long before Orlena ever said her name aloud in that room; Father had simply never before let one reach her — but was not entirely composed either. "I do not know him. I have heard of him. Ambitious, I am told, more so than his father, which by the sound of things is saying something."
+
+"You knew there had been others."
+
+"I have suspected it for years, the way one suspects weather one is not shown directly. Father has never been a man who volunteers what he has already decided is not worth my worrying over." Something almost wry crossed her face. "I did not expect to learn the truth of it and its answer in the same conversation."
 
 "That is the shape of it, as far as I know it."
 
