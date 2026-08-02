@@ -254,14 +254,17 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Relationship to House Caldarion**: Rivalrous / Tense. They would prefer to weaken House Caldarion through economic and political means rather than direct conflict.
 
 ### House Vaelmar
+- **Current Head**: **Lord Ellard Vaelmar** — see `characters/Ellard_Vaelmar.md`. Proud and ambitious in the house's traditional style, but his ambition is bent specifically toward restoration rather than pure conquest: he wants to be remembered as the lord who brought Vaelmar back to what it once was.
+- **Historical Wealth**: Once the wealthiest of the Great Houses, built on direct maritime trade with Arcanor when the seas were still safe and navigable. That wealth declined slowly and steadily across the decades following House Caldarion's exile, as the ocean dangers (the Silent Belt, the Storm Ring, the Outer Deep — see `locations.md`) closed the old routes for good. No one in Vaelmar, or anywhere else in Kaelor, knows the true cause of that decline traces back to Caldarion's own abandoned throne.
+- **Current Economy**: Genuinely wealthy by ordinary standards, but a shadow of their former dominance — sustained now by Ironwood exports, fishing, and coastal trade with neighboring duchies rather than the lost mainland trade that once made them Kaelor's richest house. Economically stagnant rather than declining further; Sylvaron has long since eclipsed them in raw wealth.
 - **Specialty**: Naval power and maritime trade.
 - **Colors**: Sea-blue.
 - **Reputation**: Proud, seafaring, and expansionist. They value naval dominance and exploration.
 - **Political Stance**: Wary and competitive toward House Caldarion. They respect strength but dislike Caldarion’s overwhelming military superiority and reclusive nature.
 - **Dragon**: None. Naval dominance is built on their fleet, port control, and Ironwood shipbuilding rather than any dragon.
-- **Strengths**: Strong navy, control of major ports and sea trade routes, access to Ironwood for exceptionally durable hulls.
-- **Weaknesses**: Less influential on land compared to houses like Caldarion or Sylvaron.
-- **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances.
+- **Strengths**: The strongest navy among the Great Houses, control of major ports and sea trade routes, access to Ironwood for exceptionally durable hulls.
+- **Weaknesses**: A comparatively weak land army next to houses like Caldarion or Dravenhall, and economic power that has stagnated well below what it once was.
+- **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances. Neither side yet knows that Vaelmar's centuries-long decline traces directly back to Caldarion's own abandoned throne on Arcanor — a fact that, if ever revealed, would give Vaelmar a legitimate grievance to rival Dravenhall's own.
 
 ### House Thalorin
 - **Specialty**: Healing arts, medicine, protective magic, and political soft power.

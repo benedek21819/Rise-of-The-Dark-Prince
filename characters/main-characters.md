@@ -72,4 +72,10 @@ This is the index for all major characters. Each character has their own dedicat
 
 ---
 
+## House Vaelmar
+
+- **[Lord Ellard Vaelmar](Ellard_Vaelmar.md)** — Head of House Vaelmar; strongest navy of the Great Houses, but presiding over a centuries-long economic stagnation since the sea routes to Arcanor closed, and hungry to be the one who restores it
+
+---
+
 *Use the individual character files for detailed profiles, appearance, personality, and relationships.*
