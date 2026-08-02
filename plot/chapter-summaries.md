@@ -54,9 +54,6 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 46. Rot  
 47. Audience  
 48. Care  
-49. Summons  
-50. Stir  
-51. Reckoning  
 
 **Note:** Chapter 33 closes the Aurelia arc (Ch.28–33). Chapter 34 resumes at Blackspire.
 **Note:** Chapter 42 is the first on-page manifestation of Lucian's Domain, "the Absence."
@@ -66,8 +63,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 **Note:** Chapter 46 opens a new arc: Vesper reveals he has long suspected a spy inside Blackspire (retroactively recontextualizing the lost intermediary in Ch.37), confirmed by the impossibly precise timing of the Ch.42 ambush. No suspect is named yet — a false-information trap is set in motion at the chapter's close. Ties toward the still-unrevealed Shadow Guard/Cazius thread and a planned future connection to the Crown's Eyes and royal court politics.
 **Note:** Chapter 47 is Isolde's first real on-page scene — the planted trap is intercepted independently by the Crown's Eyes, prompting a private, off-record audience. Vesper sends Lucian in his place rather than going himself. Ends with a tentative, unconfirmed offer of information-sharing between the Crown and House Caldarion against Dravenhall; the mole's identity is still unknown. Lucian deliberately does not press Isolde about her unexplained Hall of Inquiry visit from Chapter 31 — still unresolved.
 **Note:** Chapter 48: Vesper opts for cautious, incremental trust with Isolde rather than a full alliance — the offer stays open, unresolved long-term. Second half is a quiet, plot-light scene with Elara, first real focus on her since Chapter 34.
-**Note:** Chapter 49 opens with a one-year time skip — Lucian is now 16. The decennial Great Houses' Convocation invitation arrives, addressed to Vesper personally (unprecedented) and deliberately vague about its Veil-anomaly agenda. Vesper and Lucian will attend together, breaking generations of Caldarion's routine non-attendance. The mole inside Blackspire is still unidentified. Per standing lore (see `history-and-lore.md`), neither Vesper nor Lucian know the true reason behind the Veil anomalies — the Dark Throne's need for Caldarion blood specifically — this remains a reader-facing secret only.
-**Note:** Chapter 50 is arrival at the Convocation in Aurelia. First on-page appearances of Houses Sylvaron, Vaelmar, Kestrion, Myrath, and Thalorin (banners/impressions only, not yet named individuals). Seren reappears for the first time since Chapter 33, now 13. The Convocation's actual proceedings/agenda reveal are saved for Chapter 51.
+**Note:** Chapters 49-51 (a Great Houses' Convocation arc: "Summons," "Stir," "Reckoning") were drafted and then deleted at the author's request for a full restructure. Not currently part of continuity. The house lore developed alongside that arc (Kestrion's Halvard/Bren and the Deepcoal mine crisis, Sylvaron's Marrick/Liora/Callan and the Dravenhall coin-trail conduit, Vaelmar's Ellard/Meret/Joren/Dunstan) remains in the world-building files and characters/ for future use, but nothing involving the Convocation itself, Aldric's evidence of the abduction attempt, or any Convocation-specific character appearances (representatives attending, etc.) should be treated as having happened on-page. The next chapter after 48 is still open.
 **Note:** Chapter 51 is the Convocation's formal proceedings — first named on-page appearances of Halvard Kestrion, Ellard Vaelmar, Roderic Dravenhall (brief), and Emeric Myrath (representing Myrath in Ilyandra's place) giving account of decades-old, recently-escalating Veil irregularities. No cause is confirmed on-page. Ends with Aldric proposing a standing council drawn from willing houses — not yet formed. Lucian has a brief, private, involuntary flicker of the Absence (senses only, no suppression effect) that goes unnoticed by the hall.
 
 ---

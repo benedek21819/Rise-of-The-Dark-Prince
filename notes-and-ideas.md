@@ -37,9 +37,7 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 **Chapter 41–48 (Corvane/Harrow arc through the quiet aftermath):**
 - Lucian: close to 16 (age not stated directly in the prose; tracked here for continuity)
 
-**Chapter 49 onward (a one-year time skip, leading into the Great Houses' Convocation):**
-- Lucian: 16 (age not stated directly in the prose; tracked here for continuity)
-- Off-page during the skip: continued (still incomplete) progress controlling the Absence; the mole inside Blackspire remains unidentified; the small-trust exchange with Isolde/the Crown's Eyes has continued without incident but has not become a full alliance.
+**Chapter 49 onward:** Not yet written — the previous "Convocation arc" plan (one-year time skip, Lucian turning 16) was deleted along with Chapters 49-51 and is no longer part of continuity. Next chapter's direction, timing, and any time skip are undecided.
 
 ## Open Questions
 - [What still needs figuring out?]
