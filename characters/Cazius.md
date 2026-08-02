@@ -2,14 +2,14 @@
 
 **Full Name:** Cazius  
 **Called by Lucian:** Caz (only once Lucian actually meets him — see below)  
-**Current Title:** Night Captain of the Shadow Guard, one rank below Shadow Commander  
-**Projected Future Title:** Shadow Commander of the Shadow Guard's new second unit, under Lucian's direct command  
+**Current Title:** Night Captain of Dusk (the Shadow Guard's original division), one rank below Shadow Commander  
+**Projected Future Title:** Shadow Commander of Dawn (the Shadow Guard's new division), under Lucian's direct command  
 **Affiliation:** House Caldarion  
 **Age Difference:** 4 years older than Lucian  
 **Status:** Alive
 
 **Position (current, as of Chapter 51 "Oversight"):**  
-Currently ranked Night Captain within the existing 50-member Shadow Guard, still under Lord Vesper's direct command. Lucian does not yet know Cazius exists — per standing story doctrine, Cazius remains completely unnamed and off-page to Lucian until the moment he is formally revealed. That reveal is now tied to a concrete future event: the completion, in a couple of years' story-time, of the new second 50-member unit Vesper has committed to raising, which will be placed under Lucian's own command with Cazius (projected) as its Shadow Commander.
+Currently ranked Night Captain within Dusk, the Shadow Guard's original 50-member division, still under Lord Vesper's direct command. Lucian does not yet know Cazius exists — per standing story doctrine, Cazius remains completely unnamed and off-page to Lucian until the moment he is formally revealed. That reveal is now tied to a concrete future event: the completion, in a couple of years' story-time, of Dawn, the new 50-member division Vesper has committed to raising, which will be placed under Lucian's own command with Cazius (projected) as its Shadow Commander.
 
 ---
 
@@ -19,7 +19,7 @@ Cazius was an orphan with no recorded parentage of consequence. The exact circum
 
 From an early age he displayed exceptional aptitude for the shadow path — silence, stillness, lethal economy, and the capacity to disappear into necessary work without residue. Within the Guard he was regarded as a once-in-a-generation talent. That assessment was not given lightly and was not spoken of openly; it was simply acted upon through accelerated training and early responsibility.
 
-By the time Lucian was eleven, Cazius (then approximately fifteen) had already become the youngest Blade in the history of the Shadow Guard and was trusted to lead a minimal team of one or two Shadows on real operations. His rise continued without ceremony since — he now holds the rank of Night Captain, one step below Shadow Commander, still under Vesper's command within the existing 50-member force. The projected path ahead of him is elevation to Shadow Commander once the new second unit Vesper has committed to raising (see `factions-and-politics.md`, "The Shadow Guard") is fully formed, at which point operational control of that unit will pass to Lucian and Cazius alongside it. His youth for that eventual rank would remain atypical and would be noted, though not contested by those who have watched the quality of his work so far.
+By the time Lucian was eleven, Cazius (then approximately fifteen) had already become the youngest Blade in the history of the Shadow Guard and was trusted to lead a minimal team of one or two Shadows on real operations. His rise continued without ceremony since — he now holds the rank of Night Captain within Dusk, one step below Shadow Commander, still under Vesper's command. The projected path ahead of him is elevation to Shadow Commander of Dawn, the new division Vesper has committed to raising (see `factions-and-politics.md`, "The Shadow Guard"), once it is fully formed, at which point operational control of Dawn will pass to Lucian and Cazius alongside it. His youth for that eventual rank would remain atypical and would be noted, though not contested by those who have watched the quality of his work so far.
 
 He has no meaningful ties outside the house. What loyalty he possesses concentrates first on the structure that raised him and, more intensely as the years pass, on Lucian himself as the person who becomes his direct purpose.
 
