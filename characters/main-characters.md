@@ -59,7 +59,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 ## House Kestrion
 
-- **Lord Halvard Kestrion** — Current head of House Kestrion; attends the Convocation focused on the unexplained Deepcoal mine crisis (see `world-building/economy-and-resources.md`)
+- **Lord Halvard Kestrion** — Current head of House Kestrion; consumed by the unexplained Deepcoal mine crisis (see `world-building/economy-and-resources.md`)
 - **[Lord Bren Kestrion](Bren_Kestrion.md)** — Halvard's son and heir; more hands-on and personally affected by the mine crisis than his father
 
 ---
@@ -68,7 +68,7 @@ This is the index for all major characters. Each character has their own dedicat
 
 - **[Lord Marrick Sylvaron](Marrick_Sylvaron.md)** — Head of House Sylvaron; his vaults are an unwitting conduit for House Dravenhall's deniable funding network, undiscovered by anyone outside Dravenhall itself
 - **[Lady Liora Sylvaron](Liora_Kaelarion.md)** — His wife, née Kaelarion, the King's sister; stays deliberately uninvolved in the mechanics of his business and holds no real influence over the Crown
-- **Callan Sylvaron** — Their young son and heir; too young to attend the Convocation
+- **Callan Sylvaron** — Their young son and heir; still a young child
 
 ---
 
