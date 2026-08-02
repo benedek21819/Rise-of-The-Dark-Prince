@@ -6,7 +6,7 @@ Vesper did not call the household audit a punishment, and Lucian understood, sit
 
 "You could not have known what would happen to his son."
 
-"No. I could not have known that specifically, and I will not pretend a different kind of vigilance would have caught it with certainty." Something in Vesper's voice carried none of the easy absolution Lucian's words had offered him. "But I could have built a house that checked, patiently and quietly, whether the people closest to its secrets were still the same men they had been when we first trusted them. I did not build that house. I built one that reacted, capably, after the cost had already been paid. That is not the same thing as prevention, and I have spent thirty years telling myself it was close enough."
+"No. I could not have known that specifically, and I will not pretend a different kind of vigilance would have caught it with certainty." Something in Vesper's voice carried none of the easy absolution Lucian's words had offered him. "But I could have built a house that checked, patiently and quietly, whether the people closest to its secrets were still the same men they had been when we first trusted them. I did not build that house. I built one that reacted, capably, after the cost had already been paid. That is not the same thing as prevention, and I have spent every year of my own rule telling myself it was close enough."
 
 Lucian sat with that a moment, turning it the way he had learned to turn over anything his father offered without immediately agreeing or resisting it. "You are telling me this is not only your failure."
 
