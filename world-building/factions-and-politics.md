@@ -264,7 +264,7 @@ The Shadow Guard gives Lucian a direct, deniable, and highly effective tool. The
 - **Dragon**: None. Naval dominance is built on their fleet, port control, and Ironwood shipbuilding rather than any dragon.
 - **Strengths**: The strongest navy among the Great Houses, control of major ports and sea trade routes, access to Ironwood for exceptionally durable hulls.
 - **Weaknesses**: A comparatively weak land army next to houses like Caldarion or Dravenhall, and economic power that has stagnated well below what it once was.
-- **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances. Neither side yet knows that Vaelmar's centuries-long decline traces directly back to Caldarion's own abandoned throne on Arcanor — a fact that, if ever revealed, would give Vaelmar a legitimate grievance to rival Dravenhall's own.
+- **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances. Neither side yet knows that Vaelmar's centuries-long decline traces back to the same failing seal that drove the Caldarions from Arcanor in the first place — not a wrong done to Vaelmar by Caldarion's choice, since the exile itself was forced on the family by public pressure and a misread prophecy, not chosen freely. If the connection were ever revealed, it would land as a shared, unintended tragedy neither house had any real hand in causing, rather than grounds for blame.
 
 ### House Thalorin
 - **Specialty**: Healing arts, medicine, protective magic, and political soft power.
