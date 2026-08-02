@@ -4,11 +4,11 @@ Key supporting characters who live and work at Blackspire Keep.
 
 ---
 
-### Serris – Former Steward of Blackspire (departed, Chapter 50)
+### Serris – Former Steward of Blackspire (deceased, Chapter 50)
 
-**Role:** Former overall manager of the household, supplies, servants, and daily operations of the keep — permanently removed from service as of Chapter 50, "Debt."  
+**Role:** Former overall manager of the household, supplies, servants, and daily operations of the keep — deceased as of Chapter 50, "Debt."  
 **Personality:** Extremely competent, dry, and slightly weary. Served House Caldarion for thirty years and was used to the cold, demanding nature of the family. Loyal and highly efficient on the surface, but was quietly coerced for years — his son, settled in Firsthold, fell into debt to a Dravenhall-linked network, and Serris was bled for small pieces of information under threat, escalating until he gave up the Corvane parley's route (Ch.42's ambush).  
-**Notes:** Revealed as the house's internal leak in Chapter 50. Vesper exiled him from Blackspire's service permanently rather than executing him, given the coercion, and separately had his son extracted from Dravenhall's leverage. Serris is alive but gone from the household and will not return. The steward's role is now vacant.
+**Notes:** Revealed as the house's internal leak in Chapter 50. Vesper had already extracted Serris's son from Dravenhall's leverage nine days before confronting him, unconditionally and before confirming his guilt, then told him so directly — his confession bought his son nothing. Vesper judged exile too dangerous given how much Serris knew of Blackspire's internal workings, and had him executed rather than released alive. The steward's role is now vacant.
 
 ---
 
