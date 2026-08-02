@@ -3,7 +3,7 @@
 **Full Name:** Lady Lyra Caldarion  
 **Titles:** Eldest child of Lord Vesper Caldarion, older half-sister of Lucian  
 **Birth Year:** 1033 IE  
-**Age:** 5 years older than Lucian (22 years old in present day ≈1055 IE)  
+**Age:** 5 years older than Lucian — currently 21, as of Chapter 49 ("Match")  
 **Mother:** Lady Mira (first concubine)  
 **Status:** Alive
 

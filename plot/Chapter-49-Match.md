@@ -22,7 +22,7 @@ He found his grandmother in the small sitting room she favored for conversations
 
 "I was told you wished to speak with my father. I assumed, wrongly or not, that it concerned the house."
 
-"Everything I concern myself with concerns the house, Lucian. That has never once required an apology from me, and I do not intend to begin offering one now." She folded her hands, and something in the flat, unhurried precision of her voice told him this was a conversation she had entered already knowing exactly where she meant it to end. "Lyra is two-and-twenty. Beautiful, well-bred, admired by every house that has ever had cause to notice her, and unmarried. I do not say this as a criticism of her. I say it because it is a fact this house has been permitted to ignore for considerably longer than any other house in Kaelor would have allowed itself, and permission of that kind does not last indefinitely."
+"Everything I concern myself with concerns the house, Lucian. That has never once required an apology from me, and I do not intend to begin offering one now." She folded her hands, and something in the flat, unhurried precision of her voice told him this was a conversation she had entered already knowing exactly where she meant it to end. "Lyra is one-and-twenty. Beautiful, well-bred, admired by every house that has ever had cause to notice her, and unmarried. I do not say this as a criticism of her. I say it because it is a fact this house has been permitted to ignore for considerably longer than any other house in Kaelor would have allowed itself, and permission of that kind does not last indefinitely."
 
 Vesper, arriving a moment behind him, took the news with none of the surprise Lucian felt on his own behalf. "You have raised this with me twice already this year, Mother."
 
@@ -40,7 +40,7 @@ She received him with the same composed, careful warmth she extended to everyone
 
 "Should you not be."
 
-"I am many things where my daughter is concerned, Lucian. Frightened is not chiefly among them." She held his gaze, steady and unhurried. "I have watched Lyra spend two-and-twenty years making herself smaller than her own gifts, out of a loyalty to this family I have never once asked her to carry so heavily. A good match, chosen carefully rather than imposed carelessly, is not the tragedy either of you seem prepared to treat it as. It could be the first time in her life someone hands her a position rather than she having to quietly build one for herself out of whatever this house did not need."
+"I am many things where my daughter is concerned, Lucian. Frightened is not chiefly among them." She held his gaze, steady and unhurried. "I have watched Lyra spend one-and-twenty years making herself smaller than her own gifts, out of a loyalty to this family I have never once asked her to carry so heavily. A good match, chosen carefully rather than imposed carelessly, is not the tragedy either of you seem prepared to treat it as. It could be the first time in her life someone hands her a position rather than she having to quietly build one for herself out of whatever this house did not need."
 
 "She does not want it."
 
