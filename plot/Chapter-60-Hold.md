@@ -42,7 +42,7 @@ Riven, still sitting in the sand with the particular grim humor of a man who had
 
 Riven blinked at him, whatever reply he had been readying visibly abandoned. "You are agreeing with me. Deliberately. Out loud."
 
-"You have spent the better part of a year letting me practice losing my senses on the two of you without once refusing me. I am capable of noticing when a debt has actually come due." Lucian looked to Dain, who had already begun, with the particular unhurried economy of a man who had half expected the request before it arrived, arranging the shape of the rest of the morning around it. "If it can be spared."
+"You have spent the better part of a year letting me practice taking your senses from you without once refusing me. I am capable of noticing when a debt has actually come due." Lucian looked to Dain, who had already begun, with the particular unhurried economy of a man who had half expected the request before it arrived, arranging the shape of the rest of the morning around it. "If it can be spared."
 
 "It can." Dain's approval carried none of the reluctance either twin seemed braced for. "I will have two men from the garrison meet you at the lower gate rather than send you down entirely on your own account — that much is not a request, whatever else about this morning is. Firsthold on an ordinary day asks very little of a Caldarion escort. I see no reason to test whether today is ordinary by skipping it."
 
