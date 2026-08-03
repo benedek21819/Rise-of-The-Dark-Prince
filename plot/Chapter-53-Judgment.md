@@ -1,4 +1,4 @@
-# Chapter 53: Forge
+# Chapter 53: Judgment
 
 "Send the invitation," Lyra said, three mornings after the letter, with the particular flat finality of someone who had turned a decision over long enough to stop needing anyone else's approval of it. "Not a summons. An invitation, worded as one, so that if I meet him and the answer is still no, no one can claim afterward that House Caldarion promised more than it did by asking him to come."
 
