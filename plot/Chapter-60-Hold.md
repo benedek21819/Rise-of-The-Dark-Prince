@@ -38,4 +38,30 @@ Dain crossed the yard without hurrying, and studied both twins with the same cli
 
 Riven, still sitting in the sand with the particular grim humor of a man who had made his peace with an unpleasant but apparently necessary role in someone else's training, looked between Lucian and Thorne with theatrical resignation. "I would like the record to reflect that I am owed something considerable for this. A decent meal, at minimum. Possibly an apology written in advance for whatever comes next, when three seconds becomes thirty."
 
-"Duly noted," Lucian said, and found, helping his brother up from the sand, that the smile that came with it was neither small nor tired this time.
+"Duly noted," Lucian said, and found, helping his brother up from the sand, that the smile that came with it was neither small nor tired this time. "Firsthold, then. Today, if Dain can spare us."
+
+Riven blinked at him, whatever reply he had been readying visibly abandoned. "You are agreeing with me. Deliberately. Out loud."
+
+"You have spent the better part of a year letting me practice losing my senses on the two of you without once refusing me. I am capable of noticing when a debt has actually come due." Lucian looked to Dain, who had already begun, with the particular unhurried economy of a man who had half expected the request before it arrived, arranging the shape of the rest of the morning around it. "If it can be spared."
+
+"It can." Dain's approval carried none of the reluctance either twin seemed braced for. "I will have two men from the garrison meet you at the lower gate rather than send you down entirely on your own account — that much is not a request, whatever else about this morning is. Firsthold on an ordinary day asks very little of a Caldarion escort. I see no reason to test whether today is ordinary by skipping it."
+
+The descent felt shorter than Lucian remembered it from childhood, the Ascend's long fortified turns familiar enough now that his feet found their footing without asking his attention for it, and by the time the valley opened out beneath them Riven had already resumed the argument about whether a hawk raised this close to a dragon roost ought to be fiercer than an ordinary hawk, apparently unwilling to let too many months pass without eventually returning to it.
+
+Firsthold at midday moved the way it always did — market stalls crowded three deep along the main thoroughfare, the smell of woodsmoke and roasting meat threading through the colder mountain air, the particular unhurried bustle of a city that had never once needed to fear an enemy reaching it. Lucian bought them all a meal from a stall Dain had pointed them toward without quite admitting he had a favorite among the valley's cooks, and the three of them ate standing at the edge of the square, close enough to the garrison escort's discreet watch that no one troubled them and far enough from it that no one watching would have guessed, from the easy noise of it, that they were anything more than three brothers enjoying an ordinary afternoon.
+
+"I do not actually mind it," Thorne said eventually, quieter than his brother's usual volume, turning his own cup slowly between his hands. "The training. Losing myself to it for a few seconds at a time. I know Riven complains for both of us, and I let him, because it is easier than admitting I do not share the complaint as fully as he does."
+
+"Why not."
+
+"Because it means something, watching you get better at it. Not just for you — for what it will mean someday, for all of us, when whatever this is finally answers to your will instead of only to danger." Thorne's gaze stayed steady on him, none of his usual mildness dulling the honesty of it. "You do not ask us for very much, Lucian. Of all the things you could have asked two brothers to give you, a few seconds of blindness in a training yard is not a large price, however loudly Riven insists on charging you for it."
+
+"I insist on charging him for it," Riven said, entirely unbothered by being spoken of in the third person, "because someone in this family ought to be keeping an honest accounting of what we are each owed, and it is clearly not going to be either of you."
+
+"You keep the accounting," Lucian said, "and I will keep paying it, because I find, more and more lately, that I would rather owe the two of you something honestly than owe you nothing and have neither of you close enough to collect it."
+
+Riven opened his mouth for what was plainly building toward another joke, caught something in Lucian's face that was not quite joking itself, and let it go instead, settling for reaching over and closing the last of Lucian's own meal firmly into his own hand. "Then you can start by not finishing this. Some debts are better paid in bread."
+
+"That is not remotely how debts work."
+
+"It is exactly how they work, in this family, and you know it." Thorne's mouth curved, quiet and genuine, and for a while none of them said anything more that needed saying, three brothers standing in an ordinary square in an ordinary city, for once asking nothing further of each other than the plain, uncomplicated pleasure of the afternoon itself.
