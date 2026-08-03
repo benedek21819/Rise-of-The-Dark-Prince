@@ -10,7 +10,7 @@
 Meret shares Ellard's belief that Vaelmar's old greatness is worth reaching for — she is not the voice of caution in their marriage, and does not try to talk him down from the ambition that defines him. But she is not the one pushing him further either. Her role is support rather than instigation: steadiness he can return to, not another voice urging him faster or further than he might go alone.
 
 **Appearance:**  
-Composed and weathered in her own right — a lady of a seafaring house rather than a purely ornamental one, comfortable on deck as well as in a hall. Favors Vaelmar's sea-blue with the same quiet pride Ellard wears his own colors.
+Composed and weathered in her own right — a lady of a seafaring house rather than a purely ornamental one, comfortable on deck as well as in a hall. Sun-touched skin a shade warmer than Ellard's, light brown hair kept in a simple, practical braid rather than elaborate court styling. Warm brown eyes, steady and observant rather than sharp. Of average height, carrying herself with an unshowy ease that reads as quiet confidence rather than performance. Favors Vaelmar's sea-blue with the same quiet pride Ellard wears his own colors, though her cut runs simpler and less ceremonial than her husband's.
 
 **Personality:**  
 Practical, warm, and genuinely convinced her husband's ambition is worth backing rather than merely tolerating. She listens more than she speaks in matters of policy, but when she does weigh in, Ellard takes it seriously — not because she second-guesses him, but because she has never once told him something was worth pursuing that she did not actually believe. Her support is real, not performative, which is precisely why it means something.
