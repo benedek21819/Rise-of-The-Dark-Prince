@@ -117,7 +117,7 @@ This structure limits damage if a single cell is exposed and reinforces secrecy.
 - Shadow Commander (projected future rank for Cazius, once Dawn is formed)
 
 **Selection & Training**  
-Members are recruited young from loyal lesser families, orphans raised under the house’s protection, or exceptional individuals identified for their potential. Training is secretive and extremely demanding, focusing on:
+Members are recruited young from loyal lesser families, orphans raised under the house's protection, or exceptional individuals identified for their potential — men only, per long-standing Guard tradition, the same as the Silver Guard. Training is secretive and extremely demanding, focusing on:
 - Stealth and silent movement
 - Lethal combat with dual blades and hidden weapons
 - Poison craft
