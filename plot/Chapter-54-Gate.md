@@ -18,8 +18,40 @@ Lucian sat up properly at that, the last of the water's ease draining out of him
 
 "No," Lyra said, with the particular honesty she reserved only for him, "but I have had weeks to prepare for not being ready, which I am told is the most anyone manages before a thing like this regardless." She held out a hand, not quite asking him to hurry, only reminding him that the day had already begun without either of them fully choosing it. "Dress. Grandmother is already rearranging the receiving hall to her own satisfaction, and I would rather you were standing beside me for that particular battle than leave me to face her alone."
 
-By the time Lucian reached the upper halls, dressed and composed in the manner the day plainly demanded, the keep had taken on the particular charged quiet of a house preparing itself for eyes that were not its own — servants moving with more purpose than usual, Orlena's voice carrying from the receiving hall in the tone she used for instructions she expected to be followed without discussion, Vesper already positioned near the great doors with the stillness of a man who had done this exact kind of waiting more times than he cared to count. Elara stood near enough to him to be plainly at his side without crowding the formality of it, composed in the way she always managed for occasions like this one. Dain stood a little apart in the severe black-and-silver he wore more naturally than any court dress, still carrying the morning's training in his bearing, his presence there less an ornament than a plain, unspoken reminder of exactly what stood behind House Caldarion's courtesy. Riven and Thorne had been drawn in from whatever they had been doing with the morning and stood together doing a passable impression of patience, Sable keeping close enough to them to straighten a collar neither twin had asked her to straighten. Lady Mira kept a step apart from the family's central line, present without insisting on more prominence than the house's particular arrangements allowed her, her attention plainly on Lyra rather than on the doors. Selene had been found and settled, under protest, into a corner of the hall from which she could watch without being underfoot, Lyra's earlier promise to her plainly the only thing keeping her there at all.
+By the time Lucian reached the upper halls, dressed and composed in the manner the day plainly demanded, the keep had taken on the particular charged quiet of a house preparing itself for eyes that were not its own. Orlena stood near the center of the receiving hall directing the last of it, and did not so much as turn her head when he entered.
 
-Word came from the watch above the Ascend a little past midday — the Vaelmar banners sighted at the second checkpoint, then the third, the long fortified climb doing what it always did to visitors unused to it, slowing their progress to the mountain's own unhurried pace whatever urgency had carried them this far. Lucian stood beside his sister in the hush that settled over the hall as the final horn sounded from the gatehouse, and felt her hand find his once, briefly, before she let it go and settled her composure fully back into place.
+"You are late," she said. "Not so late that it matters to anyone but me, which is precisely why I am the one saying so."
+
+"I came as quickly as the water allowed."
+
+"The water has never once been the reason a Caldarion man is late to anything, Lucian, and I would rather you not begin the habit of pretending otherwise in front of guests." There was no real heat in it, only the particular dry precision she reserved for moments she had decided not to spend real anger on. She gestured, brief and exact, toward the far end of the hall. "Stand there. Beside your father, not beside your sister — Lyra needs to be seen standing on her own for this, not sheltered behind her brother before a single word has been exchanged."
+
+Vesper was already positioned near the great doors, the stillness of a man who had done this exact kind of waiting more times than he cared to count, and made room for Lucian beside him without comment. "Your grandmother is right, whatever it costs either of us to admit it. Lyra asked for this on her own terms. Let her stand on them."
+
+"I intend to. I only mean to be close enough to close the distance quickly, if she wants me to."
+
+"She will know you are close. That is generally enough." Something almost amused crossed Vesper's face, gone as quickly as it arrived. "You did not used to understand that distinction — being near enough to matter without needing to be seen doing it. I notice it in you more now than I did even a season ago."
+
+Nearby, Riven was informing Thorne, in the low, urgent tone of a private argument neither twin cared enough to fully hide, that Vaelmar's colors were sea-blue and Thorne's insistence on grey was simply wrong, and Sable's hand found her son's shoulder before the disagreement could properly escalate.
+
+"Not today," she said, mild and entirely unbothered, and both boys subsided at once, the ease of two people who had never once needed more than that from her to fall back into line.
+
+Selene, settled under protest into her corner of the hall, tugged once at Lucian's sleeve as he passed near her. "Is he handsome. Marla says the sons of seafaring houses always are."
+
+"I have never met him. I could not tell you."
+
+"That is not an answer."
+
+"It is the only honest one I have," Lucian said, and something in her face — caught between disappointment and the particular satisfaction of having been told the truth rather than managed — settled into a reluctant nod.
+
+Word came from the watch above the Ascend a little past midday — the Vaelmar banners sighted at the second checkpoint, then the third, the long fortified climb doing what it always did to visitors unused to it, slowing their progress to the mountain's own unhurried pace whatever urgency had carried them this far.
+
+"They are keeping good pace, for outsiders," Dain observed, low, to no one in particular. "Ellard's people, at least, know better than to fight the mountain instead of simply enduring it."
+
+"Let us hope the son shares the father's sense in that much, at least," Orlena said, and did not elaborate further.
+
+Lucian found Lyra at his side without quite noticing her cross the hall, and felt her hand find his once, briefly, as the final horn sounded from the gatehouse. "Whatever happens today," he said, quiet enough that it stayed between them, "you are still the one who decides how it ends. Nothing that happens past those doors changes that."
+
+"I know." She let his hand go and settled her composure fully back into place, the practiced stillness of a woman who had spent weeks preparing for exactly this moment and intended to meet it standing. "Thank you for saying it again regardless."
 
 The great doors opened onto the grey afternoon light, and beyond them, still some distance off but closing steadily against the mountain's own scale, the Vaelmar party came on toward Blackspire's gate.
