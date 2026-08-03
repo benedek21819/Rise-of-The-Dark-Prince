@@ -20,7 +20,7 @@ The letter came on an unremarkable morning, carried into the solar with the same
 
 Lucian left the solar with the letter's contents sitting uneasily in him, and found, before he had gone looking for either Lyra or anyone else, that Selene had found him first.
 
-She was waiting outside the corridor to the family wing with the particular stillness that did not belong to her — no chatter about Talon's brood, no half-finished argument dragged along for an audience, only a nine-year-old's face arranged into something trying very hard to look like patience and failing at it entirely.
+She was waiting outside the corridor to the family wing with the particular stillness that did not belong to her — no chatter about Talon's brood, no half-finished argument dragged along for an audience, only an eleven-year-old's face arranged into something trying very hard to look like patience and failing at it entirely.
 
 "Is it true," she said, before he had even fully stopped walking. "Marla said a letter came for Lyra. About marrying her to someone."
 

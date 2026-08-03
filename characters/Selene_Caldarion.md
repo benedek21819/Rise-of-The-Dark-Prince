@@ -3,7 +3,7 @@
 **Full Name:** Lady Selene Caldarion  
 **Titles:** Youngest child of Lord Vesper Caldarion and Lady Elara, full younger sister of Lucian  
 **Birth Year:** 1043 IE  
-**Age:** 5 years younger than Lucian (12 years old in present day ≈ 1055 IE)  
+**Age:** 5 years younger than Lucian (11 years old in present day ≈ 1054 IE, per Lucian's tracked age of "close to 16" — see `notes-and-ideas.md`, "Continuity Reference — Ages")  
 **Status:** Alive
 
 **Appearance:**  
