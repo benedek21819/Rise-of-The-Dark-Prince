@@ -1,6 +1,6 @@
 # Chapter 58: Watch
 
-A week had passed in the ordinary business of arrangements — terms exchanged with Vaelmar by courier, an escort selected and drilled to Vesper's own exacting satisfaction, Lady Mira's own preparations made with the quiet, thorough calm she brought to everything concerning her daughter — before the morning finally arrived that Lucian found himself standing once again at the great doors, watching Lyra's traveling party assemble in the grey early light.
+A week had passed in the ordinary business of arrangements — terms exchanged with Vaelmar by courier, a detachment of Silver Guard selected and drilled to Vesper's own exacting satisfaction, Lady Mira's own preparations made with the quiet, thorough calm she brought to everything concerning her daughter — before the morning finally arrived that Lucian found himself standing once again at the great doors, watching Lyra's traveling party assemble in the grey early light.
 
 "You do not have to come all this way to see us off," Lyra said, though the warmth in it gave away how little she meant the words as any real objection.
 
@@ -28,7 +28,7 @@ Lucian came to her last, and found, when Lyra turned to him, that neither of the
 
 "Go," Lucian said, before either of them could make the moment last longer than it could comfortably hold. "Before Grandmother decides we have taken quite enough of everyone's morning."
 
-The escort formed up with the crisp, practiced discipline of men Vesper had personally reviewed for exactly this duty, and within the hour the party was moving down the long fortified turns of the Ascend, banners small and then smaller against the mountain's own vast scale, until the last of them finally passed from sight around the lower bend.
+The Silver Guard detachment formed up with the crisp, practiced discipline of men Vesper had personally reviewed for exactly this duty, and within the hour the party was moving down the long fortified turns of the Ascend, banners small and then smaller against the mountain's own vast scale, until the last of them finally passed from sight around the lower bend.
 
 Lucian remained at the doors longer than the others, watching the empty turn of the road as though it might yet yield something further to look at, and found himself turning over, unbidden, the particular shape of the promise he had made her months ago in her own rooms — that he would stand behind whatever she chose, that nothing past those doors would change it. It had cost him nothing to say at the time. It cost him something now, watching her actually go, to feel how much weight a promise gained once the moment it was made for had finally, truly arrived.
 
@@ -50,7 +50,7 @@ The two of them stood with that a moment, the particular silence of two men real
 
 "You did not think to mention this to me either," Lucian said.
 
-"I did not think there was anything to mention. I assumed the arrangement was mine alone to make." Something almost amused was working its way, slowly and against considerable resistance, into the corner of Vesper's mouth. "It appears we have sent Lyra to Vaelmar with a full Guard escort, her own mother, and three entirely separate shadows, none of whom is aware the others exist."
+"I did not think there was anything to mention. I assumed the arrangement was mine alone to make." Something almost amused was working its way, slowly and against considerable resistance, into the corner of Vesper's mouth. "It appears we have sent Lyra to Vaelmar with a full Silver Guard escort, her own mother, and three entirely separate shadows, none of whom is aware the others exist."
 
 "She would find that unbearably funny, if she ever learned of it."
 
@@ -60,4 +60,4 @@ The two of them stood with that a moment, the particular silence of two men real
 
 "Yes," Vesper said, after a moment, something quieter than amusement settling into the word. "I suppose it does."
 
-They stood together a while longer at the doors, saying nothing further that needed saying, watching the empty stretch of the Ascend as though it might yet give something more of her back before the day was through. It did not, and Lucian found, walking back into the ordinary business of the keep beside his father, that he did not need it to. Three shadows, a mother's steady presence, and an escort drilled to Vesper's own exacting standard were already more than most daughters of any Great House would ever be given. Whatever came of Vaelmar, whatever came of the months of watching and waiting still ahead of all of them, Lyra had gone south carrying more quiet love than she likely yet knew to look for.
+They stood together a while longer at the doors, saying nothing further that needed saying, watching the empty stretch of the Ascend as though it might yet give something more of her back before the day was through. It did not, and Lucian found, walking back into the ordinary business of the keep beside his father, that he did not need it to. Three shadows, a mother's steady presence, and a Silver Guard escort drilled to Vesper's own exacting standard were already more than most daughters of any Great House would ever be given. Whatever came of Vaelmar, whatever came of the months of watching and waiting still ahead of all of them, Lyra had gone south carrying more quiet love than she likely yet knew to look for.
