@@ -24,17 +24,17 @@ Lucian found his father still standing near the doors some time after the others
 
 Vesper was quiet long enough that Lucian began, briefly, to wonder whether he had overstepped some line he had not fully seen coming. Then something shifted in his father's face — not displeasure, but a slow, dawning and faintly rueful recognition.
 
-"I sent someone as well," Vesper said. "Two days ago. A Dusk operative I trust completely, with instructions to shadow the party unseen for the length of the journey and report back only if something required it."
+"I sent men as well," Vesper said. "Two days ago. A pair from Dusk, still young enough to have most of their careers ahead of them, but with real potential — the sort I already have in mind to anchor Dawn's own core once it exists in more than name. I gave them instructions to shadow the party unseen for the length of the journey and report back only if something required it."
 
 The two of them stood with that a moment, the particular silence of two men realizing, at the same time, exactly how alike their instincts had turned out to be.
 
 "You did not think to mention this to me either," Lucian said.
 
-"I did not think there was anything to mention. I assumed the arrangement was mine alone to make." Something almost amused was working its way, slowly and against considerable resistance, into the corner of Vesper's mouth. "It appears we have sent Lyra to Vaelmar with a full Guard escort, her own mother, and two entirely separate shadows neither of whom is aware the other exists."
+"I did not think there was anything to mention. I assumed the arrangement was mine alone to make." Something almost amused was working its way, slowly and against considerable resistance, into the corner of Vesper's mouth. "It appears we have sent Lyra to Vaelmar with a full Guard escort, her own mother, and three entirely separate shadows, none of whom is aware the others exist."
 
 "She would find that unbearably funny, if she ever learned of it."
 
-"She will not learn of it, if either operative is worth what we are paying him." Vesper's expression settled, though the faint trace of dry humor did not fully leave it. "I suppose it says something true about both of us, that neither one trusted the other's precautions enough to skip his own."
+"She will not learn of it, if any of the three is worth what we are paying him." Vesper's expression settled, though the faint trace of dry humor did not fully leave it. "I suppose it says something true about both of us, that neither one trusted the other's precautions enough to skip his own."
 
 "It says we both love her enough to be foolish about it in exactly the same way."
 
