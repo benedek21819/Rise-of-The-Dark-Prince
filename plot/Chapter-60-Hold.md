@@ -60,7 +60,7 @@ Firsthold at midday moved the way it always did — market stalls crowded three 
 
 "Why not."
 
-"Because it means something, watching you get better at it. Not just for you — for what it will mean someday, for all of us, when whatever this is finally answers to your will instead of only to danger." Thorne's gaze stayed steady on him, none of his usual mildness dulling the honesty of it. "You do not ask us for very much, Lucian. Of all the things you could have asked two brothers to give you, a few seconds of blindness in a training yard is not a large price, however loudly Riven insists on charging you for it."
+"Because it means something, watching you get better at it. Not just for you — for what it will mean someday, for all of us, when whatever this is finally answers to your will instead of only to danger." Thorne's gaze stayed steady on him, none of his usual mildness dulling the honesty of it. "And if I am honest, it was never purely a gift I was giving you in the first place, whatever it looked like from the outside. Dain said as much himself today, plainer than I would have put it to you on my own. I have spent a year learning to keep my feet and my blade steady with nothing to rely on but what I already know, and that is not nothing. You do not ask us for very much, Lucian. Of all the things you could have asked two brothers to give you, this was never as one-sided a price as Riven insists on making it sound."
 
 "I insist on charging him for it," Riven said, entirely unbothered by being spoken of in the third person, "because someone in this family ought to be keeping an honest accounting of what we are each owed, and it is clearly not going to be either of you."
 
