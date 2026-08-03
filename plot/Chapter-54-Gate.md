@@ -8,7 +8,7 @@ He had not come here to think about the recruits, and found, as he so often did 
 
 "Recruitment," he said. "Nothing that cannot wait until I am no longer half-boiled."
 
-"It will have to wait regardless, because I did not come to discuss recruits." Something in her voice, carefully even, told him before the words did that whatever she had come to say had cost her some effort to arrange into that evenness. "A rider reached the lower gate an hour ago. The Vaelmar delegation is already on the Ascend. They will be at the keep itself before the day is out."
+"It will have to wait regardless, because I did not come to discuss recruits." Something in her voice, carefully even, told him before the words did that whatever she had come to say had cost her some effort to arrange into that evenness. "Word reached the keep from the lowest watch post an hour ago, runner to runner up the checkpoints the way it always travels on the Ascend. The Vaelmar delegation is already climbing. They will be at the keep itself before the day is out."
 
 Lucian sat up properly at that, the last of the water's ease draining out of him at once. "Already. The invitation only went out weeks ago — I did not expect Ellard to move this quickly, whatever Joren's own impatience might have wanted."
 
