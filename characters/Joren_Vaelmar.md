@@ -4,6 +4,7 @@
 **Titles:** Heir of House Vaelmar  
 **Affiliation:** House Vaelmar  
 **Relation:** Son of Lord Ellard Vaelmar and Lady Meret Vaelmar  
+**Age:** 24 — three years older than Lyra Caldarion (21)  
 **Status:** Alive
 
 **Concept:** His father's restoration dream, quietly rewritten into something more personal  
