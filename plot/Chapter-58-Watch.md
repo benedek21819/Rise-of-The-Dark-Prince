@@ -30,7 +30,7 @@ Lucian came to her last, and found, when Lyra turned to him, that neither of the
 
 The Silver Guard detachment formed up with the crisp, practiced discipline of men Vesper had personally reviewed for exactly this duty, and within the hour the party was moving down the long fortified turns of the Ascend, banners small and then smaller against the mountain's own vast scale, until the last of them finally passed from sight around the lower bend.
 
-Lucian remained at the doors longer than the others, watching the empty turn of the road as though it might yet yield something further to look at, and found himself turning over, unbidden, the particular shape of the promise he had made her months ago in her own rooms — that he would stand behind whatever she chose, that nothing past those doors would change it. It had cost him nothing to say at the time. It cost him something now, watching her actually go, to feel how much weight a promise gained once the moment it was made for had finally, truly arrived.
+Lucian remained at the doors longer than the others, watching the empty turn of the road as though it might yet yield something further to look at. It was one thing to imagine her gone, in the abstract, weeks before it happened. It was another thing entirely to stand in the quiet her absence actually left behind and feel the particular size of it settle into the house around him.
 
 He found his father still standing near the doors some time after the others had returned to the ordinary business of the day, and understood, from the particular stillness in Vesper's posture, that he was not the only one who had not yet fully let the moment go.
 
