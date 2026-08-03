@@ -24,7 +24,7 @@ Lucian found his father still standing near the doors some time after the others
 
 Vesper was quiet long enough that Lucian began, briefly, to wonder whether he had overstepped some line he had not fully seen coming. Then something shifted in his father's face — not displeasure, but a slow, dawning and faintly rueful recognition.
 
-"I sent men as well," Vesper said. "Two days ago. A pair from Dusk, still young enough to have most of their careers ahead of them, but with real potential — the sort I already have in mind to anchor Dawn's own core once it exists in more than name. I gave them instructions to shadow the party unseen for the length of the journey and report back only if something required it."
+"I sent men of my own as well," Vesper said. "Two days ago. A pair from Dusk, with instructions to shadow the party unseen for the length of the journey and report back only if something required it."
 
 The two of them stood with that a moment, the particular silence of two men realizing, at the same time, exactly how alike their instincts had turned out to be.
 
