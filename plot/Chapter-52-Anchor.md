@@ -67,3 +67,9 @@ She was quiet for a long moment, turning the fabric in her hands without truly a
 "What will you tell Father."
 
 "Nothing today. I do not know Joren Vaelmar well enough to want him or refuse him, and I will not pretend otherwise simply because the house is eager for an answer." She reached for his hand, the same unchanged gesture she had given him in this room that first morning. "I intend to actually meet him, Lucian, before I let anyone — Grandmother, Father, even you, if it comes to it — decide for me what kind of man a letter makes him out to be. That much, at least, I mean to keep for myself."
+
+"And if you meet him and the answer is no." He held her gaze, wanting her to hear it as more than a courtesy. "I will not let this house treat your refusal as a problem still waiting to be solved. If you say no, it is no, and I will stand behind that with you against whoever finds it inconvenient — Grandmother included."
+
+Something eased in her then, some small held weight he had not fully realized she was still carrying until it was no longer there. "You did not have to say that."
+
+"I said it because it was true, not because you asked me to."
