@@ -24,9 +24,9 @@ She was waiting outside the corridor to the family wing with the particular stil
 
 "Is it true," she said, before he had even fully stopped walking. "Marla said a letter came for Lyra. About marrying her to someone."
 
-"Where did you hear that."
+"Marla should mind her own correspondence."
 
-"Everyone is saying it. You are not saying it is not true, so it is true." Her chin came up, the particular stubborn tilt she gave any fact she had decided to be brave about before actually managing it. "Is she going to leave."
+"That is not you saying it is not true." Her chin came up, the particular stubborn tilt she gave any fact she had decided to be brave about before actually managing it. "Is she going to leave."
 
 Lucian crouched, so that he did not have to make her look up at him for this. "Nothing has been decided. A letter is not a wedding, Selene."
 
