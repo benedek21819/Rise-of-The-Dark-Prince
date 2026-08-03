@@ -18,11 +18,11 @@ The letter came on an unremarkable morning, carried into the solar with the same
 
 "I have not decided." He looked up, and whatever calculation had occupied his face a moment before eased, deliberately, into something closer to his son's own weight in the matter. "I did not intend to decide it alone, in any case. Lyra has waited two months for this house to stop merely discussing the shape of her future. She has earned the right to weigh in on the first offer worth taking seriously, rather than simply be told, after the fact, of every one I judged not worth troubling her with."
 
-Lucian left the solar with the letter's contents sitting uneasily in him, and found, before he had gone looking for either Lyra or anyone else, that Selene had found him first.
+Lucian left the solar with the letter's contents sitting uneasily in him, meaning to find Lyra before anyone else in the house could reach her with a version of it shaped by someone else's telling. He did not get the chance. By the time he crossed the lower hall that afternoon, the courier's colors had already been seen and placed by enough idle eyes that the household's own guesswork had done the rest, and Selene had found him first.
 
 She was waiting outside the corridor to the family wing with the particular stillness that did not belong to her — no chatter about Talon's brood, no half-finished argument dragged along for an audience, only an eleven-year-old's face arranged into something trying very hard to look like patience and failing at it entirely.
 
-"Is it true," she said, before he had even fully stopped walking. "Marla said a letter came for Lyra. About marrying her to someone."
+"Is it true," she said, before he had even fully stopped walking. "Marla said a rider came wearing Vaelmar's colors, and that Grandmother has been asking about Lyra's marriage for months. She says it is not hard to guess the rest."
 
 "Marla should mind her own correspondence."
 
@@ -30,7 +30,7 @@ She was waiting outside the corridor to the family wing with the particular stil
 
 Lucian crouched, so that he did not have to make her look up at him for this. "Nothing has been decided. A letter is not a wedding, Selene."
 
-"But it could be. That is the whole point of the letter." Her eyes had gone bright in the specific way that meant she was fighting not to cry and losing, slowly, by degrees. "She is the one who understands when I count things correctly. She fixes my hair when I do not want anyone else to touch it. If she marries some house I have never even heard of, she will be somewhere far away and I will only see her at — " She stopped, because she did not, in fact, know how often that would be, and the not-knowing was plainly worse to her than any answer he could have given.
+"But it could be. That is the whole point of a letter like that." Her eyes had gone bright in the specific way that meant she was fighting not to cry and losing, slowly, by degrees. "She is the one who understands when I count things correctly. She fixes my hair when I do not want anyone else to touch it. If she marries into Vaelmar she will be on the other side of the kingdom and I will only see her at — " She stopped, because she did not, in fact, know how often that would be, and the not-knowing was plainly worse to her than any answer he could have given.
 
 "I am not going to tell you this does not hurt, because it would, if it happens, and I would rather you trust me when I tell you hard things than have me smooth them over until you stop believing anything I say." He kept his voice level, the same steadiness he had learned to hold for things far heavier than this. "But Lyra has not agreed to anything. And if she ever does, it will be because she chose it, weighing it the way she weighs everything, not because any of us decided it for her without asking."
 
