@@ -46,7 +46,7 @@ He found Lyra in her own rooms again, as he so often did, and she looked up befo
 
 "Vaelmar. Joren, specifically, writing beneath his father's seal."
 
-Something crossed her face that was not quite surprise — she had known offers of this kind existed long before Orlena ever said her name aloud in that room; Father had simply never before let one reach her — but was not entirely composed either. "I do not know him. I have heard of him. Ambitious, I am told, more so than his father, which by the sound of things is saying something."
+Something crossed her face that was not quite surprise — she had long suspected offers of this kind existed, even if her father had never once confirmed it to her — but was not entirely composed either. "I do not know him. I have heard of him. Ambitious, I am told, more so than his father, which by the sound of things is saying something."
 
 "You knew there had been others."
 
