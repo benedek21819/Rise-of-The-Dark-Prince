@@ -6,7 +6,7 @@ The letter that finally mattered arrived on an otherwise unremarkable morning, c
 
 "It is from Lyra," he said. "I think it is better heard than summarized." He smoothed the pages against the table, and began.
 
-*Father, Orlena, Lucian, Selene —*
+*To everyone at Blackspire —*
 
 *I have started this letter four times and torn up three of them, which should tell you something about how much easier it is to be honest with you in person than at this distance, where I cannot see any of your faces to know how the words are landing. I will simply write it plainly, then, the way I would have said it if I had come home first instead of writing ahead.*
 
