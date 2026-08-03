@@ -1,0 +1,25 @@
+# Chapter 54: Gate
+
+The hot springs held their heat the same way they always did in the hour after morning training, and Lucian let himself sit in it a while longer than strictly necessary, the ache of Dain's Still Blade drills easing slowly out of muscle that had stopped, sometime in the last year, needing quite so long to recover from mornings like this one.
+
+He had not come here to think about the recruits, and found, as he so often did lately, that he was thinking about them anyway. The nineteen-year-old from Harrow's sworn lands had been moved up a tier in the last week's assessments, his discretion scores climbing steadily enough that Lucian had begun to trust his own earlier judgment of him rather than merely hope it would prove out. Two others had washed out entirely, quietly, the way failures in that particular training were always handled — no disgrace attached to it that would follow them home, only a door closed without explanation and a life continuing elsewhere. It did not trouble him the way he had half expected it to, the first time his father let him sit in on the decision. It felt, instead, like exactly the kind of weighing he was supposed to be learning to carry.
+
+"You have the look of a man doing arithmetic in his head," Lyra said, from the archway above the lower pool, and Lucian did not startle, only opened his eyes to find her already dressed for the day in a way that told him she had not come here idly.
+
+"Recruitment," he said. "Nothing that cannot wait until I am no longer half-boiled."
+
+"It will have to wait regardless, because I did not come to discuss recruits." Something in her voice, carefully even, told him before the words did that whatever she had come to say had cost her some effort to arrange into that evenness. "A rider reached the lower gate an hour ago. The Vaelmar delegation is already on the Ascend. They will be at the keep itself before the day is out."
+
+Lucian sat up properly at that, the last of the water's ease draining out of him at once. "Already. The invitation only went out weeks ago — I did not expect Ellard to move this quickly, whatever Joren's own impatience might have wanted."
+
+"Neither did I, until Father told me just now. He seems less surprised by it than either of us." A faint, dry note entered her voice. "I believe his exact words were that a man that eager to be looked at plainly rarely wastes the time between the asking and the arriving."
+
+"Are you ready."
+
+"No," Lyra said, with the particular honesty she reserved only for him, "but I have had weeks to prepare for not being ready, which I am told is the most anyone manages before a thing like this regardless." She held out a hand, not quite asking him to hurry, only reminding him that the day had already begun without either of them fully choosing it. "Dress. Grandmother is already rearranging the receiving hall to her own satisfaction, and I would rather you were standing beside me for that particular battle than leave me to face her alone."
+
+By the time Lucian reached the upper halls, dressed and composed in the manner the day plainly demanded, the keep had taken on the particular charged quiet of a house preparing itself for eyes that were not its own — servants moving with more purpose than usual, Orlena's voice carrying from the receiving hall in the tone she used for instructions she expected to be followed without discussion, Vesper already positioned near the great doors with the stillness of a man who had done this exact kind of waiting more times than he cared to count. Selene had been found and settled, under protest, into a corner of the hall from which she could watch without being underfoot, Lyra's earlier promise to her plainly the only thing keeping her there at all.
+
+Word came from the watch above the Ascend a little past midday — the Vaelmar banners sighted at the second checkpoint, then the third, the long fortified climb doing what it always did to visitors unused to it, slowing their progress to the mountain's own unhurried pace whatever urgency had carried them this far. Lucian stood beside his sister in the hush that settled over the hall as the final horn sounded from the gatehouse, and felt her hand find his once, briefly, before she let it go and settled her composure fully back into place.
+
+The great doors opened onto the grey afternoon light, and beyond them, still some distance off but closing steadily against the mountain's own scale, the Vaelmar party came on toward Blackspire's gate.
