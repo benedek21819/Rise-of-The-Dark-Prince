@@ -20,7 +20,7 @@ Lucian found his father still standing near the doors some time after the others
 
 "Go on."
 
-"I have arranged for one of the men you gave me to help build Dawn's core to travel unofficially alongside the party, at a discreet distance. Not part of the formal escort — someone who will not be seen unless he needs to be." Lucian held his father's gaze, steady despite the faint unease of admitting to an arrangement made entirely on his own authority. "He is young still, but I have come to trust him a great deal in these past months, and I did not want Lyra's safety resting solely on an escort chosen for its discipline rather than its discretion. I did not clear it with you first. I am telling you now because I would rather you know than discover it by accident."
+"I have arranged for a Shadow Guard to travel unofficially alongside the party, at a discreet distance. Not part of the formal escort — someone who will not be seen unless he needs to be." Lucian held his father's gaze, steady despite the faint unease of admitting to an arrangement made entirely on his own authority. "I did not clear it with you first. I am telling you now because I would rather you know than discover it by accident."
 
 Vesper was quiet long enough that Lucian began, briefly, to wonder whether he had overstepped some line he had not fully seen coming. Then something shifted in his father's face — not displeasure, but a slow, dawning and faintly rueful recognition.
 
