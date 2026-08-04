@@ -10,6 +10,14 @@ The morning of departure arrived with the particular grey stillness the North se
 
 "You were absolutely planning to hover," Lyra said, with the first real warmth he had seen in her all morning, "and I love you for it, and I am asking you not to regardless."
 
+"What will you actually say to him."
+
+"The truth, which is that three days is not enough to decide anything worth deciding properly, whatever the rest of this house might wish were otherwise." She smoothed the front of her dress once, an old, unconscious habit he had watched her fall into before every difficult conversation of her life. "I am not going to pretend to him that I know my own mind yet. I would rather he leave here respecting an honest uncertainty than carrying a hopeful lie all the way back to Vaelmar."
+
+"He seems the sort of man who would prefer the honesty regardless of what it costs him."
+
+"He does. That is, in fact, rather a large part of the problem." Something wry and unguarded crossed her face, gone as quickly as it arrived. "It is considerably harder to disappoint a man plainly when the plainness is exactly what makes you want to keep talking to him."
+
 She found Joren in the lower courtyard, already dressed for the road, watching the Silver Guard make their unhurried final preparations along the edge of the Ascend with the particular attentiveness of a man who found any unfamiliar discipline worth studying rather than merely tolerating. He turned before she had fully crossed the distance to him, and something in his face — hope held carefully in check rather than displayed openly — told her he had been waiting for this exact conversation as much as she had been dreading it.
 
 "I do not have an answer for you," Lyra said, choosing plainness over any softer approach, because he had earned that much from her in three days of never once offering her less. "Not the answer you came here hoping to leave with, and not a refusal either. I am not ready to promise you anything, Joren, and I would rather disappoint you honestly today than give you a hopeful lie to carry home on the strength of three good days."
@@ -24,9 +32,13 @@ Lyra considered him a long moment, the offer settling into something she had not
 
 "I know it. I am asking regardless, because the alternative is losing you to nothing more than distance and a decision made too quickly to be fair to either of us." He held her gaze without pressing further, the same restraint Lucian had marked in him from their first exchange in the training yard. "The choice is entirely yours, Lyra. I only wanted you to know the door was open, whatever you decide to do with it."
 
-Vesper received the news of it that afternoon with less surprise than Lucian expected, listening to Lyra lay out the invitation plainly before he said anything at all.
+Vesper received the news of it that afternoon with less surprise than Lucian expected, listening to Lyra lay out the invitation plainly before he said anything at all. Orlena, seated near the window with her usual correspondence set aside the moment Lyra began speaking, said nothing until her granddaughter had finished either.
 
-"You want to go," he said, when she had finished.
+"You raised this question yourself, Grandmother, before any of the rest of us were willing to say it aloud," Lyra said, meeting her gaze directly. "I would like to hear what you actually think of it, not merely what you think I want to hear."
+
+"I think a house that has spent generations guarding its own secrecy does not send its eldest daughter into a stranger's hall lightly, whatever the strength of the escort surrounding her." Orlena's voice carried none of its usual flatness. "I also think you have already shown more sense in these three days than most women twice your age manage across an entire courtship, and I am not in the habit of arguing with sense simply because it frightens me a little to watch it walk out the door. Go, if it is truly what you want. I would rather you decide this the hard way, honestly, than the easy way, wrongly."
+
+"You want to go," Vesper said, when Lyra had finished with them both.
 
 "I want the chance to actually decide this properly, rather than guess at it from three days inside my own home, where every advantage of comfort and familiarity was mine and none of it was his." Lyra held her father's gaze steadily. "That seems only fair, if I expect him to keep offering me his honest self rather than a performance."
 
@@ -36,10 +48,24 @@ Vesper received the news of it that afternoon with less surprise than Lucian exp
 
 "Then I will not be the second." Something almost proud crossed Vesper's face, aimed at both of them at once. "We will send a proper escort, and I will have my own terms sent to Ellard rather than leave the arrangements entirely to Vaelmar's hospitality. But if this is truly what you want, Lyra, I will not spend my authority making it harder for you to have it."
 
-The Vaelmar party left the following morning, banners bright against the grey stone of the Ascend's upper gate, Ellard and Meret riding out with the same unhurried dignity they had arrived with. Joren lingered a moment longer than the rest, and Lyra crossed the last of the distance between them without anyone needing to arrange it.
+The Vaelmar party left the following morning, banners bright against the grey stone of the Ascend's upper gate, Ellard and Meret riding out with the same unhurried dignity they had arrived with. Ellard paused before Vesper long enough to offer a bow no less exact than the one he had given at his arrival. "You have given my son more than politeness demanded of you, Lord Vesper. I will not forget the shape of it, whatever comes of the rest."
+
+"Nor will I forget how plainly your son conducted himself in my own house," Vesper answered. "Whatever your own hopes for this alliance, Ellard, I do not think you raised a man who would have earned my daughter's honest consideration by anything less than being exactly what he appeared to be."
+
+Meret's farewell to Lyra carried a warmth entirely her own, brief and unhurried. "Whatever you decide, child, decide it for yourself and no one else's sake. I have watched enough marriages arranged around a woman rather than with her to know the difference matters more than either house will ever admit aloud."
+
+"I intend to," Lyra said, and meant it plainly enough that something eased, visibly, in Meret's own composed face.
+
+Joren lingered a moment longer than the rest, and Lyra crossed the last of the distance between them without anyone needing to arrange it.
 
 "I will send word of the arrangements within the week," she said.
 
 "I will be counting the days regardless of how properly I manage to hide it." A real smile broke across his face, quick and entirely unguarded. "Safe roads, Lyra Caldarion. I mean to show you a shore worth the climb back down for."
 
-Lucian watched his sister stand at the gate long after the last of the Vaelmar banners had disappeared down the fortified turns of the Ascend, and understood, watching the particular unguarded hope still sitting in her face, that whatever answer eventually came of this, the house had already changed shape a little around the asking.
+Lucian watched his sister stand at the gate long after the last of the Vaelmar banners had disappeared down the fortified turns of the Ascend, and understood, watching the particular unguarded hope still sitting in her face, that whatever answer eventually came of this, the house had already changed shape a little around the asking. It was a small thing, in the scale of everything Blackspire usually asked its family to weigh — no army moved, no treaty signed, only a woman given the plain, uncomplicated right to actually know a man before deciding whether to spend the rest of her life beside him. It did not feel small to Lucian, standing there beside her in the cold. It felt like the kind of change that would matter more, in the end, than most of the larger ones this house had ever made.
+
+"You are still hovering," Lyra said, without turning from the empty road, though something fond had crept back into her voice.
+
+"I told you I was not planning to."
+
+"You told me a great many things today, Lucian. That was, I think, the only one that was not entirely true." She reached back and found his hand without looking, the same old, unchanged gesture, and did not let go of it until the cold finally drove them both back inside.
