@@ -44,7 +44,7 @@ The voice was controlled, but not empty of the question. It carried the exactnes
 
 Lucian turned. He looked at the covered face without urgency. The residual fatigue of the sustained Veil sense still sat behind his eyes; he did not let it show in his posture.
 
-“You were under my attachment for the operation,” he said. “The error fell inside that. I answered for it.”
+“I was placed under your attachment for the operation,” he said. “I chose to answer for it regardless. That was my decision to make, not a debt you asked me to carry.”
 
 A short silence. The covered figure did not move.
 
@@ -56,7 +56,7 @@ A short silence. The covered figure did not move.
 
 Lucian’s reply carried a thin edge of the arrogance that sometimes surfaced when he spoke as the heir rather than the student — a cool assumption of the right to decide where weight belonged.
 
-“I did not ask whether you needed it. I decided where the weight of my own attachment fell, and it fell on me, because that is how I choose to answer for the people placed under me. Whether you asked for it changes nothing about that.” He paused. The next question was simple. “What is your name?”
+“I did not ask whether you needed it. It was not your decision to make, and it was not truly mine either, by the ordinary shape of this house's hierarchy. I made it regardless, because I judged it worth making, and I do not require your permission to answer for something a second time simply because the first time was inconvenient for you to accept.” He paused. The next question was simple. “What is your name?”
 
 The answer came after a brief stillness, as if the giving of it required a decision of its own.
 
