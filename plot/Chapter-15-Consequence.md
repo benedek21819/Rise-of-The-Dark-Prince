@@ -14,7 +14,7 @@ The chamber sat deeper in the mountain than the ordinary family and training spa
 
 Lucian stopped just inside the threshold. The door closed behind him with a soft, final sound.
 
-One of the Shadow Guard turned slightly at his arrival. The face was covered in the usual dark cloth of the lower ranks, but the height, the exact economy of movement, and the voice when he spoke a short confirmation to the other guard were enough. Lucian had seen this one before around the keep. He did not have a name for him. Only the recognition of bearing and voice, precise and already familiar in the way certain instruments of the house became familiar without ever being formally introduced.
+One of the Shadow Guard turned slightly at his arrival. The face was covered in the usual dark cloth of the lower ranks, but the height, the exact economy of movement, and the voice when he spoke a short confirmation to the other guard were enough. Lucian had seen this one before around the keep. He did not have a name for him. Only the recognition of bearing and voice, precise and already familiar in the way certain instruments of the house became familiar without ever being formally introduced. There was, beneath the covered face, something younger in the set of the shoulders than most of the others who moved through these lower corridors — a stillness that had not yet worn into the particular tiredness Lucian had noticed in the older members of the Guard, replaced instead by a controlled, watchful intensity that seemed to hold itself to a standard no one had visibly demanded of him. Lucian filed the observation away without examining it further, the same way he filed most things that did not yet require a decision.
 
 The second guard finished securing the prisoner’s bindings. No excess force. No wasted motion. Leather and cord drawn tight to the correct degree and nothing further. The man was simply no longer free to leave. His breathing remained measured. His eyes moved once across the chamber and then away again, as if cataloguing exits that no longer existed.
 
@@ -30,7 +30,21 @@ Vesper’s gaze moved to the prisoner.
 
 “Name.”
 
-The man gave it. The sound of it sat in the cold air and meant little to Lucian beyond its place on the longer maps of the North. Under further controlled questions the rest followed in fragments, drawn out without raised voices or unnecessary pressure. He had been sent to gather information across the North — movements, posture, quiet discontent, any sign of opportunity. Approaches had been made to those who might prefer a different balance of power. The encounter with the young heir in Firsthold had not been planned. He had simply seen the chance and taken it. There were indications of encouragement from a stronger hand, though the prisoner either did not know the full name or would not give it. The shadow of Dravenhall lay across the edges of the answers without being spoken outright.
+The man gave it. The sound of it sat in the cold air and meant little to Lucian beyond its place on the longer maps of the North.
+
+“Who sent you.”
+
+“No one house, my lord. A collection of interested parties.” The prisoner’s voice held steady, though something in the set of his shoulders had already begun to concede what his words had not. “I was paid. I did not ask by whom the coin first came.”
+
+“You did not ask, or you were told plainly not to.”
+
+Silence answered that. Vesper did not press it further, not yet.
+
+“What were you sent to find.”
+
+“Movements. Posture. Which lesser houses grumble when the wind changes and which stay silent regardless.” The prisoner’s eyes moved once to the two Shadow Guard flanking him, then away. “Nothing that could not be gathered by any patient man willing to sit in the right taverns and listen.”
+
+Under further controlled questions the rest followed in fragments, drawn out without raised voices or unnecessary pressure. Approaches had been made to those who might prefer a different balance of power. The encounter with the young heir in Firsthold had not been planned. He had simply seen the chance and taken it. There were indications of encouragement from a stronger hand, though the prisoner either did not know the full name or would not give it. The shadow of Dravenhall lay across the edges of the answers without being spoken outright.
 
 Vesper listened without visible reaction. His questions, when he asked them, were few and precise. The prisoner’s answers grew shorter. At a certain point the essential shape of the matter was clear, and Vesper did not press beyond it. He gave a short series of orders. The prisoner would be held. House Corvane would be watched more tightly. Certain quiet corrections would follow. No public declaration was required.
 
@@ -61,5 +75,7 @@ Vesper held his gaze a moment longer, then left the chamber. The sound of his st
 Lucian remained alone for a short time in the cold room. The bird sigil of House Corvane, the messenger’s brief request in Firsthold, the quiet efficiency of the Shadow Guard, and the familiar but unnamed bearing of the one who had spoken all settled into the same place as the unresolved choice of path. No single element demanded action from him. Each simply took its position among the other weights he already carried.
 
 He left the chamber and began the climb back toward the upper levels. The older stone of the deep corridors gave way by degrees to the more familiar passages of the keep. The cold lessened only slightly. The light from the wall fixtures returned at closer intervals. Distant sounds of ordinary Blackspire life — a door closing, the remote ring of metal, the faint passage of attendants — re-entered the air around him as if nothing of note had occurred below.
+
+He considered, climbing, how little of what he had just witnessed would ever be spoken of again in any room he was permitted to enter. The prisoner would be held, or would not be, by decisions made in rooms further from him than this one had been. House Corvane would be watched, corrected, quietly managed, and the correction itself would leave no mark any outsider could point to and name. This was, he understood without needing the thought explained to him twice, the actual shape of the power his father held — not the visible severity of the training yard or the formal weight of a full hall, but this: a cold room three levels beneath the keep, a name given and taken without ceremony, and a silence afterward that closed as completely as the door had.
 
 The corridors of Blackspire were unchanged. He walked them with the same controlled pace he had used on the way down. The work of becoming continued.
