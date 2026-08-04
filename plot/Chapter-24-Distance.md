@@ -4,7 +4,7 @@ The weeks after the visit south folded into one another without marking themselv
 
 Lucian trained. That was the whole of it, reduced to its simplest shape — mornings in the lower chamber with Dain, the Foundation drilled past the point of thought, Weight pursued in the strange, wordless way Dain insisted it had to be pursued, through repetition rather than explanation. Afternoons he often returned alone, unassigned, the way he had before the choice was ever spoken aloud in that hall. No one told him to. He simply found himself there, more often than not, when the rest of the keep had moved on to other hours.
 
-He did not think of it as excessive. It did not occur to him to think of it in those terms at all. The forms held clean now through longer stretches than they once had — Dain had said as much, in the sparse way he said anything resembling approval — and each session that ended without a fault felt like the natural continuation of the one before it, not an accumulation of anything that might eventually cost him.
+He did not think of it as excessive. It did not occur to him to think of it in those terms at all. The forms held clean now through longer stretches than they once had — Dain had said as much, in the sparse way he said anything resembling approval — and each session that ended without a fault felt like the natural continuation of the one before it, not an accumulation of anything that might eventually cost him. Meals came and went at the edges of his attention rather than the center of it. Sleep arrived, when it arrived, as a necessity to be managed efficiently rather than a thing to be wanted for its own sake. He could not have said, if asked directly, what he had done with any single evening in the past several weeks beyond the plain fact that he had trained, and had then presumably slept, and had then trained again.
 
 Dain noticed before Lucian did, though he said little of it directly.
 
@@ -13,6 +13,10 @@ Dain noticed before Lucian did, though he said little of it directly.
 “I will correct it.”
 
 “That is not the correction I am asking for.” Dain studied him a moment longer, the same unhurried, assessing look he gave a fault in a stance. “A blade held too long past its edge does not sharpen further. It only wears.”
+
+“I do not feel worn.”
+
+“No. That is precisely the difficulty with the kind of wear I am describing. It does not announce itself the way a torn muscle or a split knuckle announces itself. It simply takes a little more from you each day than the day gave back, quietly enough that you do not notice the debt until it is considerably larger than you would have permitted it to become had you been watching for it.” Dain's voice held none of its usual flatness, something closer to genuine concern beneath the instructor's measured cadence. “I am not telling you to train less. I am telling you that a man who cannot recognize his own limit is not disciplined. He is simply lucky, for as long as luck happens to hold.”
 
 Lucian did not fully understand the remark, and did not ask him to clarify it. He reset his stance instead, and the guard held on the fifth repetition, and he took that as the matter answered.
 
@@ -38,7 +42,7 @@ She led him down through colder, older passages than the ones he usually walked 
 
 “No.”
 
-“I know.” She said it without reproach, only a kind of tired certainty, as if his never having come here were simply one more fact in a long accounting she had kept without telling him she was keeping it. “Mother brought me, when I was younger than you are now. I have brought Selene twice, though she mostly wanted to see whether she could make the water boil by shouting at it.”
+“I know.” She said it without reproach, only a kind of tired certainty, as if his never having come here were simply one more fact in a long accounting she had kept without telling him she was keeping it. “My own mother brought me here, when I was younger than you are now — the one time I remember her setting aside every duty of the day at once, entirely, for no reason she ever explained to me. I did not understand it then. I understand it rather better now, watching you sit there the way you are sitting.” Something softened further in her face, an old memory handled carefully rather than displayed. “I have brought Selene twice, though she mostly wanted to see whether she could make the water boil by shouting at it.”
 
 Lucian looked at the pool, the slow drift of steam catching the lamplight, and did not immediately understand what he was meant to do with a room that asked nothing of him.
 
@@ -69,3 +73,5 @@ Lucian did not have an answer for that either. He let the water hold him instead
 Lyra's mouth curved, small and real. “That will do, for now.”
 
 She did not press him further. She sat with her feet in the warm water and let the silence be exactly as much as either of them could comfortably hold, and Lucian, submerged to the shoulders in heat he had not known his own house contained, let the ache he had not recognized as an ache slowly, imperceptibly begin to loosen.
+
+He did not know how long they stayed. Long enough that the lamps burned lower, and the steam thinned by degrees, and some small, unfamiliar part of him — the part Dain's warnings had never quite managed to reach on their own — settled into something closer to rest than he could remember feeling in weeks. He would return to the training halls tomorrow, and the day after, and the ordinary architecture of what this house was building him into would resume exactly where it had paused. But he understood, sitting there in water that asked nothing of him at all, that Lyra had given him something the forms never once offered — not correction, not instruction, only the plain, undemanding proof that he was still permitted to simply be, for an hour, before returning to the far larger work of becoming.
