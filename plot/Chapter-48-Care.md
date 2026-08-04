@@ -52,7 +52,7 @@ He stayed longer than he had meant to, the grey afternoon light shifting slowly 
 
 "That sounds like precisely the kind of mercy she would never forgive you for withholding."
 
-"No. She would not." Elara's gaze drifted, briefly, to the sword at his hip, and something quieter moved behind her amusement. "It is a strange thing, watching that blade sit there as though it has always belonged to you. I remember when your father received it from his own father, in a room considerably colder than this one. I did not expect to be sitting across from you the day it happened to you as well, not quite this soon."
+"No. She would not." Elara's gaze drifted, briefly, to the sword at his hip, and something quieter moved behind her amusement. "It is a strange thing, watching that blade sit there as though it has always belonged to you. Your father never had a morning like the one you were given, Lucian. Ravorn died before there was ever a room for that kind of ceremony between them — Vesper simply took the sword up himself, the day the news reached him, with no one left living who could have handed it to him more gently. I was not yet his wife when it happened. He has told me of it only a handful of times in all our years together, and always briefly." Something quietly fierce moved beneath her composed face. "That is precisely why I wanted to see this morning happen properly, when it finally came for you. I do not think he entirely realized, arranging it, how much of his own missing ceremony he was giving you in its place."
 
 "Does it trouble you."
 
