@@ -1,6 +1,10 @@
-# The Rise of the Dark Prince
+# Crownless
+
+**Book One: The Rise of the Dark Prince**
 
 > *A dark fantasy tale of ambition, betrayal, forbidden power, and the rise of a prince who will reshape the world... or burn it down.*
+
+*Crownless* is the series title for this saga; *The Rise of the Dark Prince* is Book One within it.
 
 **Welcome to the official Story Bible repository.**
 
