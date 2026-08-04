@@ -36,7 +36,17 @@ This was harder. The unfamiliar signatures did not carry the plain, worn edges o
 
 Lucian did not open his eyes. He waited.
 
-“There is one more,” Dain said. “Smaller. Find her.”
+“Two of the strangers stand near enough alike that you have already begun reading them as one signature rather than two. Separate them.”
+
+He returned to the pair by the gate. At first pass they held together, a single dense weight the way Dain had said — the same unhurried patience in their footing, the same worn readiness in how they carried themselves. He narrowed the field further, past the shape of them and into the smaller differences beneath it: one breathed slower, deeper, a rhythm trained into stillness over years. The other's breath came a fraction quicker, not from fear, only from youth not yet worn down to the same patience.
+
+“One is older. Considerably.”
+
+“How much older.”
+
+“I cannot tell you a number. Only that the difference is real.”
+
+“That is enough for today's purpose. Most men never learn to hear that much at all.” Something almost approving moved through Dain's flat voice. “There is one more. Smaller. Find her.”
 
 He returned to the field. The unfamiliar signatures had not moved much — the two by the gate, the one along the wall, the rest scattered in the loose order of people waiting to be received rather than working. He passed over each of them again, slower this time, and found the smaller shape near the center of the group, close enough to an adult signature that he had folded her into it without noticing, the way a lesser weight disappears against a greater one held close.
 
@@ -62,7 +72,9 @@ The cold behind his eyes eased by degrees as the wider sense collapsed back into
 
 “The Kaelarion party arrives ahead of schedule,” Dain said, already turning from the terrace edge. “Your father will want you presentable within the hour. That is enough for today.”
 
-Lucian followed him from the terrace and down through the colder inner stair, the residual ache of the effort still sitting behind his eyes, the strange, unfinished shape of what he had sensed still unresolved somewhere beneath it. Dain did not speak further on the walk down, and Lucian did not ask.
+Lucian followed him from the terrace and down through the colder inner stair, the residual ache of the effort still sitting behind his eyes. It always settled the same way afterward — not pain exactly, more a dullness pressed into the base of his skull, the sense of a muscle worked past its ordinary measure and not yet recovered. He had learned, across enough mornings like this one, that the ache faded faster if he did not fight it, the same way the field itself answered better to stillness than to reaching. He let it sit, unfought, and it thinned by degrees with every step down.
+
+The strange, unfinished shape of what he had sensed did not thin with it. It stayed lodged somewhere beneath the ordinary ache, a small, unresolved weight distinct from the rest, the way a single wrong note stays with a listener long after the rest of the piece has resolved itself correctly. Dain did not speak further on the walk down, and Lucian did not ask.
 
 At the turn toward the family wing, a herald's voice reached them from the lower gallery, pitched to carry, formal in a way the keep's ordinary voices never were.
 
@@ -72,4 +84,4 @@ Lucian stopped mid-step. Dain did not.
 
 “Come,” he said. “Your father will want you presentable within the hour. That is enough for today.”
 
-Lucian followed, the ache behind his eyes not yet clear, the shape of what he had sensed on the terrace still without a name — and no clearer idea, from the herald's voice alone, of who exactly had just arrived, or why the party his uncle had promised for later had come to Blackspire ahead of itself.
+Lucian followed, the ache behind his eyes not yet clear, the shape of what he had sensed on the terrace still without a name — and no clearer idea, from the herald's voice alone, of who exactly had just arrived, or why the party his uncle had promised for later had come to Blackspire ahead of itself. He turned the unresolved shape over once more as he walked, the way he turned over anything unfinished, and found it no more willing to settle into a name now than it had been on the terrace. Whatever it was, it would keep. He had learned, in a house like this one, that most things eventually did.
