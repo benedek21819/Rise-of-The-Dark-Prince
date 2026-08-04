@@ -1,6 +1,8 @@
 # Chapter 59: Answer
 
-Two months of ordinary business had passed since the morning Lyra's party disappeared around the lower bend of the Ascend, and Lucian had settled, without quite deciding to, into the particular rhythm of a house waiting for something it had stopped mentioning aloud at every meal. The recruits moved steadily through their training, three more names crossed off the list entirely and two others quietly promoted past the point Lucian had once doubted they would reach. Word had come twice already from the operative he had sent south, brief and unremarkable — the party safe, the roads uneventful, nothing requiring more than the report itself.
+Two months of ordinary business had passed since the morning Lyra's party disappeared around the lower bend of the Ascend, and Lucian had settled, without quite deciding to, into the particular rhythm of a house waiting for something it had stopped mentioning aloud at every meal. The recruits moved steadily through their training, three more names crossed off the list entirely and two others quietly promoted past the point Lucian had once doubted they would reach. Word had come twice already from the operative he had sent south, brief and unremarkable — the party safe, the roads uneventful, nothing requiring more than the report itself. He had learned, across those two months, the particular discipline of not reading more into a silence than a silence actually contained — no news from Vaelmar was simply no news, not an omen, whatever the quieter part of him sometimes wanted to make of it in the hour before sleep.
+
+The household had absorbed the waiting the way it absorbed everything difficult, folding it into the ordinary architecture of the days rather than letting it announce itself at every meal. Selene had stopped asking after the first month, not because she had stopped caring, but because she had learned, the same as the rest of them, that asking did not make the answer arrive any sooner.
 
 The letter that finally mattered arrived on an otherwise unremarkable morning, carried into the solar the way every serious piece of correspondence in this house eventually was, and Vesper read the first lines of it in silence before looking up.
 
@@ -31,6 +33,8 @@ Vesper set the last page down with the same careful precision he had given the f
 
 "She sounds happy," Vesper said, quiet enough that it was not quite meant for the whole room. "I did not fully understand, until just now, how much I had been waiting to hear that specifically, rather than simply the fact of her decision."
 
+Lucian said nothing for a while, turning the letter's own words over the way he turned over anything that had landed somewhere he had not fully braced for. *Tell Lucian he was right to make me the promise he made, and righter still to have kept it.* He had made that promise easily enough, in the moment, certain of little beyond the fact that it was owed. He had not expected to feel its full weight only now, secondhand, in a room full of other people's relief — the plain, private confirmation that keeping his word to her had actually mattered, rather than simply having been the correct thing to say at the time.
+
 Selene had gone very still in the doorway throughout the whole of the reading, and when Lucian found her there afterward, her face carried none of the simple relief he had half expected.
 
 "She said the sea has letters too," Selene said, testing the words as though she did not entirely trust them yet to mean what they seemed to. "That is not the same as her being here."
@@ -44,5 +48,15 @@ Selene had gone very still in the doorway throughout the whole of the reading, a
 "Write back. Tonight, before anyone else's letter gets there first and tells her everything in the careful, grown-up way that leaves out the parts that actually matter." Selene straightened, some of her old certainty returning to her posture. "I am going to tell her I am happy for her and that I am also sad, in the same letter, in that order, because I think she would rather hear both than have me pretend it is only the first."
 
 "I think she would rather hear exactly that than almost anything else anyone sends her this week."
+
+"Will you write to her too."
+
+"Eventually. Not tonight." Lucian considered the question longer than its simplicity strictly required. "I think tonight belongs to you. I would rather she read your letter first, exactly as you mean to write it, before mine arrives and gives her something more careful to compare it against."
+
+Selene studied him a moment, something almost pleased settling into her face at being handed the evening so plainly. "That is a very generous way of saying you have not decided what you want to tell her yet."
+
+"That is also true. Both things can be true."
+
+"I know." She smiled, small and real, echoing his own words back at him without seeming to notice she had done it. "I learned that from someone, recently."
 
 Selene was already moving toward the writing desk in the corner of the solar before he finished speaking, pulling a fresh sheet toward her with the single-minded determination she gave to very few things beside this, and Lucian watched her begin, unprompted, in a hand still more careful than confident: *Dear Lyra, I am so happy for you, and I also miss you already, and I wanted you to know both of those things before anyone else's letter got there first —*
