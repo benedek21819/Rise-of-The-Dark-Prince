@@ -56,7 +56,7 @@ A short silence. The covered figure did not move.
 
 Lucian’s reply carried a thin edge of the arrogance that sometimes surfaced when he spoke as the heir rather than the student — a cool assumption of the right to decide where weight belonged.
 
-“I did not ask whether you needed it. It was not your decision to make, and it was not truly mine either, by the ordinary shape of this house's hierarchy. I made it regardless, because I judged it worth making, and I do not require your permission to answer for something a second time simply because the first time was inconvenient for you to accept.” He paused. The next question was simple. “What is your name?”
+“I did not ask whether you needed it. It was not your decision to make, and it was not truly mine either, by the ordinary shape of this house's hierarchy. I made it regardless, because I judged it worth making, and I do not require your permission to answer for something a second time simply because the first time was inconvenient for you to accept.” He paused. “What is your name?”
 
 The answer came after a brief stillness, as if the giving of it required a decision of its own.
 
