@@ -28,7 +28,13 @@ Selene spoke without looking up from her bread. “Will there be the sweet cakes
 
 Elara’s mouth curved slightly. “If the kitchens have prepared them.”
 
-“I hope they have,” Selene said.
+“I hope they have,” Selene said. She considered this a moment longer, with the particular gravity small children gave to matters of cake. “I could go and ask.”
+
+“You could,” Elara said, “and you would find yourself in the kitchens' way at the busiest hour of their whole day, and Cook would send you back here without an answer regardless. Patience will serve you better than asking twice.”
+
+“Lucian never has to wait for things.”
+
+“Lucian waits for a great many things you do not yet see him waiting for.” Elara's gaze moved briefly to her son, something warm and private passing between them that needed no further words to carry it. “He has simply learned not to make a show of it.”
 
 Lucian almost smiled. He returned to his own food. The morning felt simple and contained. No training. No weight of instruction. Only the three of them and the steady fire.
 
@@ -61,6 +67,10 @@ He held still.
 “Does it matter?”
 
 “It always matters,” Lyra replied. Her voice was calm. “Especially when the whole table is present.”
+
+“You always say that. Even when it is only us.”
+
+“Because it is always true, even when it is only us.” She tugged the clasp once more, satisfied only when it sat exactly as she wanted it. “I would rather you hear it from me gently, a hundred small times like this one, than hear it from someone else the one time it truly costs you something not to have listened.”
 
 She stepped back to regard him, then gave a small, satisfied nod.
 
@@ -122,13 +132,25 @@ Vesper’s gaze rested on his son for a moment. “Continue as you have been. Th
 
 “Yes, Father.”
 
-Riven shifted slightly in his seat. Thorne remained still. Neither spoke. The conversation ebbed again into the quieter rhythm of the meal. Dishes were replaced. Wine was poured for the adults.
+Riven shifted slightly in his seat, some restless energy building in him that had nowhere proper to go at a table this formal, and finally leaned toward his mother. “Will Lucian hold the forms longer than me too, when I am old enough.”
+
+“Perhaps,” Sable said, low enough not to draw the table's full attention, though something fond crossed her face at the question. “You will hold them however long you hold them. It does not have to be the same as his.”
+
+“I would like it to be the same.”
+
+“I know you would.” She smoothed his hair once, briefly, with the particular unhurried affection she gave both her sons without ever quite making a show of it. “Eat your supper. There will be years yet for forms.”
+
+Thorne, beside his brother, said nothing at all, watching the exchange with the same quiet attentiveness he seemed to give most things at that age, already the steadier of the two even this young.
+
+The conversation ebbed again into the quieter rhythm of the meal. Dishes were replaced. Wine was poured for the adults.
 
 Lucian ate carefully and listened.
 
 These were the people who formed the inner circle of the house. His father at the head. His mother beside him. His older half-sister Lyra beside Mira. His grandmother. His uncle. Mira and Sable, present and composed. Riven and Thorne beside their mother. The table held them all.
 
 He did not feel the need to speak further. The morning’s private warmth with Elara and Selene still existed behind the formal atmosphere, just as the lessons of the forges and the Veil and the high roosts still existed. All of it belonged here. All of it was home.
+
+He would not have been able to say, if asked, precisely where the morning ended and the evening began — whether the boy who had sat beside his mother over warm bread was the same boy sitting now beneath the wall fixtures and Cold Silver accents, listening to talk of restless northern houses and unfinished foundations, or whether some quiet, necessary shift had occurred somewhere in the corridors between the two. He suspected, without yet having the words to make the suspicion precise, that it did not matter which boy he was in either room. Both were simply what this house asked of him, in their turn, and he had already begun learning to be both without complaint.
 
 Outside, the wind moved across the high stone of Blackspire. Inside, the family table held its silence and its order.
 
