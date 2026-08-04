@@ -36,7 +36,7 @@ Vesper received the news of it that afternoon with less surprise than Lucian exp
 
 "You raised this question yourself, Grandmother, before any of the rest of us were willing to say it aloud," Lyra said, meeting her gaze directly. "I would like to hear what you actually think of it, not merely what you think I want to hear."
 
-"I think a house that has spent generations guarding its own secrecy does not send its eldest daughter into a stranger's hall lightly, whatever the strength of the escort surrounding her." Orlena's voice carried none of its usual flatness. "I also think you have already shown more sense in these three days than most women twice your age manage across an entire courtship, and I am not in the habit of arguing with sense simply because it frightens me a little to watch it walk out the door. Go, if it is truly what you want. I would rather you decide this the hard way, honestly, than the easy way, wrongly."
+"I think no house sends its eldest daughter into a stranger's hall lightly, whatever the strength of the escort surrounding her, and I would think less of myself if I pretended otherwise simply to spare either of us the discomfort of saying it plainly." Orlena's voice carried none of its usual flatness. "I also think you have already shown more sense in these three days than most women twice your age manage across an entire courtship, and I am not in the habit of arguing with sense simply because it frightens me a little to watch it walk out the door. Go, if it is truly what you want. I would rather you decide this the hard way, honestly, than the easy way, wrongly."
 
 "You want to go," Vesper said, when Lyra had finished with them both.
 
