@@ -1,7 +1,7 @@
 # Cazius – Night Captain (future Shadow Commander)
 
 **Full Name:** Cazius  
-**Called by Lucian:** Caz (only once Lucian actually meets him — see below)  
+**Called by Lucian:** Caz (given once, in a single brief encounter in Ch.16 "Veil," at age ~11 — not used again on-page since, and not consciously remembered by Lucian as belonging to anyone he currently knows; see below)  
 **Current Title:** Night Captain of Dusk (the Shadow Guard's original division), one rank below Shadow Commander  
 **Projected Future Title:** Shadow Commander of Dawn (the Shadow Guard's new division), under Lucian's direct command  
 **Affiliation:** House Caldarion  
@@ -9,7 +9,7 @@
 **Status:** Alive
 
 **Position (current, as of Chapter 51 "Oversight"):**  
-Currently ranked Night Captain within Dusk, the Shadow Guard's original 50-member division, still under Lord Vesper's direct command. Lucian does not yet know Cazius exists — per standing story doctrine, Cazius remains completely unnamed and off-page to Lucian until the moment he is formally revealed. That reveal is now tied to a concrete future event: the completion, in a couple of years' story-time, of Dawn, the new 50-member division Vesper has committed to raising, which will be placed under Lucian's own command with Cazius (projected) as its Shadow Commander.
+Currently ranked Night Captain within Dusk, the Shadow Guard's original 50-member division, still under Lord Vesper's direct command. Lucian met him exactly once, briefly, as a masked operative on a single night mission in Chapter 16 ("Veil") at age ~11 — took the blame for Cazius's timing error in the debrief, asked his name, and shortened it to "Caz" on the spot. Nothing came of it afterward: the Guard's facelessness, the years since, and the total absence of any further contact mean Lucian has no conscious, active awareness that this operative exists, let alone that he is the same masked figure from that one night or that he has risen to Night Captain. The name may sit somewhere in Lucian's memory, unexamined and unconnected to anything current, until the formal reveal makes the connection explicit. That reveal is tied to a concrete future event: the completion, in a couple of years' story-time, of Dawn, the new 50-member division Vesper has committed to raising, which will be placed under Lucian's own command with Cazius (projected) as its Shadow Commander.
 
 ---
 
@@ -45,7 +45,7 @@ He has little interest in ordinary social bonds and almost none in life outside 
 
 ### Key Relationships
 
-- **Lucian Caldarion:** Not yet a real relationship — Lucian does not currently know Cazius exists. Projected, once the second unit is formed and command passes to Lucian: intense personal loyalty, seeing Lucian as the rightful future of the house and taking pride in serving directly under him, eventually one of the few people Lucian can issue covert orders to without involving Lord Vesper. The private familiarity of being addressed simply as **Caz** begins only from that point forward.
+- **Lucian Caldarion:** A single real encounter, long ago and never repeated — Cazius has carried the memory of it with far more weight than Lucian has, given how little else in his life since has matched it. Lucian's own memory of the night is dim and unexamined, a name without a face he could currently place. Projected, once the second unit is formed and command passes to Lucian: intense personal loyalty, seeing Lucian as the rightful future of the house and taking pride in serving directly under him, eventually one of the few people Lucian can issue covert orders to without involving Lord Vesper. The private familiarity of being addressed as **Caz** — first given once, in that one encounter — resumes in earnest only once the reveal actually happens.
 - **The Shadow Guard:** Respected for ability and results. His age, speed of rise, and lack of outside ties set him somewhat apart from older members.
 - **House Caldarion:** The only structure he has ever belonged to. He does not romanticize it; he simply has nowhere else.
 

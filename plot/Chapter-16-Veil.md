@@ -4,6 +4,8 @@ A couple of months had passed since the matter of House Corvane.
 
 The path choice remained unresolved. Lucian continued the forms in the cold training halls and the quieter work of stillness in the upper chambers. In the intervals between assigned instruction he had begun to press further into the Veil — not with force, not with grasping, but with the same exact attention he gave to stance and breath. What had come of it was limited and useful. A widening of sense within a radius around his body: presence, movement, the faint wrongness of concealment or prepared absence. The ability was still difficult to hold for long. Sustaining it drained focus by degrees and left a residual cold fatigue behind the eyes and along the base of the skull. He used it only when the work required it, and released it the moment the need passed.
 
+The exercises had grown more exacting since the terrace work with Dain. He no longer practiced only within Blackspire's own walls — some mornings took him to the lower courtyard, others to the narrow service passages near the forge, each location asking a slightly different discipline of the same widened sense. Stone read differently than open air. A crowded hall read differently than an empty one. He catalogued the differences without being told to, the way he catalogued most things now, and found that the cataloguing itself had become as natural to him as breath.
+
 After the Corvane incident his interest in the Shadow Guard had settled into something more deliberate than curiosity. The quiet efficiency of the capture, the covered faces, the way the house answered certain problems without spectacle — these had remained with him. He brought the request to his father. Limited attachment to an operation connected to the same thread. Observation and one defined task. Vesper heard him without interruption, then set the conditions himself: Lucian would not command; he would answer through the existing hierarchy; his role would be narrow and temporary. Permission returned as an order passed downward. The Shadow Guard received it as they received any other instruction from the head of the house.
 
 The mission was a follow-up.
@@ -13,6 +15,8 @@ A secondary contact linked to the earlier information-gathering — a courier mo
 They left in the deep hours of the night. The ranking officer was a Night Captain, face covered in the dark cloth of the higher working ranks, voice sparse and exact. Under the Night Captain served a small team. Lucian was placed under one of them for the duration of the operation — a covered figure of controlled bearing who gave short confirmations when required and otherwise required no speech. The hierarchy was clear and did not need restating. Lucian took his position inside it without comment.
 
 The lower approaches were cold and still. Wind moved across the pale ground in long, uninterrupted currents. Distant lights of Firsthold held steady on the slopes below. Orders were few. Positions were taken without discussion. Lucian’s task was detection: to hold the widened sense across the approach route and the meeting point, to mark concealment, secondary presence, or the wrongness of a prepared exit. He settled into the required stillness, drew a slow breath, and opened the radius as far as he could sustain it.
+
+Nothing in the training halls had prepared him for the particular weight of holding the sense open across open ground rather than known corridors. There was more to read here — the wind itself carried a texture he had to learn to separate from the stillness of actual presence, false signals thrown up by nothing more than moving air and cold stone settling. He held the field steady regardless, narrowing his attention the way Dain had taught him, until the wind resolved into its own category and stopped crowding the readings that actually mattered.
 
 The sense came like a thinning of ordinary perception — not sight, not sound, but a clearer pressure of what occupied the space around him. Empty ground registered as empty. Living presence registered as a distinct weight. Concealment, when it was present, sat wrong against the natural order of the place. He held the radius and waited.
 
@@ -46,9 +50,13 @@ A short silence. The covered figure did not move.
 
 “That is not the whole of it,” the other said.
 
+“Then say the whole of it, if you mean to.”
+
+“I do not need the covering you gave me. I have taken worse for less before, and will again.” The voice did not waver, though something beneath its control read, faintly, like a man unused to being handed something he had not earned through the ordinary channels of the Guard's own discipline. “I did not ask for it.”
+
 Lucian’s reply carried a thin edge of the arrogance that sometimes surfaced when he spoke as the heir rather than the student — a cool assumption of the right to decide where weight belonged.
 
-“It is enough of it. I do not leave weight on people who belong to the work I am present for.” He paused. The next question was simple. “What is your name?”
+“I did not ask whether you needed it. I decided where the weight of my own attachment fell, and it fell on me, because that is how I choose to answer for the people placed under me. Whether you asked for it changes nothing about that.” He paused. The next question was simple. “What is your name?”
 
 The answer came after a brief stillness, as if the giving of it required a decision of its own.
 
@@ -60,8 +68,8 @@ Lucian considered the sound of it.
 
 He did not ask permission. The shortened name was simply stated, as if the matter of length had decided it and the preference required no further discussion. He turned and continued up the passage toward the higher levels of the keep.
 
-Behind him, Cazius remained where he was for a moment longer. The face-cloth hid whatever passed across his expression. The perfectionist who had been shielded by the young lord of the house, and then given a private, shortened name without ceremony, did not speak. Something in the bearing, however, eased by a fraction — a quiet, closely held acceptance that the orphan raised inside the Guard would not have known how to put into words. The name settled. He did not reject it.
+Behind him, Cazius remained where he was for a moment longer. The face-cloth hid whatever passed across his expression. The perfectionist who had been shielded by the young lord of the house, and then given a private, shortened name without ceremony, did not speak. Something in the bearing, however, eased by a fraction — a quiet, closely held acceptance that the orphan raised inside the Guard would not have known how to put into words. He had answered to a great many names inside this house's structure, none of them his own choosing and none of them offered with anything resembling the plain, unbothered ease of the one just given him. The name settled. He did not reject it.
 
-Lucian climbed the older corridors with the same measured pace he always used. The residual cold fatigue of the Veil sense faded by degrees as he rose toward the more familiar levels of Blackspire. The mission was complete. The contact and the materials were in the house’s hands. A mistake had been made and answered for. A name had been given and shortened.
+Lucian climbed the older corridors with the same measured pace he always used. The residual cold fatigue of the Veil sense faded by degrees as he rose toward the more familiar levels of Blackspire. The mission was complete. The contact and the materials were in the house’s hands. A mistake had been made and answered for. A name had been given and shortened. He did not think, climbing, that the exchange would matter beyond the night it happened — one covered face among the many the Guard's discipline kept deliberately interchangeable, a name he had given without any particular weight attached to the giving. It was, in the ordinary architecture of his days, a small thing, already beginning to settle into the same place as everything else he carried without examining closely.
 
 He did not look back.
