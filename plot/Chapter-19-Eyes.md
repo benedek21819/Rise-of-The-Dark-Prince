@@ -6,17 +6,25 @@ Cole had the formal black laid out before Lucian reached his chambers, as though
 
 “So it is said, young lord.” Cole fastened the collar with quick, exact hands. “Lord Vesper has asked that you not be late.”
 
+“And Lady Orlena.”
+
+“Already seated, I am told, which is its own kind of message before a single word is spoken in that hall.” Something careful entered Cole's voice, the particular tone of a steward who had learned exactly how much could be said aloud in this house and how much could not. “Whatever this visit is, young lord, it did not arrive on a day either of your parents chose for it.”
+
 Lucian did not ask why the envoy had come early, or why a steward of the royal household had been sent alongside the princess's own retinue rather than leaving so small a visit to her family's private arrangements alone. He had learned that questions asked while being dressed rarely earned better answers than questions asked anywhere else in Blackspire. He held still, let Cole finish, and walked the cold corridor toward the lesser formal hall with the ache from the terrace still faint behind his eyes and the shape of what he had sensed there still unresolved beneath it.
 
 The hall was smaller than the great chamber, chosen, Lucian understood without being told, because the great hall would have said more than his father intended to say this early. Vesper stood near the head of it, dressed in the plain severity that passed for formality in Blackspire. Lady Orlena occupied a chair near the wall, upright and unhurried, watching the door the way she watched everything — as an account already half-taken. Vesper gave his son a single measuring look, took in the black, the collar, the composed stillness Cole had built into him in under an hour, and returned his attention to the door.
 
 “The King sent his own steward, not merely the girl's household,” Vesper said, low enough that it was meant for Lucian alone. “Whatever is said in this room, you will hear more in what is not said. Watch the steward. He speaks for the King's purposes before he speaks for the girl he escorts.”
 
+“Why did the King himself not come. Or the Queen.”
+
+“Because neither of them can leave the capital unwatched for the length of such a journey, not with the heir as restless in his ambitions as he is, and because neither of them needed to.” Vesper's gaze did not waver from the door. “The Ascend asks a great deal of anyone unused to it — the cold, the climb, weather that can close it for days at a time — but under our own escort it is among the safest roads in this kingdom, not the most dangerous. No hostile force has ever reached it, and our people know its moods well enough to turn a party back before the mountain can do more than inconvenience them. The King trusts that fact more than he trusts most of his own household guard. It is one of the few forms of trust between our two houses that has never once been tested and found wanting.”
+
 “Yes, Father.”
 
 The doors opened.
 
-The party entered in loose order — an escort first, cloaks marked by the cold of the Ascend, then a steward in formal grey trimmed with Kaelarion crimson, then the rest, voices already dropping to the low register visitors learned quickly to keep in this house. The steward reached the center of the floor and bowed with the exact, practiced depth of a man who had rehearsed the same bow in a dozen halls colder than this one.
+The party entered in loose order — an escort first, cloaks marked by the cold of the Ascend, then a steward in formal grey trimmed with Kaelarion crimson, then the rest, voices already dropping to the low register visitors learned quickly to keep in this house. Behind the steward came two attendants Lucian did not recognize, a physician by the look of the case one of them carried close against her body, and an older man in scholar's dark who studied the hall's carved stone with open, unguarded interest rather than the careful blankness the rest of the party wore — someone brought, Lucian guessed, to record whatever might be worth recording of a place so rarely opened to outside eyes. The steward reached the center of the floor and bowed with the exact, practiced depth of a man who had rehearsed the same bow in a dozen halls colder than this one.
 
 “Lord Vesper Caldarion. By the King's word, House Kaelarion presents itself under the old agreement, and asks the House of Caldarion's welcome.”
 
@@ -58,4 +66,6 @@ He did not hear all of them.
 
 Some part of his attention remained on the small figure a few steps back from the steward, pale hair catching the window light, eyes that had not looked away first even when they should have known to. He did not think of the Veil again that evening. But later, in the quiet before sleep, it was not the unresolved shape from the terrace that stayed with him, and it was not the flat sentence about the crown and the betrothal either.
 
-It was the color of her eyes, and the plain, unguarded question that had come before her name.
+It was the color of her eyes, and the plain, unguarded question that had come before her name. He turned the whole of the hall over once more, the way Vesper had taught him to turn over anything unfamiliar before deciding what it meant — the steward's careful bow, Orlena's stillness, his father's brief, exact answers — and found that none of it held his attention the way the girl's single, simple question had. *Are you the one with the dragon.* Not his title. Not the betrothal, or the treaty it stood in for, or any of the careful architecture the rest of the room had built around her arrival. Only that, asked as though it were the only fact about him worth knowing at all.
+
+He did not yet have a word for what unsettled him about how easily she had asked it, only the plain, private certainty that no one else who had ever stood in that hall — not envoy, not steward, not any of the lesser nobles who occasionally passed through Blackspire's gates — had ever once thought to ask him anything half so honest.
