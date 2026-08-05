@@ -1,6 +1,6 @@
 # Chapter 63: Kindled
 
-The lower training hall had taken on a different character since Dawn's numbers had grown past the first uncertain dozen, and Lucian found, crossing it toward the assembled ranks with Cazius a half-step behind him, that he no longer noticed the transition from ordinary corridor to Guard's ground the way he once had. It had simply become one more place in this house that answered to him.
+The Shadow Guard's own sealed training ground had taken on a different character since Dawn's numbers had grown past the first uncertain dozen, and Lucian found, crossing it toward the assembled ranks with Cazius a half-step behind him, that he no longer noticed the transition from the ordinary corridors above into the Guard's own restricted ground the way he once had. It had simply become one more place in this house that answered to him.
 
 "Thirty-one, present and accounted for," Cazius said, low enough that it carried only between them. "Four more finishing a final assessment in the lower caverns that could not be moved without costing them the evaluation entirely. I did not think the delay worth troubling you over."
 
