@@ -86,6 +86,17 @@ Cazius met Lucian exactly once, briefly, as a masked operative in Chapter 16 ("V
 
 **Status:** fully outlined and agreed with the author; drafting has not yet begun as of Chapter 60. Do not start Chapter 61 until the author explicitly asks to begin.
 
+**Timing — the war does not start immediately from Ch.60.** The author wants roughly one more year of story time before the war actually breaks out, so Lucian is ~18 (not ~16-17) when it begins — reads as more credible commanding real forces at that age. This year is open story space, not a blank skip: strong candidates to fill it include the still-unresolved Vaelmar wedding terms/ceremony (Ch.59 left the terms unnegotiated), continued Dawn recruitment, and further Domain/Absence training, rather than a single undifferentiated time-skip line.
+
+## Age Progression Target — Lucian's Path to Arcanor
+The author wants Lucian to make the "Return" trip to Arcanor (see Reserved Chapter Titles above) at around **22-23 years old**, not sooner. As of Chapter 60 he is ~16-17 (tracked continuously since Ch.41). The author prefers **multiple shorter time skips distributed across several arcs** rather than one large jump to close that ~5-6 year gap. Rough, deliberately loose shape (subject to change as each arc is actually written):
+- **~1 year before the Dravenhall war arc begins** (see above) — Lucian ~17 → ~18 at the war's outbreak.
+- **War arc + immediate aftermath**: weeks to a few months — stays ~18.
+- **Dawn's formation completing** (~2 years, already established, includes Cazius's reveal): ~18 → ~20.
+- **Sisters of the Current's arrival and its fallout**: plausibly its own multi-stage arc rather than a single event — ~20 → ~21-22.
+- **Remaining stretch** (Lucian and Seren's own eventual marriage, final political consolidation, whatever else lands in between): ~21-22 → 22-23, arriving naturally at the Arcanor trip.
+This is a planning reference only, not a locked schedule — revisit and adjust as each arc actually generates its own material.
+
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]
 
