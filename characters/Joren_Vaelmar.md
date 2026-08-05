@@ -1,10 +1,10 @@
 # Lord Joren Vaelmar
 
 **Full Name:** Lord Joren Vaelmar  
-**Titles:** Heir of House Vaelmar  
+**Titles:** Heir of House Vaelmar; husband of Lady Lyra Vaelmar (née Caldarion) as of Chapter 61 ("Vow")  
 **Affiliation:** House Vaelmar  
 **Relation:** Son of Lord Ellard Vaelmar and Lady Meret Vaelmar  
-**Age:** 24 — three years older than Lyra Caldarion (21)  
+**Age:** 24 — three years older than Lyra Caldarion (21), ~25 as of the wedding  
 **Status:** Alive
 
 **Concept:** His father's restoration dream, quietly rewritten into something more personal  
@@ -23,4 +23,4 @@ Ambitious, impatient, and genuinely capable — every bit his father's son in wh
 - **Lady Meret Vaelmar** (mother): Closer to her steadiness than to his father's restlessness in temperament, though his ambition is entirely his own rather than inherited from her. She neither encourages nor discourages his impatience, the same even hand she gives Ellard.
 - **Lord Dunstan Vaelmar** (uncle): Cordial rather than warm. Dunstan views him as living proof of everything he warned the house about when he lost the succession to Ellard — the same ambition, inherited and sharpened rather than tempered by another generation, though Dunstan has never guessed how little of that ambition is actually aimed at power.
 
-**Role in Story:** A second generation carrying House Vaelmar's restoration ambition forward in a shape his own father does not fully recognize — useful if the story ever needs Vaelmar to actually take a risk toward Arcanor rather than simply hope for one, since Joren is both the more plausible candidate to push past decades of careful waiting and the one who would want to go himself rather than simply send ships. He formally sought Lyra Caldarion's hand in Chapter 52 ("Anchor"), met her in person in Chapter 55 ("Horizon"), spent his Blackspire visit earning an honest read from her and from Lucian (Ch.56, "Measure"), and hosted her at Vaelmar's own seat for two months before she accepted his proposal by letter (Ch.59, "Answer"). Formal terms between the two houses are now being arranged; no wedding date or location fixed yet.
+**Role in Story:** A second generation carrying House Vaelmar's restoration ambition forward in a shape his own father does not fully recognize — useful if the story ever needs Vaelmar to actually take a risk toward Arcanor rather than simply hope for one, since Joren is both the more plausible candidate to push past decades of careful waiting and the one who would want to go himself rather than simply send ships. He formally sought Lyra Caldarion's hand in Chapter 52 ("Anchor"), met her in person in Chapter 55 ("Horizon"), spent his Blackspire visit earning an honest read from her and from Lucian (Ch.56, "Measure"), and hosted her at Vaelmar's own seat for two months before she accepted his proposal by letter (Ch.59, "Answer"). They married roughly a year later at Vaelmar's seat, Tidewatch, with the whole Caldarion family present (Ch.61, "Vow") — his vows there plainly matched everything established about him: unpolished, entirely sincere, framed around finding someone who wanted something as openly as he's always wanted the sea.

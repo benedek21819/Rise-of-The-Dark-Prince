@@ -41,6 +41,8 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 **Chapter 52 onward (Anchor):** A small time skip of about two months past Chapter 51. Ages not meaningfully changed by a skip this short; tracked here for continuity only.
 
+**Chapter 61 (Vow):** A near-full-year time skip from Chapter 60 — Lucian is now close to 18. Selene, Riven, and Thorne are correspondingly about a year older as well (Selene ~12-13, twins ~17). This is the first chapter of the ~1-year pre-war period; the Dravenhall war arc (see "Planned Arc" below) begins from around here, with Lucian at ~18 as the author wanted.
+
 ## Open Questions
 - [What still needs figuring out?]
 
@@ -52,7 +54,7 @@ Cazius met Lucian exactly once, briefly, as a masked operative in Chapter 16 ("V
 
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
-- **Lyra/Vaelmar marriage thread — resolved through acceptance, terms still open.** Lyra accepted Joren's proposal by letter in Chapter 59 ("Answer") after two months at Vaelmar's own seat. Formal terms between the two houses (dowry, wedding date/location) have not yet been negotiated or shown on-page — a loose thread available whenever the story wants to return to it, likely after the Dravenhall war arc below.
+- **Lyra/Vaelmar marriage thread — fully closed.** Lyra accepted Joren's proposal in Ch.59 ("Answer"); they married at Vaelmar's own seat (Tidewatch) in Ch.61 ("Vow"), roughly a year later, with the whole Caldarion family present. Terms negotiation happened off-page during the intervening year. Thread complete.
 
 ## Planned Arc — The Dravenhall War (not yet started; begins Chapter 61+)
 

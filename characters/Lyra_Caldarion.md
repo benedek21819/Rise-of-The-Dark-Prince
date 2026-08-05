@@ -1,9 +1,9 @@
 # Lady Lyra Caldarion
 
 **Full Name:** Lady Lyra Caldarion  
-**Titles:** Eldest child of Lord Vesper Caldarion, older half-sister of Lucian  
+**Titles:** Eldest child of Lord Vesper Caldarion, older half-sister of Lucian; Lady of House Vaelmar by marriage as of Chapter 61 ("Vow")  
 **Birth Year:** 1033 IE  
-**Age:** 5 years older than Lucian — currently 21, as of Chapter 49 ("Match")  
+**Age:** 5 years older than Lucian — 21 as of Chapter 49 ("Match"), ~22 as of her wedding in Chapter 61  
 **Mother:** Lady Mira (first concubine)  
 **Status:** Alive
 
@@ -22,7 +22,7 @@ Because of her beauty, intelligence, grace, and bloodline, Lyra is widely regard
 
 She herself has little interest in such a marriage. She prefers to remain within her family and does not want her life reduced to a political tool. This creates quiet tension between her personal wishes and the potential needs of the house.
 
-As of Chapter 52 ("Anchor"), the pressure became a concrete offer: **Joren Vaelmar** (24, three years older than Lyra), heir of House Vaelmar, formally sought her hand, writing beneath his father Ellard's seal — not her first offer (Vesper had quietly declined lesser ones on her behalf for years without ever telling her), but the first her father judged worth bringing to her directly. She refused to accept or refuse him on the strength of a letter alone, met him in person (Ch.55, "Horizon"), spent time actually getting to know him during his visit (Ch.56, "Measure"), and traveled to Vaelmar's own seat with Lady Mira and a full escort to judge him and his home on equal footing (Ch.58, "Watch") before finally accepting his proposal by letter after two months there (Ch.59, "Answer") — the whole decision made entirely on her own terms, exactly as she insisted from the start. Formal terms between the two houses are still being arranged; no wedding date or location has been fixed yet.
+As of Chapter 52 ("Anchor"), the pressure became a concrete offer: **Joren Vaelmar** (24, three years older than Lyra), heir of House Vaelmar, formally sought her hand, writing beneath his father Ellard's seal — not her first offer (Vesper had quietly declined lesser ones on her behalf for years without ever telling her), but the first her father judged worth bringing to her directly. She refused to accept or refuse him on the strength of a letter alone, met him in person (Ch.55, "Horizon"), spent time actually getting to know him during his visit (Ch.56, "Measure"), and traveled to Vaelmar's own seat with Lady Mira and a full escort to judge him and his home on equal footing (Ch.58, "Watch") before finally accepting his proposal by letter after two months there (Ch.59, "Answer") — the whole decision made entirely on her own terms, exactly as she insisted from the start. She and Joren married roughly a year later at Vaelmar's own seat, **Tidewatch**, with the whole Caldarion family present (Ch.61, "Vow"). Now formally Lady of House Vaelmar, though her ties to House Caldarion remain as close as ever.
 
 **Key Relationships:**
 - **Lucian Caldarion**: Deeply affectionate and protective toward him. One of the few people who can still reach the warmer side of Lucian. She treats him both as a younger brother and as the future head of the house. She quietly worries about how cold and isolated he is becoming. She often helps him with his appearance and presentation, believing the heir should always look the part.
