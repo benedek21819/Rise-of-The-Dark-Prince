@@ -20,7 +20,7 @@ A ripple moved through the assembled ranks, controlled but real — not fear, Lu
 
 "Questions on the assignment go to Commander Cazius," Lucian said. "He will bring me whatever he judges worth my direct attention. I do not expect any of you to make that judgment alone."
 
-Cazius stepped forward at that, addressing the ranks directly for the first time. "Watch teams will be reassigned by pairs before evening. Those already posted along the Ascend's lower checkpoints will hold their positions and simply widen their attention outward. Those newly assigned to Firsthold's markets will report to the steward's own household for cover placement, not to the garrison — I do not want thirty-five faces suddenly recognizable to anyone paying attention to who wears Caldarion colors this month. Discretion is not a suggestion in this assignment. It is the entire point of it."
+Cazius stepped forward at that, addressing the ranks directly for the first time. "Watch teams will be reassigned by pairs before evening. Those already posted along the Ascend's lower checkpoints will hold their positions and simply widen their attention outward. Those newly assigned to Firsthold's markets will report to the steward's own household for cover placement, not to the garrison — I do not want thirty-five new faces suddenly recognizable to anyone paying close attention to who comes and goes from that quarter this month. Discretion is not a suggestion in this assignment. It is the entire point of it."
 
 "And if something is found that will not wait for the weekly collation," a voice near the back asked.
 
