@@ -90,8 +90,8 @@ Elite open military force of House Caldarion. Approximately 250 members. Respons
 **Type**: Elite covert force of House Caldarion  
 **Current Size**: 50 members, entirely under Lord Vesper's direct command — Lucian has not yet been given command of any portion of the Guard.  
 **Two Divisions**: Once the expansion below is complete, the Shadow Guard will consist of two named divisions rather than one undifferentiated force — **Dusk** (Vesper's original 50, already seasoned and deep into the Guard's work) and **Dawn** (Lucian's new 50, still forming). Both remain part of the single Shadow Guard; the names distinguish the two chains of command, not two separate organizations.  
-**Expansion (set in motion Chapter 51, "Oversight")**: Following the discovery of Serris's coercion (Ch.50), Vesper judged the Guard's existing size and the house's vetting practices insufficient and committed to doubling the Shadow Guard to 100 members. Dawn is not being built as 50 brand-new recruits alone: Vesper gave Lucian a handful of young, high-potential operatives transferred out of Dusk to build the new unit's core around (Ch.58, "Watch"), seasoned enough to anchor the freshly recruited trainees Lucian is separately reviewing and training (see Ch.53 "Judgment") without yet being senior enough to hold a rank like Cazius's own. The whole process is expected to take a couple of years given the demands of the training itself, and Dawn will be placed under **Lucian's** direct command once fully formed and organized. Dawn does not yet exist as an operational force.  
-**Shadow Commander of Dawn (projected)**: **Cazius**, currently ranked Night Captain within Dusk (see `characters/Cazius.md`), is expected — given his established trajectory as a once-in-a-generation talent — to rise to Shadow Commander of Dawn by the time it is ready, reporting directly to Lucian. Not yet formalized; this is the anticipated outcome of the expansion, not a completed fact.  
+**Expansion (set in motion Chapter 51, "Oversight")**: Following the discovery of Serris's coercion (Ch.50), Vesper judged the Guard's existing size and the house's vetting practices insufficient and committed to doubling the Shadow Guard to 100 members. Dawn is not being built as 50 brand-new recruits alone: Vesper gave Lucian a handful of young, high-potential operatives transferred out of Dusk to build the new unit's core around (Ch.58, "Watch"), seasoned enough to anchor the freshly recruited trainees Lucian is separately reviewing and training (see Ch.53 "Judgment"). As of Chapter 63, roughly a year and a half into the process, Dawn is still incomplete but has a real, working command structure under **Cazius**, promoted to Shadow Commander ahead of full completion because the buildup itself needed active leadership rather than waiting for a ceremony. Dawn will pass to **Lucian's** full direct command once fully formed and organized, but is already functioning under Cazius day-to-day, with Lucian closely involved.  
+**Shadow Commander of Dawn**: **Cazius** (see `characters/Cazius.md`) — no longer projected, a completed fact as of Ch.63. Reports directly to Lucian.  
 **Role**: Assassination, intelligence, infiltration, and the silent elimination of threats
 
 **Identity**  
@@ -105,7 +105,7 @@ The Shadow Guard is organized into small, tightly controlled cells of 5–8 memb
 - Each cell is led by a **Cell Leader**.  
 - Cell Leaders report to a small number of senior officers.  
 - Only the highest ranks have a full picture of ongoing operations.  
-- Currently, Vesper sits at the top of Dusk as overall commander. Once Dawn is formed, Lucian will sit at the top of that division specifically, with Cazius (projected) as its Shadow Commander handling day-to-day operations.
+- Vesper sits at the top of Dusk as overall commander. Lucian sits at the top of Dawn, still forming, with Cazius as its Shadow Commander handling day-to-day operations as of Ch.63.
 
 This structure limits damage if a single cell is exposed and reinforces secrecy.
 
@@ -113,8 +113,8 @@ This structure limits damage if a single cell is exposed and reinforces secrecy.
 - Shadow
 - Blade
 - Wraith
-- Night Captain (Cazius's current rank, within Dusk)
-- Shadow Commander (projected future rank for Cazius, once Dawn is formed)
+- Night Captain (Cazius's rank before his promotion)
+- Shadow Commander (Cazius's current rank, commanding Dawn as of Ch.63)
 
 **Selection & Training**  
 Members are recruited young from loyal lesser families, orphans raised under the house's protection, or exceptional individuals identified for their potential — men only, per long-standing Guard tradition, the same as the Silver Guard. Training is secretive and extremely demanding, focusing on:
@@ -143,7 +143,7 @@ Failure rates are high. Those who do not complete the training rarely speak of w
 **Relationship to Other Forces**  
 - **Silver Guard**: Mutual respect mixed with distance. The Silver Guard is the house’s public strength; the Shadow Guard is its private necessity.
 - **Lord Vesper**: Retains ultimate authority over the house and, currently, direct command of the entire existing Shadow Guard. Will retain command of Dusk even after Dawn is formed and handed to Lucian.
-- **Lucian**: Not yet a commander of either division. Met Cazius exactly once, as a masked operative on a single night mission in Chapter 16 ("Veil") at age ~11 — took the blame for his error, learned his name, and shortened it to Caz — but nothing has come of it since; Lucian has no current, conscious awareness that this operative exists or has risen through the ranks. Per standing story doctrine, Cazius stays off-page and unnamed-in-any-active-sense to Lucian from that point until he is formally revealed as Shadow Commander of Dawn. Lucian is involved in recruitment for Dawn as of Chapter 51, with operational command of that division to be entrusted to him once it is fully formed and organized. The private familiarity of Lucian addressing him as **Caz** resumes only once that reveal happens.
+- **Lucian**: Not yet the full formal commander of Dawn (still forming), but closely involved in building it since Chapter 51, and by Chapter 63 has an established, working relationship with Cazius, its Shadow Commander — addressing him as **Caz** in regular use. This grew off-page over the roughly year-and-a-half between Ch.51 and Ch.63; the single Ch.16 encounter is its quiet origin but is settled history by now, not a live discovery. The standing "unnamed and off-page" doctrine applied only up through that point — it is resolved as of Ch.63.
 
 **Story Role**  
 The Shadow Guard, once Lucian is given command of its second unit, will give him a direct, deniable, and highly effective tool. Their existence raises moral and political questions as he begins to use them more actively. They also represent the darker, more pragmatic side of House Caldarion’s power.
