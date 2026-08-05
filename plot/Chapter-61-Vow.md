@@ -20,11 +20,11 @@ Lyra was waiting on the docks when they came ashore, Mira beside her — she had
 
 Mira waited for the reunion to run its own course before she stepped forward, and whatever quiet composure a year of watching her daughter build this new life had settled into her gave way, for just a moment, into something closer to open feeling. She said nothing for a long moment, only held her, and when she finally spoke it was quiet enough that only Lyra was meant to hear it, though Lucian caught the shape of it standing near.
 
-"I spent one-and-twenty years watching you make yourself smaller than you were, for this family's sake," Mira said. "I did not raise you to disappear into someone else's comfort. I raised you to be seen exactly as you are, by someone who actually deserved the seeing. I do not think I have ever been prouder of anything than watching you finally get that for yourself."
+"Look at you," Mira said, quiet and unsteady in a way she rarely allowed herself to be. "I am so proud of you I do not entirely trust myself to say much more than that right now."
 
-"You told me that once before, a long time ago. I did not fully believe it then."
+"That is more than enough." Lyra held her a moment longer, then drew back, something bright still sitting in her eyes. "You can say the rest of it later, when there is not an entire dock full of people waiting on us."
 
-"I know. I am telling you again now, because I think you are finally ready to hear it as something true rather than something hopeful." Mira drew back, studying her daughter's face with the same careful attention she gave everything that mattered to her. "Go. Be married. I will not keep you standing on a dock a moment longer than courtesy already has."
+"I intend to." Mira's composure resettled, though the warmth beneath it did not fully leave her face. "Go. Be married. I will not keep you standing here a moment longer than courtesy already has."
 
 The rest of the family closed the distance more slowly, and Lucian, reaching her last, found that she stepped into him the same way she had a year ago at Blackspire's own gate, entirely without needing either of them to arrange it.
 
