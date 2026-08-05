@@ -18,6 +18,14 @@ Lyra was waiting on the docks when they came ashore, and whatever composure the 
 
 "I believed the numbers. I simply did not believe how much taller they would feel, standing here." She held Selene at arm's length, studying her the way she studied everything that mattered, and then pulled her back in, tighter this time. "I missed you more than any letter managed to say properly."
 
+Mira reached her before the rest, and whatever composure she had worn on the ship's deck gave way entirely the moment her daughter was actually within reach. She said nothing for a long moment, only held her, and when she finally spoke it was quiet enough that only Lyra was meant to hear it, though Lucian caught the shape of it standing near.
+
+"I spent one-and-twenty years watching you make yourself smaller than you were, for this family's sake," Mira said. "I did not raise you to disappear into someone else's comfort. I raised you to be seen exactly as you are, by someone who actually deserved the seeing. I do not think I have ever been prouder of anything than watching you finally get that for yourself."
+
+"You told me that once before, a long time ago. I did not fully believe it then."
+
+"I know. I am telling you again now, because I think you are finally ready to hear it as something true rather than something hopeful." Mira drew back, studying her daughter's face with the same careful attention she gave everything that mattered to her. "Go. Be married. I will not keep you standing on a dock a moment longer than courtesy already has."
+
 The rest of the family closed the distance more slowly, and Lucian, reaching her last, found that she stepped into him the same way she had a year ago at Blackspire's own gate, entirely without needing either of them to arrange it.
 
 "You look well," he said, holding her.
@@ -36,7 +44,17 @@ Lyra's answer was quieter, meant more for him than for the gathered houses watch
 
 Selene cried during the exchange of the rings, unashamedly and without any of her usual bravado about it, and Lucian, standing beside her with a hand resting lightly on her shoulder, found that he did not entirely trust his own composure either.
 
-Afterward, with the formal part of the evening dissolving into the easier warmth of a real celebration — Vaelmar's own musicians filling the terrace, Riven attempting and largely failing to master some local dance under Meret's patient instruction, Vesper and Ellard deep in a conversation that had plainly moved past politics into something closer to real regard — Lucian found himself standing apart at the terrace's edge, looking out over a harbor lit gold and orange by lanterns strung along a hundred masts.
+Afterward, with the formal part of the evening dissolving into the easier warmth of a real celebration — Vaelmar's own musicians filling the terrace, Riven attempting and largely failing to master some local dance under Meret's patient instruction, Vesper and Ellard deep in a conversation that had plainly moved past politics into something closer to real regard — Lucian found Dain still standing near the terrace's edge, a cup in hand he had plainly not touched, watching the dancing with the wary attentiveness of a man assessing a threat he could not quite name.
+
+"You look like a man waiting for the room to attack him," Lucian said, joining him.
+
+"I have commanded field engagements with less uncertainty in me than I currently feel." Dain's gaze did not leave the dancers. "I do not know the steps. I do not know the songs. I am fairly certain Lady Meret intends to ask me to attempt both before the night is finished, and I have not yet decided whether refusing her would be more or less dangerous than trying."
+
+"You could simply ask Sable. She seems to have found her own footing in it already."
+
+"I noticed. I am choosing, for the moment, to be a coward about it instead." Something almost fond crossed his usually severe face, watching the twins across the terrace. "It is a good evening regardless of my own comfort in it. I do not begrudge it that."
+
+Some while later, Lucian found himself standing apart at the terrace's edge, looking out over a harbor lit gold and orange by lanterns strung along a hundred masts.
 
 "You are doing the quiet thing," Selene said, arriving at his elbow the way she always did when she judged him to have wandered too far into his own thoughts.
 
