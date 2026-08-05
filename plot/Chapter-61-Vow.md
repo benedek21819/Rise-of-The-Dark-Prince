@@ -18,13 +18,9 @@ Lyra was waiting on the docks when they came ashore, Mira beside her — she had
 
 "I believed the numbers. I simply did not believe how much taller they would feel, standing here." She held Selene at arm's length, studying her the way she studied everything that mattered, and then pulled her back in, tighter this time. "I missed you more than any letter managed to say properly."
 
-Mira waited for the reunion to run its own course before she stepped forward, and whatever quiet composure a year of watching her daughter build this new life had settled into her gave way, for just a moment, into something closer to open feeling. She said nothing for a long moment, only held her, and when she finally spoke it was quiet enough that only Lyra was meant to hear it, though Lucian caught the shape of it standing near.
+Mira, closer to hand than the rest for having spent the year at her daughter's side, only touched Lyra's arm and smiled, the easy, unhurried warmth of two people with nothing left between them that a single dockside moment needed to say.
 
-"Look at you," Mira said, quiet and unsteady in a way she rarely allowed herself to be. "I am so proud of you I do not entirely trust myself to say much more than that right now."
-
-"That is more than enough." Lyra held her a moment longer, then drew back, something bright still sitting in her eyes. "You can say the rest of it later, when there is not an entire dock full of people waiting on us."
-
-"I intend to." Mira's composure resettled, though the warmth beneath it did not fully leave her face. "Go. Be married. I will not keep you standing here a moment longer than courtesy already has."
+"Go greet the rest of them properly," Mira said. "I have had you to myself all year. I can share you for one afternoon."
 
 The rest of the family closed the distance more slowly, and Lucian, reaching her last, found that she stepped into him the same way she had a year ago at Blackspire's own gate, entirely without needing either of them to arrange it.
 
