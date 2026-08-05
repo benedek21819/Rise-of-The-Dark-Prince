@@ -1,10 +1,12 @@
 # Chapter 63: Kindled
 
-Lucian found, crossing the Shadow Guard's own sealed training ground toward the assembled ranks with Cazius a half-step behind him, that he no longer noticed the transition from the ordinary corridors above into the Guard's own restricted ground the way he once had. It had simply become one more place in this house that answered to him.
+Lucian found, crossing the Shadow Guard's own sealed training ground toward the assembled ranks, that he no longer noticed the transition from the ordinary corridors above into the Guard's own restricted ground the way he once had. It had simply become one more place in this house that answered to him.
 
-"Thirty-one, present and accounted for," Cazius said, low enough that it carried only between them. "Four more finishing a final assessment in the lower caverns that could not be moved without costing them the evaluation entirely. I did not think the delay worth troubling you over."
+The Shadow Commander of Dawn was already waiting near the ranks' edge when he arrived, and came to a precise, unhurried stop before him, offering the report with the exact, economical formality he gave every report, regardless of who stood to receive it.
 
-"You were right not to." Lucian glanced sidelong at him, the easy, unhurried familiarity of a working relationship that had long since stopped needing to prove itself to either of them. "How are they holding, honestly, not the report version."
+"Shadow Commander, reporting as summoned. Thirty-one present and accounted for. Four more finishing a final assessment in the lower caverns that could not be moved without costing them the evaluation entirely. I did not think the delay worth troubling you over."
+
+"Caz." Lucian's answer came without any of the formality the report itself had carried, the easy, unhurried familiarity of a working relationship that had long since stopped needing to prove itself to either of them. "You were right not to. How are they holding, honestly, not the report version."
 
 "Honestly, they are readier than the ledger says and less ready than I would like, which is the ordinary condition of anything built this quickly." Something almost wry crossed Cazius's otherwise composed face. "You did not come down here to ask me that, though."
 
