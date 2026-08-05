@@ -53,8 +53,7 @@ Lucian sat with the letter a long while after his father had gone, in the partic
 
 *Write again soon. I intend to actually answer it this time, at the length it deserves.*
 
-*Yours —*
-*Lucian*
+*— Lucian*
 
 He sealed it before he could talk himself into trimming it down to the kind of careful, guarded brevity that had become his habit without his quite noticing when it had, and found, handing it to Cole for the morning courier, that he did not regret a single unshortened line of it.
 
