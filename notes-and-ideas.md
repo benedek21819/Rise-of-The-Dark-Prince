@@ -52,7 +52,39 @@ Cazius met Lucian exactly once, briefly, as a masked operative in Chapter 16 ("V
 
 ## Cool Scene Ideas
 - [List vivid scenes you want to write someday]
-- **Orlena proposing marriage options for Lyra.** Live since Chapter 49 ("Match"). As of Chapter 52 ("Anchor"), a concrete offer has finally arrived: House Vaelmar, on behalf of heir **Joren Vaelmar**, has formally sought Lyra's hand. Lyra has not accepted or refused — she intends to actually meet Joren before deciding anything. Selene's fear of losing her sister is now an open, on-page thread as well. Still unresolved; future chapters should either bring Joren on-page for Lyra to actually meet, or continue the household's deliberation.
+- **Lyra/Vaelmar marriage thread — resolved through acceptance, terms still open.** Lyra accepted Joren's proposal by letter in Chapter 59 ("Answer") after two months at Vaelmar's own seat. Formal terms between the two houses (dowry, wedding date/location) have not yet been negotiated or shown on-page — a loose thread available whenever the story wants to return to it, likely after the Dravenhall war arc below.
+
+## Planned Arc — The Dravenhall War (not yet started; begins Chapter 61+)
+
+**Purpose:** this arc is intended as the structural transition point from Kaelor-only, domestic-scale stakes into the wider world — it closes out the last plausible internal rival to Caldarion within Kaelor, forcing Caldarion's true strength (including Morvath) into the open, right before the Sisters of the Current's eventual arrival raises the stakes to a mainland/global scale. The two arcs are deliberately **not** causally linked (no shared trigger, no Veil-disturbance connecting them) — they are thematically parallel, back-to-back escalations, not one causing the other.
+
+**Causal chain / trigger:**
+1. House Dravenhall has spent years secretly, rapidly building its army — not the most professional or best-equipped force in Kaelor (Caldarion remains unambiguously superior on that count) but now the largest by raw numbers on the continent. This explains Roderic Dravenhall's growing boldness in "recent years" independent of the exposure risk below — the buildup, not the exposure, is the real reason he's finally ready to act.
+2. King Aldric has long suspected Dravenhall's rearmament but lacked proof. Between Isolde's private cooperation with Vesper (paying off her Ch.47-48 thread) and the Crown's Eyes' own work, he finally gets confirmation of both the Corvane coin-trail *and* the scale of the buildup.
+3. Aldric flies to Blackspire himself, personally, on House Kaelarion's own dragon (established but unused fact: Kaelarion owns one dragon) — bypassing normal channels for speed and secrecy, to warn Vesper directly.
+4. Dravenhall has spies planted in the capital under the natural cover Isolde's presence provides — without her knowledge or complicity (she stays genuinely, sincerely uninvolved; her family exploiting her position without her awareness is the intended irony, not a betrayal on her part). The King's dragon visibly leaving the capital, heading north, is what tips Roderic off — he doesn't need the details, only that Aldric is moving urgently on Caldarion's behalf.
+5. Roderic decides to strike immediately rather than wait: the buildup is far enough along, and waiting now costs more than it gains.
+
+**Roderic's actual strategy (not blind aggression):**
+- Ground forces besiege Firsthold as a deliberate diversion — fixing Caldarion's attention and forces on defending the valley.
+- Korrath strikes Blackspire directly while attention is fixed below — exploiting the one real gap in Caldarion's defenses: the keep is built to be unassailable by ground forces (the Ascend, checkpoints, Silver Guard) but has no answer to an aerial attack, since no rival has ever been positioned to test that weakness before.
+- From Roderic's own (incomplete) intelligence, this is a good bet, not a reckless one: he believes Caldarion has exactly one combat-relevant dragon (Lirath — aging, calm-tempered, not inclined to press an advantage), doesn't know Ancalion has grown as far as he has, and has no idea Morvath exists at all.
+
+**Sequence of events:**
+1. Lucian tells Vesper he's going to help defend Firsthold — not asking permission, informing him of a decision already made. Vesper says "Go." (Continues the session-long thread of Lucian's growing autonomy.)
+2. Lucian (on Ancalion) provides aerial support at Firsthold under **Dain's** ground command (Dain's established role as Warden of Firsthold/field commander).
+3. While Lucian is at Firsthold, Korrath strikes Blackspire. **Morvath** — kept hidden since the Last Continental War, his survival known only to Vesper and Aldric — senses the threat to **Lirath (established here as his mate)** and breaks cover first, before Vesper can even reach Lirath.
+4. Roderic immediately recognizes Morvath on sight (a documented war-era dragon believed dead alongside Ravorn) — not confusion, genuine recognition and horror that Caldarion has hidden him for over two decades.
+5. Roderic makes a deliberate, rational choice under pressure: he uses House Dravenhall's own hidden reserve — an ancient artifact from Dravenhall's days as actual royalty, sealed with a one-time-use **Commandment** to **flee** — on Morvath immediately, correctly judging that facing a nearly 300-year-old dragon without it is unacceptable risk. This burns his one guaranteed answer before Vesper or Lucian even arrive.
+6. Morvath is compelled, against his own will and pride, to break off and flee — a brutal, humiliating outcome, not a defeat in combat. He does not deliver a finishing blow to Korrath; his role is to (unknowingly) absorb Roderic's trump card, not to win the fight himself.
+7. Vesper reaches Lirath and engages Roderic and Korrath alone, genuinely outmatched and in real danger (Korrath is battle-bred, in his prime, undiminished; Lirath is powerful but calm-tempered, not built for this).
+8. Lucian spots the duel above Blackspire from Firsthold (plausible without an invented mechanism — Ch.16 already establishes mutual visibility between Firsthold and Blackspire's summit), disengages, and flies back.
+9. **Ancalion and Lirath together bring down Korrath.** Roderic is captured alive, not killed — preserving a political aftermath (trial, judgment, what happens to House Dravenhall) rather than closing the door with a clean kill.
+10. Aftermath: the political reshaping of Kaelor with Dravenhall broken and Caldarion's true strength now nakedly visible (including Morvath's exposure — Roderic and any surviving witnesses now know the truth, meaning this 20+ year secret cannot be un-revealed). Possible thread: this could be what finally forces the "House Kaelarion is technically a vassal to House Caldarion" secret closer to the surface, though that's not yet decided.
+
+**Commandments — worldbuilding note (see `world-building/magic-and-power-system.md` for the full, now-reconciled writeup):** Commandments were reconceived this session as a power **entirely separate from the Veil** — not an advanced form of Veilweaving, not something Lucian's own Veil/Domain training grows into, and critically, **undetectable by any Veil-based sense, including the Sisters of the Current.** The Sisters' own gift was correspondingly tightened: their core ability is perceiving possible futures, not general real-time awareness of magic or events; sensing another Veilseer's emergence specifically (how they found Seren) is a separate, rare sub-capability of the most powerful among them, not a byproduct of general Veil-sensing. Both changes were made specifically so the Dravenhall war and the Sisters' arrival could stay causally independent, and so the Sisters can't be read as an all-seeing Veil radar.
+
+**Status:** fully outlined and agreed with the author; drafting has not yet begun as of Chapter 60. Do not start Chapter 61 until the author explicitly asks to begin.
 
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]

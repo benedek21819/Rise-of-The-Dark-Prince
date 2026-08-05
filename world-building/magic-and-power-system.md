@@ -13,12 +13,20 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Hybrids**: Train both paths. Possible and versatile, but usually less effective than focusing on one path due to divided focus and slower mastery in each area.
 
 ## Rules, Limitations & Costs
-- **Hard Rules**:
+- **Hard Rules** (govern Veilweaving; Commandments are exempt — see dedicated section below):
   - Magic cannot create something from nothing — it must reshape existing energy or matter.
-  - All magic leaves a detectable trace in the Veil.
+  - All Veilweaving leaves a detectable trace in the Veil.
   - Dragons are the only beings that can safely channel large amounts of power without severe backlash.
 - **Costs & Risks**: Physical toll, Veilrot (madness, mutations, loss of humanity), emotional backlash, and spell instability.
 - **Taboos**: Soul-binding, raising the dead, and forced dragon bonding tear the Veil and invite catastrophic consequences.
+
+## Commandments — A Power Outside the Veil
+Commandments are not Veilweaving, not a specialization of it, and not something that grows out of Veil mastery or bloodline affinity — they are a separate, older, and far rarer power entirely, one the Veilweave system doesn't actually explain or govern. A person either has the innate, congenital capacity for a Commandment or does not; no amount of Veil training, Domain mastery, or bloodline strength converts one into the other, though the two gifts occasionally co-occur in the same rare individual by chance rather than by cause.
+
+- **What it does:** the user can compel another entity — including a dragon — to a specific action, with just their voice, bypassing physical resistance entirely.
+- **No Veil trace.** Because a Commandment does not draw on or pass through the Veil, it leaves none of the signature ordinary Veilweaving does. It cannot be sensed, tracked, or detected after the fact by Veilseers, the Sisters of the Current, or anyone else whose gift works through reading the Veil — including at the moment of use, regardless of scale or distance. This is a deliberate, hard limit: nothing about the setting's Veil-sensing abilities should ever be able to detect a Commandment being spoken.
+- **Extreme rarity and cost.** Proper use requires immense Will and control; misuse can backfire catastrophically on the user. Known Commandments in the world are typically singular and finite — a person or bloodline may hold exactly one specific Commandment, often sealed into an artifact or relic for a single, deliberate future use, rather than a renewable ability freely cast at will.
+- **Relationship to Lucian's own path:** his Shadow/Void Veil affinity and Domain potential are real, trainable, Veil-based gifts. Any future Commandment capacity he might have is a separate question entirely — not something his Veil training builds toward or unlocks, only something he either already carries in his blood or doesn't.
 
 ## Types of Magic / Abilities
 - **Shadow / Void Manipulation** (House Caldarion specialty) — Pulling power from the darker parts of the Veil. Some members of House Caldarion possess an ancient and unusually deep connection to the primordial darkness on the other side of the Veil. While outwardly it appears as a powerful form of normal Veilweaving, it is in truth something far older and more fundamental.
@@ -27,7 +35,8 @@ All users train in Veilweaving. Specialization is common but not mandatory:
 - **Arcane Weaving** (House Myrath specialty) — Scholarly study and preservation of ancient spells.
 - **Elemental Weaving** — Fire, water, wind, etc. (common in naval houses).
 - **Dragon Amplification** — Using a bonded dragon to dramatically boost power.
-- **Commandments** (Extremely Rare & Ancient): An innate, congenital form of magic. Users can **command other entities** (including dragons) with just their voice. Extremely dangerous because it bypasses physical damage. Proper use requires immense Will and control. Misuse can backfire catastrophically on the user.
+
+**Commandments are not a type of Veilweaving and sit outside this list entirely** — see the dedicated section below.
 
 ## The Still Blade — House Caldarion Combat Doctrine
 
@@ -90,7 +99,7 @@ The Shadow Guard also maintains its own techniques, derived from Still Blade log
 Where the Silver Guard is the house’s open strength, the Shadow Guard is its hidden application of the same underlying doctrine: no waste, no performance, only the necessary end.
 
 ### House Meaning
-The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch and latent Commandments.
+The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch — any latent Commandment capacity is a wholly separate question, not something this path builds toward (see "Commandments — A Power Outside the Veil").
 
 ## Caldarion Domain Abilities — Vesper and Lucian
 
@@ -120,6 +129,7 @@ Neither ability approaches Commandment-level control — both stop well short of
 - For thousands of years the Sisters have trained every known Veilseer, preserved prophetic knowledge, advised rulers and kingdoms, and become enormously wealthy and influential.
 - A Veilseer is considered too valuable to remain outside the order. Members are forbidden from marriage, family life, and having children. The order believes emotional attachments and family responsibilities endanger the gift of Veilsight.
 - Many noble families fear losing daughters who awaken as Veilseers.
+- **Scope of the gift, precisely defined:** a Veilseer's core ability is perceiving possible futures through the Eternal Current — not general awareness of events or magic use happening in the present. Most Veilseers, even trained ones, sense nothing of a battle, a Commandment's use, or any other real-time occurrence no matter how large, regardless of distance. **Sensing the emergence of another Veilseer specifically is a separate, much rarer capability**, possessed only by the most powerful among the Sisters after decades of mastery — a narrow, specialized extension of the gift rather than a byproduct of it. This is what let the Sisters detect Seren's awakening from across the mainland divide; it is not a general Veil-disturbance radar, and nothing the Sisters can do lets them track dragons, magic use, or unrelated events anywhere on the continent in real time.
 
 **Princess Seren Kaelarion** has manifested Veilsight, making her one of the rarest people in the world. The Sisters of the Current have immediately taken interest in her. Unlike most Veilseers, Seren has already chosen her future: she wishes to remain in Kaelor, marry Lucian Caldarion, and build a family. This directly conflicts with the doctrines of the Sisters.
 
@@ -168,7 +178,7 @@ A dragon that is visibly smaller than expected for the threat it poses also carr
 Beyond speed and growth rate, Ancalion's unusually close tie to the Primordial Darkness gives him two abilities not shared by ordinary dragons:
 
 - **Void-touched flame.** His black flame is not simply a color variant of ordinary dragonfire. It draws on the same darker current of the Veil that House Caldarion's Shadow/Void magic draws on — resistant to being countered by conventional means, and capable of degrading wards or Veil-based defenses rather than only burning flesh and stone.
-- **Bond-amplified combat.** As Lucian's own Veil affinity and (eventually) Commandment ability grow, they feed directly into Ancalion through the bond during combat, raising his effective ceiling in step with Lucian's own development rather than as a fixed, separate trait. This ties Ancalion's long-term combat viability to Lucian's personal arc rather than to age or size alone.
+- **Bond-amplified combat.** As Lucian's own Veil affinity grows, it feeds directly into Ancalion through the bond during combat, raising his effective ceiling in step with Lucian's own development rather than as a fixed, separate trait. This ties Ancalion's long-term combat viability to Lucian's personal arc rather than to age or size alone. (Any latent Commandment capacity Lucian might carry is separate from this Veil-based growth and would not scale the same way.)
 
 **Costs, applied moderately — noticeable, not crippling:**
 - **A trace worth noticing.** All magic leaves a detectable trace in the Veil; void-touched flame and bond-amplified combat leave a distinctly heavier one, closer to a signature than ordinary Veilweaving. Using them at full strength is a small, real risk of being noticed by anyone Veil-sensitive enough to read it — other Veilseers, the Sisters of the Current, old Arcanor loyalists already listening for signs of the bloodline. Not an immediate danger in most fights, but a cost that matters more the more attention the house can least afford.
@@ -241,7 +251,7 @@ It is **legally required** to report all owned dragons and dragon eggs to the cr
 Dragons represent a massive strategic, military, and symbolic advantage. Their ownership (both public and hidden) heavily influences the balance of power among the Great Houses.
 
 ## Connection to the Dark Prince
-Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous forms (including potential access to Commandments) as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation. His early martial formation is in **The Still Blade**, with later potential to enter its Veil branch.
+Lucian Caldarion is bonded to **Ancalion**, the youngest publicly known dragon. The bond was formed through the cradling ritual from birth and is strong enough for them to sense each other’s emotions. Ancalion’s personality is notably similar to Lucian’s due to their deep bond. Lucian has a natural affinity for Shadow / Void magic, which may evolve into more dangerous Veil-based forms as he embraces his dark path. As a Magic Knight with hybrid tendencies, his growth may involve balancing combat and powerful Veil manipulation. His early martial formation is in **The Still Blade**, with later potential to enter its Veil branch. Separately, and not as a product of this Veil growth, he may or may not carry the innate, congenital capacity for a Commandment — see "Commandments — A Power Outside the Veil" for how that gift works and why it doesn't derive from Veil training.
 
 *This is one of the most important section for long-term consistency, especially if magic evolves or has consequences.*
 
