@@ -43,6 +43,8 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 **Chapter 61 (Vow):** A near-full-year time skip from Chapter 60 — Lucian is now close to 18. Selene, Riven, and Thorne are correspondingly about a year older as well (Selene ~12-13, twins ~17). This is the first chapter of the ~1-year pre-war period; the Dravenhall war arc (see "Planned Arc" below) begins from around here, with Lucian at ~18 as the author wanted.
 
+**Chapter 62 (Undertow):** No significant time skip from Ch.61 (a matter of weeks/months at most, unspecified). Lucian ~18, Seren correspondingly ~15 (established 3 years younger than Lucian). Seren returns on-page for the first time since Ch.33 — via letter only in this chapter, not yet in person.
+
 ## Open Questions
 - [What still needs figuring out?]
 
@@ -87,7 +89,7 @@ Cazius met Lucian exactly once, briefly, as a masked operative in Chapter 16 ("V
 
 **Commandments — worldbuilding note (see `world-building/magic-and-power-system.md` for the full, now-reconciled writeup):** Commandments were reconceived this session as a power **entirely separate from the Veil** — not an advanced form of Veilweaving, not something Lucian's own Veil/Domain training grows into, and critically, **undetectable by any Veil-based sense, including the Sisters of the Current.** The Sisters' own gift was correspondingly tightened: their core ability is perceiving possible futures, not general real-time awareness of magic or events; sensing another Veilseer's emergence specifically (how they found Seren) is a separate, rare sub-capability of the most powerful among them, not a byproduct of general Veil-sensing. Both changes were made specifically so the Dravenhall war and the Sisters' arrival could stay causally independent, and so the Sisters can't be read as an all-seeing Veil radar.
 
-**Status:** fully outlined and agreed with the author; drafting has not yet begun as of Chapter 60. Do not start Chapter 61 until the author explicitly asks to begin.
+**Status:** fully outlined and agreed with the author. Drafting has begun — Chapter 62 ("Undertow") is the arc's actual opening chapter (Seren's letter). The war itself (siege of Firsthold, Korrath striking Blackspire, etc.) has not been drafted yet; the intervening pre-war-year material (Ch.61 wedding, Ch.62 letter) is being written first per the author's preference for a distributed timeline rather than jumping straight to the war.
 
 **Timing — the war does not start immediately from Ch.60.** The author wants roughly one more year of story time before the war actually breaks out, so Lucian is ~18 (not ~16-17) when it begins — reads as more credible commanding real forces at that age. This year is open story space, not a blank skip: strong candidates to fill it include the still-unresolved Vaelmar wedding terms/ceremony (Ch.59 left the terms unnegotiated), continued Dawn recruitment, and further Domain/Absence training, rather than a single undifferentiated time-skip line.
 
