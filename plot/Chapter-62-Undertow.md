@@ -49,7 +49,7 @@ Lucian sat with the letter a long while after his father had gone, in the partic
 
 *I still remember the overlook. I have simply never found a morning quiet enough, since, to go looking for it the way you do. Perhaps that will change, before too much longer.*
 
-*Tell your father, if you find the occasion for it, that whatever brings him north will find this house ready to receive him properly, whatever shape "properly" turns out to need to take. And tell Nerissa I said she has my sympathies, growing up surrounded by people who refuse to stop being taller than her.*
+*Tell your father, if you find the occasion for it, that whatever brings him north will find this house ready to receive him properly, whatever shape "properly" turns out to need to take.*
 
 *Write again soon. I intend to actually answer it this time, at the length it deserves.*
 
