@@ -55,7 +55,7 @@ Lucian sat with the letter a long while after his father had gone, in the partic
 
 *— Lucian*
 
-He sealed it before he could talk himself into trimming it down to the kind of careful, guarded brevity that had become his habit without his quite noticing when it had, and found, handing it to Cole for the morning courier, that he did not regret a single unshortened line of it.
+He sealed it before he could talk himself into starting over on something shorter and more carefully guarded, the kind of letter that had become his habit without his quite noticing when it had, and found, handing it to Cole for the morning courier, that he did not regret a single unshortened line of it.
 
 Selene found him in the corridor afterward, and studied his face with the particular sharpness she had never once lost since she was small enough to be told, gently, that some things were not hers to ask about. "You have the face again. Not the arithmetic one. The other one."
 
