@@ -35,13 +35,13 @@ Vesper read it once, in the same unhurried silence he gave any serious correspon
 
 Lucian looked at the letter again, at Seren's easy, unguarded hand, the small private joke about the overlook sitting only a few lines above the one that had just reshaped the whole of his afternoon, and found that he did not know, reading it a third time, whether to be more unsettled by what it might mean or by how easily she had carried something this heavy inside something that still, underneath it all, read exactly like herself.
 
-"Write back to her," Vesper said, watching him. "Properly, this time. Whatever else this turns out to be, she has earned considerably more from you than three months of short answers, and I suspect she will have earned a great deal more than that again before this is finished."
+"Write back to her," Vesper said, watching him. "Properly, this time. Whatever else this turns out to be, she has earned considerably more from you than the last several replies gave her, and I suspect she will have earned a great deal more than that again before this is finished."
 
 "I intend to."
 
 "Good." Vesper rose, already turning the shape of the coming days over behind his composed face. "In the meantime, we prepare quietly, and we wait for whatever the King himself judges too dangerous to trust to anyone else."
 
-Lucian sat with the letter a long while after his father had gone, in the particular stillness of a man weighing how to answer something that had turned out to matter considerably more than the hour he had first set aside for it. He thought of the overlook she still visited, alone, years after the one morning he had happened to find it first. He thought of three months of replies short enough to count their own words against, and what it must have cost her, given how plainly she still loved being heard, to keep sending the longer kind regardless.
+Lucian sat with the letter a long while after his father had gone, in the particular stillness of a man weighing how to answer something that had turned out to matter considerably more than the hour he had first set aside for it. He thought of the overlook she still visited, alone, years after the one morning he had happened to find it first. He thought of the last several replies, short enough to count their own words against, and what it must have cost her, given how plainly she still loved being heard, to keep sending the longer kind regardless.
 
 *Seren —*
 
