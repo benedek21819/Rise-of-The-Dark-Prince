@@ -35,7 +35,7 @@ Vesper read it once, in the same unhurried silence he gave any serious correspon
 
 Lucian looked at the letter again, at Seren's easy, unguarded hand, the small private joke about the overlook sitting only a few lines above the one that had just reshaped the whole of his afternoon, and found that he did not know, reading it a third time, whether to be more unsettled by what it might mean or by how easily she had carried something this heavy inside something that still, underneath it all, read exactly like herself.
 
-"Write back to her," Vesper said, watching him. "Properly, this time. Whatever else this turns out to be, I suspect she will have earned a great deal from you before this is finished."
+"Write back to her," Vesper said, watching him. "Whatever else this turns out to be, I suspect she will have earned a great deal from you before this is finished."
 
 "I intend to."
 
