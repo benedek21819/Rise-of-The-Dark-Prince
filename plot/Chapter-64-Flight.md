@@ -4,7 +4,7 @@ The evidence lay across the table in the order Aldric had arranged it three time
 
 He had suspected for years. Suspicion, it turned out, was a far gentler thing to carry than certainty. Suspicion left room for being wrong.
 
-There was no room left now. Roderic Dravenhall had spent the better part of a decade building not the finest army on the continent — Caldarion still held that distinction beyond any real argument — but the largest, quietly and patiently, past the point where patience could plausibly explain what remained. A man did not build an army that size to leave it standing idle indefinitely. Aldric had sat with enough generals and enough ledgers in twenty-three years on the throne to know a readied force from a defensive one, and what Isolde's figures described was the former.
+There was no room left now. Roderic Dravenhall had spent the better part of a decade building, quietly and patiently, the largest army on the continent by raw numbers alone — not the finest, not the best equipped, but large enough that its purpose could no longer be mistaken for caution. A man did not build an army that size to leave it standing idle indefinitely. Aldric had sat with enough generals and enough ledgers in twenty-three years on the throne to know a readied force from a defensive one, and what Isolde's figures described was the former.
 
 The only true uncertainty left was when. And uncertainty of that particular kind, Aldric had learned young, was not a thing that improved with more time spent studying it.
 
