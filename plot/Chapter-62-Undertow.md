@@ -21,7 +21,7 @@ He found his father in the solar within the hour, the letter still in hand.
 
 "Read the third paragraph," Lucian said, setting it on the table between them without further preamble.
 
-Vesper read the whole page anyway, in the same unhurried silence he gave any serious correspondence, unwilling to weigh a single paragraph without the rest of what surrounded it. Lucian watched something settle behind his eyes well before he reached the third — not surprise exactly, but the particular stillness of a man confirming a shape he had already half suspected rather than encountering one for the first time.
+Vesper read it once, in the same unhurried silence he gave any serious correspondence, and Lucian watched something settle behind his eyes well before he finished — not surprise exactly, but the particular stillness of a man confirming a shape he had already half suspected rather than encountering one for the first time.
 
 "He is coming here," Vesper said, when he had finished. "Personally. And he has chosen to tell us so through his daughter's ordinary correspondence rather than through any formal channel, which means he does not trust his formal channels with whatever this actually is."
 
@@ -35,7 +35,7 @@ Vesper read the whole page anyway, in the same unhurried silence he gave any ser
 
 Lucian looked at the letter again, at Seren's easy, unguarded hand, the small private joke about the overlook sitting only a few lines above the one that had just reshaped the whole of his afternoon, and found that he did not know, reading it a third time, whether to be more unsettled by what it might mean or by how easily she had carried something this heavy inside something that still, underneath it all, read exactly like herself.
 
-"Write back to her," Vesper said, watching him. "Properly, this time. Whatever else this turns out to be, she has earned considerably more from you than the last several replies gave her, and I suspect she will have earned a great deal more than that again before this is finished."
+"Write back to her," Vesper said, watching him. "Properly, this time, whatever that means to you. Whatever else this turns out to be, I suspect she will have earned a great deal from you before this is finished."
 
 "I intend to."
 
