@@ -21,7 +21,7 @@ He found his father in the solar within the hour, the letter still in hand.
 
 "Read the third paragraph," Lucian said, setting it on the table between them without further preamble.
 
-Vesper read it once, in the same unhurried silence he gave any serious correspondence, and Lucian watched something settle behind his eyes well before he finished the page — not surprise exactly, but the particular stillness of a man confirming a shape he had already half suspected rather than encountering one for the first time.
+Vesper read the whole page anyway, in the same unhurried silence he gave any serious correspondence, unwilling to weigh a single paragraph without the rest of what surrounded it. Lucian watched something settle behind his eyes well before he reached the third — not surprise exactly, but the particular stillness of a man confirming a shape he had already half suspected rather than encountering one for the first time.
 
 "He is coming here," Vesper said, when he had finished. "Personally. And he has chosen to tell us so through his daughter's ordinary correspondence rather than through any formal channel, which means he does not trust his formal channels with whatever this actually is."
 
