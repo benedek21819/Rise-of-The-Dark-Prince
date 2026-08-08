@@ -144,6 +144,7 @@ Neither ability approaches Commandment-level control — both stop well short of
 Dragons are extremely rare and immensely powerful creatures.
 
 - Dragons grow stronger as they age, both physically and in destructive capability.
+- **Anatomy note — hearing:** dragons do not have external, mobile ears like mammals. Hearing is internal, with only small, largely fixed openings on either side of the head. Prose should reflect attentiveness/alertness through head or body orientation, stillness, or posture — not "ears swiveling" or "ears angling toward" a sound.
 - They can be **bonded** to specific individuals (almost always high-ranking nobles).
 - A bonded dragon can be ridden.
 - If the bond between dragon and rider is strong enough, they can sense each other’s emotions.
