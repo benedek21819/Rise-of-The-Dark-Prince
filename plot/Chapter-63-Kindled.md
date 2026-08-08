@@ -2,7 +2,7 @@
 
 The Shadow Commander of Dawn was waiting at the edge of the sealed training ground when Lucian arrived, and came to a precise, unhurried stop before him.
 
-"Shadow Commander, reporting as summoned."
+"Reporting as summoned, my lord."
 
 "Caz." Lucian's acknowledgment carried none of the report's formality, the plain, unadorned familiarity of a name used long enough that it required no comment from either of them. "I have reason to believe something is moving toward this Duchy that I cannot yet name. I want every eye and ear this division has turned outward, starting today — movement along the southern approaches, unusual traffic through Firsthold's markets, anything that does not explain itself plainly. Report through you, and through you to me. Speed over precision, if the two ever come into conflict."
 
