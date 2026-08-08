@@ -238,6 +238,8 @@ Aurelia is built along a major central river that serves as the primary trade ar
 **Story Importance**:
 Aurelia is the political and cultural heart of the Kingdom of Kaelor. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
 
+**Travel time to/from Blackspire (continuity reference):** By dragon, the distance is covered in well under a day — Ch.27 ("Sky") has Lucian departing the mountain one morning and reaching Aurelia that same afternoon. By the escort roads (including the Ascend itself), the same journey takes on the order of weeks — Ch.19 ("Eyes") establishes it as long and difficult enough that the King and Queen personally cannot leave the capital unwatched for its full length. Keep any future King's-dragon flights (Aldric/Solara) or ground processions consistent with this same-day-by-air, weeks-by-road gap.
+
 ### The Hall of Inquiry
 
 **Type**: Largest scholarly institution on Kaelor  
