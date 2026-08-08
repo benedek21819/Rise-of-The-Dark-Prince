@@ -111,7 +111,16 @@ The city’s name preserves its founding meaning: this was the **first lasting h
 ### Loyalty of the Northern Houses
 Because House Caldarion was the reason the North could be inhabited at all — and because they ruled as relatively fair lords who aided the population in times of need — most **northern lesser houses are exceptionally loyal** to them. This loyalty is deeper and more personal than ordinary feudal obligation. To many northern families, the Caldarions are not merely overlords; they are the house that made life in the North possible.
 
-### Blackspire Keep
+### Blackspire Keep — Vertical Layout Reference
+Quick reference to avoid contradicting the mountain's actual shape in prose. From top to bottom:
+1. **The Ascend** — the only outside approach, climbing from Firsthold in the valley up to the summit.
+2. **Blackspire Keep itself (the Black Halls)** — the main residential/ceremonial castle, built on the summit. Family quarters, the solar, dining hall, gardens and the Old Gate, the lower solar's windowless recruitment room, etc.
+3. **Dragon Roosts & Landing Platforms** — a separate cave system high in the upper cliffs, reached from the keep by cut paths and stone bridges rather than being directly beneath it. Not stacked in the same vertical shaft as the barracks below; a different section of the mountain's upper reaches, connected to the keep by its own dedicated route.
+4. **Under-castle barracks** — directly beneath the keep, on opposing flanks of the mountain: Silver Guard Barracks on one side, Shadow Guard Barracks (including its sealed training ground) on the other. Reached from the keep via internal stone passages, not the same path as the roosts.
+5. **Deeper mountain levels, below the barracks** — the Cold Silver mine and forges, the Hidden Vaults, and the thermal springs in the lower caverns.
+
+Traveling between the roosts and the barracks/training grounds means passing back up through the keep's own internal passages first — they are not on a single continuous path up or down the mountain, since they sit on different sides/sections of it.
+
 The ancestral seat of House Caldarion is built on the summit of one of the tallest mountain peaks in the northern range of Kaelor. Its elevated position grants it **extremely strong natural defensive capabilities**. Approaching the castle requires navigating **the Ascend**, a steep fortified route that is easily defended and often blocked by snow or rockfalls.
 
 **Key Features**:
