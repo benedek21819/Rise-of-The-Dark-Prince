@@ -10,7 +10,7 @@ Aldric Kaelarion had not flown anywhere in years. A king who left his own capita
 
 His hand had been shown. Not proven — Aldric would not have moved on rumor, and Roderic had built the last several years on the assumption that nothing conclusive existed to find — but shown enough that the man himself had judged it worth a king's own dragon and a king's own risk to carry it north in person.
 
-Which meant the real question was not whether Caldarion knew. It was how.
+Which meant the real question was not whether Aldric knew. It was how.
 
 He did not have to wait long for the second report, and some part of him — the part that had spent thirty years learning not to trust comfort of any kind — understood, reading the first line, that he had known the shape of this answer for longer than he had let himself examine it.
 
