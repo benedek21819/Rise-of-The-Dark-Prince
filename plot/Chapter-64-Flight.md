@@ -40,7 +40,7 @@ His son received the news standing, in the small formal receiving room he had ta
 
 "A private matter," Dorian repeated, testing the phrase for its hollowness the way he tested most things Aldric told him. "You have never once left the capital for a private matter in the whole of my life."
 
-"Then this will be a useful education in how rarely that has actually been true, rather than how rarely it has happened." Aldric kept his voice level, the same voice he used for council he did not fully trust either. "You will hold the throne's daily business, not its judgment. Nothing is to be decided in my name that can wait for my return. I am not testing your ambition, Dorian. I am asking you not to indulge it for the length of a few weeks, which I recognize is asking a great deal of you specifically."
+"Then this will be a useful education in how rarely that has actually been true, rather than how rarely it has happened." Aldric kept his voice level, the same voice he used for council he did not fully trust either. "You will hold the throne's daily business, not its judgment. Nothing is to be decided in my name that can wait for my return. I am not testing your ambition, Dorian. I am asking you not to indulge it for the space of a few days, which I recognize is asking a great deal of you specifically."
 
 "You could simply tell me what this is actually about."
 
