@@ -8,7 +8,7 @@ He did not sleep. He sat with the papers until the grey hour before dawn, and wh
 
 She was awake, curled into the window seat with a shawl around her shoulders and a book she had plainly stopped reading some while ago, and she set it aside the moment she saw his face.
 
-"You look the way you looked the night before you told me about the betrothal properly, instead of letting me hear it from someone else first," she said. "What is it."
+"You have not looked like this in a long while," she said. "What is it."
 
 "Something I cannot tell you the whole of yet, and something I need your help with regardless." He sat across from her, choosing the words with the same care he gave a council he did not fully trust. "I need to send word north. Not through any formal channel — those are watched, more closely than I am comfortable admitting to you. I need Vesper Caldarion to understand, without anyone else understanding it alongside him, that I am coming to Blackspire myself, soon, over something too serious to wait for the ordinary post."
 
