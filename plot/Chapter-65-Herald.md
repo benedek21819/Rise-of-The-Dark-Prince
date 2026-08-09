@@ -30,7 +30,7 @@ Aldric slid from her back rather than climbed, and stood a moment with one hand 
 
 "I have not." Aldric's gaze moved to Lucian, and something in it warmed slightly despite everything else sitting behind it. "Lucian. You have grown considerably since the one occasion I had the pleasure of actually meeting you."
 
-"Your Majesty." Lucian inclined his head, careful and correct, though he found himself studying the King with the same close attention he gave anything that mattered. "Seren speaks of you often."
+"Your Majesty." Lucian met his eyes directly rather than looking away, courteous without the deference the title might have asked of another house, and found himself studying the King with the same close attention he gave anything that mattered. "Seren speaks of you often."
 
 "She would." Something almost fond crossed Aldric's face before the weight of the day reclaimed it. "I would rather not stand on this platform longer than necessary. What I have to say deserves a room, and I think, given everything, it deserves both of you rather than only Vesper."
 
