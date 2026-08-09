@@ -4,7 +4,7 @@ The bond carried it before Lucian had any name for what he was feeling — not t
 
 *Another dragon. Distant. Open sky.* The bond offered it wordless and certain, a feeling that arrived with the clarity of speech without ever actually being any.
 
-Lucian did not waste time wondering whether to trust it. He had learned, across enough years and enough small proofs, that Ancalion's senses reached further and truer than his own ever would, and that the cost of doubting them was always higher than the cost of acting on them for nothing. He was already moving before the thought had fully finished forming — down through the Black Halls, toward the solar, toward his father.
+He was already moving before the thought had fully finished forming — down through the Black Halls, toward the solar, toward his father.
 
 He found Vesper already standing at the tall window rather than at his desk, which told Lucian most of what he needed to know before either of them said a word.
 
