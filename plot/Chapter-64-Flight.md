@@ -32,7 +32,23 @@ He went to the roost himself to see her.
 
 She met him there with the low, considering stillness she had always carried when she sensed something beyond routine in him, gold scales dulled slightly with disuse in a way that shamed him more than he expected it to. He had not flown her — truly flown her, distance and purpose rather than the short ceremonial circuits the court still occasionally required — in longer than he cared to count precisely. A king did not leave the capital. It was one of the first lessons of the crown, absorbed so early he had stopped noticing he carried it. His body remembered the motions of mounting her, the particular balance of weight and grip, in the dim, half-forgotten way a man remembers a language he learned as a child and rarely speaks. He pressed a hand to her neck and felt her breathe, slow and enormous beneath his palm, and thought, not for the first time, that this was very possibly the last uncomplicated thing left to him — a creature who required nothing of him but his presence, no calculation, no performance, only the plain fact of being there.
 
-The rest of the arrangements took the better part of a day. He told the court he traveled north on a private matter concerning House Kaelarion's own holdings, true enough in its bones to survive scrutiny without inviting any. Dorian would hold the capital in his absence — an arrangement that cost Aldric a measure of private unease even now, after everything, though he told himself firmly that a few weeks of real responsibility, unsupervised, might do his elder son more good than another decade of careful correction ever had. Corvin found him in the roost as the preparations finished, quiet in the way Corvin always was, asking fewer questions than Dorian would have and accepting the answers Aldric gave him without pressing for the ones beneath them.
+The rest of the arrangements took the better part of a day. He told the court he traveled north on a private matter concerning House Kaelarion's own holdings, true enough in its bones to survive scrutiny without inviting any.
+
+He told Dorian considerably less.
+
+His son received the news standing, in the small formal receiving room he had taken to using for anything he wanted to feel more important than it was, and the flicker of interest that crossed his face at "you will hold the capital" did not entirely mask the sharper flicker beneath it — the old, familiar hunger for anything that looked like real power, however briefly lent.
+
+"A private matter," Dorian repeated, testing the phrase for its hollowness the way he tested most things Aldric told him. "You have never once left the capital for a private matter in the whole of my life."
+
+"Then this will be a useful education in how rarely that has actually been true, rather than how rarely it has happened." Aldric kept his voice level, the same voice he used for council he did not fully trust either. "You will hold the throne's daily business, not its judgment. Nothing is to be decided in my name that can wait for my return. I am not testing your ambition, Dorian. I am asking you not to indulge it for the length of a few weeks, which I recognize is asking a great deal of you specifically."
+
+"You could simply tell me what this is actually about."
+
+"I could. I am choosing not to, and you will have to accept that the choice is not a judgment of you, whatever it feels like from where you are standing." He held his son's gaze a moment longer than strictly necessary, weighing, not for the first time, how much of Dorian's resentment he had earned honestly and how much of it Dorian had simply decided to feel regardless of what Aldric did. "Hold the capital. Do not reach for more than that. I will not be gone longer than I have to be."
+
+Dorian's jaw tightened, the particular way it always did when he swallowed something he wanted to say and chose the safer silence instead, and Aldric left the room without knowing which version of his son he would find on his return — the one who had genuinely held the line, or the one who had spent every hour of his absence deciding how not to.
+
+Corvin found him in the roost as the preparations finished, quiet in the way Corvin always was, asking fewer questions than Dorian would have and accepting the answers Aldric gave him without pressing for the ones beneath them.
 
 "Come back," Corvin said simply, before he left, and Aldric found it steadied him more than anything else said to him that day.
 
