@@ -26,7 +26,7 @@ He left her already reaching for paper, and did not look back to see what she wr
 
 Four days later, he judged the letter had done its work. He spent those four days finishing what a letter could never safely carry — the three threads set down together, plainly, into something that would hold together the moment he said it aloud, in person, to the one man in the kingdom he trusted to hear it without needing to be convinced twice.
 
-Isolde was the part of it he could not make sit easily, however many times he turned it. What she had given him — which lords, which houses, how long her brother had been quietly drawing men from them — was not the kind of detail that fell into a queen's lap by accident. She had gone looking for it, written to cousins and old family retainers under whatever careful pretext let her ask without seeming to ask, and brought back exactly what no outside eye could have found. She had done it without flinching, without once asking him to soften what he did with it. He would not tell her he was flying north.
+Isolde was the part of it he could not make sit easily, however many times he turned it. What she had given him — which lords, which houses, how long her brother had been quietly drawing men from them — was not the kind of detail that fell into a queen's lap by accident. She had gone looking for it, written to cousins and old family retainers under whatever careful pretext let her ask without seeming to ask, and brought back exactly what no outside eye could have found. She had done it without flinching, without once asking him to soften what he did with it.
 
 He went to the roost himself to see her.
 
