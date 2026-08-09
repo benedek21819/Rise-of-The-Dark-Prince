@@ -16,9 +16,9 @@ Seren was quiet a moment, turning that over with the same quickness she had alwa
 
 "I want you to write to Lucian the way you always write to Lucian. Nothing invented, nothing performed — simply true, the way your letters have always been. Somewhere inside the ordinary shape of it, tell him I have been talking about wanting to see the North again, properly, for the first time in years. Nothing more specific than that. Let Vesper do the rest of the reading himself; he will not need it explained to him twice."
 
-"And if he writes back asking why, once you have actually arrived and he understands what the letter was for."
+"You are asking me to carry something without telling me what it is."
 
-"Then tell him the truth — that your father asked you to carry something he could not risk carrying any other way, and trusted you to do it without needing to understand all of it first." He reached over and closed his hand briefly around hers, more grateful than he entirely knew how to say for the plain, unhesitating way she nodded rather than pressed him further. "I would not ask this of you if it were smaller than it is."
+"I am. I would not ask it of you if it were smaller than it is." He reached over and closed his hand briefly around hers, more grateful than he entirely knew how to say for the plain, unhesitating way she nodded rather than pressed him further.
 
 "I know." She studied him a moment longer, the sharpness in her settling into something steadier. "I will write it tonight. I always write to him at night, when the rest of the palace has stopped needing me for anything."
 
