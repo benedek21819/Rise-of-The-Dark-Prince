@@ -2,7 +2,7 @@
 
 The bond carried it before Lucian had any name for what he was feeling — not the ordinary weather of Ancalion's moods, familiar enough by now to pass through him almost unnoticed, but something sharper, angled outward rather than inward, the particular quality of attention a hound gave a scent rather than a sound. Lucian set down the report he had been reading for Vesper's morning review and went still himself, letting the bond resolve into something he could actually name.
 
-*Another dragon,* Ancalion said, wordless and certain. *Distant. Open sky.*
+*Another dragon. Distant. Open sky.* The bond offered it wordless and certain, a feeling that arrived with the clarity of speech without ever actually being any.
 
 Lucian did not waste time wondering whether to trust it. He had learned, across enough years and enough small proofs, that Ancalion's senses reached further and truer than his own ever would, and that the cost of doubting them was always higher than the cost of acting on them for nothing. He was already moving before the thought had fully finished forming — down through the Black Halls, toward the solar, toward his father.
 
