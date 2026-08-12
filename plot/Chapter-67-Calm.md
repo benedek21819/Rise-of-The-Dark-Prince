@@ -16,11 +16,17 @@ Vesper read the paper through, then handed it to Lucian without comment, which w
 
 "Then he does not intend to burn the valley and go home."
 
-"No. He intends to sit down on it." Vesper had not moved from the window. "Whether he means to break the walls or simply close the valley around them and let the winter do the work for him, that report cannot tell me, and I would not believe it if it claimed to. And there is one road into this duchy, and it ends underneath my mountain. Firsthold may be the whole of what he wants. It may equally be the step he needs to reach the rest of it."
+"No. He intends to sit down on it, take it, and then come up here." Vesper had not moved from the window. "There is nothing else north of the Iron Hills worth the march. Firsthold is a city I would burn myself before I let it decide this war, and he knows that as well as I do. He is not coming for my capital. He is coming for my house, and my capital is standing in the road."
 
-"Then we prepare for both."
+That much was not in question and had not been from the moment the report came up. Lucian set the paper down.
 
-"We prepare for both," Vesper agreed, "and we do it knowing that a house which prepares equally for two things has prepared insufficiently for either. That is not a flaw in the plan. That is the plan."
+"Then he has to take the Ascend."
+
+"He has to take the Ascend." Vesper said it flatly, and then said nothing for a while, which was the part Lucian would remember afterward. "Roderic Dravenhall has been soldiering since before you were born. He has seen the maps. He knows precisely what that road does to an army, because his father learned it from the same maps and had the sense never to try. And he is coming anyway, with everything he owns, into a duchy that has exactly one way up."
+
+"Then either he thinks he can starve you off the mountain—"
+
+"In a northern winter, with his own supply line running the length of the continent behind him. He would freeze first, and he is not a fool." Vesper turned from the window at last. "Which leaves the other possibility, and it is the one I do not care for at all. He has something. Something he believes is worth the whole of his house on a single throw, and I have spent three days now trying to work out what a man in his position could possibly own that I have not already counted, and I have not come to the end of it."
 
 ---
 
@@ -32,13 +38,23 @@ He arrived with the valley's own arithmetic already written down and no particul
 
 "Most of it."
 
-Dain looked up at that. Not an objection — Lucian had known his uncle long enough to read the difference — only a man making sure the thing had been said out loud where it could be examined.
+Dain took that without argument, which Lucian had expected, and then asked the question underneath it, which he had not.
 
-"You will be thin in the valley."
+"Then tell me plainly what you want the valley to be. Because if I am holding a city, I am fighting one war. If I am holding a step that somebody else is going to be standing on afterward, I am fighting a different one, and I would rather know which before I start spending men on it."
 
-"I will be thin in the valley," Vesper said. "If I am wrong about Firsthold, Firsthold suffers badly and I take it back from him in the spring, and I will carry what that costs for the rest of my life. If I am wrong about the mountain, there is no spring, and there is no house, and there is nobody left to carry anything." He let that sit exactly as long as it needed to. "I would rather be wrong in the direction that leaves survivors."
+"You are holding a step."
 
-Nobody argued. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and noticed that at no point in the evening did any of the three most experienced military men in the North look upward past the Ascend's highest gate. Neither did he. The mountain had been unassailable for four hundred years by the only road that reached it, and there was no habit anywhere in the house of thinking past that road.
+Vesper did not soften it, and Dain did not appear to want him to.
+
+"You cannot beat that host and I am not going to insult you by pretending otherwise. So do not try. Make it slow, make it expensive, and make him spend men and weeks and daylight on ground I can afford to lose in the end — and while he is doing it, get your people behind walls or up my road. Every day Firsthold holds is a day he is not standing at the bottom of the Ascend with an army that still has all of its teeth."
+
+"And when I cannot hold it."
+
+"Then you come up," Vesper said. "And you come up while it is still sensible, not after it has become admirable."
+
+Nobody argued with that either. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and it was only afterward, lying awake with the fire down to almost nothing, that he understood what the whole evening had actually been. Four people had spent six hours working through every way an army could be broken on a road, in exhaustive and expert detail, and not one of them had spent a single minute on the question his father had put at the window that first morning and never answered. What Roderic had. Where it would come from.
+
+The mountain had been unassailable for four hundred years by the only road that reached it. There was no habit anywhere in this house of thinking past that road, and Lucian, lying in the dark, could not find one in himself either.
 
 ---
 
