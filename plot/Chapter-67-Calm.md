@@ -26,7 +26,19 @@ That much was not in question and had not been from the moment the report came u
 
 "Then either he thinks he can starve you off the mountain—"
 
-"In a northern winter, with his own supply line running the length of the continent behind him. He would freeze first, and he is not a fool." Vesper turned from the window at last. "Which leaves the other possibility, and it is the one I do not care for at all. He has something. Something he believes is worth the whole of his house on a single throw, and I have spent three days now trying to work out what a man in his position could possibly own that I have not already counted, and I have not come to the end of it."
+"In a northern winter, with his own supply line running the length of the continent behind him. He would freeze before I did, and he is not a fool."
+
+"Then Korrath."
+
+"Then Korrath." Vesper turned from the window at last. "Which was the first thing I reached for, and the first thing I put back down. Yes. This keep was built against a road and nothing else, and in four hundred years nobody has ever owned the means to come at it any other way. Roderic does. If that is his intention he does not need the Ascend at all, and every stone of the defense we are about to spend a month arranging is worth precisely nothing."
+
+"But you put it down."
+
+"Because he has one dragon and I have two." Vesper let that stand a moment. "Lirath is old, and she has never once in her life gone looking for a fight she could walk away from. Alone against Korrath I would not give much for her. She will not be alone. And whatever Roderic believes he knows about the animal you have been raising up on this mountain, he learned it years ago, secondhand, from men who were guessing — and he has had no way at all to correct it since. He would not be bringing one against one. He would be bringing one against two, and he has measured neither of them properly."
+
+"Then it does not work."
+
+"Then it does not work," Vesper agreed, "and that is the part I keep returning to. A man does not stake four centuries of his own house on a throw that does not work. So either Roderic is considerably more desperate than I have judged him — or I am holding some piece of this upside down and have not yet noticed which."
 
 ---
 
@@ -52,9 +64,13 @@ Vesper did not soften it, and Dain did not appear to want him to.
 
 "Then you come up," Vesper said. "And you come up while it is still sensible, not after it has become admirable."
 
-Nobody argued with that either. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and it was only afterward, lying awake with the fire down to almost nothing, that he understood what the whole evening had actually been. Four people had spent six hours working through every way an army could be broken on a road, in exhaustive and expert detail, and not one of them had spent a single minute on the question his father had put at the window that first morning and never answered. What Roderic had. Where it would come from.
+Nobody argued with that either. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and the dragons came up exactly once, briefly and without disagreement, and were set aside again. Lirath on the mountain. Ancalion on the mountain. Two against one, and Roderic welcome to try it.
 
-The mountain had been unassailable for four hundred years by the only road that reached it. There was no habit anywhere in this house of thinking past that road, and Lucian, lying in the dark, could not find one in himself either.
+It was only much later, lying awake with the fire down to almost nothing, that Lucian caught the shape of what had been said and found he could not entirely put it down. Not that anyone had been careless. Every man in that room had counted correctly, and the count came out the same way each time he ran it himself.
+
+It was only that the whole of it — the road, the gates, the arithmetic that made Roderic's throw a bad one — had been built on a single assumption nobody in the room had thought to say aloud, because it had never once occurred to any of them that it might not hold.
+
+That when it came, both dragons would be here.
 
 ---
 
