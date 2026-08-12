@@ -58,15 +58,33 @@ Vesper was quiet a moment.
 
 Lucian went down to the Shadow barracks the next morning and found Cazius already awake, already dressed, and already halfway through a list.
 
-"You want to know what Dawn is for in a war," Cazius said, before Lucian had asked anything. "The answer is that a knife is not a wall. Fifty men, of whom perhaps thirty are ready to be somewhere that shoots back. Put them on a line and you will have spent four years and a great deal of your father's money to slightly delay a man with a spear."
+"I want them forward," Lucian said. "Out past the valley mouth, on the approach. Dain is going to be making decisions for a month on numbers somebody has to actually go and get."
 
-"So I don't put them on a line."
+Cazius set the list down and looked at him for a moment before answering, which was itself the answer.
 
-"So you don't put them on a line." Cazius set the list down. "You put them in front of it, further out than anyone sensible would go, and you have them count. What is coming, how much of it, how fast, and what is with it that has no business being with an army. Everything Dain does for the next month, he does on numbers somebody had to walk out and get."
+"No."
 
-Lucian thought about that. "And when the numbers stop coming back."
+"Tell me why not."
 
-"Then that is also information," Cazius said, "and you will want to be paying attention when it happens."
+"Because there is nothing to find." Cazius said it without any edge, the way he said most things, as though the two of them were examining the same object from different sides and he simply happened to be standing where the flaw was visible. "That host is coming up the only road into this duchy. It cannot go around, it cannot go quietly, and by the time it is close enough for the count to matter, it will be countable from Firsthold's own wall by a man with reasonable eyesight. Send outriders. Send farmers. Anyone can bring you that number, and if the ones who go do not come back, the loss is a horse."
+
+"And if I send Dawn."
+
+"Then I put trained men into open ground in front of a moving army for information you were going to be handed for free three days later, and some of them do not come back, and every one of those is four years of work that nobody in this house can replace inside a decade." Cazius let that stand a beat. "They are not ordinary soldiers, and that cuts the way you would expect until you look at it properly. If they were, spending them would be cheap. Because they are not, spending them on something ordinary is the most expensive thing you could possibly do with them."
+
+Lucian turned it over and found, with some irritation, that he could not get around it.
+
+"Then what."
+
+"Then you wait, and you understand what you are waiting for." Cazius leaned back against the wall. "Right now that army is moving, which is the worst possible condition to work against — it is awake, it is dense, and there is nothing about it that stays where you left it. Once it stops, it is a camp. However many thousand men who have to sleep somewhere, eat something, and be commanded by a very small number of people whose tents are not difficult to identify. A camp does not move. A camp gets tired. A camp is exactly the shape of thing this Guard was built to be inside of." He shrugged, fractionally. "Dawn is not a wall, and fifty men will never be one no matter how good the fifty are. But there is not going to be any shortage of work down there. It simply is not this week's."
+
+"And this week?"
+
+"This week I want a third of them here, in the keep and on the Ascend, watching our own." Cazius said it plainly. "Dravenhall got into this house once already through a man nobody thought to check twice. That is the entire reason you and I have spent a year and a half building this thing at all. I would rather find the second one now than during a siege."
+
+Lucian heard that for what it was, which was Cazius telling him — without once making it uncomfortable — that the first useful thing Dawn was going to do in this war was already sitting in front of them, and had nothing whatsoever to do with the army.
+
+"Do it," he said.
 
 ---
 
