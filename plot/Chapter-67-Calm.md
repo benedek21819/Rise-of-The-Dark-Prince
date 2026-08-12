@@ -58,21 +58,9 @@ Vesper was quiet a moment.
 
 Lucian went down to the Shadow barracks the next morning and found Cazius already awake, already dressed, and already halfway through a list.
 
-"Dawn does not leave the mountain," Lucian said.
+"Dawn stays on the mountain," he said. "Dain is sending several thousand people up the Ascend and nobody at that gate is going to know half their faces. Watch them. Quietly."
 
-Cazius set the list down and waited, because he had learned some while ago that Lucian did not open with the conclusion unless the rest of it was already ordered behind it.
-
-"Everything that comes up the Ascend, the wardens will count and the gate will pass. That is their work and I am not taking it from them. I want Dawn behind it. Unseen, on the ways in and the ways down, watching what the gate has already let through — and reporting. You do not stop anyone. You do not question anyone. You do not put a hand on a frightened farmer because he looked twice at a door he has never seen before."
-
-"And if one of them is more than a frightened farmer."
-
-"Then you will know it before I do, and you will tell me." Lucian held his eye. "Move on your own only if waiting for me would cost us something we cannot get back."
-
-Cazius took that in without any visible reaction, which was how he took most things worth taking in at all.
-
-"Several thousand strangers," he said, "very nearly all of whom will be exactly what they appear to be. The difficulty is not going to be finding the one. It is going to be keeping fifty men from finding forty who were never there."
-
-"I know. That is why it is you and not somebody older."
+Cazius set the list aside and was gone before Lucian had reached the passage door, and that was the whole of it.
 
 "Do it," he said.
 
