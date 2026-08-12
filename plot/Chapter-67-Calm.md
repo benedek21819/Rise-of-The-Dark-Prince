@@ -10,9 +10,13 @@ A Dravenhall host was on the march north. It had crossed out of Dravenhold's own
 
 Vesper read the paper through, then handed it to Lucian without comment, which was its own kind of statement.
 
-"Does it say what he means to do with it," Lucian said, when he had finished.
+"He is bringing timber," Lucian said, when he had finished. "Engines, and the carts to carry them."
 
-"It says he is coming north with everything he owns. Anything past that is a guess wearing a report's clothes." Vesper had not moved from the window. "There is one road into this duchy and it ends in my valley. Whether he means to take Firsthold, or means to take the mountain and needs the valley first to reach it, he arrives in precisely the same place either way. I will not know which until he is close enough that knowing has stopped being useful."
+"He is."
+
+"Then he does not intend to burn the valley and go home."
+
+"No. He intends to sit down on it." Vesper had not moved from the window. "Whether he means to break the walls or simply close the valley around them and let the winter do the work for him, that report cannot tell me, and I would not believe it if it claimed to. And there is one road into this duchy, and it ends underneath my mountain. Firsthold may be the whole of what he wants. It may equally be the step he needs to reach the rest of it."
 
 "Then we prepare for both."
 
