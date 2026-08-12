@@ -62,8 +62,6 @@ Lucian went down to the Shadow barracks the next morning and found Cazius alread
 
 Cazius set the list aside and was gone before Lucian had reached the passage door, and that was the whole of it.
 
-"Do it," he said.
-
 ---
 
 He flew in the afternoon, low over the valley, with the whole length of the approach unrolling beneath Ancalion in the flat white light of a northern autumn.
