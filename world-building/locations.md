@@ -238,7 +238,7 @@ Aurelia is built along a major central river that serves as the primary trade ar
 **Story Importance**:
 Aurelia is the political and cultural heart of the Kingdom of Kaelor. It is the primary stage for court intrigue, the engagement between Lucian and Seren, and the growing tension between House Caldarion and the more ambitious members of the royal family (especially Queen Isolde and Prince Dorian).
 
-**Travel time to/from Blackspire (continuity reference):** By dragon, the distance is covered in a single day — Ch.27 ("Sky") has Lucian departing the mountain at dawn and reaching Aurelia by dusk the same day. By carriage/road (Vesper's own household procession, departing the same time as Lucian in the same chapter), the equivalent journey takes four days total — Lucian's own arrival came at the end of day one, and the carriage needed three more days beyond that. Ch.19 ("Eyes") separately establishes the Ascend itself (Blackspire's own approach road) as long and weather-prone enough that the King and Queen personally cannot leave the capital unwatched for the full length of a state visit — consistent with, not contradicting, the four-day carriage figure once the Ascend's own climb is factored in. Keep any future King's-dragon flights (Aldric/Solara) or ground processions consistent with this one-day-by-air, four-day-by-road figure.
+**Travel time to/from Blackspire (continuity reference):** By dragon, the distance is covered in a single day — Ch.27 ("Sky") has Lucian departing the mountain at dawn and reaching Aurelia by dusk the same day. By carriage/road (Vesper's own household procession, departing the same time as Lucian in the same chapter), the equivalent journey takes four days total — Lucian's own arrival came at the end of day one, and the carriage needed three more days beyond that. Ch.19 ("Eyes") separately establishes the Ascend itself (Blackspire's own approach road) as long and weather-prone enough that the King and Queen personally cannot leave the capital unwatched for the full length of a state visit — consistent with, not contradicting, the four-day carriage figure once the Ascend's own climb is factored in. Keep any future King's-dragon flights (Aldric/Solara) or ground processions consistent with this one-day-by-air, four-day-by-road figure. **This corridor is the anchor for the whole continent's travel scale — see "Travel Distances Across Kaelor" at the end of this file for the full seat-to-seat table and the rates for every mode.**
 
 ### The Hall of Inquiry
 
@@ -297,5 +297,57 @@ A natural location for research into history, geography, and the dangers of the 
 - **Firsthold** is the capital of the Northern Duchy; **Blackspire Keep** is the seat of House Caldarion above it.
 - **The Ascend** is the guarded route between them, patrolled by the Silver Guard.
 - Silver Guard and Shadow Guard barracks are carved into opposite sides of the mountain beneath the keep, connected internally but kept physically separate.
+
+---
+
+## Travel Distances Across Kaelor (continuity standard)
+
+**The unit is the carriage-day**, not any measure of distance. Characters on the page say "four days' ride," never a number of miles, and expressing everything in travel-days means no chapter ever has to convert anything. One carriage-day is the distance a lord's carriage or a baggage train covers on a maintained road in a day.
+
+### Why this anchor
+The Aurelia ↔ Blackspire corridor is fixed three separate times in the manuscript, in three different modes, and everything below is derived from it rather than invented:
+- **Ch.23 ("Roots")** — "The road south took four days." Carriage.
+- **Ch.28 ("Ground")** — Aldric receives "a report from Firsthold that took three days to reach me." Mounted courier.
+- **Ch.27 ("Sky") / Ch.64 ("Proof")** — dawn to dusk, arriving the same evening. Dragon.
+
+### Rates by mode
+
+| Mode | Rate | Aurelia ↔ Blackspire |
+|---|---|---|
+| **Dragon** | 4 carriage-days per day of flight | 1 day |
+| **Mounted courier** (relayed horses, hard riding) | ~1⅓ carriage-days per day | 3 days |
+| **Carriage / baggage train / ordinary travel** | 1 (the base unit) | 4 days |
+| **Army on the march, with baggage** | ~½ carriage-day per day | ~8 days |
+| **Sea** | not yet fixed — see note below | — |
+
+To convert: take the carriage-days from the table below and apply the mode. An army crossing 10 carriage-days takes about 20 marching days; a courier crossing the same ground takes about 8.
+
+### Distance table (in carriage-days, seat to seat)
+
+Seats are given by duchy because only three are named so far — **Firsthold** (Caldarion), **Aurelia** (Kaelarion), and **Tidewatch** (Vaelmar). Relabel the rest as their seats get named.
+
+| | North (Firsthold) | Royal (Aurelia) | Iron Hills | E. Marches (Tidewatch) | Dravenhold | Golden Lowlands | Verdant Reach | Oldwood | Western Shore |
+|---|---|---|---|---|---|---|---|---|---|
+| **North (Firsthold)** | — | **4** | 5 | 6 | **10** | 8 | 9 | 6 | 7 |
+| **Royal (Aurelia)** | **4** | — | 3 | 5 | 6 | 4 | 5 | 4 | 6 |
+| **Iron Hills** | 5 | 3 | — | 2 | 5 | 5 | 8 | 7 | 9 |
+| **E. Marches (Tidewatch)** | 6 | 5 | 2 | — | 5 | 7 | 9 | 9 | 11 |
+| **Dravenhold** | **10** | 6 | 5 | 5 | — | 5 | 8 | 10 | 12 |
+| **Golden Lowlands** | 8 | 4 | 5 | 7 | 5 | — | 3 | 6 | 8 |
+| **Verdant Reach** | 9 | 5 | 8 | 9 | 8 | 3 | — | 4 | 6 |
+| **Oldwood** | 6 | 4 | 7 | 9 | 10 | 6 | 4 | — | 2 |
+| **Western Shore** | 7 | 6 | 9 | 11 | 12 | 8 | 6 | 2 | — |
+
+Bolded figures are the two load-bearing ones: the established Aurelia–Blackspire anchor, and the Dravenhold–Firsthold march distance the war arc runs on.
+
+### Checks against the drafted war arc
+- **Dravenhold → Firsthold = 10 carriage-days.** At marching pace with baggage that is roughly three weeks, which is what Ch.67 ("Calm") shows — the host reported eight days out of its own highlands, the column entering the valley some two weeks after that.
+- Kestrion sits close to both Dravenhold (5) and the Eastern Marches (2), consistent with the established Dravenhall–Kestrion alliance and with Kestrion's forges having armed the rebellion in the Last Continental War.
+
+### Open points
+- **Sea travel is deliberately unquantified.** Ch.61 ("Vow") carries the Caldarion family south to Tidewatch by ship rather than by road, and no duration is given on the page. Whether the Northern Duchy has its own coast and port, and how sea rates compare to road rates, is still open — fix it the first time a voyage needs a length.
+- **The scale this implies is compact.** Center-to-far-north in four carriage-days makes Kaelor roughly the size of a large real-world country rather than a true continent. This follows directly from the established four-day figure and is accepted deliberately rather than by oversight.
+
+---
 
 *Add maps (image links or descriptions) here later. Update whenever a new location is introduced in the story.*
