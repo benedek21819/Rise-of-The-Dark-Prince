@@ -62,15 +62,17 @@ Lucian went down to the Shadow barracks the next morning and found Cazius alread
 
 Cazius set the list down and waited, because he had learned some while ago that Lucian did not open with the conclusion unless the rest of it was already ordered behind it.
 
-"Everything that comes up the Ascend from now until this is finished comes up past us. Carts, levies, couriers, and every family Dain sends up out of the valley. Names where names can be had. Eyes on the ones where they cannot."
+"Everything that comes up the Ascend, the wardens will count and the gate will pass. That is their work and I am not taking it from them. I want Dawn behind it. Unseen, on the ways in and the ways down, watching what the gate has already let through — and reporting. You do not stop anyone. You do not question anyone. You do not put a hand on a frightened farmer because he looked twice at a door he has never seen before."
 
-"The evacuees will be the difficulty." Cazius said it the way he said most things, setting a fact on the table rather than raising an objection to one. "Several thousand people arriving frightened and out of order, carrying whatever they could lift, half of them not known to anyone at the gate. Nobody vets a column like that properly. It is the widest door anyone has been offered into this keep in a very long time."
+"And if one of them is more than a frightened farmer."
 
-"Which is why it is yours and not the gate wardens'."
+"Then you will know it before I do, and you will tell me." Lucian held his eye. "Move on your own only if waiting for me would cost us something we cannot get back."
 
-Cazius inclined his head slightly, already rearranging the list in front of him without appearing to look at it.
+Cazius took that in without any visible reaction, which was how he took most things worth taking in at all.
 
-"Then we take the door."
+"Several thousand strangers," he said, "very nearly all of whom will be exactly what they appear to be. The difficulty is not going to be finding the one. It is going to be keeping fifty men from finding forty who were never there."
+
+"I know. That is why it is you and not somebody older."
 
 "Do it," he said.
 
