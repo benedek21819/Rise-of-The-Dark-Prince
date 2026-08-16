@@ -60,13 +60,19 @@ He arrived with the valley's own arithmetic already written down and no particul
 
 Dain took that without argument, and asked the question underneath it instead.
 
-"Then what is the valley. A city I am holding, or a step somebody else stands on afterward."
+"You expect Firsthold to hold."
 
-"A step."
+"I expect Firsthold to hold." Vesper said it without any particular satisfaction. "He has marched the length of a continent to sit down in front of a walled city in the North, in front of winter, on ground that belongs to us, against the best-supplied army on this continent and every northern house that can still put men on a road. If that is genuinely the whole of his intention, he loses, and he can count as well as I can."
 
-Dain nodded slowly, the way a man does when he has already written a thing down and only wanted to hear it said aloud by someone else.
+Dain was quiet for a moment.
 
-"Make it slow and make it expensive," Vesper said. "You cannot beat that host and I am not going to insult you by pretending otherwise. Every day Firsthold holds is a day he is not standing at the bottom of my road with all of his teeth. And when you cannot hold it, you come up — while it is still sensible, and not after it has become admirable."
+"Then it is not the whole of his intention."
+
+"No," Vesper said. "It is not."
+
+Nobody in the room had anything to add to that.
+
+"Hold the valley," Vesper said at last. "Do not chase him. Do not go out to meet him, and do not let him pull you into open ground however cheap he makes it look. Whatever he actually means to do, it is not going to happen where he is standing, and I would rather you were not out in front of the walls when it does."
 
 The dragons came up once more near the end, and were settled the same way they had been settled at the window.
 
