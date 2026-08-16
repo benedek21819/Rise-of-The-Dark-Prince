@@ -186,6 +186,8 @@ Deep below the castle, near the Cold Silver mine, lie heavily guarded vaults. Th
 
 The Ascend is **guarded and patrolled by the Silver Guard**. In winter the route becomes especially dangerous, further isolating the castle and ensuring that almost no outsider ever reaches Blackspire uninvited.
 
+**Horses on the Ascend (continuity rule):** Horses **can be led up and down at a walk** — visiting parties and household processions do exactly this, which is why mounted retinues and carriages appear at the keep at all (Ch.19, Ch.54–58). What the Ascend does **not** permit is **riding it at speed**. There is no galloping up or down the mountain, no fast courier ride from valley to summit, and no arriving in a hurry by horse. The climb runs at the mountain's own pace regardless of how urgent the errand is — Ch.54 has it slowing the Vaelmar party "to the mountain's own unhurried pace whatever urgency had carried them this far." Practical consequences for prose: a messenger rides to **Firsthold** and covers the last stretch on foot or at a led walk; nobody "rides up the Ascend" to deliver anything quickly; and anyone descending in darkness or bad weather is doing something notably risky rather than routine.
+
 #### Guard Accommodations (Under-Castle Barracks)
 Directly beneath Blackspire Keep, carved into the living stone of the mountain and still connected to the castle above, lie the permanent accommodations of House Caldarion’s two elite forces.
 
