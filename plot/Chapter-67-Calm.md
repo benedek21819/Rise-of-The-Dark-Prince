@@ -74,10 +74,6 @@ Nobody in the room had anything to add to that.
 
 "Hold the valley," Vesper said at last. "Do not chase him. Do not go out to meet him, and do not let him pull you into open ground however cheap he makes it look. Whatever he actually means to do, it is not going to happen where he is standing, and I would rather you were not out in front of the walls when it does."
 
-Later, lying awake with the fire down to almost nothing, Lucian ran his father's reasoning three times looking for the place it failed, and it came out the same way every time. That was the part he could not put back down. Not that Vesper was wrong — only that all of it now rested on one man and one dragon, and the only thing in the North that could have stood behind them had been set aside deliberately, and out of love.
-
----
-
 The harder question came at the end, when Dain had his cloak half on.
 
 "There are sixty thousand people in my city," he said. "What am I doing with them."
@@ -93,6 +89,10 @@ The harder question came at the end, when Dain had his cloak half on.
 Vesper was quiet a moment.
 
 "Take who will come," he said. "Do not make them. And Dain — do not tell them it will be brief."
+
+Dain went back down the Ascend before midnight.
+
+Later, lying awake with the fire down to almost nothing, Lucian ran his father's reasoning three times looking for the place it failed, and it came out the same way every time. That was the part he could not put back down. Not that Vesper was wrong — only that all of it now rested on one man and one dragon, and the only thing in the North that could have stood behind them had been set aside deliberately, and out of love.
 
 ---
 
