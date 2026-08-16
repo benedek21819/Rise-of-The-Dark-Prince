@@ -34,7 +34,7 @@ That much was not in question and had not been from the moment the report came u
 
 "But you put it down."
 
-"Because he has one dragon and I have two." Vesper let that stand a moment. "Lirath is old, and she has never once in her life gone looking for a fight she could walk away from. Alone against Korrath I would not give much for her. She will not be alone. And whatever Roderic believes he knows about the animal you have been raising up on this mountain, he learned it years ago, secondhand, from men who were guessing — and he has had no way at all to correct it since. He would not be bringing one against one. He would be bringing one against two, and he has measured neither of them properly."
+"Because he has one dragon and I have two." Vesper let that stand a moment. "Understand me — Lirath is the older of the two and very likely the larger, and on any accounting that a scribe could write down she is the better animal. It would not help her. Korrath has done this before and she has not, and he wants it in a way she has never wanted anything in her life. Alone, I think she loses, and I think she loses to the half of it that cannot be measured. She will not be alone. And whatever Roderic believes he knows about the animal you have been raising up on this mountain, he learned it years ago, secondhand, from men who were guessing — and he has had no way at all to correct it since. He would not be bringing one against one. He would be bringing one against two, and he has measured neither of them properly."
 
 "Then it does not work."
 
