@@ -34,11 +34,31 @@ That much was not in question and had not been from the moment the report came u
 
 "But you put it down."
 
-"Because he has one dragon and I have two." Vesper let that stand a moment. "Understand me — Lirath is the older of the two and very likely the larger, and on any accounting that a scribe could write down she is the better animal. It would not help her. Korrath has done this before and she has not, and he wants it in a way she has never wanted anything in her life. Alone, I think she loses, and I think she loses to the half of it that cannot be measured. She will not be alone. And whatever Roderic believes he knows about the animal you have been raising up on this mountain, he learned it years ago, secondhand, from men who were guessing — and he has had no way at all to correct it since. He would not be bringing one against one. He would be bringing one against two, and he has measured neither of them properly."
+"Because he is counting Lirath, and Lirath is not the whole of what he would be flying into."
 
-"Then it does not work."
+Vesper let that stand a moment, and Lucian understood what he was being told before it was said.
 
-"Then it does not work," Vesper agreed, "and that is the part I keep returning to. A man does not stake the whole of his own house on a throw that does not work. So either Roderic is considerably more desperate than I have judged him — or I am holding some piece of this upside down and have not yet noticed which."
+"Understand me first about her, because I do not want you carrying a wrong idea of it. Lirath is the older of the two and very likely the larger, and on any accounting a scribe could write down she is the better animal. It would not help her. Korrath has done this before and she has not, and he wants it in a way she has never wanted anything in her life. Alone, she loses, and she loses to the half of it that cannot be measured." He said it without any particular grief, the way a man states a figure he has already checked. "She will not be alone. She will have me, and I will not be keeping anything back."
+
+"The Weight."
+
+"The Weight." Vesper's voice did not change at all. "You have seen it once, in a closed room, standing still, as a demonstration that the word meant something. You have not seen what it does to a thing that has to stay in the air in order to keep living. I have carried it for thirty years and used it in front of witnesses almost never, because every time I do it says something about this house that I have spent my life declining to say out loud." He turned back to the window. "If Korrath comes over that summit, I will say it. There is no version of losing this mountain in which the secret was worth keeping."
+
+Lucian sat with that a moment.
+
+"And Ancalion."
+
+"Stays out of it."
+
+He had known it was coming and it landed hard regardless.
+
+"He is the fastest thing on this continent."
+
+"He is eighteen years old and has never once been struck by anything that meant it." Vesper did not turn around. "Korrath has killed dragons. Not fought them — killed them, in a war, and by every account I have ever had of it, enjoyed the work. I am not going to put a young animal and my only son in front of that to buy myself an advantage I do not need." Now he did turn. "You are not in this plan. I want you to hear me say it plainly, tonight, rather than work it out for yourself in some corridor in three weeks and decide I simply neglected to mention it."
+
+"And if it goes badly."
+
+"Then it goes badly," Vesper said, "and it goes badly with you alive, which is the only arrangement of it I am prepared to accept."
 
 ---
 
@@ -64,13 +84,13 @@ Vesper did not soften it, and Dain did not appear to want him to.
 
 "Then you come up," Vesper said. "And you come up while it is still sensible, not after it has become admirable."
 
-Nobody argued with that either. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and the dragons came up exactly once, briefly and without disagreement, and were set aside again. Lirath on the mountain. Ancalion on the mountain. Two against one, and Roderic welcome to try it.
+Nobody argued with that either. Lucian sat through the rest of it — the choke points, the two lower gates, which stretch of the Ascend could be brought down deliberately and which could not be brought down at all without cutting Firsthold off from its own keep — and the dragons came up exactly once, near the end, when Valtor put the question plainly and Vesper answered it in the same words he had used at the window. Lirath, and himself, and nothing held back. His son's dragon nowhere in it at all.
 
-It was only much later, lying awake with the fire down to almost nothing, that Lucian caught the shape of what had been said and found he could not entirely put it down. Not that anyone had been careless. Every man in that room had counted correctly, and the count came out the same way each time he ran it himself.
+Neither Dain nor Valtor said a word against it, and Lucian understood why. Set in front of two professional soldiers as a matter of arithmetic and nothing else, it was not a difficult call. You did not spend the heir of the house to shorten a fight its lord could already win.
 
-It was only that the whole of it — the road, the gates, the arithmetic that made Roderic's throw a bad one — had been built on a single assumption nobody in the room had thought to say aloud, because it had never once occurred to any of them that it might not hold.
+It was only much later, lying awake with the fire down to almost nothing, that he found the part he could not put back down. It was not that his father was wrong. He had run the reasoning three times by then, looking for the place it failed, and it came out the same way every time.
 
-That when it came, both dragons would be here.
+It was that the whole of it — the road, the gates, the valley, the house, all of it — now rested on one man and one dragon. And the only thing in the North that could have stood behind them had been taken off the board deliberately, carefully, and out of love, by the one person whose judgment Lucian had never in his life had cause to doubt.
 
 ---
 
