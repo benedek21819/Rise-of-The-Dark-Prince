@@ -42,7 +42,7 @@ Vesper let that stand a moment, and Lucian understood what he was being told bef
 
 "The Weight."
 
-"The Weight." Vesper's voice did not change at all. "You have seen it once, in a closed room, standing still, as a demonstration that the word meant something. You have not seen what it does to a thing that has to stay in the air in order to keep living. I have carried it for thirty years and used it in front of witnesses almost never, because every time I do it says something about this house that I have spent my life declining to say out loud." He turned back to the window. "If Korrath comes over that summit, I will say it. There is no version of losing this mountain in which the secret was worth keeping."
+"The Weight." Vesper's voice did not change at all. "You have seen it once, in a closed room, standing still, as a demonstration that the word meant something. You have not seen what it does to a thing that has to stay in the air in order to keep living. I have carried it since before you were born and used it in front of witnesses almost never, because every time I do it says something about this house that I have spent my life declining to say out loud." He turned back to the window. "If Korrath comes over that summit, I will say it. There is no version of losing this mountain in which the secret was worth keeping."
 
 Lucian sat with that a moment.
 
