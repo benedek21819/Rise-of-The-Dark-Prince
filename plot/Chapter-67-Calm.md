@@ -4,7 +4,7 @@ The King had been gone six days when the first report came up the Ascend.
 
 Aldric had stayed one night and most of a day, slept badly, eaten twice, and let Solara rest exactly as long as she could be persuaded to before he put himself back on her and went south again in the same grey hour he had arrived out of. A king absent from his own capital while a war opened was not a thing he intended to give anyone as a gift, he had said, and Vesper had not argued with him, and that had been the whole of the parting.
 
-The rider was brought up to the solar still in his riding leathers, which Vesper allowed, and gave his report standing, which Vesper also allowed.
+The man had ridden as far as Firsthold and climbed the rest on foot, and was brought to the solar still in the leathers he had ridden north in, which Vesper allowed, and gave his report standing, which Vesper also allowed.
 
 A Dravenhall host was on the march north. It had crossed out of Dravenhold's own highlands eight days ago and was moving at the pace of a force that intended to arrive intact rather than early. The number in it had been counted twice by two different sets of eyes before anyone had been willing to carry it this far, and the two counts had come back close enough to each other to be believed.
 
@@ -90,7 +90,7 @@ Vesper was quiet a moment.
 
 "Take who will come," he said. "Do not make them. And Dain — do not tell them it will be brief."
 
-Dain went back down the Ascend before midnight.
+Dain started back down the Ascend at first light.
 
 Later, lying awake with the fire down to almost nothing, Lucian ran his father's reasoning three times looking for the place it failed, and it came out the same way every time. That was the part he could not put back down. Not that Vesper was wrong — only that all of it now rested on one man and one dragon, and the only thing in the North that could have stood behind them had been set aside deliberately, and out of love.
 
