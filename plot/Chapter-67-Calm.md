@@ -30,7 +30,7 @@ That much was not in question and had not been from the moment the report came u
 
 "Then Korrath."
 
-"Then Korrath." Vesper turned from the window at last. "Which was the first thing I reached for, and the first thing I put back down. Yes. This keep was built against a road and nothing else, and in four hundred years nobody has ever owned the means to come at it any other way. Roderic does. If that is his intention he does not need the Ascend at all, and every stone of the defense we are about to spend a month arranging is worth precisely nothing."
+"Then Korrath." Vesper turned from the window at last. "Which was the first thing I reached for, and the first thing I put back down. Yes. This keep was built against a road and nothing else, and in all the years this house has held this mountain nobody has ever owned the means to come at it any other way. Roderic does. If that is his intention he does not need the Ascend at all, and every stone of the defense we are about to spend a month arranging is worth precisely nothing."
 
 "But you put it down."
 
@@ -38,7 +38,7 @@ That much was not in question and had not been from the moment the report came u
 
 "Then it does not work."
 
-"Then it does not work," Vesper agreed, "and that is the part I keep returning to. A man does not stake four centuries of his own house on a throw that does not work. So either Roderic is considerably more desperate than I have judged him — or I am holding some piece of this upside down and have not yet noticed which."
+"Then it does not work," Vesper agreed, "and that is the part I keep returning to. A man does not stake the whole of his own house on a throw that does not work. So either Roderic is considerably more desperate than I have judged him — or I am holding some piece of this upside down and have not yet noticed which."
 
 ---
 
