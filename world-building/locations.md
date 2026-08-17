@@ -348,7 +348,7 @@ Bolded figures are the two load-bearing ones: the established Aurelia–Blackspi
 
 ### Open points
 - **The Northern Duchy has coastal access and a working port** — settled, since Vaelmar supplies Caldarion by sea throughout the Dravenhall War (see `factions-and-politics.md`, House Vaelmar). Ch.61 ("Vow") already implies it, carrying the family aboard a Vaelmar ship to sail south. **The port itself is still unnamed** — name it the first time a chapter needs it.
-- **Sea rates are still unquantified.** No voyage in the manuscript has been given a duration. Fix it the first time one needs a length. Two constraints already apply: Dravenhall and Kestrion have no navy, so northern sea routes are uncontested, and **northern waters close in winter**, which is the intended source of time pressure on the siege.
+- **Sea rates are still unquantified.** No voyage in the manuscript has been given a duration. Fix it the first time one needs a length. Two constraints already apply: Dravenhall and Kestrion have no navy, so northern sea routes are uncontested, and **northern waters close in winter** — which costs Caldarion nothing, since they are provisioned independently and are not waiting on shipping. The winter clock runs against the besieger, not the besieged.
 - **The scale this implies is compact.** Center-to-far-north in four carriage-days makes Kaelor roughly the size of a large real-world country rather than a true continent. This follows directly from the established four-day figure and is accepted deliberately rather than by oversight.
 
 ---
