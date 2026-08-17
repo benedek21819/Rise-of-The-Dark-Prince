@@ -84,8 +84,8 @@ Year-round, paid, equipped, available without calling levies.
 | **Kaelarion (Crown)** | ~18,000 | The royal army. Pinned at Aurelia during the Dravenhall War (see House Kestrion, below). |
 | **Kestrion** | ~15,000 | Well-equipped from their own forges, explicitly less elite than Caldarion's. |
 | **Caldarion** | **~12,000** | **The smallest of the major forces and by far the best** — Cold Silver arms and armor, Soldier's Measure training, and the highest sustained readiness in the kingdom. |
-| **Vaelmar** | ~6,000 land | Weak on land by design; their power is the fleet, which is dominant. |
-| **Thalorin** | ~5,000 | Defensive, unambitious. |
+| **Thalorin** | ~5,000 | Defensive and slow to commit; allied to Caldarion by blood through Elara. |
+| **Vaelmar** | ~2,000 land | Almost nothing on land by design — their entire power is the fleet, which is dominant. |
 | **Sylvaron** | ~4,000 | Small standing force; hires **Free Blades** when it needs more. |
 | **Myrath** | ~2,000 | Militarily negligible, per their stated neutrality. |
 
@@ -329,6 +329,9 @@ Two things this establishes:
 **Story consequence — the winter clock runs against Roderic alone.** Northern waters close in winter, but that costs Caldarion nothing, because Caldarion does not need them. The besieged can outlast the besieger indefinitely; it is **Roderic** who is sitting in the open in a northern valley, at the end of a supply line running the length of the continent, in front of a city he cannot starve. This makes the ground siege not merely unlikely to succeed but structurally incapable of it — which is precisely why it was never the real plan, and why Vesper reasons his way to that conclusion in Ch.67.
 
 ### House Thalorin
+- **Current Head**: **Lord Halric Thalorin** — pragmatic head of the house, and **Lucian Caldarion's maternal grandfather**. Pragmatism rather than sentiment is his defining trait, which matters for how he commits in the war: he does what his house is actually good for, not what would look loyal.
+- **Heir**: **Lord Elias Thalorin**, his son — the house's rising political face, and Elara's brother.
+- **Also**: **Lady Ysara Thalorin** — Halric's wife, a warmer healer figure and the source of much of Elara's own open affection.
 - **Specialty**: Healing arts, medicine, protective magic, and political soft power.
 - **Personality**: Reserved, disciplined, and outwardly compassionate. Beneath the caring reputation, they are careful political operators who understand the value of being indispensable.
 - **Colors**: White and soft blue (with silver accents).
@@ -337,8 +340,15 @@ Two things this establishes:
 - **Strengths**: Best healers and medical knowledge in the kingdom. High moral reputation among commoners and many nobles. Their services are needed by almost every major house and the royal family, giving them quiet but significant leverage.
 - **Weaknesses**: Militarily weak compared to pure martial houses. Prefer influence over open confrontation, which can make them slow to act in crises.
 - **Political Approach**: They avoid direct conflict and instead use their essential role to gain favors, access, and long-term influence. Nobles who depend on Thalorin healers are often reluctant to move against them.
-- **Relationship to House Caldarion**: Neutral to mildly positive. They maintain respectful distance and occasionally provide medical support, which gives them limited goodwill without deep entanglement.
+- **Relationship to House Caldarion**: **A blood alliance, and the oldest one Caldarion has.** **Lady Elara Caldarion (née Thalorin)** is Vesper's main wife and the mother of Lucian and Selene, which makes Halric the heir's maternal grandfather and Elias his uncle. Elara retains active ties to all three. This is a far deeper entanglement than the house's careful, transactional dealings with anyone else, and considerably older than the Vaelmar marriage of Ch.61. Both houses also stood on the same side of the Last Continental War, backing Kaelarion.
 - **Relationship to the Crown**: Cooperative and valued. The royal family relies on their expertise, which grants Thalorin subtle influence at court.
+
+**Position in the Dravenhall War — committed, but in the way they are actually able to be.** Thalorin honors the blood alliance immediately and sincerely. What that produces is **not an army**:
+
+- **Healers, physicians, and medicine, sent at once.** This is the house's genuine specialty and the best thing in the kingdom at what it does. Small parties travel at courier pace rather than marching pace, so they arrive early and matter throughout — a siege generates wounded continuously, and Caldarion has no equivalent capability of its own. This is a real contribution, not a token one.
+- **Troops: few, and late.** The Verdant Reach sits in the southwest, **nine carriage-days from Firsthold** (see `locations.md`) — roughly eighteen days at marching pace, across the length of the continent. Combined with a standing force of only ~5,000 and the house's established habit of preferring influence to confrontation, whatever Halric sends is small and arrives **after the fighting at Blackspire has already been decided.**
+
+**Story consequence:** Caldarion still fights this war essentially alone in military terms, which preserves the arithmetic of the siege and the isolation of the North. But the alliance is not empty — Elara's own father and brother move for her son's house the moment it is threatened, and their contribution lands where it actually counts: keeping people alive. The aftermath of the war is where Thalorin's involvement is most visible.
 
 ## Current Political Landscape
 [Who holds power? What fragile alliances exist? What wars or tensions are brewing? How do the Great Houses interact with each other and the Crown?]
