@@ -69,6 +69,48 @@ That changes once House Corvane, still nursing its old humiliation and still sho
 ### Conventional Forces
 The broader Caldarion army, outside the elite Guards, is trained in **Soldier’s Measure** — a practical form of **The Still Blade** designed and modified specifically for regular troops. It emphasizes unit cohesion, controlled advances, clean finishing, and refusal to break ranks for personal glory. These forces fall under field command structures such as that of **Lord Dain Caldarion**.
 
+---
+
+## Military Scale of Kaelor (continuity standard)
+
+Kaelor is a compact continent (see `locations.md`, "Travel Distances Across Kaelor" — roughly the size of a large real-world country rather than a true landmass), and its armies are scaled to match. Forces run in the **tens of thousands across the whole continent**, not the hundreds. Use these figures rather than inventing new ones; adjust the table if a story need requires it, rather than quietly contradicting it in prose.
+
+### Standing professional forces
+Year-round, paid, equipped, available without calling levies.
+
+| House | Standing force | Notes |
+|---|---|---|
+| **Dravenhall** | **~30,000** | **The largest standing army on Kaelor**, as established in Ch.65–66. Decent quality, not elite. |
+| **Kaelarion (Crown)** | ~18,000 | The royal army. Pinned at Aurelia during the Dravenhall War (see House Kestrion, below). |
+| **Kestrion** | ~15,000 | Well-equipped from their own forges, explicitly less elite than Caldarion's. |
+| **Caldarion** | **~12,000** | **The smallest of the major forces and by far the best** — Cold Silver arms and armor, Soldier's Measure training, and the highest sustained readiness in the kingdom. |
+| **Vaelmar** | ~6,000 land | Weak on land by design; their power is the fleet, which is dominant. |
+| **Thalorin** | ~5,000 | Defensive, unambitious. |
+| **Sylvaron** | ~4,000 | Small standing force; hires **Free Blades** when it needs more. |
+| **Myrath** | ~2,000 | Militarily negligible, per their stated neutrality. |
+
+**Caldarion's numbers are small on purpose.** The Northern Duchy is harsh, cold and thinly settled — habitable at all only because the house made it so — so it simply cannot raise what the southern duchies can. Its strength is **quality, fortification, Cold Silver, and dragons**, not headcount. This is exactly why Dravenhall holds the "largest army by raw numbers" title while Caldarion remains the strongest military house, and why Caldarion's intervention decided the Last Continental War without ever fielding the biggest force in it.
+
+### Full mobilization (levies called, short campaign)
+| House bloc | Mobilized total |
+|---|---|
+| **Dravenhall + allied minor lords** | up to **~45,000** |
+| **Caldarion + northern lesser houses** | up to **~25,000** |
+| Crown + loyal southern houses | ~30,000 |
+
+Northern levies are slower to gather than southern ones (distance, weather, thin settlement) but are unusually willing — see "Loyalty of the Northern Houses" in `locations.md`.
+
+### Elite specialist forces (not field armies — do not fold these into the totals)
+- **Silver Guard**: ~250. Elite open force; guards the family, holds the Ascend. In the Dravenhall War, "most of it" is weighted to the mountain (Ch.67).
+- **Shadow Guard**: 100 when complete — **Dusk** (Vesper's original 50) and **Dawn** (Lucian's 50, still forming). Covert work only; never a line unit.
+
+These are small numbers doing disproportionate work. 250 elite holding a fortified mountain road with prepared chokepoints is genuinely formidable; the same 250 in an open field would be a rounding error.
+
+### The Dravenhall War — applied figures
+- **Roderic marches ~40,000 north**, leaving the remainder to hold Dravenhold. This is the "everything he owns" of Ch.67 and the host "counted twice by two different sets of eyes."
+- **Dain holds Firsthold with ~12,000** at the outset, rising toward **~18,000** as the northern lesser houses come in over the following weeks.
+- That is roughly **2.5 to 1** in the attacker's favour — well short of what storming a defended wall requires, and worse for Roderic than the raw ratio suggests, because Firsthold's half-circuit concentrates every defender on one face and cannot be encircled (see `locations.md`, "Firsthold's Military Geography"). This is the arithmetic behind Vesper's conclusion that the ground siege cannot succeed and therefore is not the real plan.
+
 ### The Silver Guard
 Elite open military force of House Caldarion. Approximately 250 members. Responsible for guarding the family, holding the Ascend, and executing the direct orders of the house head. Commanded by **Captain Valtor**.
 
