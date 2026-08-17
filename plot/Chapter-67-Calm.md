@@ -96,14 +96,6 @@ Later, lying awake with the fire down to almost nothing, Lucian ran his father's
 
 ---
 
-Lucian went down to the Shadow barracks the next morning and found Cazius already awake, already dressed, and already halfway through a list.
-
-"Dawn stays on the mountain," he said. "Dain is sending several thousand people up the Ascend and nobody at that gate is going to know half their faces. Watch them. Quietly."
-
-Cazius set the list aside and was gone before Lucian had reached the passage door, and that was the whole of it.
-
----
-
 He flew in the afternoon, low over the valley, with the whole length of the approach unrolling beneath Ancalion in the flat white light of a northern autumn.
 
 He had crossed this ground a thousand times without ever once looking at it properly — the river bends that would break a column's frontage, the two places where the valley narrowed enough to matter, the long open stretch in front of Firsthold's southern wall where there was nothing to hide behind and nothing to slow anyone down. It looked exactly as it had always looked. That was the part he could not get past. Somewhere south of the horizon a number that had been counted twice was walking north at the pace of men who meant to arrive intact, and the ground it was walking toward had not changed in any way and did not know.
