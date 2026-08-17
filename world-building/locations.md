@@ -108,6 +108,23 @@ Firsthold began as a fortified valley camp and grew into the North’s main cent
 
 The city’s name preserves its founding meaning: this was the **first lasting hold** in a land that had been empty Wildlands before the Caldarions arrived.
 
+#### Firsthold's Military Geography (siege reference)
+
+**The Ascend begins inside the city.** The fortified route to Blackspire does not start somewhere out on the slope — its foot lies **within Firsthold's own defenses**, on the city's northern side where the ground begins to climb. The gate at that foot is the "northern gate" of Ch.06 ("Firsthold"), marking the boundary between the city proper and the fortified road above it. The practical consequence is absolute: **there is no way to reach the Ascend without first taking Firsthold.** When Vesper says in Ch.67 that his capital is "standing in the road," he means it literally.
+
+**The city is only half-walled.** Firsthold's northern side backs directly onto the mountain, which serves as its own wall and needs no other. The built defenses therefore form an **arc facing south and outward into the valley**, not a full circuit. This is deliberate, not a weakness:
+- **Firsthold cannot be encircled.** An attacker cannot invest a city whose other half is a mountainside. Blockade and starvation are not available options — the only way in is a direct assault on the walled arc.
+- **The defense concentrates.** Every defender Dain has faces one direction. The same garrison holding a half-circuit is roughly twice as strong per foot of wall as it would be holding a full one.
+- **The mountain flank was never walled** — because in all the centuries the house has held the North, nothing has ever been able to come at the city from that side. *(Quiet irony for the war arc: that is precisely the direction Korrath comes from.)*
+
+**Water: mountain-fed.** Firsthold draws on springs and wells running out of the mountain itself rather than from the valley river, which cannot be cut, diverted, or fouled by anyone standing outside the walls. Combined with the granaries Vesper has quietly kept over-stocked for four years (Ch.67) and Vaelmar's northern sea route as further depth, the city is **effectively unthirstable and unstarvable** — the practical basis for Vesper's conclusion that the ground siege cannot succeed and therefore is not Roderic's real plan.
+
+**Approach ground.** The enemy enters the valley at its **far southern end** (Ch.67), where the ground opens out. In front of the southern wall runs a long open stretch with nothing to hide behind and nothing to slow an advance. Further south the valley narrows in two places, and the river bends there would break a column's frontage — the terrain Lucian studies from Ancalion in Ch.67.
+
+**Established interior detail** (from Ch.06 and Ch.25, kept for consistency): an inner wall with wall-walks and raised stretches; clustered districts with a central run of harder stone where trade concentrates; a market row, with the tanners' quarter off it down narrower lanes; an eastern stair that ices over in winter; watch posts at intervals; a city watch with its own officers and a local magistrate handling ordinary disputes; steep roofs built for snow, tight streets, dark stone.
+
+**Population**: roughly **sixty thousand** (as stated by Dain in Ch.67). Adjustable if a later chapter needs a different scale, but it is on the page now.
+
 ### Loyalty of the Northern Houses
 Because House Caldarion was the reason the North could be inhabited at all — and because they ruled as relatively fair lords who aided the population in times of need — most **northern lesser houses are exceptionally loyal** to them. This loyalty is deeper and more personal than ordinary feudal obligation. To many northern families, the Caldarions are not merely overlords; they are the house that made life in the North possible.
 
