@@ -230,6 +230,15 @@ The Shadow Guard, once Lucian is given command of its second unit, will give him
 - **Relationship to House Caldarion**: Competitive and resentful. They respect raw strength but dislike Caldarion’s superior elite forces, Cold Silver monopoly, and mysterious privileges.
 - **Relationship to the Crown**: Pragmatic. They supply the kingdom’s armies but push for greater influence and recognition of their industrial importance.
 
+**Position in the Dravenhall War — fully committed.** Kestrion enters the war on Dravenhall's side without hedging, and does so in two distinct roles:
+
+1. **The siege train is theirs.** The engines, timber and carts Roderic marches north with (Ch.67, "Calm") came out of Kestrion's forges. This is their established specialty and no other house on Kaelor produces siege equipment at that scale.
+2. **They pin the royal army rather than march north.** Kestrion sits central-east, **three carriage-days from Aurelia** — closer to the capital than Caldarion is (see `locations.md`, "Travel Distances Across Kaelor"). They are *not* astride the road north, which runs straight up from the center, so they cannot block a Kaelarion relief force physically. They do not need to. A hostile industrial power that close to the capital, with the continent's largest weapons production behind it, means **Aldric cannot march north without uncovering Aurelia** — so the royal army stays home. This costs Kestrion almost nothing and cannot fail, which is precisely why it is their role.
+
+**Why they commit — the Deepcoal crisis is the motive, not an obstacle.** Halvard's entire industrial advantage rests on a single failing fuel seam (see `economy-and-resources.md`, "Deepcoal — The current crisis"), and he is established as a man used to solving problems with money, labor and engineering who is now out of tools. A house whose economic base is quietly collapsing has real reason to gamble on a war that redraws the map rather than decline slowly in place. This is the one tool he has left.
+
+**Story consequence:** this is the answer to the question the war would otherwise raise — *where is the royal army while Caldarion fights alone?* Aldric flew north himself to force Roderic's timing (Ch.64–65), and is then unable to move when the war he started arrives. He watches it from Aurelia.
+
 ### House Myrath
 - **Current Head**: **Lady Ilyandra Myrath**, Archmagister of Oldwood — genuinely believes the house's neutrality is a principled stance, though it has also made Myrath extremely comfortable and never once required real risk in defense of anything it claims to value.
 - **Aurelia Presence**: **Magister Emeric Myrath**, her nephew, serves as the house's formal liaison to the Hall of Inquiry — the most accessible Myrath figure for anyone spending time in the capital, and someone whose curiosity already runs further than his aunt or his house's doctrine would prefer.
@@ -266,6 +275,15 @@ The Shadow Guard, once Lucian is given command of its second unit, will give him
 - **Strengths**: The strongest navy among the Great Houses, control of major ports and sea trade routes, access to Ironwood for exceptionally durable hulls.
 - **Weaknesses**: A comparatively weak land army next to houses like Caldarion or Dravenhall, and economic power that has stagnated well below what it once was.
 - **Relationship to House Caldarion**: Wary / Competitive. They could become either a powerful ally or a dangerous rival depending on circumstances. Neither side yet knows that Vaelmar's centuries-long decline traces back to the same failing seal that drove the Caldarions from Arcanor in the first place — not a wrong done to Vaelmar by Caldarion's choice, since the exile itself was forced on the family by public pressure and a misread prophecy, not chosen freely. If the connection were ever revealed, it would land as a shared, unintended tragedy neither house had any real hand in causing, rather than grounds for blame.
+
+**Position in the Dravenhall War — supply by sea, not soldiers.** Vaelmar honors the Ch.61 marriage alliance (Lyra Caldarion to Joren Vaelmar) by **keeping Caldarion supplied through northern sea routes** for the duration of the siege. They do not send an army, and are not expected to: their land forces are established as comparatively weak, which is exactly why they are neither useful in the valley nor a threat Kestrion needs to answer. This is the concrete payoff of the Ch.61 wedding — the alliance producing something material rather than remaining a political abstraction.
+
+Three things this establishes:
+- **The North has coastal access and a working port.** Ch.61 ("Vow") already implies this, since the Caldarion family boards a Vaelmar-built ship to sail south to the wedding. The port itself is still unnamed — name it when a chapter needs it.
+- **The route is uncontested.** Dravenhall is a landlocked highland house with no navy, and Kestrion's power is industrial rather than maritime. A besieging army can cut a road; it cannot cut a sea lane it has no ships to reach.
+- **Winter closes it, and that cuts both ways.** Northern waters in a northern winter give the siege a natural deadline: Caldarion is resupplied until the route ices over, and Roderic is racing the same clock from the other side. Use this rather than an invented complication whenever the siege needs time pressure.
+
+**Story consequence:** Firsthold holding (Ch.67) is not merely a matter of good walls and full granaries — the city is being *resupplied under siege*, which makes the defenders active rather than simply well-provisioned, without giving Caldarion a second army.
 
 ### House Thalorin
 - **Specialty**: Healing arts, medicine, protective magic, and political soft power.
