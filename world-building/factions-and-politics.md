@@ -365,6 +365,14 @@ The Shadow Guard, once Lucian is given command of its second unit, will give him
 - **Relationship to House Caldarion**: Polite but distant. They respect House Caldarion’s power but disapprove of their secrecy and military dominance.
 - **Relationship to the Crown**: Neutral to slightly cooperative. The crown occasionally consults them for historical or magical matters.
 
+**Position in the Dravenhall War — neutral, and complicit anyway.** Myrath sends no one and takes no side. What they did do, years before the war, was **accept a commission from House Dravenhall**: a small glass sphere holding multiple strong concealment workings blended and concentrated together, powerful enough to mask something as large as a dragon from another dragon's senses. It was **finished only shortly before the war began**, and Roderic uses it to bring Korrath over Blackspire unfelt.
+
+They did not ask what it was for. That is the house's neutrality working exactly as it is designed to work — a commission is commerce, commerce is not a side, and Myrath has never once had to pay for anything it claims to believe. It is also, in hindsight, indefensible: they built the instrument of a surprise attack on House Caldarion and took payment for it.
+
+**Constraints on the object:** it took years and a fortune to produce, Myrath rarely accepts commissions of this order, and **it degrades with every use** — the first is the strongest and it never works as well again. Being Veil-based, it also **leaves a trace**, unlike a Commandment, which is eventually the thread that leads back to Myrath's door.
+
+**Story consequence:** this is a live thread for the war's aftermath. Caldarion will learn who made it. Myrath's principled neutrality will not survive contact with that fact intact.
+
 ### House Sylvaron
 - **Current Head**: **Lord Marrick Sylvaron** — pragmatic and opportunistic per house type, running a banking and trade empire large enough that he genuinely does not scrutinize every account that moves through it. That convenient blindness is exactly how House Dravenhall's deniable coin-trail (see the Firsthold/Corvane funding network, `plot/Chapter-36-Door.md` onward) has been able to pass through Sylvaron's own vaults without his ever consciously choosing to help fund a war. Not secretly loyal to Dravenhall, not a villain by his own understanding of himself — complicit through negligence and a business model that rewards not asking questions, rather than through intent. Married to **Lady Liora Sylvaron** (née Kaelarion, the King's own sister — see `characters/Liora_Kaelarion.md`), which gives House Sylvaron real royal proximity, though Liora herself stays deliberately uninvolved in this side of the business and has no meaningful influence over the Crown's actual decisions — she keeps herself, by her own long-standing habit, "far enough to never be blamed for anything."
 - **Specialty**: Trade, banking, and economic power.
