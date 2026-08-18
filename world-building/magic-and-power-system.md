@@ -122,6 +122,24 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 **Relationship to Domains.** This is the floor; **Domains are the ceiling**, mastery-tier and vanishingly rare even within a strong bloodline. The distance between reinforcing a blow and bending gravity across a battlefield is not a matter of degree. Nothing in this section suggests a guard is on a path toward what Vesper or Lucian carry.
 
+### Cold Silver and Amplification
+
+Cold Silver is **very highly conductive to the Veil** and **stronger than steel** (see `locations.md`, "The Cold Silver Mine"). A **full Cold Silver harness** is therefore not merely good armor — it is a continuous conductor wrapped around the wearer's entire body.
+
+For a Silver Guard weaving at the basic level, this changes the arithmetic completely. His reinforcement does not stop at his skin; it runs through the plate itself. The effect is broader, comes faster, costs him far less effort, and can be sustained for far longer than the same man could manage unarmoured. **The armor does not only protect him. It multiplies what he can do inside it.**
+
+Layer that onto a professional soldier trained in Still Blade doctrine from youth, carrying Cold Silver weapons that cut what ordinary plate will not, and the individual gap becomes very large indeed.
+
+**Against ordinary levies this is not a battle.** A levy is a farmer with a spear and a padded coat, four weeks of drill, and no Veil at all. A Silver Guard company on prepared ground can hold against numbers that would overrun an equivalent body of ordinary regulars several times over. This is the practical reason 250 men are treated as a genuine strategic asset rather than a household ornament.
+
+**Bounds — this is an advantage, not invulnerability.** Write it as decisive, never as absolute:
+- **Numbers still tell in the end.** Men tire. A fight that lasts hours ends with exhausted weavers, and exhausted weaving stops.
+- **Massed missiles, encirclement, and attrition all work.** Cold Silver turns a blade; it does not make a man impossible to bring down by weight of arrows or by simply not letting him rest.
+- **Against another great house's household elite the gap narrows sharply.** Dravenhall's own elite weave too, and are equipped to their own house's best. The lopsided version applies to levies and ordinary regulars, not to peers.
+- **Roderic's host is not a rabble.** His standing ~15,000 are professionals and his household elite are a real match. The levy mass is where the disparity bites.
+
+**Why the Silver Guard is only 250 — the metal sets the number.** Cold Silver is finite, comes from one vein in one mountain, and every harness requires master smiths and precise Veilweaving to produce (see `locations.md`, "The Cold Silver Forges"). House Caldarion does not field 2,000 Silver Guard because **it cannot make the armor**, not because it cannot find the men. The Guard's size is a limit of the forges, and it is the single clearest expression of the house's whole military identity: quality it can barely produce, in quantities it can never expand.
+
 ## Caldarion Domain Abilities — Vesper and Lucian
 
 Both are advanced, personal expressions of the family's Shadow/Void affinity, distinct from each other in kind rather than only in strength — reflecting the difference between a duelist's precision and a ruler's absolute dominance. Both are rare even within the bloodline; most Caldarions with Shadow/Void affinity never manifest anything at this level.
