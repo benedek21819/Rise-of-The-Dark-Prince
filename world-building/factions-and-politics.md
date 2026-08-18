@@ -111,6 +111,52 @@ These are small numbers doing disproportionate work. 250 elite holding a fortifi
 - **Dain holds Firsthold with ~12,000** at the outset, rising toward **~18,000** as the northern lesser houses come in over the following weeks.
 - That is roughly **2.5 to 1** in the attacker's favour — well short of what storming a defended wall requires, and worse for Roderic than the raw ratio suggests, because Firsthold's half-circuit concentrates every defender on one face and cannot be encircled (see `locations.md`, "Firsthold's Military Geography"). This is the arithmetic behind Vesper's conclusion that the ground siege cannot succeed and therefore is not the real plan.
 
+---
+
+## Army Composition (continuity standard)
+
+Companion to the scale table above. Use these proportions and terms rather than improvising new ones in prose.
+
+### Standard organization
+A naming ladder for units, so chapters can refer to formations consistently:
+
+| Formation | Strength | Commanded by |
+|---|---|---|
+| **Company** | ~100 | a Captain |
+| **Banner** | ~500 (five companies) | a Banner-Captain |
+| **Wing** | ~2,500 (five banners) | a senior officer |
+| **Host** | several wings | a field commander (for Caldarion, **Dain**) |
+
+### Standard field army proportions
+A typical professional force of the era, before house-specific weighting:
+
+- **~60% infantry** — the body of any army
+- **~15% missile troops** — bows or crossbows
+- **~15% cavalry**
+- **~10% engineers, artillery crews and support**
+
+**Baggage and camp followers run roughly one non-combatant per four soldiers** — teamsters, smiths, cooks, engine crews' labourers. A host of 40,000 fighting men therefore drags something close to 10,000 more mouths behind it, which is the real reason a large army in hostile country is fragile rather than terrifying.
+
+### House weighting
+Each house bends the standard proportions toward what it actually is:
+
+- **Caldarion** — heavy infantry core trained in **Soldier's Measure**, armed and armoured in **Cold Silver**; **heavy crossbows** rather than bows, suited to walls and mountain ground; **very little cavalry**, since the North gives it nothing to do; and **the best military engineers in the kingdom**, the people who built the Ascend's fortifications and Blackspire itself. Also the only force on Kaelor genuinely built to fight in deep winter.
+- **Dravenhall** — built for offense. A large body of decent infantry with **significant heavy cavalry** for shock action, matching their honour culture and appetite for martial glory. **Weak in engineering** — which is precisely why the siege train marching north in Ch.67 is Kestrion's work and not their own, and makes their alliance a practical dependency rather than only a political one.
+- **Kestrion** — **the kingdom's siege engines and engineers**, unmatched. Well-equipped but explicitly less elite infantry. Their true military weight is materiel: they arm other people's wars.
+- **Kaelarion (Crown)** — the most balanced force in the kingdom, with good cavalry drawn from the central plains.
+- **Thalorin** — modest defensive infantry, but **field medicine without equal**. Thalorin forces lose dramatically fewer men to wounds and disease than anyone else's, which is a real and underrated military advantage.
+- **Vaelmar** — effectively **marines** rather than an army: small, shipborne, and meaningless away from a coast. The fleet is the house's actual power.
+
+### Levies
+- Levies take **weeks, not days**, to gather.
+- **Northern levies are slower than southern ones** (distance, weather, thin settlement) but unusually willing, per "Loyalty of the Northern Houses" in `locations.md`.
+- Levy quality sits well below professional troops. They are genuinely useful **on walls** and in prepared positions; they are a liability in open field against regulars.
+
+### Applied to the Dravenhall War
+- Roderic's ~40,000 fighting men bring roughly **10,000 non-combatants** with them, all of whom must be fed in a hostile valley at the end of a continent-long supply line, in front of winter.
+- His **cavalry advantage is worth almost nothing** in this campaign: there is no open-field battle to win with it, and horses cannot storm a wall or climb the Ascend. He has marched the arm he is strongest in into a war that has no use for it.
+- Dain's defenders are **infantry and crossbows behind a wall** — precisely the composition Caldarion is best at and precisely the one a siege rewards.
+
 ### The Silver Guard
 Elite open military force of House Caldarion. Approximately 250 members. Responsible for guarding the family, holding the Ascend, and executing the direct orders of the house head. Commanded by **Captain Valtor**.
 
