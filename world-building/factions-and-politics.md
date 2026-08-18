@@ -75,28 +75,51 @@ The broader Caldarion army, outside the elite Guards, is trained in **Soldier’
 
 Kaelor is a compact continent (see `locations.md`, "Travel Distances Across Kaelor" — roughly the size of a large real-world country rather than a true landmass), and its armies are scaled to match. Forces run in the **tens of thousands across the whole continent**, not the hundreds. Use these figures rather than inventing new ones; adjust the table if a story need requires it, rather than quietly contradicting it in prose.
 
-### Standing professional forces
-Year-round, paid, equipped, available without calling levies.
+### How armies are actually raised
+**Armies here are mostly levies.** No house on Kaelor can pay tens of thousands of professionals year-round; the economy does not exist for it. Every large force in this story is a **small permanent core plus a much larger body raised for the campaign and sent home afterward.**
 
-| House | Standing force | Notes |
+Three rates govern everything. Apply them to a duchy's population:
+
+| Category | Rate | What it is |
 |---|---|---|
-| **Dravenhall** | **~30,000** | **The largest standing army on Kaelor**, as established in Ch.65–66. Decent quality, not elite. |
-| **Kaelarion (Crown)** | ~18,000 | The royal army. Pinned at Aurelia during the Dravenhall War (see House Kestrion, below). |
-| **Kestrion** | ~15,000 | Well-equipped from their own forges, explicitly less elite than Caldarion's. |
-| **Caldarion** | **~12,000** | **The smallest of the major forces and by far the best** — Cold Silver arms and armor, Soldier's Measure training, and the highest sustained readiness in the kingdom. |
-| **Thalorin** | ~5,000 | Defensive and slow to commit; allied to Caldarion by blood through Elara. |
-| **Vaelmar** | ~2,000 land | Almost nothing on land by design — their entire power is the fleet, which is dominant. |
-| **Sylvaron** | ~4,000 | Small standing force; hires **Free Blades** when it needs more. |
-| **Myrath** | ~2,000 | Militarily negligible, per their stated neutrality. |
+| **Standing troops** | **~0.4% of population** | Paid year-round: household troops, garrisons, wall and road guards. Available instantly. |
+| **Ordinary levy** | **~2% of population** | What a house calls for a real war. Weeks to gather. Goes home for harvest. |
+| **Full call-up** | **~4% of population** | Existential emergencies only. Ruinous — it strips the fields, and cannot be held more than a season without famine. |
 
-**Caldarion's numbers are small on purpose.** The Northern Duchy is harsh, cold and thinly settled — habitable at all only because the house made it so — so it simply cannot raise what the southern duchies can. Its strength is **quality, fortification, Cold Silver, and dragons**, not headcount. This is exactly why Dravenhall holds the "largest army by raw numbers" title while Caldarion remains the strongest military house, and why Caldarion's intervention decided the Last Continental War without ever fielding the biggest force in it.
+**Settlement scale**, for working out what a given place contributes:
 
-### Full mobilization (levies called, short campaign)
-| House bloc | Mobilized total |
-|---|---|
-| **Dravenhall + allied minor lords** | up to **~45,000** |
-| **Caldarion + northern lesser houses** | up to **~25,000** |
-| Crown + loyal southern houses | ~30,000 |
+| Settlement | Population | Ordinary levy (2%) |
+|---|---|---|
+| Great city (a duchy capital) | 40,000–60,000 | 800–1,200 |
+| Large town | 5,000–10,000 | 100–200 |
+| Small town | 1,000–3,000 | 20–60 |
+| Village | 100–500 | 2–10 |
+
+So a duchy's army is a great many villages contributing a handful each, not a few cities contributing thousands. **Firsthold at sixty thousand yields around 1,200 levies on its own** — a real contribution, and nowhere near an army.
+
+### Population and forces by duchy
+
+| Duchy (House) | Population | Standing | Ordinary mobilization | Full call-up |
+|---|---|---|---|---|
+| **Golden Lowlands** (Sylvaron) | ~1,600,000 | ~3,000 | ~35,000 *(rarely raised)* | ~67,000 |
+| **Royal Demesne + Western Shore** (Kaelarion) | ~1,800,000 | ~9,000 | ~45,000 | ~81,000 |
+| **Dravenhold** (Dravenhall) | ~1,200,000 | **~15,000** | **~39,000** | ~63,000 |
+| **Iron Hills** (Kestrion) | ~900,000 | ~4,000 | ~22,000 | ~40,000 |
+| **Verdant Reach** (Thalorin) | ~900,000 | ~4,000 | ~22,000 | ~40,000 |
+| **Eastern Marches** (Vaelmar) | ~800,000 | ~2,000 land | ~6,000 land *(the rest crew ships)* | — |
+| **Northern Duchy** (Caldarion) | **~500,000** | **~5,000** | **~15,000** | **~25,000** |
+| **Oldwood** (Myrath) | ~400,000 | ~1,500 | ~9,000 *(never raised)* | — |
+
+**Read the table for character, not just size.** Several houses deliberately field far less than their population allows:
+- **Sylvaron** is the most populous duchy on Kaelor and keeps almost no army. They **buy** wars — Free Blades — rather than bleed for them.
+- **Vaelmar's** manpower goes into crews, not columns. Their levy potential is real and irrelevant on land.
+- **Myrath** never raises anything, per their neutrality.
+- **Caldarion is the smallest of the major powers by population** and still the strongest military house. Their standing core runs at roughly **twice the normal rate for their size**, funded by Cold Silver, and every man in it is better trained and better armed than anything else on the continent. Their strength is quality, fortification and dragons — not headcount. This is precisely why Dravenhall holds "largest army by raw numbers" while Caldarion remains the house nobody wants to fight, and how their intervention decided the Last Continental War without ever fielding the biggest force in it.
+
+### Why Dravenhall's buildup was detectable
+Roderic's standing force sits at **~15,000 — roughly three times the normal rate for his population.** That is the anomaly. Maintaining it is enormously expensive and serves no defensive purpose, which is exactly why it could not be explained away once it crossed a certain size (see `notes-and-ideas.md`, "Why now, not years earlier").
+
+But the buildup was never a horde standing under arms for years — **levies cannot be kept mobilized indefinitely; they have to farm.** What Roderic actually built was the *capacity* to raise ~40,000 quickly: an inflated standing core, prepositioned grain and iron, and recruitment agreements with allied minor lords. **This is precisely what Aldric's three evidence strands describe in Ch.64** — shipping and iron and grain at a scale no honest defense requires, and which minor lords he had quietly begun drawing men from. The evidence was mobilization infrastructure, not an army anyone could simply count.
 
 Northern levies are slower to gather than southern ones (distance, weather, thin settlement) but are unusually willing — see "Loyalty of the Northern Houses" in `locations.md`.
 
@@ -107,9 +130,9 @@ Northern levies are slower to gather than southern ones (distance, weather, thin
 These are small numbers doing disproportionate work. 250 elite holding a fortified mountain road with prepared chokepoints is genuinely formidable; the same 250 in an open field would be a rounding error.
 
 ### The Dravenhall War — applied figures
-- **Roderic marches ~40,000 north**, leaving the remainder to hold Dravenhold. This is the "everything he owns" of Ch.67 and the host "counted twice by two different sets of eyes."
-- **Dain holds Firsthold with ~12,000** at the outset, rising toward **~18,000** as the northern lesser houses come in over the following weeks.
-- That is roughly **2.5 to 1** in the attacker's favour — well short of what storming a defended wall requires, and worse for Roderic than the raw ratio suggests, because Firsthold's half-circuit concentrates every defender on one face and cannot be encircled (see `locations.md`, "Firsthold's Military Geography"). This is the arithmetic behind Vesper's conclusion that the ground siege cannot succeed and therefore is not the real plan.
+- **Roderic marches ~40,000 north** — his inflated standing core of ~15,000 plus the levies of Dravenhold and its allied minor lords — leaving garrisons behind. This is the "everything he owns" of Ch.67 and the host "counted twice by two different sets of eyes."
+- **Dain holds Firsthold with ~10,000** at the outset (the standing force plus Firsthold's own levy and the nearest holdings), rising toward **~15,000** as the northern lesser houses come in over the following weeks. Vesper does **not** order a full call-up; he does not need one, and stripping the North's fields before a winter siege would be its own defeat.
+- That is roughly **3 to 1** in the attacker's favour — well short of what storming a defended wall requires, and worse for Roderic than the raw ratio suggests, because Firsthold's half-circuit concentrates every defender on one face and cannot be encircled (see `locations.md`, "Firsthold's Military Geography"). This is the arithmetic behind Vesper's conclusion that the ground siege cannot succeed and therefore is not the real plan.
 
 ---
 
