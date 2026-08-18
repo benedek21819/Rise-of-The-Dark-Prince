@@ -129,6 +129,8 @@ Northern levies are slower to gather than southern ones (distance, weather, thin
 
 These are small numbers doing disproportionate work. 250 elite holding a fortified mountain road with prepared chokepoints is genuinely formidable; the same 250 in an open field would be a rounding error.
 
+**Both Guards can weave at the basic level** — see `magic-and-power-system.md`, "Battle-Veil — Veil Basics in Elite Forces." This is a large part of why elite units are worth their cost, and it is **universal among the great houses' household elites**, not a Caldarion advantage. Ordinary regulars and levies have nothing of the kind. Note the constraint on the Shadow Guard specifically: all Veilweaving leaves a trace, so they work without it by default and spend it only when discovery no longer matters.
+
 ### The Dravenhall War — applied figures
 - **Roderic marches ~40,000 north** — his inflated standing core of ~15,000 plus the levies of Dravenhold and its allied minor lords — leaving garrisons behind. This is the "everything he owns" of Ch.67 and the host "counted twice by two different sets of eyes."
 - **Dain holds Firsthold with ~10,000** at the outset (the standing force plus Firsthold's own levy and the nearest holdings), rising toward **~15,000** as the northern lesser houses come in over the following weeks. Vesper does **not** order a full call-up; he does not need one, and stripping the North's fields before a winter siege would be its own defeat.

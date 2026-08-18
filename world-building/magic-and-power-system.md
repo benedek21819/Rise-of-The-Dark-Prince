@@ -101,6 +101,27 @@ Where the Silver Guard is the house’s open strength, the Shadow Guard is its h
 ### House Meaning
 The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch — any latent Commandment capacity is a wholly separate question, not something this path builds toward (see "Commandments — A Power Outside the Veil").
 
+## Battle-Veil — Veil Basics in Elite Forces
+
+**Every great house's household elite can weave at the most basic level.** This is the floor of Veil ability, not a specialization, and it is the single largest reason elite units are worth what they cost.
+
+**Who has it.** Access is gated by **Will and Bloodline Affinity**, so this is emphatically *not* universal — ordinary soldiers and levies have nothing of the kind, and never will. Elite units get it because they **select for it**: the Shadow Guard's stated recruitment criteria already include "exceptional individuals identified for their potential," and latent affinity is part of what that means. Household elites are drawn from loyal lesser families, old retainer lines, and the occasional exceptional outsider — populations where thin traces of old blood actually run.
+
+**What "basic" means — small, immediate, and turned inward.** These are not spells. They are physical, self-directed, and last seconds:
+- reinforcing a strike, or a guard, at the instant of contact
+- steadying breath, hands, and footing
+- brief bursts of speed or strength
+- sharpening the senses
+- dulling one's own sound and presence
+
+**What it explicitly is not:** no ranged effects, no elemental attacks, no shields, no conjuring, nothing projected at another person, nothing that would read as sorcery to a witness. An elite guard is not a battlefield mage. He is a soldier who is slightly faster, slightly stronger, slightly harder to surprise and considerably harder to kill — in every second of every exchange. Across a unit, across hours, that compounds into something enormous, which is why 250 Silver Guard on prepared ground are a real military factor rather than a ceremonial one.
+
+**Universal among the great houses, not a Caldarion secret.** Every great house's personal elite fields some version of this; it is simply what "elite" means at that tier. Caldarion's is the best on Kaelor because of deeper bloodline affinity in its recruitment pool, harder selection, and the fact that **Still Blade doctrine integrates it directly into the form** rather than treating it as a separate skill bolted on.
+
+**The trace problem — a real constraint, especially for the Shadow Guard.** All Veilweaving leaves a detectable trace. For the **Silver Guard** this costs nothing: they are the open face of the house and are meant to be seen. For the **Shadow Guard** it is a genuine tension, since their entire value is being undetectable. Their doctrine is therefore to **work without it by default** and spend it only when discovery no longer matters — during the act itself, in escape, or when no one capable of reading the Veil is anywhere nearby. A Shadow operative who weaves carelessly has signed the work.
+
+**Relationship to Domains.** This is the floor; **Domains are the ceiling**, mastery-tier and vanishingly rare even within a strong bloodline. The distance between reinforcing a blow and bending gravity across a battlefield is not a matter of degree. Nothing in this section suggests a guard is on a path toward what Vesper or Lucian carry.
+
 ## Caldarion Domain Abilities — Vesper and Lucian
 
 Both are advanced, personal expressions of the family's Shadow/Void affinity, distinct from each other in kind rather than only in strength — reflecting the difference between a duelist's precision and a ruler's absolute dominance. Both are rare even within the bloodline; most Caldarions with Shadow/Void affinity never manifest anything at this level.
