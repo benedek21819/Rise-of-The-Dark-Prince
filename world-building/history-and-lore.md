@@ -131,13 +131,19 @@ The first sustained contact between the isolated Continent of Kaelor and the mai
 
 The situation mirrors the ancient event:
 - Then: A Kaelarion girl becomes a Veilseer → The order arrives → Kaelarion refuses → The Caldarions intervene.
-- Now: Seren becomes a Veilseer → The Sisters arrive → The Kaelarions hesitate → Lucian intervenes.
+- Now: Seren becomes a Veilseer → The Sisters arrive → The Kaelarions hesitate → Lucian and Vesper make Caldarion's position plain → **Aldric refuses.**
 
-History begins to repeat itself.
+History repeats in the same shape as before: **the refusal is Kaelarion's, and Caldarion is what makes it possible.**
 
-The Sisters formally request custody of Seren. The Kaelarions are hesitant — they respect the order but do not wish to lose their daughter. Before any compromise can be reached, Lucian Caldarion rejects the request entirely. His position is simple: Seren is his future wife. Nobody will take her.
+The Sisters formally request custody of Seren. The Kaelarions are hesitant — they respect the order but do not wish to lose their daughter, and no one wants to be the one to say so aloud.
 
-**Lord Vesper Caldarion supports his son’s decision.** Because the Lord of House Caldarion has spoken, the Kaelarions cannot effectively oppose him, and the Sisters cannot force the issue. For the first time in centuries, someone openly says no to the Sisters of the Current. The Sisters are shocked — not because they lost, but because nobody has ever openly refused them before (not kings, not nobles, not rulers). Unable to enforce their demands, they retreat, but they intend to return.
+**Lucian refuses first, and personally.** His position is simple and not diplomatic: Seren is his future wife, and nobody is taking her. **Vesper supports his son** — which settles what House Caldarion will do, in front of everyone in the room.
+
+**Then Aldric refuses the Sisters.** The formal, binding refusal is the King's, not Caldarion's: it is his daughter and his crown, and the answer has to come from him. What makes him able to give it is knowing the strongest house on the continent has already declared where it stands. For the first time in centuries someone openly says no to the Sisters of the Current — and it is a reigning king who does it.
+
+The Sisters are shocked, but not because they lost. **Nobody has ever openly refused them before** — not kings, not nobles, not rulers. Unable to enforce their demands, they withdraw. They intend to return.
+
+**What Aldric alone understands.** He knows House Kaelarion are technically Caldarion's vassals (see "The True History of Kaelor"). So he is the only person in that hall who grasps why Vesper's declaration ends the argument rather than merely strengthening it — everyone else sees a powerful ally backing a king, while he sees something considerably older than his kingdom doing exactly what it did the last time this happened. He says nothing about it.
 
 The Sisters did not travel alone. Their expedition included mainland nobles, scholars, merchants, and retainers. Many of them view Kaelor as a distant and insignificant land and consider Lucian a minor noble from the edge of the world. One of these mainland visitors publicly challenges or threatens Lucian and/or Seren. **Ancalion reacts instinctively to protect his bonded lord — but does not kill him.** He interposes himself and breathes flame across the ground between the man and Lucian, burning him without finishing him. The man is a minor member of an old mainland noble family, so the incident remains local for now — though he lives to carry the story, and the humiliation, back across the sea with him.
 
