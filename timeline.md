@@ -1,8 +1,39 @@
 # Master Timeline – Imperial Calendar
 
 **Calendar System:** Imperial Calendar  
-**Epoch:** Year 0 = The First Eclipse  
-**Structure:** 12 months × 30 days = 360-day year
+**Epoch:** Year 0 = The First Eclipse — dates are written **IE**, for *Imperial Era*  
+**Structure:** 12 months × 30 days = 360-day year, divided into three **tendays** per month
+
+### What IE actually counts from
+Every date in this story is measured from **the First Eclipse** — the day the Veil tore open at midday, the Primordial Darkness came through, one man forced it back, and House Caldarion was founded by the kneeling of everyone who saw it (see `world-building/history-and-lore.md`).
+
+**Almost no one on Kaelor knows this.** They write the year the way people always have, out of habit and inheritance, without any idea that the number counts the centuries since a Caldarion saved the world. The truth survives with the heads of Houses Caldarion and Kaelarion and essentially nowhere else. Every dated document in the setting is therefore quietly measuring the age of a debt nobody remembers owing.
+
+### The Months
+
+| Season | Months |
+|---|---|
+| **Spring** | 1. **Thaw** · 2. **Greening** · 3. **Bloom** |
+| **Summer** | 4. **Highsun** · 5. **Longlight** · 6. **Ripening** |
+| **Autumn** | 7. **Harvest** · 8. **Emberfall** · 9. **Firstfrost** |
+| **Winter** | 10. **Deepfrost** · 11. **Hollow** · 12. **Lastfrost** |
+
+The year opens at **Thaw** and closes at **Lastfrost**. The names are plain and self-describing on purpose — a reader meeting "late Emberfall" for the first time should not need a glossary.
+
+### The calendar is southern, and the North knows it
+There is one calendar across Kaelor, inherited rather than designed, and **it does not describe the Northern Duchy at all.** In the North, frost arrives during **Emberfall**, real winter runs closer to five months than three, and **Thaw is a month that lies** — the name promises something the mountains rarely deliver on time. Northerners use the southern names anyway, with the standing, unimpressed awareness that the calendar was written for people who have never lived through one of their winters.
+
+This is also why winter is a strategic fact in the North rather than a seasonal inconvenience, and why it presses on a besieging army long before the calendar says it should.
+
+### Observances
+With no religion anywhere on Kaelor (see `history-and-lore.md`, "Faith and Oaths in Kaelor"), every fixed occasion is **seasonal or dynastic** rather than holy:
+- **Harvest reckoning**, when levies are counted, stores are measured and obligations are settled.
+- **A midwinter marker in Hollow** — the year's deadest point, observed with fire and company rather than ceremony.
+- **House founding days**, which matter enormously and locally. Firsthold's own founding is the great day of the northern year.
+- **The culling hunts** of the North fall by season rather than at random (see `locations.md`, "The Wild Beasts of the North").
+
+### Story dating
+The present runs at roughly **1055 IE**. The Dravenhall War opens in **late Emberfall** — Ch.67 ("Calm") has northern autumn with the first snow running late, and the column enters the valley as **Firstfrost** approaches, with winter closing behind it.
 
 ---
 
