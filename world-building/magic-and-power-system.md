@@ -151,7 +151,11 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 **The Throne is not required to use or control this power.** Someone with sufficient natural aptitude can learn it on their own, working from the Vault records and from their own connection, and can go a long way that way.
 
-**What the Dark Throne provides is a direct connection to the Darkness**, and it serves two distinct purposes:
+**What the Dark Throne provides is a direct connection to the Darkness — and the reason is that the Throne *is the seal itself*.** It is the thing holding the Primordial Darkness in check, so it is necessarily and permanently connected to it. That connection is a property of its **function**, not of what it is made of.
+
+**Black Star material is not a conduit on its own.** Eclipse and the Caldarion signet are made from the same fragment and grant nothing of the kind — the signet's power is that its seal carries an uncounterfeitable trace, and it is the only key to the Imperial Vault; the sword is a sword, however storied. Neither deepens anyone's connection to the Darkness, and neither should ever be written as doing so. **Only the Throne, because only the Throne is the seal.**
+
+The connection serves two distinct purposes:
 - **For those without enough natural aptitude**, it substitutes for what they lack — it lets them reach what they could never reach unaided.
 - **For those who already have the talent**, it deepens the connection well past any self-taught ceiling. Even a gifted practitioner who has taught himself everything he can will go further sitting it.
 
