@@ -17,7 +17,7 @@ All users train in Veilweaving. Specialization is common but not mandatory:
   - Magic cannot create something from nothing — it must reshape existing energy or matter.
   - All Veilweaving leaves a detectable trace in the Veil.
   - Dragons are the only beings that can safely channel large amounts of power without severe backlash.
-- **Costs & Risks**: Physical toll, Veilrot (madness, mutations, loss of humanity), emotional backlash, and spell instability.
+- **Costs & Risks**: Physical toll, **Veilrot** (madness, mutations, loss of humanity), emotional backlash, and spell instability. Veilrot is the cumulative, permanent residue of channeling more than a weaver's blood and Will can carry — distinct from acute backlash, which is immediate, injury-like, and heals. People survive backlash constantly and conclude they got away with it; they did not, they paid in installments. **House Caldarion's own deepest power is not Veilweaving and does not cause Veilrot — it has a different price entirely. See "The Primordial Darkness" below.**
 - **Taboos**: Soul-binding, raising the dead, and forced dragon bonding tear the Veil and invite catastrophic consequences.
 
 ## Commandments — A Power Outside the Veil
@@ -29,7 +29,7 @@ Commandments are not Veilweaving, not a specialization of it, and not something 
 - **Relationship to Lucian's own path:** his Shadow/Void Veil affinity and Domain potential are real, trainable, Veil-based gifts. Any future Commandment capacity he might have is a separate question entirely — not something his Veil training builds toward or unlocks, only something he either already carries in his blood or doesn't.
 
 ## Types of Magic / Abilities
-- **Shadow / Void Manipulation** (House Caldarion specialty) — Pulling power from the darker parts of the Veil. Some members of House Caldarion possess an ancient and unusually deep connection to the primordial darkness on the other side of the Veil. While outwardly it appears as a powerful form of normal Veilweaving, it is in truth something far older and more fundamental.
+- **Shadow / Void Manipulation** (House Caldarion specialty) — outwardly indistinguishable from a powerful form of Veilweaving, and universally mistaken for one. **It is not Veilweaving at all.** Some members of House Caldarion can draw directly on the **Primordial Darkness** itself. See the dedicated section below; this entry is the surface appearance, not the truth.
 - **Blood Oaths & Bindings** — Creating unbreakable contracts or controlling others.
 - **Illusion & Fear-Weaving** — Mental and perceptual magic.
 - **Arcane Weaving** (House Myrath specialty) — Scholarly study and preservation of ancient spells.
@@ -100,6 +100,52 @@ Where the Silver Guard is the house’s open strength, the Shadow Guard is its h
 
 ### House Meaning
 The Still Blade matches Caldarion identity: severe, controlled, non-performative, and built for rule and war rather than spectacle. For Lucian, it is a natural fit to temperament and later hybrid potential through the Veil branch — any latent Commandment capacity is a wholly separate question, not something this path builds toward (see "Commandments — A Power Outside the Veil").
+
+## The Primordial Darkness — House Caldarion's Actual Power
+
+**This is a third power source, alongside the Veil and Commandments — not a branch of either.** Some members of House Caldarion do not weave the Veil when they reach for their deepest strength. They **draw directly on the Primordial Darkness**, the force from beyond the Veil that came through at the First Eclipse, and they control it.
+
+**Where it comes from.** At the First Eclipse the founder did not destroy the Darkness — he **dominated** it and forced it back (see `history-and-lore.md`). That act of domination is the house's inheritance. Everything Caldarion has ever been rests on it.
+
+**Who has it.** Rare even inside the house — "some members," not all, and it does not track neatly with the direct line. **Vesper and Lucian both carry it**; most Caldarions never manifest anything at this level.
+
+**Key properties:**
+- **It causes no Veilrot.** The rot mechanic simply does not apply — this power does not pass through the weaver the way Veil energy does.
+- **Caldarions are not immune to Veilrot generally.** They use ordinary Veilweaving for ordinary work like anyone else, and rot from it like anyone else. What they have is an *alternative source* for the deep work, not immunity.
+- **It still leaves a Veil trace.** The Darkness comes from *beyond* the Veil, and drawing it through disturbs the Veil on the way — which is why Vesper's Weight is so conspicuous (see his Domain entry). The trace is heavy and of an unfamiliar character, and nobody outside the house has ever correctly identified what it is.
+- **The Domains are expressions of this**, not of Veil mastery — Vesper's Weight and Lucian's Absence both.
+
+**What this finally explains: why the seal fails without a Caldarion on the Dark Throne.** Not tradition, not symbolism, not sentiment. **Capability.** They are the only bloodline that can dominate the thing. An empty throne means nothing is holding it — which is exactly what the Prophecy says and never explains, and exactly why the seas, the blight and the slow ruin of Arcanor followed the exile.
+
+### The Price — the Weight
+
+**It does not rot, mutilate, or kill. It presses.** Controlling the Primordial Darkness means holding a constant, unrelenting contest of Will against something that never tires and never stops pushing back. The cost is **chronic mental strain** — closest to severe, unending stress or mental exhaustion rather than to injury or illness.
+
+- **It is chronic, never acute.** There is no moment where it spikes and drops a man. It accumulates.
+- **It does not weaken the body or the power.** A strained Caldarion is exactly as strong as an unstrained one. Nothing about the ability degrades, which is precisely why it is so easy to ignore.
+- **It scales with use and with depth.** Routine draws cost little; **Domains cost enormously.** This is a second reason — alongside exposure — that Vesper has carried the Weight for decades and used it in front of witnesses almost never.
+- **Will determines resistance.** A strong Will holds far more strain for far longer. A weak one does not.
+- **It is invisible from outside, and the sufferer is the worst possible judge of his own condition.** Nobody can look at a Caldarion and see the strain, and the man carrying it consistently believes he is fine. This is the single most important thing about it dramatically.
+
+### Balance — and why this matters for the story
+
+**Strain is offset by human connection.** Not ritual, not rest, not any working — being known, being loved, being pulled back into ordinary life by people who want nothing from you. Family, affection, warmth and plain company measurably lower the burden.
+
+**This gives Lucian's relationships a mechanical function, not merely an emotional one.** Elara, Selene, Lyra, Seren, Cazius — every warm scene in the book is **maintenance**, retroactively and going forward. Elara's established worry about "how cold and isolated he is becoming," and the note that she is "one of the few people whose concern he cannot completely ignore," are now load-bearing rather than characterisation.
+
+**And it makes his drift toward isolation the actual danger**, rather than merely the sad part of his arc. A Caldarion who pushes everyone away is not simply lonely. He is unmaintained.
+
+**It also explains Vesper.** His "visible weariness... as if he has carried the weight of the house for a very long time" is literal. The household he built after the war nearly ended his line — Elara, Mira, Sable, his children — is also, without anyone ever framing it that way, what has kept him intact for twenty-five years.
+
+### Failure
+
+Unbalanced strain, or a Will not equal to what it is holding, ends in **madness** — gradual, not sudden. Paranoia, dissociation, cruelty that arrives without being decided on, and the slow loss of any thread connecting a man's actions to the reasons he began them. Nothing dramatic marks the crossing.
+
+**Historical consequence:** Caldarions have gone mad this way before, and it was seen. This is a **contributing cause of the exile** — the fear that drove the family out of Arcanor was not only a misread prophecy and an inconvenient dragon egg (`history-and-lore.md`), it had a real basis that people had watched happen. The house has never publicly acknowledged it.
+
+### "No Crown Without Weight"
+
+The motto is **literal**, and always was. It is not a statement about the burden of responsibility. It is a statement about what holding the Darkness costs, passed down by a family that stopped explaining it to outsiders a very long time ago.
 
 ## Battle-Veil — Veil Basics in Elite Forces
 
