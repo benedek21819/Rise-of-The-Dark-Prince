@@ -27,6 +27,6 @@
 - The Royal Family (strong political alliance through the engagement).
 - Other Great Houses (who view his family with a mix of respect and wariness).
 
-**Notable Incident:** During the Sisters’ expedition, a mainland visitor (a minor member of an old Arcanor noble family) publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively to protect his bonded lord and kills the man. The incident remains local for the time being.
+**Notable Incident:** During the Sisters’ expedition, a mainland visitor (a minor member of an old Arcanor noble family) publicly challenges or threatens Lucian and/or Seren. Ancalion reacts instinctively to protect his bonded lord — **placing himself between them and breathing flame across the ground, burning the man without killing him.** The incident remains local for the time being, but the man survives to carry it home.
 
 **Role in Story:** Central protagonist whose rise (and moral descent) drives the narrative. Morally ambiguous hero/villain depending on perspective. His reclusive house background and "Dark Prince" reputation make his journey particularly compelling. His decisive rejection of the Sisters’ claim on Seren (backed by his father) marks a key early assertion of his protectiveness and begins the re-opening of contact between Kaelor and the mainland. The name “Lucian Caldarion” reaching Arcanor sets larger forces in motion.
