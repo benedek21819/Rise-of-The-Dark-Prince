@@ -135,13 +135,25 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 **It is invisible from outside, and the sufferer is the worst possible judge of his own condition.** Nobody can look at a Caldarion and see the strain, and the man carrying it consistently believes he is managing.
 
-### What the house actually knows — and has lost
+### Aptitude — why so few can use it
 
-**House Caldarion's understanding of its own power has badly degraded.** The exile cost them nearly everything, and what survives is fragments preserved in **the Hidden Vaults beneath Blackspire** (see `locations.md`). This is where the knowledge lives, and it is incomplete.
+**The knowledge was never lost.** House Caldarion carried its records out of Arcanor and has preserved them since in **the Hidden Vaults beneath Blackspire** (see `locations.md`). What survives there is intact and sufficient. Nothing about this power is a mystery to the house.
 
-- **Vesper knows partially.** He learned what he could from the Vaults and understands the broad truth — that what his family does is not Veilweaving, and what it touches. **He cannot properly use it.** The Weight is him scratching the surface of an inheritance he has only fragments of, which is a second reason he treats it as a thing to be spent rarely rather than wielded.
-- **Lucian does not know at all.** He believes his Shadow/Void affinity and the Absence are Veil-based, because that is what everyone believes and nobody has told him otherwise. **Write him as not knowing.** His eventual discovery of what he is actually touching is a scene still to come.
-- **The implication worth holding onto: Lucian's ceiling is far above his father's.** Not because he is more gifted in some vague way, but because Vesper is working from an incomplete text and Lucian has not yet begun to read it.
+**The limit is aptitude, not information.** Drawing on the Primordial Darkness depends on raw talent and affinity, distributed unevenly through the bloodline and not reliably inherited. This is why it is "some members" rather than all, and why it does not track neatly with the direct line.
+
+- **Vesper has studied all of it and understands it completely.** His limitation is capacity. He knows precisely what he is reaching for and precisely how far short he falls — the Weight is the most he has ever been able to make of an inheritance he can read perfectly and barely use. That is a sharper thing to carry than ignorance would be.
+- **Lucian does not know the power exists yet.** He believes his Shadow/Void affinity and the Absence are Veil-based, because that is what everyone believes and nobody has told him otherwise. **Write him as not knowing.** His discovery is a scene still to come.
+- **Lucian's aptitude appears to be far greater than his father's** — consistent with the depth of his affinity, with the Absence emerging at all, and with Ancalion's own parentage. The ceiling is not the family's; it is the individual's, and his is high.
+
+**Open question, deliberately unsettled:** why Vesper has not told him. Waiting on the Domain to mature, waiting to be certain of the aptitude, a traditional threshold, or simple reluctance about what knowing would do to a son already drifting toward the cold — undecided, and worth deciding before the reveal is drafted.
+
+### The Dark Throne as teacher
+
+**The Throne is a direct connection to the Darkness, and that makes it the only real way to train this power.** Reading the Vault records teaches a Caldarion what the power is; sitting that chair is how one actually grows into it. There is no equivalent anywhere else, and no substitute — which is a large part of why the imperial Caldarions could do things their exiled descendants cannot.
+
+**And this is the trap at the centre of the whole thing:** the Throne trains and the Throne destroys, and it is the same seat. Growing into the power means beginning to pay its permanent price. Whatever Lucian eventually becomes there, he does not get the first without the second.
+
+*(Relevant to the reserved chapter title **"Return"** — see `notes-and-ideas.md`.)*
 
 ### Balance — and the long arc
 
