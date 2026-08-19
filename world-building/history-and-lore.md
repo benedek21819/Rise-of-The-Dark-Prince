@@ -145,6 +145,40 @@ When the dead man’s family receives news of the incident, the report includes 
 The loyalists do not discover the truth through books. They discover it through a **symbol**. When they reach Blackspire Keep they notice an ancient relic (an abandoned gate, an old wall, or a forgotten courtyard). Carved into it is the **Black Sun** — the symbol they have searched for over centuries.
 
 ## Prophecies & Legends
-[Any prophecies that involve a "Dark Prince" or rising darkness — this can be central to the plot.]
+
+**There is exactly one prophecy in this setting, and it is not about Lucian.** The Prophecy — *"When the Dark Throne is forsaken, the world shall remember what it was made to forget"* — is documented in full above ("The True History of Kaelor → The Prophecy"). It concerns the throne and the seal, it was misread into a justification for the Caldarion exile, and it has nothing to do with a Dark Prince.
+
+**There is no prophecy about a Dark Prince. This is deliberate and settled.** Nothing foretold Lucian, nothing was written about him before he existed, and no one is waiting for him. Do not invent one, and do not let any faction turn out to have been expecting him.
+
+**"The Dark Prince" is a name the world gives him, not a destiny he was assigned.** It arises from what he actually does and from what people make of him — his house's reputation, the Black Sun, the Shadow/Void affinity, a black dragon with black flame, and in due course the things he chooses. He becomes it. He was not promised.
+
+**Why this is the stronger version:** a prophesied heir is owed his significance; Lucian earns his, and every dark turn stays a choice rather than a fulfilment. It also keeps the **Sisters of the Current** honest when they arrive — their gift is perceiving *possible* futures, not fixed ones, so anything they see about Lucian is a branch and not a verdict. Nobody, including them, gets to tell him what he is.
+
+## Faith and Oaths in Kaelor
+
+**Kaelor has no organized religion, and that is deliberate rather than an omission.** There are no gods, temples, priesthoods, holy books or clergy anywhere on the continent. Do not introduce any.
+
+**The reason is built into the setting: the Veil is real and can be studied.** House Myrath treats it as a scholarly discipline with archives, research and trained practitioners. Dragons fly overhead. Veilseers exist and are identified. Domains can be demonstrated in a closed room. Where the supernatural is empirically accessible and openly investigated, doctrine about the unseen has little room to form — Kaelor got **scholarship where another world would have got a church.**
+
+**What does religion's structural work instead:**
+
+- **House loyalty, which functions as faith in all but name.** Most visible in the North, where people believe House Caldarion keeps them safe "the way they believe the sun comes up" (Ch.67) — enough that most of Firsthold will bar their doors and wait to be proven right rather than flee. That is devotion, and it behaves like devotion.
+- **Ancestral and lineage reverence.** House Caldarion's identity is its line: **Mercy**, the signet, the Black Sun, *No Crown Without Weight*. Reverence is directed at forebears and the continuity of the house, not upward at anything divine.
+- **The Veil itself as the object of awe** — respected, feared, and understood as dangerous, but studied rather than worshipped.
+
+**Oaths — what people swear on.** With no gods to invoke, binding words rest on **blood, name and house**: one's own life, one's line, and the honour of the house one belongs to. This is why **Blood Oaths** (see `magic-and-power-system.md`) are a real magical category rather than a metaphor — in a world without divine witness, the binding has to be literal. Marriages, fealty and sworn service all work the same way: the guarantee is lineage and reputation, and the penalty for breaking one is borne by the family as much as the man.
+
+**Arcanor is different — see below.**
+
+### Religion on Arcanor (reserved, not yet developed)
+
+**Arcanor has a religion. Kaelor does not.** This contrast is intentional and should be preserved until Lucian eventually reaches Arcanor (see `notes-and-ideas.md`, the reserved chapter title **"Return"**).
+
+Two hard constraints for whenever it gets built:
+
+1. **It predates the Caldarions and is not about them.** It is older than the empire, older than the Dark Throne's occupancy by that family, and it is emphatically **not a Caldarion cult**. The Caldarions were emperors who held something the faith already had opinions about; they are at most a chapter in it, and possibly not a welcome one.
+2. **It is a separate thread from the Black Sun remembrance.** The Arcanor families in "Ripple in Arcanor" keeping old traditions around a vanished house and its symbol are preserving a **dynastic memory**, not practising a religion. Whether the faith ever absorbed, opposed, or simply ignored the Black Sun is **an open question, deliberately undecided.**
+
+**Natural anchor if one is wanted:** the oldest thing in the setting is the **Primordial Darkness and the seal that holds it**, and a faith predating the empire would plausibly have formed around exactly that — with doctrine about the current age, since the seal has been failing and the world demonstrably getting worse ever since the throne was abandoned. Flagged as a direction only. Nothing here is settled.
 
 *Keep this updated. History often repeats or influences current plot in dark fantasy stories.*
