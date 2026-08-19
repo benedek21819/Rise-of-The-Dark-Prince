@@ -26,7 +26,7 @@ Commandments are not Veilweaving, not a specialization of it, and not something 
 - **What it does:** the user can compel another entity — including a dragon — to a specific action, with just their voice, bypassing physical resistance entirely.
 - **No Veil trace.** Because a Commandment does not draw on or pass through the Veil, it leaves none of the signature ordinary Veilweaving does. It cannot be sensed, tracked, or detected after the fact by Veilseers, the Sisters of the Current, or anyone else whose gift works through reading the Veil — including at the moment of use, regardless of scale or distance. This is a deliberate, hard limit: nothing about the setting's Veil-sensing abilities should ever be able to detect a Commandment being spoken.
 - **Extreme rarity and cost.** Proper use requires immense Will and control; misuse can backfire catastrophically on the user. Known Commandments in the world are typically singular and finite — a person or bloodline may hold exactly one specific Commandment, often sealed into an artifact or relic for a single, deliberate future use, rather than a renewable ability freely cast at will.
-- **Relationship to Lucian's own path:** his Shadow/Void Veil affinity and Domain potential are real, trainable, Veil-based gifts. Any future Commandment capacity he might have is a separate question entirely — not something his Veil training builds toward or unlocks, only something he either already carries in his blood or doesn't.
+- **Relationship to Lucian's own path:** his Shadow/Void affinity and Domain potential are real and trainable, but they are **not Veil-based** — they draw on the Primordial Darkness (see that section), a fact Lucian himself does not yet know. Any future Commandment capacity he might have is a separate question again — not something either his Veil training or his Darkness affinity builds toward or unlocks, only something he either already carries in his blood or doesn't. **Three distinct powers, none of which becomes another.**
 
 ## Types of Magic / Abilities
 - **Shadow / Void Manipulation** (House Caldarion specialty) — outwardly indistinguishable from a powerful form of Veilweaving, and universally mistaken for one. **It is not Veilweaving at all.** Some members of House Caldarion can draw directly on the **Primordial Darkness** itself. See the dedicated section below; this entry is the surface appearance, not the truth.
@@ -119,33 +119,51 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 ### The Price — the Weight
 
-**It does not rot, mutilate, or kill. It presses.** Controlling the Primordial Darkness means holding a constant, unrelenting contest of Will against something that never tires and never stops pushing back. The cost is **chronic mental strain** — closest to severe, unending stress or mental exhaustion rather than to injury or illness.
+**It does not rot, mutilate, or kill. It presses.** Controlling the Primordial Darkness means holding a contest of Will against something that never tires and never stops pushing back. The cost is **mental strain** — closest to severe, unrelenting stress or mental exhaustion rather than to injury or illness. It does not weaken the body and it does not degrade the power itself; a strained Caldarion is exactly as strong as an unstrained one, which is precisely why it is so easy to ignore.
 
-- **It is chronic, never acute.** There is no moment where it spikes and drops a man. It accumulates.
-- **It does not weaken the body or the power.** A strained Caldarion is exactly as strong as an unstrained one. Nothing about the ability degrades, which is precisely why it is so easy to ignore.
-- **It scales with use and with depth.** Routine draws cost little; **Domains cost enormously.** This is a second reason — alongside exposure — that Vesper has carried the Weight for decades and used it in front of witnesses almost never.
-- **Will determines resistance.** A strong Will holds far more strain for far longer. A weak one does not.
-- **It is invisible from outside, and the sufferer is the worst possible judge of his own condition.** Nobody can look at a Caldarion and see the strain, and the man carrying it consistently believes he is fine. This is the single most important thing about it dramatically.
+**Strain scales sharply with what is being asked, and the gradient matters:**
 
-### Balance — and why this matters for the story
+| Use | Cost |
+|---|---|
+| **Ordinary draws** — the everyday reach a Caldarion barely notices making | Negligible. This is not a slow poison in daily life. |
+| **Domain-level use, sustained** — Vesper's Weight held through a battle, Lucian's Absence pushed to its limit | Real but **recoverable**. Days of genuine exhaustion afterward, not permanent damage. |
+| **The Dark Throne — holding the seal** | **The true burden, and the only version that destroys people.** Continuous, unrelenting, never set down, accumulating for as long as the occupant lives. |
 
-**Strain is offset by human connection.** Not ritual, not rest, not any working — being known, being loved, being pulled back into ordinary life by people who want nothing from you. Family, affection, warmth and plain company measurably lower the burden.
+**This is the important calibration: the danger is the Throne, not the power.** A Caldarion can use this all his life at no great cost. What grinds a man to nothing is *sitting that chair* and holding the Darkness back permanently, without pause, for the rest of his life.
 
-**This gives Lucian's relationships a mechanical function, not merely an emotional one.** Elara, Selene, Lyra, Seren, Cazius — every warm scene in the book is **maintenance**, retroactively and going forward. Elara's established worry about "how cold and isolated he is becoming," and the note that she is "one of the few people whose concern he cannot completely ignore," are now load-bearing rather than characterisation.
+**It is carried entirely alone. A dragon does not help.** The bond does not share it, lessen it, or buffer it in any way — whatever else Ancalion is to Lucian, he is no relief from this. Nobody can take any part of it from the person holding it.
 
-**And it makes his drift toward isolation the actual danger**, rather than merely the sad part of his arc. A Caldarion who pushes everyone away is not simply lonely. He is unmaintained.
+**It is invisible from outside, and the sufferer is the worst possible judge of his own condition.** Nobody can look at a Caldarion and see the strain, and the man carrying it consistently believes he is managing.
 
-**It also explains Vesper.** His "visible weariness... as if he has carried the weight of the house for a very long time" is literal. The household he built after the war nearly ended his line — Elara, Mira, Sable, his children — is also, without anyone ever framing it that way, what has kept him intact for twenty-five years.
+### What the house actually knows — and has lost
+
+**House Caldarion's understanding of its own power has badly degraded.** The exile cost them nearly everything, and what survives is fragments preserved in **the Hidden Vaults beneath Blackspire** (see `locations.md`). This is where the knowledge lives, and it is incomplete.
+
+- **Vesper knows partially.** He learned what he could from the Vaults and understands the broad truth — that what his family does is not Veilweaving, and what it touches. **He cannot properly use it.** The Weight is him scratching the surface of an inheritance he has only fragments of, which is a second reason he treats it as a thing to be spent rarely rather than wielded.
+- **Lucian does not know at all.** He believes his Shadow/Void affinity and the Absence are Veil-based, because that is what everyone believes and nobody has told him otherwise. **Write him as not knowing.** His eventual discovery of what he is actually touching is a scene still to come.
+- **The implication worth holding onto: Lucian's ceiling is far above his father's.** Not because he is more gifted in some vague way, but because Vesper is working from an incomplete text and Lucian has not yet begun to read it.
+
+### Balance — and the long arc
+
+**Strain is offset by human connection.** Not ritual, not rest, not any working — being known, being loved, being pulled back into ordinary life by people who want nothing from you.
+
+Because ordinary use is cheap, **this is not a running cost on Lucian right now.** Its significance is structural and long-range: it determines whether he could ever bear the Dark Throne. Whoever holds that seat needs something holding *them*, and a man who has spent his life making himself unreachable will not survive it.
+
+**That reframes the warmth in his life as the question the series is building toward rather than as decoration.** Elara's established worry about "how cold and isolated he is becoming," and the note that she is "one of the few people whose concern he cannot completely ignore," are pointed at something real. Every relationship he keeps or discards — Elara, Selene, Lyra, Seren, Cazius — is quietly an answer to whether he could hold the throne he may one day be asked to take.
+
+**It also explains Vesper.** His "visible weariness... as if he has carried the weight of the house for a very long time" is real, though it is the weight of the *house* rather than the Throne. The household he built after the war nearly ended his line is also, without anyone ever framing it that way, part of what has kept him intact.
 
 ### Failure
 
-Unbalanced strain, or a Will not equal to what it is holding, ends in **madness** — gradual, not sudden. Paranoia, dissociation, cruelty that arrives without being decided on, and the slow loss of any thread connecting a man's actions to the reasons he began them. Nothing dramatic marks the crossing.
+Unbalanced strain, or a Will not equal to what it is holding, ends in **madness** — gradual, not sudden. Paranoia, dissociation, cruelty that arrives without being decided on, and the slow loss of any thread connecting a man's actions to the reasons he began them. Nothing marks the crossing.
 
-**Historical consequence:** Caldarions have gone mad this way before, and it was seen. This is a **contributing cause of the exile** — the fear that drove the family out of Arcanor was not only a misread prophecy and an inconvenient dragon egg (`history-and-lore.md`), it had a real basis that people had watched happen. The house has never publicly acknowledged it.
+**In practice this happens to Throne-holders, not to ordinary Caldarions** — the strain of daily use never comes close to breaking anyone.
+
+**Historical consequence:** emperors on the Dark Throne visibly degraded, and people watched it happen across generations. This is a **contributing cause of the exile** — the fear that drove the family out of Arcanor was not only a misread prophecy and an inconvenient dragon egg (`history-and-lore.md`); it had a real basis in reigning Caldarions losing their minds in public, one after another, for reasons nobody outside the family understood. The house has never acknowledged it.
 
 ### "No Crown Without Weight"
 
-The motto is **literal**, and always was. It is not a statement about the burden of responsibility. It is a statement about what holding the Darkness costs, passed down by a family that stopped explaining it to outsiders a very long time ago.
+The motto is **literal, and it is about the Throne specifically.** It is not a saying about the burdens of responsibility. It means precisely what it says: there is no sovereignty in this family without carrying the Darkness, and anyone who takes the crown takes that with it. House Caldarion stopped explaining this to outsiders a very long time ago, and has now half-forgotten it themselves.
 
 ## Battle-Veil — Veil Basics in Elite Forces
 
