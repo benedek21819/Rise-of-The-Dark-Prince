@@ -147,11 +147,19 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 
 **Open question, deliberately unsettled:** why Vesper has not told him. Waiting on the Domain to mature, waiting to be certain of the aptitude, a traditional threshold, or simple reluctance about what knowing would do to a son already drifting toward the cold — undecided, and worth deciding before the reveal is drafted.
 
-### The Dark Throne as teacher
+### Training — self-taught, and what the Throne adds
 
-**The Throne is a direct connection to the Darkness, and that makes it the only real way to train this power.** Reading the Vault records teaches a Caldarion what the power is; sitting that chair is how one actually grows into it. There is no equivalent anywhere else, and no substitute — which is a large part of why the imperial Caldarions could do things their exiled descendants cannot.
+**The Throne is not required to use or control this power.** Someone with sufficient natural aptitude can learn it on their own, working from the Vault records and from their own connection, and can go a long way that way.
 
-**And this is the trap at the centre of the whole thing:** the Throne trains and the Throne destroys, and it is the same seat. Growing into the power means beginning to pay its permanent price. Whatever Lucian eventually becomes there, he does not get the first without the second.
+**What the Dark Throne provides is a direct connection to the Darkness**, and it serves two distinct purposes:
+- **For those without enough natural aptitude**, it substitutes for what they lack — it lets them reach what they could never reach unaided.
+- **For those who already have the talent**, it deepens the connection well past any self-taught ceiling. Even a gifted practitioner who has taught himself everything he can will go further sitting it.
+
+**This resolves both men cleanly:**
+- **Lucian can begin on his own, in Kaelor, without going anywhere.** His aptitude is high enough to self-train once he knows what he is actually touching, and his growth through the series does not depend on reaching Arcanor. **He reaches his true peak only when he finally sits the Throne** — the capstone, not the gate.
+- **Vesper is stuck precisely because he has neither.** Not enough natural aptitude to get far alone, and no Throne to make up the difference, because it sits on a continent his family fled from. The Weight is the ceiling of a man who would have been considerably more than he is if the exile had never happened.
+
+**The trap is unchanged.** The Throne is still the only thing that carries the permanent price. Whatever Lucian eventually becomes there, he does not get the peak without beginning to pay for it — and unlike his self-taught growth, that part cannot be set down again.
 
 *(Relevant to the reserved chapter title **"Return"** — see `notes-and-ideas.md`.)*
 
