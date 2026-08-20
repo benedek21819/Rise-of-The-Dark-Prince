@@ -2,7 +2,9 @@
 
 ## The World — Kaelor and Arcanor
 
-**The world has no name in common use, and that is deliberate.** Nobody living on Kaelor has any practical reason to name the whole world, because they cannot reach the rest of it. There are two continents that matter: **Arcanor**, the old imperial mainland in the east, and **Kaelor**, the remote western continent where this story takes place. For nearly everyone alive, one of those is the world and the other is a rumour. *(Available to name later if a scene ever needs it — nothing depends on it.)*
+**The world has no name, and it should never be given one.** A name distinguishes one thing from others of its kind, and nobody here knows of another world to distinguish this one from. It is simply **the world**. The only "elsewhere" anyone is aware of is *beyond the Veil*, which already has its own vocabulary and is not a place people imagine living. Naming the world would quietly assert a cosmology none of these characters hold.
+
+What people do name are the two continents: **Arcanor**, the old imperial mainland in the east, and **Kaelor**, the remote western continent where this story takes place. For nearly everyone alive, one of those is the whole of the known world and the other is a rumour.
 
 **This is not a world shattered by ancient war, and its gods are not silent — it has none.** It is a world in slow, quiet decline from **a single specific wound**: a seal that is failing, and has been failing for two and a half centuries, because the family that held it was driven away. Almost nobody understands that. They only see the results — seas that can no longer be crossed, a continent going bad at the edges, weather and wildlife that get worse by the generation — and they explain them however they can.
 
