@@ -147,7 +147,27 @@ The Still Blade matches Caldarion identity: severe, controlled, non-performative
 - **Lucian does not know the power exists yet.** He believes his Shadow/Void affinity and the Absence are Veil-based, because that is what everyone believes and nobody has told him otherwise. **Write him as not knowing.** His discovery is a scene still to come.
 - **Lucian's aptitude appears to be far greater than his father's** — consistent with the depth of his affinity, with the Absence emerging at all, and with Ancalion's own parentage. The ceiling is not the family's; it is the individual's, and his is high.
 
-**Open question, deliberately unsettled:** why Vesper has not told him. Waiting on the Domain to mature, waiting to be certain of the aptitude, a traditional threshold, or simple reluctance about what knowing would do to a son already drifting toward the cold — undecided, and worth deciding before the reveal is drafted.
+### Why Vesper has not told him — and how Lucian finds out (settled)
+
+**Why he has waited.** Three reasons, and they compound:
+
+1. **House practice.** The Caldarions pass their deepest secrets **at succession**, not before — Morvath's survival, the truth of the ring, "everything else an heir has no need to know until the burden of the house is actually his to carry" (see `history-and-lore.md`). Vesper is not improvising a justification; he is following the family's own standing custom.
+2. **It is heavier than Veilweaving, and Lucian was young.** This is not a fact to be told but a **capability to be used**, and using it presses. Telling a young man he can reach for something that will weigh on him for the rest of his life is not information, it is an invitation. Vesper wanted him older.
+3. **It cannot be told in isolation.** Morvath is a fact. The ring is a fact. But *"what you are reaching for is not the Veil"* cannot survive the next question, or the one after: why does our family have this → the First Eclipse → the Dark Throne → the seal → why the seas closed and Arcanor is rotting → and eventually **what may one day be asked of you.** There is no partial version. It is not one secret; it is the thread that pulls the entire inheritance out at once.
+
+**And Vesper cannot teach it.** He has led Lucian through everything else — the Still Blade, statecraft, the concept of Domain itself. Here he would be handing his son something he can barely hold, while saying *you will go further with this than I ever did, and I cannot show you how.* Not jealousy; he is not built that way. But it is a hard thing for a man who has been the instructor in every other room, and it made waiting easier to justify to himself than it strictly deserved.
+
+**How Lucian finds out — he gets there first.** Before he is ever told, **Lucian begins tapping into it on his own**, without knowing what it is. This is what an aptitude far above his father's actually looks like in practice: he stumbles unaided into what Vesper needed the Vault records to even understand.
+
+- **The tell is the absence of cost.** Lucian knows what Veilweaving feels like and knows Veilrot is real and permanent — everyone does. What unsettles him is pushing past the point where it should start to hurt and finding that it does not. More result than the effort should produce, and no price where there ought to be one.
+- **Craft note: keep the thread warm.** This runs for a long stretch before the reveal. It needs occasional light contact — the way the Ch.63 cave beat works — a line here and there where something costs less than it should. Never explained, never dwelt on.
+- **It takes the decision away from Vesper**, which is the point. He intended to choose the moment. His son does not let him.
+
+**When Vesper finally tells him: after the Sisters of the Current arrive.** Not a date — a cause. Vesper's entire strategy has been concealment, and once people from Arcanor are standing in Kaelor with the name Caldarion in their mouths, concealment stops being viable. He does not tell Lucian because Lucian is at last ready; **he tells him because the reason for waiting has evaporated.** If the world is about to remember what this house is, his son cannot be the last to learn it.
+
+**Where: the Hidden Vaults.** Vesper takes him down and shows him the records. The setting is the point — taking him into that room is succession in miniature, performed early.
+
+**What is covered, and what is already spent.** **Morvath will have broken cover during the Dravenhall war**, in front of Roderic and witnesses, so that secret is gone before this scene and does not need revealing. What remains is the deeper layer: the Primordial Darkness, the First Eclipse, the Dark Throne and the seal, the signet and the Imperial Vault beneath Arcanor, and House Kaelarion's true vassalage. **That is more than one chapter can carry** — plan it across two, or stagger it.
 
 ### Training — self-taught, and what the Throne adds
 
