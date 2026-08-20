@@ -309,6 +309,27 @@ The Shadow Guard, once Lucian is given command of its second unit, will give him
 - **Reputation**: Respected and feared in equal measure by those who know of it. Viewed as a necessary tool of royal power, but also as a potential instrument of court intrigue.
 - **Relationship to House Caldarion**: Largely ineffective. The Crown’s Eyes have never successfully penetrated the deeper secrets of Blackspire or the true extent of Caldarion power. This intelligence gap is a source of quiet frustration for the royal family.
 
+**What they are actually good at — and what they are not.** This is the single most useful thing to hold onto when writing them. The Crown's Eyes are **watchers and accountants, not infiltrators.** Their demonstrated successes in Ch.64 are exactly in character: years spent tracing the Sylvaron banking conduit back to Dravenhall's coffers, and over a year cataloguing what accumulated at Dravenhall's ports and forges. Slow, patient, documentary work following **money and cargo**, both of which leave trails and neither of which can lie for long.
+
+What they cannot do is **get inside a household.** Ledgers can be traced; a family cannot be infiltrated by a service that recruits clerks, harbour officials and household staff. This is why:
+- They have never penetrated Blackspire, and never will by these methods.
+- They could establish *that* Dravenhall was arming, and never *which lords Roderic was drawing men from* — which is precisely the gap Isolde filled.
+
+**Scale and structure.** A small permanent core in Aurelia — perhaps a few dozen people who actually know they work for the Crown — sitting beneath a very wide, shallow periphery of informants who mostly do not: harbour clerks, tax officials, stewards, innkeepers, minor functionaries paid irregularly for unremarkable observations. The value is in aggregation, not in any single source. That structure is cheap, resilient, and nearly useless against a closed house.
+
+**Leadership.** Reports directly to Aldric. Its head is deliberately unglamorous and unnamed in court — a senior functionary rather than a spymaster of legend. *(Still to name — see `notes-and-ideas.md` Open Questions.)*
+
+**Against the Shadow Guard, they are not even the same kind of instrument.** The Crown's Eyes are a hundred eyes and no hands; the Shadow Guard is a hundred hands trained to leave nothing behind. Caldarion could not do what the Crown's Eyes did to the Corvane money trail, and the Crown's Eyes could not do a single thing Dawn is built for.
+
+### The Queen's Own Service (Isolde's network)
+- **Type**: A small, private intelligence network built and run personally by **Queen Isolde**, entirely separate from the Crown's Eyes.
+- **Origin**: Established by Isolde herself over more than a decade, for one purpose: to know what her brother was actually doing, rather than trust what his letters home chose to tell her. She describes it to Lucian in Ch.47 ("Audience") in her own words — *"a woman does not spend that long building a blade for her own brother's throat unless she has already answered the question you are asking me now."*
+- **Character — the inverse of her husband's service**: Tiny, personal, and built out of **relationships rather than positions**. Where the Crown's Eyes recruit functionaries and follow paper, Isolde works through cousins, old family retainers, and people who have known her since girlhood. She cannot trace a banking conduit. She can ask a question at a family table and have it answered.
+- **Consequence**: The two services are almost perfectly complementary, and neither could have produced Ch.64's case alone. The Crown's Eyes established the money and the material; Isolde supplied the thing no ledger contains — which minor lords Roderic was quietly drawing men from, and for how long.
+- **The cost, and it is hers**: She got that by reaching into her own birth family under careful pretexts, knowing exactly whose door suspicion would land on if Roderic ever went looking. See `characters/Maren_Dravenhall.md`.
+- **What Aldric knows**: That his wife has sources, and that they are good. **Not that she runs an organization.** She has never told him — a queen consort with an intelligence service of her own is a thing a king would have to have an opinion about, and she has preferred him not to. Note the implication: she told **Lucian Caldarion** something in Ch.47 that she has never told her husband, which is a measure of what that conversation actually cost her. *(Live tension for later; nothing has forced the issue yet.)*
+
+
 ### The Free Blades
 - **Type**: Decentralized mercenary network / collection of independent companies.
 - **Structure**: Not a single unified guild. Instead, it is a shared name and loose identity used by various independent mercenary captains and their bands across Kaelor.
