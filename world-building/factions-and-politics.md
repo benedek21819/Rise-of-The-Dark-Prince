@@ -311,9 +311,17 @@ The Shadow Guard, once Lucian is given command of its second unit, will give him
 
 **What they are actually good at — and what they are not.** This is the single most useful thing to hold onto when writing them. The Crown's Eyes are **watchers and accountants, not infiltrators.** Their demonstrated successes in Ch.64 are exactly in character: years spent tracing the Sylvaron banking conduit back to Dravenhall's coffers, and over a year cataloguing what accumulated at Dravenhall's ports and forges. Slow, patient, documentary work following **money and cargo**, both of which leave trails and neither of which can lie for long.
 
-What they cannot do is **get inside a household.** Ledgers can be traced; a family cannot be infiltrated by a service that recruits clerks, harbour officials and household staff. This is why:
+What they cannot do is **get inside a household.** This is why:
 - They have never penetrated Blackspire, and never will by these methods.
 - They could establish *that* Dravenhall was arming, and never *which lords Roderic was drawing men from* — which is precisely the gap Isolde filled.
+
+**Why they cannot infiltrate — four reasons, and they stack:**
+1. **They are the wrong kind of organization.** They recruit people who already hold positions and pay them for observations. Placing an agent means training someone to pass as staff, be hired, survive vetting, and report for years. That is a different institution entirely — and it is precisely the one House Caldarion built instead.
+2. **Great houses do not hire strangers.** Household staff come from families who have served for generations, vouched for and usually local. (Compare the Shadow Guard's own recruitment pool: loyal lesser families and orphans raised under the house's protection.) Someone arriving with no history is the most conspicuous person in the building.
+3. **They are an open secret.** Every house above a certain rank knows the Crown's Eyes exist and watches for them accordingly. A service everyone knows about cannot place people inside households that are specifically looking for it.
+4. **The political price makes it not worth attempting.** Following cargo through a port is deniable. A body servant caught with a cipher inside a Great House is not — it is a scandal that damages the very alliance structure the crown's power rests on. Aldric's position depends on the houses tolerating him, and being caught spying inside their walls is a cost he will not pay for information he can usually obtain another way.
+
+**The exception, and how it is actually done in this world:** you do not *place* someone inside a closed house — you **turn someone already there.** That is exactly what Dravenhall did to Serris (Ch.50, "Debt"): coercion of an existing member, not infiltration. The Crown's Eyes could do the same in principle, and it carries the identical scandal risk, which is why they largely do not.
 
 **Scale and structure.** A small permanent core in Aurelia — perhaps a few dozen people who actually know they work for the Crown — sitting beneath a very wide, shallow periphery of informants who mostly do not: harbour clerks, tax officials, stewards, innkeepers, minor functionaries paid irregularly for unremarkable observations. The value is in aggregation, not in any single source. That structure is cheap, resilient, and nearly useless against a closed house.
 
