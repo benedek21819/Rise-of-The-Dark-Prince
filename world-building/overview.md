@@ -23,7 +23,7 @@ Three distinct powers exist, and none becomes another: **the Veil**, **Commandme
 
 ## Core World Concept
 
-A man once forced the Darkness back through a tear in the sky, and the world knelt and made his family emperors for it. They held the seal for six hundred years. Then a warning was misread into a threat, and they were driven out — and nothing has held it since. The seas turned, a continent began to rot, and the world has been quietly dying ever since without ever understanding why, because the truth is only that a chair is empty. The last of that line now holds a mountain at the far edge of the only continent still whole, and has spent two and a half centuries making very sure that nobody remembers who they are. Their heir is eighteen, colder than his house intended, bonded to a dragon born from the same darkness his ancestors mastered — and the world is about to start remembering.
+A man once forced the Darkness back through a tear in the sky, and the world knelt and made his family emperors for it. They held the seal for more than eight centuries. Then a warning was misread into a threat, and they were driven out — and nothing has held it since. The seas turned, a continent began to rot, and the world has been quietly dying ever since without ever understanding why, because the truth is only that a chair is empty. The last of that line now holds a mountain at the far edge of the only continent still whole, and has spent two and a half centuries making very sure that nobody remembers who they are. Their heir is eighteen, colder than his house intended, bonded to a dragon born from the same darkness his ancestors mastered — and the world is about to start remembering.
 
 ---
 
