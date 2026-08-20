@@ -4,7 +4,9 @@
 Kaelor uses a single, unified currency, minted exclusively by the Crown (House Kaelarion). No Great House mints its own coin. This gives the Crown a quiet but constant point of leverage over every house's economy, regardless of that house's own wealth or resources.
 
 ## Cold Silver
-Found only in House Caldarion's Northern Duchy. See `locations.md` for full detail on mining, properties, and use in Silver Guard armor and the ancestral sword Mercy. Caldarion's exclusive access to it is one of the foundations of the house's military and financial independence — one more reason other houses regard them with a mixture of respect and resentment.
+**On Kaelor, found only in House Caldarion's Northern Duchy** — no other deposit exists on the continent, and Caldarion's exclusive access is one of the foundations of the house's military and financial independence, and one more reason other houses regard them with a mixture of respect and resentment. See `locations.md` for full detail on mining, properties, and use in Silver Guard armor and the ancestral sword Mercy.
+
+**It is not unique to Kaelor.** Cold Silver also occurs on **Arcanor**, where it is genuinely rare but known — rare enough that no house there builds armies around it, common enough that mainland scholars know what it is and would recognize worked Cold Silver on sight. Caldarion's advantage is therefore **quantity and control of a whole vein**, not sole possession of the substance. Practical consequence for the story: a mainland visitor who sees Silver Guard plate is not looking at an unidentifiable curiosity — they are looking at something they can name, and at more of it in one place than they have ever seen.
 
 ## Ironwood
 A slow-growing timber, exceptionally hard and notably heavier than ordinary wood.
