@@ -74,9 +74,9 @@ Out of the solar. Down the short passage. Through the arch onto the upper court 
 
 He took the first bridge at a dead run.
 
-Overhead, out over the drop, a dragon he had never seen in his life had Lirath by the shoulder.
+Overhead, out over the drop, Korrath had Lirath by the shoulder.
 
-Korrath was bigger than the reports. That was the thought that came, absurdly, first — that every account Vesper had ever read of that animal had been written by someone standing on the ground and had been wrong. He was a deep red so dark it read as brown until the light caught it, he was scarred along the whole length of his left side in the parallel way that only came from another dragon, and he had come out of the low cloud over the summit at a shallow angle with the wind behind him, into a target that had not moved.
+He had grown. That was the thought that came, absurdly, first — not fear, not even alarm, but the flat measurement of a man who had last seen that animal twenty-six years ago across a valley in the south and had never once forgotten the size of him. He was a deep red so dark it read as brown until the light took it. The long parallel scarring down his left side was exactly where it had been the last time, and nothing had been added to it since, which was its own quiet account of the last twenty-six years. And he had come out of the low cloud over the summit at a shallow angle with the wind behind him, into a target that had not moved.
 
 She had not known.
 
