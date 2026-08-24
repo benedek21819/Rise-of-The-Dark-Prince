@@ -174,6 +174,8 @@ Opens the morning after Ch.68, on the mountain, from the other side of the man L
 
 Korrath comes out of the cloud over the summit. Vesper is in the keep, not the roosts — the geography does the work (cut paths and stone bridges, `locations.md`), and the distance is short and completely uncrossable in the time available. **Lirath meets him alone and is overmatched exactly as Ch.67 promised.** Vesper reaches open air and opens the Weight: selective, full pressure on Korrath, Lirath excluded entirely. The fight goes even and becomes a contest over airspace. **The Weight has no visible manifestation** (see `magic-and-power-system.md`) — nobody on the mountain or the walls sees anything, and the only beings who learn what Vesper is are the two he is using it against. Write the exposure as testimony, never as spectacle.
 
+**Roderic on Korrath's back is a man Vesper knows** — they have sat across tables from each other for decades. Write it as recognition of a familiar face in an impossible place, not as a first sighting; the "Roderic unseen" note attached to Ch.68 was scoped to that chapter alone.
+
 End the chapter on Vesper seeing a second shape come up out of the valley. Not relief — he knows what it is and he told it to stay out of this.
 
 **Ch.70 — Lucian POV. The turn.** *(working title: "Answer")*
