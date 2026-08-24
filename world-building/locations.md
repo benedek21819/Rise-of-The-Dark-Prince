@@ -196,7 +196,25 @@ The main residential and ceremonial sections of the castle are built from dark s
 Multiple levels of training arenas are carved into the mountain, including open-air combat platforms (often covered in snow), indoor sparring halls, and specialized areas for Magic Knight training. The harsh environment is intentionally used to toughen soldiers.
 
 #### The Hidden Vaults
-Deep below the castle, near the Cold Silver mine, lie heavily guarded vaults. These contain ancient weapons, important records, and possibly forbidden knowledge related to dragons and Commandments. Only the head of the house and a few trusted individuals know the full extent of what is stored there.
+Deep below the castle, past the barracks and near the Cold Silver mine, lie the Hidden Vaults — the deepest and most closely held place in House Caldarion's possession, and the room where everything the house actually is has been kept since the exile.
+
+**Access — the doors are Darkness-sealed.** They open only to someone who can draw on the **Primordial Darkness** (see `magic-and-power-system.md`). This is not a lock that can be picked, forced, bribed past, or opened by any key, and it is why the house's deepest records have sat unmolested under a mountain for two and a half centuries: **you cannot rob a room you physically cannot open.**
+
+- **Vesper enters freely.** He is the only living person who does.
+- **A few trusted individuals know the Vaults exist and roughly what they hold.** None of them can enter.
+- **Lucian has never been inside.** He knows the place exists and knows it is his father's business, and has never asked.
+- **The doors would already open for him**, and he does not know it, because he has never tried and does not yet understand what the lock actually answers to. **When Vesper finally takes him down (see "Why Vesper has not told him" in `magic-and-power-system.md`), the door opening for Lucian is itself part of the revelation.** He is granted free access from that day.
+
+**What is kept there:**
+
+- **The house's true history, written down.** Nearly all of it — the First Eclipse, the empire, the thirteen kingdoms, the seal, the exile and its real causes. This is the only complete account anywhere in the world, and it exists nowhere else: not in the Great Archive, not in Myrath's Restricted Vaults, not on Arcanor.
+- **The Darkness records.** How the power works, what it costs, what the Throne is and does. Complete and intact — the knowledge was never lost (see "Aptitude" in `magic-and-power-system.md`). Vesper has read all of it and can barely use any of it.
+- **Imperial-era relics brought out of Arcanor.** Many, and mostly **dormant** — objects nobody now living can operate, or whose purpose the records describe without anyone having the aptitude to test. **Deliberate design principle: the Vaults should raise questions, not solve problems.** This is not an armoury to be shopped from when a plot needs a solution.
+- **Veilstone.** A modest quantity, carried out of Arcanor at the exile. The family knows exactly what it is — they came from the continent where it occurs — and it has simply sat unused for centuries, because nothing on Kaelor has ever needed powering. *(Relevant to the unresolved question of crossing the Silent Belt; see `notes-and-ideas.md`.)*
+
+**What is *not* here:** **Eclipse** and the **Dark Throne** are both on Arcanor — Eclipse sealed inside the Imperial Vault, the Throne where it has always stood. **Morvath** is hidden in the deep natural cave system behind the dragon roosts, an entirely separate part of the mountain, not down here.
+
+**Catalogued, unlike its counterpart.** Everything in the Blackspire Vaults is recorded and known, because the house has had two and a half undisturbed centuries to keep it properly. That is the exact inverse of the **Imperial Vault** beneath Arcanor, whose contents were never written down because the exile was too hurried and hostile — which is why the family knows every object under their own mountain and has no idea what they left behind under the old one.
 
 #### The Ascend
 **The Ascend** is the only practical route from **Firsthold** in the valley up to **Blackspire Keep** on the summit. It is a long, fortified mountain path with multiple defensive checkpoints, watch posts, and chokepoints designed to make any hostile approach extremely costly.
