@@ -198,12 +198,20 @@ Multiple levels of training arenas are carved into the mountain, including open-
 #### The Hidden Vaults
 Deep below the castle, past the barracks and near the Cold Silver mine, lie the Hidden Vaults — the deepest and most closely held place in House Caldarion's possession, and the room where everything the house actually is has been kept since the exile.
 
-**Access — the doors are Darkness-sealed.** They open only to someone who can draw on the **Primordial Darkness** (see `magic-and-power-system.md`). This is not a lock that can be picked, forced, bribed past, or opened by any key, and it is why the house's deepest records have sat unmolested under a mountain for two and a half centuries: **you cannot rob a room you physically cannot open.**
+**Access — the Caldarion signet is the only key.** The doors answer to the **Black Star trace the ring carries** (see "A third fragment…" above, and `magic-and-power-system.md`): the lock is keyed to the Primordial Darkness, and the ring is the portable piece of it. **Personal affinity is not enough** — a Caldarion who can draw on the Darkness still cannot open these doors without the ring in hand. There is no other means, and none has ever worked.
 
-- **Vesper enters freely.** He is the only living person who does.
+This is also why Blackspire's vault works the way it does: when the family built a new vault under a new mountain, they fitted it with **the same lock as the one they had left behind on Arcanor**, because they still had the key. One ring, two vaults, an ocean apart.
+
+- **Vesper enters freely.** He holds the ring, and he is the only living person who does.
 - **A few trusted individuals know the Vaults exist and roughly what they hold.** None of them can enter.
-- **Lucian has never been inside.** He knows the place exists and knows it is his father's business, and has never asked.
-- **The doors would already open for him**, and he does not know it, because he has never tried and does not yet understand what the lock actually answers to. **When Vesper finally takes him down (see "Why Vesper has not told him" in `magic-and-power-system.md`), the door opening for Lucian is itself part of the revelation.** He is granted free access from that day.
+- **Lucian has never been inside.** He knows the place exists, knows it is his father's business, and has never asked.
+- **He is granted free access from the day Vesper takes him down** (see "Why Vesper has not told him" in `magic-and-power-system.md`).
+
+**The ring passes here — and early.** House custom is that the signet goes from father to son **at succession**, with the house's deepest secrets (see `history-and-lore.md`). **Vesper breaks that custom deliberately.** Standing inside the Vaults, at the moment Lucian decides to go back to Arcanor, he gives him the ring — which is not a blessing on the journey but the thing that makes the journey possible at all, since the ring is likewise the only key to the **Imperial Vault** beneath the old capital.
+
+It is also the only form of teaching Vesper has left to offer. He has led his son through every other room and cannot lead him through this one; what he can do is step out of the way and hand him the key.
+
+*(Open point: whether Vesper remains Lord of House Caldarion after giving up the signet, or whether this amounts to a formal abdication. Giving the ring early is unprecedented and the house has no procedure for it. Undecided — see `notes-and-ideas.md`.)*
 
 **What is kept there:**
 
