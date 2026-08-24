@@ -134,7 +134,7 @@ Vesper nodded slowly, went on looking out over the valley, and asked nothing els
 
 ---
 
-The column entered the valley eleven days later, in the middle of a clear grey morning, while Lucian was on the upper wall for no reason more urgent than that he had come to be on the upper wall every morning.
+The column entered the valley eleven days later, in the middle of a clear grey morning, while Lucian was on the terrace for no reason more urgent than that he had come to be on the terrace every morning.
 
 It came in at the far southern end, where the ground opened out, and for the first several minutes it was not an army at all but only a darkening — a slow change in the color of the land, the way a shadow crosses a field with no cloud above it to explain the shadow. Then it resolved, and kept resolving, and went on resolving for a very long time.
 

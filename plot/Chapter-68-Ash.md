@@ -4,7 +4,7 @@ The host took two days to come up the valley and another to arrange itself, and 
 
 That was the part nobody had thought to warn him about. He had expected fear and found instead an unbearable, humiliating idleness — the household running around him in its quiet ordered way, Valtor's men going up and down the Ascend, his father in the solar with maps and couriers, and Lucian standing at windows. Ancalion felt it through the bond and gave it back doubled, restless in the roost, turning in the dark and settling and turning again.
 
-From the upper wall he watched Roderic invest the city. It could not be surrounded, and Roderic did not try; the mountain held the north of it and always had, so the host spread itself in a long shallow arc across the open ground before the southern wall, and its shape from above was the shape of a hand laid flat against a door. The siege train came up behind it over two days, oxen and timber and the long covered shapes of engines, and by the third evening the fires of the camp ran further along the valley floor than Firsthold's own lights did.
+From the terrace he watched Roderic invest the city. It could not be surrounded, and Roderic did not try; the mountain held the north of it and always had, so the host spread itself in a long shallow arc across the open ground before the southern wall, and its shape from above was the shape of a hand laid flat against a door. The siege train came up behind it over two days, oxen and timber and the long covered shapes of engines, and by the third evening the fires of the camp ran further along the valley floor than Firsthold's own lights did.
 
 His grandmother found him on the terrace on the second night and stood with him a while without saying anything, which he was grateful for. Selene asked him twice whether he was going down, and he told her the truth both times, which was that he did not know.
 
@@ -14,7 +14,7 @@ They came at the wall in the grey of the fourth morning.
 
 He heard it before he saw it — a sound that reached the summit thin and flattened by distance, less like fighting than like weather, and it took him a moment to understand that what he was listening to was several thousand men shouting at once. Then the engines started, and that carried better.
 
-He watched the first assault from the wall-walk with his hands on the stone.
+He watched the first assault from the terrace, with his hands on the parapet.
 
 At that distance it was not people. It was movement: a dark grain flowing forward across the open ground toward the southern wall, thickening at two points, breaking at one and reforming, and the small bright flowers of fire where the engines' shot came down inside the city. He could see the gate. He could see the roofs beyond it, the market row, the tight dark streets he had walked at fourteen with Lyra beside him, close enough to make out where the smoke was coming from and too far to make out anything else.
 
