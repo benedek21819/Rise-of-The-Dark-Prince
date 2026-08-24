@@ -152,6 +152,78 @@ All three strands reaching conclusive weight at roughly the same time is not coi
 
 **Timing — the war does not start immediately from Ch.60.** The author wants roughly one more year of story time before the war actually breaks out, so Lucian is ~18 (not ~16-17) when it begins — reads as more credible commanding real forces at that age. This year is open story space, not a blank skip: strong candidates to fill it include the still-unresolved Vaelmar wedding terms/ceremony (Ch.59 left the terms unnegotiated), continued Dawn recruitment, and further Domain/Absence training, rather than a single undifferentiated time-skip line.
 
+## Chapter Plan — Ch.69 to the End of the War Arc
+
+**Where the drafted text actually stands (Ch.66–68), and how it diverges from the sequence above.**
+Two steps of the sequence were superseded in drafting and the numbered list above should be read with these corrections:
+
+- **Step 1 is gone.** Lucian never informs Vesper of a decision. Ch.67 reversed it: *Vesper* excludes *him* ("You are not in this plan"), and Lucian does not argue. There is no declaration scene anywhere in the drafted text — deliberately cut, twice.
+- **Step 2 is changed.** Lucian does not fight under Dain's ground command and never goes down to Firsthold to report. In Ch.68 he acts **unbidden**, from the mountain, when he sees the city burning with the sixty thousand who would not leave still inside it. He flies from the summit, strikes, and returns to the summit. Nobody has authorized anything and nobody has forbidden it since.
+
+Everything from step 3 (Korrath out of the cloud) onward stands as written.
+
+**POV structure agreed with the author: the climax is split Vesper / Lucian.** Vesper's POV has been spent sparingly enough that using it here reads as escalation, and the Commandment is wasted if it is only ever seen from outside. The split also solves the altitude problem — the whole battle from one saddle would either compress Morvath or run to five thousand words.
+
+---
+
+**Ch.69 — Vesper POV. Day two.** *(working title: "Signature")*
+
+Opens the morning after Ch.68, on the mountain, from the other side of the man Lucian watched from a lit window. Vesper's assessment: the valley siege is now structurally dead — his son has made it dead — and therefore Roderic must move, and everything Vesper has is still arranged around a threat coming up the road. Lirath is aloft and reading the sky and reports nothing, which is the whole point; the glass defeats the dragon-sense while the cloud defeats the eyes, and **neither alone would have been enough**. Lucian goes down into the valley again and Vesper lets him, without a word about it, which is its own kind of statement.
+
+Korrath comes out of the cloud over the summit. Vesper is in the keep, not the roosts — the geography does the work (cut paths and stone bridges, `locations.md`), and the distance is short and completely uncrossable in the time available. **Lirath meets him alone and is overmatched exactly as Ch.67 promised.** Vesper reaches open air and opens the Weight: selective, full pressure on Korrath, Lirath excluded entirely. The fight goes even and becomes a contest over airspace.
+
+End the chapter on Vesper seeing a second shape come up out of the valley. Not relief — he knows what it is and he told it to stay out of this.
+
+**Ch.70 — Lucian POV. The turn.** *(working title: "Answer")*
+
+Picks up in the valley an hour earlier: the second day's work, the army dispersed and the passes worth less, the grind Ch.68 ended on. Then the summit, visible from Firsthold (Ch.16 establishes the mutual sightline) — two dragons over Blackspire where there should be one.
+
+He goes. Against an explicit order, with no scene made of the decision, matching Ch.68's method.
+
+**Ancalion's arrival is decisive, and this is where Roderic's plan actually fails — on assessment, not timing.** Roderic believed Caldarion had one combat-relevant dragon. He was not counting on a short window; he was counting on Ancalion being irrelevant. Play the failure through what Roderic *does* — a re-ordering visible from outside — rather than narrating his interior, which is not this POV's to give.
+
+End with Roderic genuinely losing: three against one over his own objective, with an army bleeding out below him.
+
+**Ch.71 — Vesper POV. The Commandment.** *(working title: "Fall")* **Short. The shortest chapter in the arc.**
+
+The relic. A forced move under real pressure, not a flourish. The word is **Fall**, and Vesper — who holds a Commandment himself and is one of perhaps a handful of living people who understand what he has just watched happen — recognizes the class of thing instantly and can do absolutely nothing about it.
+
+**The fall takes seconds and those seconds are the chapter.** Lirath's wings stop being hers. She claws back partial control near the ground as the force expends itself and comes down on a lower slope, away from him — alive, broken, out of the battle. Then the second cruelty: Roderic simply refuses the Weight's airspace, and the duel drifts out past its finite radius. Vesper's one great weapon stops mattering because the fight moved. He is on a mountain with his son out over open sky and his dragon down somewhere he cannot reach.
+
+Close on the sound out of the mountain — not identified, not explained, from Vesper's POV a thing he knows and has not heard in twenty years.
+
+**Ch.72 — Lucian POV. The climax.** *(working title: "Instinct")* **The longest chapter in the arc.**
+
+The holding action first, and it must **visibly cost him** — a young dragon against a battle-bred one in his prime, out over open sky with nothing to trade on, losing but not beaten. This is the price that makes the ending earned rather than handed over. The Absence thread from Ch.68 belongs in here: he reaches for it again under real pressure, and again it costs nothing, and again there is no time to wonder about it.
+
+**Morvath. The Commandment is what summons him** — the load-bearing causal link. Not a threat to Lirath, who had been fighting freely by her own choice; her **will was overridden from outside**, and that is what pulls a nearly three-hundred-year-old dragon out of a cave after twenty years. The Ch.63 plant (Ancalion's head turning once toward the deeper dark) pays off here and should not be re-explained.
+
+Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the heat of it, not an order.** Lucian does not command it, is not asked, and it is over before anyone has decided anything.
+
+**The beat that matters is what Lucian feels afterward:** he would have given exactly that order, knows it immediately and without struggle, and finds no objection anywhere in himself. Recognition, not horror. Do not let him examine it. Let it sit.
+
+**Ch.73 — Roderic POV. Taken.** *(working title: "Terms")*
+
+The third POV, and the last time we are inside him. Justified because two beats can only be delivered from here: **recognition of Morvath on sight** — a documented war-era dragon believed dead alongside Ravorn, hidden by Caldarion for over two decades — and the arithmetic of having **already spent his one answer** on the wrong dragon. Not confusion. Recognition and the horror underneath it.
+
+Then the ground: coming down inside a dying animal, the field below where his host has stopped being a host, the Silver Guard closing on the slope. **Taken alive, injured** — because a man can be judged, and a dragon cannot. Two enemies, two endings, for reasons about what each of them *is*.
+
+Isolde is the thing he does not say anything about, and the chapter should not make him.
+
+**Ch.74 — Aftermath, on the mountain.** *(working title: "Count")* **Vesper POV or Lucian POV — decide at drafting.**
+
+The morning after. Lirath on the lower slope and what can and cannot be done for her. **Morvath in the open** — the twenty-year secret cannot be un-revealed, and Roderic is not the only witness. The household. The dead in Firsthold counted properly for the first time. Dain coming up the Ascend.
+
+The quiet ledger item: a Veil working **leaves a trace**, there was a signature in the sky that morning, and nobody was reading for it. Plant it here as a bitter realization; the thread runs to Myrath and is not resolved in this arc.
+
+**Ch.75 — Aftermath, political.** *(working title: "Settlement")*
+
+Dravenhall broken. Aldric — who flew north to force Roderic's timing and was then pinned in his own capital by Kestrion and unable to move when the war came — now has to preside over what happens to a great house. Kestrion's exposure. Thalorin's troops arriving after everything is decided, and their healers, who arrived early, mattering more. Vaelmar's routes. Isolde's position, which is now unbearable in a new direction.
+
+And Caldarion's true strength nakedly visible, which is not the same as Caldarion being safe. **Possible thread (not yet decided):** this is what pushes the "House Kaelarion is technically vassal to House Caldarion" secret closer to the surface.
+
+**What this arc does NOT contain:** the Vault reveal. Per `magic-and-power-system.md`, Vesper tells Lucian everything about the Primordial Darkness **after the Sisters arrive**, in the Vaults — a later arc. Ch.68 and Ch.72 only plant the anomaly (it costs him nothing) and Lucian gets no answer to it here.
+
 ## Age Progression Target — Lucian's Path to Arcanor
 The author wants Lucian to make the "Return" trip to Arcanor (see Reserved Chapter Titles above) at around **22-23 years old**, not sooner. As of Chapter 60 he is ~16-17 (tracked continuously since Ch.41). The author prefers **multiple shorter time skips distributed across several arcs** rather than one large jump to close that ~5-6 year gap. Rough, deliberately loose shape (subject to change as each arc is actually written):
 - **~1 year before the Dravenhall war arc begins** (see above) — Lucian ~17 → ~18 at the war's outbreak.
