@@ -1,29 +1,5 @@
 # Chapter 68: Ash
 
-The solar door stood open when he reached it, which meant his father had heard him on the stair and had not moved to close it.
-
-Vesper was at the window. He did not turn.
-
-"I am going to fight," Lucian said.
-
-"I know."
-
-"You are not going to tell me not to."
-
-"No." Vesper's hands were folded behind him, and for a while that was the whole of it. "I told you three nights ago where you are not. I am not going to spend what is left of this saying it twice, and I am not going to pretend I could make it hold if I did."
-
-Lucian had come up the stair with four different arguments ordered and ready, and found he had no use for any of them. It was worse, somehow, than being refused.
-
-"You have killed men," Vesper said.
-
-"Yes."
-
-"Not like this."
-
-He did not explain it. He did not turn from the window either, and after a moment Lucian understood that the conversation had finished some time before he arrived, and that his father had simply been waiting to have it aloud.
-
----
-
 The host took two days to come up the valley and another to arrange itself, and Lucian spent all three of them on the mountain with nothing whatsoever to do.
 
 That was the part nobody had thought to warn him about. He had expected fear and found instead an unbearable, humiliating idleness — the household running around him in its quiet ordered way, Valtor's men going up and down the Ascend, his father in the solar with maps and couriers, and Lucian standing at windows. Ancalion felt it through the bond and gave it back doubled, restless in the roost, turning in the dark and settling and turning again.
