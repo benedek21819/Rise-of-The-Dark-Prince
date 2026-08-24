@@ -36,7 +36,7 @@ Not numbness. Vesper knew numbness; he had worn it himself for the better part o
 
 And it was. It was better than correct; it was the observation of a man who had already been down there and come back and thought about it afterward instead of feeling about it afterward. Any commander in the North would have been glad to hear it out of an officer of forty.
 
-Vesper had been nineteen in the last year of the war, and what he remembered of being nineteen was not clarity.
+Vesper had been nineteen when the Last Continental War ended, and what he remembered of being nineteen was not clarity.
 
 He was proud of it. That was the first thing and it was uncomplicated and he let himself have it. The second thing arrived immediately behind it and was not uncomplicated at all, and he did not examine it, because there was no version of examining it this morning that ended with him any better prepared for what the day was going to ask of him. He noted where it was. He left it there.
 
