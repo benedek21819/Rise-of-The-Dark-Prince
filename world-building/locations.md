@@ -211,7 +211,14 @@ This is also why Blackspire's vault works the way it does: when the family built
 
 It is also the only form of teaching Vesper has left to offer. He has led his son through every other room and cannot lead him through this one; what he can do is step out of the way and hand him the key.
 
-*(Open point: whether Vesper remains Lord of House Caldarion after giving up the signet, or whether this amounts to a formal abdication. Giving the ring early is unprecedented and the house has no procedure for it. Undecided — see `notes-and-ideas.md`.)*
+**This is not an abdication, and nothing passes at Blackspire.** The two are taking up **different offices**, and that is the whole point of the moment:
+
+- **Vesper remains what he has always consented to be** — Lord of the Northern Duchy, patriarch of a Kaelor family that happens to be named Caldarion. He keeps the duchy, the household, and the seat. He never wanted more than that, and does not take more now.
+- **Lucian takes up something his father never held**: head of the **Imperial House Caldarion**. Not an inheritance from Vesper, because Vesper never claimed it.
+
+**The difference is that Lucian wears the ring where it can be seen.** Vesper has carried it concealed on a chain beneath his clothes his whole life, "in keeping with a house that has never once ruled from where anyone could watch it rule." Worn openly, the same object stops being a secret kept and becomes **a claim made** — the end of two and a half centuries of hiding, declared without a word being said about it.
+
+**Consequences worth tracking:** it is a declaration to Kaelor and, eventually, to Arcanor. Most who see it will not know what it means. **Aldric will.** And it makes House Kaelarion's vassalage a live fact rather than a forgotten technicality — a thing with a claimant standing in the room.
 
 **What is kept there:**
 
