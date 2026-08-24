@@ -58,7 +58,7 @@ Lirath was already out on the outer ledge with her head over the drop, and she h
 
 He put a hand flat on her flank and stood.
 
-Below and behind, the mountain was doing what he had arranged for it to do: Valtor's checkpoints on the Ascend at every switchback, two hundred of the two hundred and fifty Silver Guard between the second gate and the summit, the road watched, the paths watched, the lower cisterns sealed and guarded. Every stone of it faced downward. It was the finest defensive arrangement in the North and it had been built by six generations of careful men against exactly one thing, and Vesper had spent eleven days aware that the answer to the other thing was standing under his hand.
+Below and behind, the mountain was doing what he had arranged for it to do: Valtor's checkpoints on the Ascend at every switchback, two hundred of the two hundred and fifty Silver Guard between the second gate and the summit, the road watched, the paths watched, the lower cisterns sealed and guarded. Every stone of it faced downward. It was the finest defensive arrangement in the North and it had been built by eight generations of careful men against exactly one thing, and Vesper had spent eleven days aware that the answer to the other thing was standing under his hand.
 
 She had not missed one. Not once, in twenty-six years. She had picked Solara out of an empty sky at a distance that had made a liar out of every scout on the mountain, and she had done it half asleep. Whatever else the day was going to cost him, it would not cost him surprise. That was the one thing he had, and it was enough, because with the warning he would be on her back and in the air before anything out of the south covered the last three miles.
 
