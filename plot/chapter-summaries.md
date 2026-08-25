@@ -75,7 +75,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 67. Calm  
 68. Ash  
 69. Signature  
-70. Answer  
+70. Assent  
 
 **Note:** Chapter 19 ("Eyes") — Seren's first on-page meeting with Lucian. Expanded with Vesper explaining why the King and Queen did not personally escort Seren (court affairs, Dorian's ambitions) and clarifying the Ascend is, under Caldarion's own escort, among the safest roads in the kingdom rather than genuinely dangerous. Also introduces **Lady Ansel**, the Queen's cousin, as Seren's actual chaperone traveling alongside the steward — closing a plausibility gap around sending a young princess north with only a steward and a nurse, giving her retinue the rank her status calls for. Also expanded with a bit more Cole dialogue, added texture to the royal retinue (a physician, a scholar recording the visit), and a fuller closing reflection. (Expanded from ~1,105 to ~1,680 words as part of the 1,500-word-floor pass.)
 **Note:** Chapter 12 ("Home") — early childhood arc, a quiet morning-and-formal-dinner chapter establishing the full household. Expanded with more warmth in the Elara/Selene breakfast scene, a fuller Lyra dressing exchange, a Riven/Thorne beat at dinner (Riven's restless eagerness to match Lucian's training, Thorne's quiet steadiness even this young — an early seed of their established adult personalities), and an expanded closing reflection on the split between Lucian's private and formal selves. (Expanded from ~1,110 to ~1,570 words as part of the 1,500-word-floor pass.)
@@ -142,7 +142,7 @@ Closes on the assault at the southern wall coming up in pitch and volume, which 
 
 ---
 
-**Note:** Chapter 70 ("Answer") returns to **Lucian's POV** and **overlaps Ch.69 rather than following it** — same morning, Day 20, opening earlier in the valley and catching up at the moment he looks north. The two chapters converge on Ancalion crossing into the Weight, which is Ch.69's closing image and this chapter's hinge.
+**Note:** Chapter 70 ("Assent") returns to **Lucian's POV** and **overlaps Ch.69 rather than following it** — same morning, Day 20, opening earlier in the valley and catching up at the moment he looks north. The two chapters converge on Ancalion crossing into the Weight, which is Ch.69's closing image and this chapter's hinge.
 
 **The chapter is built as the inverse of Ch.68.** That chapter's whole point was that there was no moment of decision; this one says so explicitly in the same cadence — *he could point to exactly where he had done it and exactly what he had known while doing it, which was everything.* Fast is not the same as absent. **This is the single crossing of Vesper's line**, the entire payoff of Ch.67's exclusion scene, and per `notes-and-ideas.md` it must not be diluted by smaller defiances before or after.
 

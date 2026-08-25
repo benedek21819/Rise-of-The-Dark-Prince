@@ -1,4 +1,4 @@
-# Chapter 70: Answer
+# Chapter 70: Assent
 
 The second day was worse work than the first, and it was worse in a way nobody would ever put in a chronicle.
 

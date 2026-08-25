@@ -178,7 +178,7 @@ Korrath comes out of the cloud over the summit. Vesper is in the keep, not the r
 
 End the chapter on Vesper seeing a second shape come up out of the valley. Not relief — he knows what it is and he told it to stay out of this.
 
-**Ch.70 — Lucian POV. The turn.** *(working title: "Answer")*
+**Ch.70 — Lucian POV. The turn.** *(title: "Assent")*
 
 Picks up in the valley an hour earlier: the second day's work, the army dispersed and the passes worth less, the grind Ch.68 ended on. Then the summit, visible from Firsthold (Ch.16 establishes the mutual sightline) — two dragons over Blackspire where there should be one.
 
@@ -208,7 +208,13 @@ Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the 
 
 **Ch.73 — Roderic POV. Taken.** *(working title: "Terms")*
 
-The third POV, and the last time we are inside him. Justified because two beats can only be delivered from here: **recognition of Morvath on sight** — a documented war-era dragon believed dead alongside Ravorn, hidden by Caldarion for over two decades — and the arithmetic of having **already spent his one answer** on the wrong dragon. Not confusion. Recognition and the horror underneath it.
+The third POV, and the last time we are inside him. Justified because two beats can only be delivered from here: **recognition of Morvath on sight** and the arithmetic of having **already spent his one answer** on the wrong dragon.
+
+**The recognition is personal, and that is now settled** (see `history-and-lore.md`, "How Ravorn died — Vorrath," and `characters/Garrick_Dravenhall.md`). Morvath killed Roderic's father, **Lord Garrick Dravenhall**, and the house's elder dragon **Vorrath**, twenty-six years ago, in the same hour Garrick and Vorrath killed Ravorn Caldarion. Roderic was in the air that day on Korrath, was mauled by Morvath and not finished — **the old parallel scarring on Korrath's left side is Morvath's work** — and watched Morvath fly off ruined, which is why he has believed for twenty-six years that the animal died. That belief was his own conclusion from his own eyes, not Caldarion propaganda, which is exactly why nothing in his intelligence work was ever going to correct it.
+
+So the beat is not a strategist identifying an unexpected asset. It is a man in his fifties looking at the thing that killed his father, alive, over Blackspire, with his house's one ancient answer already spent on the wrong dragon. **Recognition, then horror, in that order.**
+
+**The symmetry to keep in view and never state on the page:** Vesper and Roderic both inherited shattered houses out of that single afternoon — Vesper at twenty, Roderic at twenty-five, both fathers dead within the hour of each other. Roderic's first act as lord was handing his sister to the winning side as the price of peace. Neither man knows the parallel is that exact, and neither would be comforted by it.
 
 Then the ground: coming down inside a dying animal, the field below where his host has stopped being a host, the Silver Guard closing on the slope. **Taken alive, injured** — because a man can be judged, and a dragon cannot. Two enemies, two endings, for reasons about what each of them *is*.
 
