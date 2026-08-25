@@ -118,13 +118,13 @@ Korrath went at him, because Korrath had nowhere left to go and was not built fo
 
 The sound of it reached Lucian a half-second later and he felt it in his back teeth.
 
-After that Korrath was not a flying animal any more. He was a great weight in the air with one wing working, and the mountain did the rest of it — he went over sideways, and down, hauling at nothing, and hit the broad rock shoulder below the platforms hard enough that Lucian felt the shelf take it through the air.
+After that Korrath was not a flying animal any more. He was a great weight in the air with one wing working, hauling at nothing, going over and down the black face of the mountain — and he hit the broad rock shoulder below the platforms from a height that no living thing is built to survive intact. Lucian felt the shelf take it through the air. Something in that impact went that was not the wing.
 
-Morvath came down on top of him almost gently, the way something that heavy has to, and put a foreleg across his back, and held him there.
+And Morvath turned around and went home.
 
-Korrath did not stop. He got his good wing under himself and heaved, and could not shift the weight, and heaved again — and then did the only thing left to an animal pinned by something bigger than it.
+That was all. He did not go down after him. He did not look at the body, or at Lucian, or at the man on it. He came around in one long unhurried arc over the shoulder, and went back along the cliffs the way he had come, and put himself into the black mouth below the roosts, and was gone — and the mountain was exactly as it had been that morning, and would have looked to anyone arriving one minute later as though nothing whatsoever had come out of it.
 
-He turned his head back and up, to bite.
+Below, on the rock, Korrath got his legs under himself and stood up.
 
 ---
 
@@ -134,13 +134,17 @@ He never afterward pretended otherwise, not to Dain and not to his father and no
 
 Ancalion went down.
 
-Not gracefully; there was nothing left in him for that. He half-folded and half-fell, hit the shelf badly on the ruined foreleg and went down onto his chest with the impact, and was up and moving before he had properly stopped — three strides across bare rock with the torn wing dragging behind him, in under the raised head, and into the long stretched throat that Korrath had opened himself by turning to fight.
+Not gracefully; there was nothing left in him for that. He half-folded and half-fell, hit the shelf badly on the ruined foreleg and went down onto his chest with the impact, and was up and moving before he had properly stopped — three strides across bare rock with the torn wing dragging behind him.
 
-There was no fire in it. He took it in his jaws, low, behind the jaw where the scale thins, and locked, and did not let go.
+Korrath met him. Broken and grounded and one-winged, with something wrong in his chest that Lucian could hear from thirty feet, and he still came, because that was what he was. He got a foreleg into Ancalion's flank and opened it to the bone. He would have had him in another moment.
+
+Then he did the thing that a cornered animal does when something is under its guard: he pulled his head back and up to bring it down, and the whole long stretch of his throat came open.
+
+There was no fire in it. Ancalion went into that gap and took it in his jaws, low, behind the jaw where the scale thins, and locked, and did not let go.
 
 It went on for a long time.
 
-Korrath was several times his size and did not die easily and did not die quickly. He threw Ancalion off his feet twice and dragged him a body's length across the stone and never once broke the hold, and the black shape on his throat simply set his weight and stayed, riding it, being thrown, coming back down, holding. Morvath did not help. Morvath held the body against the rock and waited, without any evident interest, the way a man holds a door for someone carrying something heavy.
+Korrath was several times his size and did not die easily and did not die quickly. He threw Ancalion off his feet twice and dragged him the length of a body across the stone, and the black shape on his throat simply set his weight and stayed — ridden, thrown, coming back down, holding. There was nobody to help. There was nothing on that shelf but the two of them and a great deal of noise.
 
 Lucian brought them down onto the far end of the shelf partway through — he had no memory afterward of deciding to — and stood at the edge of it in the wind and watched his dragon kill.
 
@@ -152,7 +156,7 @@ Then that stopped too.
 
 A man came out of the tangle on the far side as it went slack, and went twenty feet down the rock, and lay still.
 
-Ancalion did not let go for some time after there was any reason to. When he did, he stood over what he had done with his sides going like a bellows and the wing hanging, and Morvath took his weight off the body and looked at him for a moment — one old animal at a young one — and then turned away and went up the shelf without hurrying, and did not look at Lucian at all.
+Ancalion did not let go for some time after there was any reason to. When he did, he stood over what he had done with his sides going like a bellows and the wing hanging and the flank laid open, and did not come away from it, and did not look at Lucian.
 
 ---
 
