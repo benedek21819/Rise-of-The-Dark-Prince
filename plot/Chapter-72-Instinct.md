@@ -150,10 +150,6 @@ Lucian got to his feet somewhere in the middle of it, bleeding, thirty feet away
 
 He did not look away.
 
-He wanted it finished — badly, the whole way through, with his heart going in his throat, because it was his own dragon down there being thrown about by something that would not die.
-
-He did not want it stopped.
-
 The noise stopped before the movement did. That was the part he kept. Korrath had been making noise the whole hour, all of it, from the moment he came out of the cloud, and there came a moment somewhere in the middle of it when he stopped and the body went on working anyway for a while.
 
 Then that stopped too.
