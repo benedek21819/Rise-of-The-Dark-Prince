@@ -8,7 +8,7 @@ The engines were gone. Not damaged. Gone, and Kestrion would not build another t
 
 He stood with his hands behind his back and did the arithmetic three times, because it was the kind of arithmetic a man wanted to be wrong about.
 
-A siege of Firsthold had never been able to succeed. He had said as much to Dain with his cloak half on, and Dain, who did not need it said, had drawn the rest of it himself: therefore it is not the whole of his intention. That had been true when the host was intact. Now the host was not intact, it was bleeding out in a valley eleven days from the nearest friendly wall with winter coming down the mountains behind it, and the difference between the two mornings was that Roderic could afford the first one and could not afford this.
+A siege of Firsthold had never been able to succeed. He had said as much to Dain with his cloak half on, and Dain, who did not need it said, had drawn the rest of it himself: therefore it is not the whole of his intention. That had been true when the host was intact. Now the host was not intact, it was bleeding out in a valley weeks from the nearest friendly wall with winter coming down the mountains behind it, and the difference between the two mornings was that Roderic could afford the first one and could not afford this.
 
 Which meant the second half of his intention was no longer something he would produce when it suited him.
 
@@ -46,7 +46,7 @@ Lucian finished the bread and set the report down squared with the edge of the t
 
 "Go," Vesper said.
 
-There was nothing else to say about it and neither of them tried to find something. Burning an army that had come to take Firsthold was not a thing that required his permission or would have been improved by his approval; it was what the heir of this house was for, and Lucian had understood that without ever needing to be told, which was the single greatest piece of luck Vesper had ever had as a father. The line he had drawn eleven nights ago lay somewhere else entirely, up here, in the air over this mountain, and it had not been touched yet.
+There was nothing else to say about it and neither of them tried to find something. Burning an army that had come to take Firsthold was not a thing that required his permission or would have been improved by his approval; it was what the heir of this house was for, and Lucian had understood that without ever needing to be told, which was the single greatest piece of luck Vesper had ever had as a father. The line he had drawn twenty nights ago lay somewhere else entirely, up here, in the air over this mountain, and it had not been touched yet.
 
 He listened to his son go up the passage toward the roost stair and did not think about the line at all, on purpose, and the effort of not thinking about it was considerable.
 
@@ -54,11 +54,11 @@ He listened to his son go up the passage toward the roost stair and did not thin
 
 He went up to the platform himself before the light.
 
-Lirath was already out on the outer ledge with her head over the drop, and she had been out there in one form or another since the column had first come into the valley eleven days ago. She turned an eye on him when he came up the cut path and then turned it back to the south, which was as much greeting as either of them had ever needed.
+Lirath was already out on the outer ledge with her head over the drop, and she had been out there in one form or another since the column had first come into the valley four days ago. She turned an eye on him when he came up the cut path and then turned it back to the south, which was as much greeting as either of them had ever needed.
 
 He put a hand flat on her flank and stood.
 
-Below and behind, the mountain was doing what he had arranged for it to do: Valtor's checkpoints on the Ascend at every switchback, two hundred of the two hundred and fifty Silver Guard between the second gate and the summit, the road watched, the paths watched, the lower cisterns sealed and guarded. Every stone of it faced downward. It was the finest defensive arrangement in the North and it had been built by eight generations of careful men against exactly one thing, and Vesper had spent eleven days aware that the answer to the other thing was standing under his hand.
+Below and behind, the mountain was doing what he had arranged for it to do: Valtor's checkpoints on the Ascend at every switchback, two hundred of the two hundred and fifty Silver Guard between the second gate and the summit, the road watched, the paths watched, the lower cisterns sealed and guarded. Every stone of it faced downward. It was the finest defensive arrangement in the North and it had been built by eight generations of careful men against exactly one thing, and Vesper had spent twenty days aware that the answer to the other thing was standing under his hand.
 
 She had not missed one. Not once, in twenty-six years. She had picked Solara out of an empty sky at a distance that had made a liar out of every scout on the mountain, and she had done it half asleep. Whatever else the day was going to cost him, it would not cost him surprise. That was the one thing he had, and it was enough, because with the warning he would be on her back and in the air before anything out of the south covered the last three miles.
 
@@ -80,7 +80,7 @@ He had grown. That was the thought that came, absurdly, first — not fear, not 
 
 She had not known.
 
-Vesper's mind went at that fact the way a tongue goes at a broken tooth, all the way across the second bridge. She had not known. She had been reading that sky for eleven days with the whole of an attention he had trusted since before Lucian was born, and something the size of a barn had come down the length of the northern sky and put itself directly above her and she had not known, and there was no version of the world he understood in which that was possible.
+Vesper's mind went at that fact the way a tongue goes at a broken tooth, all the way across the second bridge. She had not known. She had been reading that sky with the whole of an attention he had trusted since before Lucian was born, and something the size of a barn had come down the length of the northern sky and put itself directly above her and she had not known, and there was no version of the world he understood in which that was possible.
 
 It was, nevertheless, currently happening.
 
@@ -88,7 +88,7 @@ He filed it. It was the only thing he could do with it and he was aware even as 
 
 They came apart in the air twenty feet from the cliff, and she got her wings under her and Vesper saw the blood come off her shoulder in a sheet, and understood exactly how the rest of this went.
 
-He had given his son two words in a warm room eleven nights ago, with a paper in his hand, and they had been the right two words. *Lirath. And the Weight.* Not one and then the other if the first proved insufficient. Both, together, from the first moment, because he had known for eleven days and some considerable number of years before that what she was against that animal on her own.
+He had given his son two words in a warm room twenty nights ago, with a paper in his hand, and they had been the right two words. *Lirath. And the Weight.* Not one and then the other if the first proved insufficient. Both, together, from the first moment, because he had known for twenty days and some considerable number of years before that what she was against that animal on her own.
 
 She turned into Korrath anyway. Of course she did.
 

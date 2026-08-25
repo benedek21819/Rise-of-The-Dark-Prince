@@ -123,4 +123,22 @@ The present runs at roughly **1055 IE**. The Dravenhall War opens in **late Embe
 - The appearance of the egg around Year 800 helped catalyze the political pressure that led to the exile.
 - The exact fate of the parent dragon after laying the egg remains unknown.
 
+## Day Count — The Dravenhall War at Blackspire
+
+Derived from the drafted text, not invented. **Day 0 is the solar scene in Ch.67** — the first scout report up the Ascend, Vesper naming Korrath, and the exclusion ("You are not in this plan"). Every interval below is stated on the page in Ch.67 or Ch.68; use these numbers rather than re-deriving them, and do not reuse one chapter's interval as though it were a general one.
+
+| Day | Event | Source |
+|---|---|---|
+| **0** | First report up the Ascend. Vesper's answer: "Lirath. And the Weight." Lucian excluded from the Korrath fight. | Ch.67 |
+| **2** | Dain comes up the Ascend, stays one evening. Firsthold's evacuation discussed. | Ch.67 ("two days later") |
+| **3** | Dain starts back at first light. Lucian's afternoon flight over the valley. The letter to Seren that night. | Ch.67 |
+| **5** | Terrace scene — "How is Ancalion." / "Ready." | Ch.67 ("two nights after that") |
+| **16** | The column resolves out of the southern end of the valley. Lucian watches a quarter of an hour without moving. | Ch.67 ("eleven days later") |
+| **16–17** | The host comes up the valley. | Ch.68 ("two days") |
+| **18** | The host arranges itself; the siege train closes up; camp fires outrun Firsthold's own. | Ch.68 |
+| **19** | **First assault.** Lucian's first war — four passes, the engines burned, the wing wound, the arithmetic. | Ch.68 ("the fourth morning") |
+| **20** | **Second day.** Ch.69 and Ch.70 both take place on this single morning. Korrath out of the cloud; the Weight; Lucian comes up from the valley. Ch.71 and Ch.72 continue the same morning. | Ch.69–72 |
+
+**Working reference points as of Day 20:** the exclusion was **twenty nights ago**; the column entered the valley **four days ago**; Ancalion's wing was holed **yesterday afternoon**; Vesper last saw Korrath **twenty-six years ago**, in the Last Continental War.
+
 *This is the official chronological reference for the Story Bible. Update as new events are established.*

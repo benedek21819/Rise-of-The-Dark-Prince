@@ -26,7 +26,7 @@ Blackspire stood on its summit four miles off and a mile up, black rock and blac
 
 There were two shapes in the air above it.
 
-Lucian's mind refused it for the length of a wingbeat — a trick of distance, birds, the eye making a thing out of nothing at four miles. Then it resolved, the way the column had resolved out of the southern end of the valley eleven days ago, and went on resolving, and there was silver and there was something much larger than silver, and they were locked together and falling and coming apart again over the drop.
+Lucian's mind refused it for the length of a wingbeat — a trick of distance, birds, the eye making a thing out of nothing at four miles. Then it resolved, the way the column had resolved out of the southern end of the valley four days ago, and went on resolving, and there was silver and there was something much larger than silver, and they were locked together and falling and coming apart again over the drop.
 
 And nothing had come through the bond.
 
@@ -36,7 +36,7 @@ He did not think about that for very long, then. He thought about it a great dea
 
 ---
 
-The order had been given on the eleventh night before this one, in a warm room, in four words.
+The order had been given twenty nights ago, in a warm room, in four words.
 
 *You are not in this plan.*
 
@@ -66,7 +66,7 @@ Lirath was bleeding. It came off her shoulder in a long ribbon that broke into n
 
 And Korrath was laboring.
 
-Lucian saw it in one pass and understood it in the same instant, because he had been told the answer eleven nights ago in the same room where he had been given the order, and because he had seen it demonstrated once, in a closed chamber, standing still, as proof that a word meant something.
+Lucian saw it in one pass and understood it in the same instant, because he had been told the answer that same night, in the same room where he had been given the order, and because he had seen it demonstrated once, in a closed chamber, standing still, as proof that a word meant something.
 
 He looked down.
 
@@ -98,7 +98,7 @@ That was the whole of it, and Lucian found it within four passes and then did no
 
 And every time Korrath turned to answer it, he was turning inside Vesper's field, at his father's chosen pressure, with his weight tripled, and Lirath was there when he came out of the turn.
 
-They fell into it without any of them arranging it. Lirath kept him in. Lucian gave him a reason to be somewhere else. It was not a plan and nobody had discussed it, and it worked because all three of them had been reading the same sky for eleven days and only two of them had been on the mountain when it started.
+They fell into it without any of them arranging it. Lirath kept him in. Lucian gave him a reason to be somewhere else. It was not a plan and nobody had discussed it, and it worked because all three of them had been reading the same sky since the column came into the valley and only two of them had been on the mountain when it started.
 
 Korrath began to lose height he did not mean to lose.
 
@@ -106,7 +106,7 @@ Then Lucian saw the man on his back stop looking at the summit.
 
 He would not have caught it a day earlier. But he had spent two days now watching a field at a distance and learning to read intention out of movement, and what he saw, on the third pass, was Roderic Dravenhall turn his head away from Blackspire and toward the black dragon and not turn it back.
 
-He had come the length of a continent for the mountain. He had marched eleven days up a valley for the mountain, and put an army into a ditch as a lie to cover it, and gotten a battle-bred dragon into the airspace above it without a soul on the summit knowing — and now, with the objective four hundred feet under his feet and nothing but a bleeding old female between him and it, he had stopped working on it.
+He had come the length of a continent for the mountain. He had spent two days walking an army up this valley for the mountain, and put an army into a ditch as a lie to cover it, and gotten a battle-bred dragon into the airspace above it without a soul on the summit knowing — and now, with the objective four hundred feet under his feet and nothing but a bleeding old female between him and it, he had stopped working on it.
 
 He was working on Lucian instead.
 
