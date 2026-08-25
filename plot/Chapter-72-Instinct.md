@@ -120,6 +120,8 @@ The sound of it reached Lucian a half-second later and he felt it in his back te
 
 After that Korrath was not a flying animal any more. He was a great weight in the air with one wing working, hauling at nothing, going over and down the black face of the mountain — and he hit the broad rock shoulder below the platforms from a height that no living thing is built to survive intact. Lucian felt the shelf take it through the air. Something in that impact went that was not the wing.
 
+The man came off his back at the moment of it and went down the rock a long way, loose, the way a thrown thing goes, and came to rest a good forty feet from the animal and did not get up. He was moving. He was not standing, and from the shape of him he was not going to be.
+
 And Morvath turned around and went home.
 
 That was all. He did not go down after him. He did not look at the body, or at Lucian, or at the man on it. He came around in one long unhurried arc over the shoulder, and went back along the cliffs the way he had come, and put himself into the black mouth below the roosts, and was gone — and the mountain was exactly as it had been that morning, and would have looked to anyone arriving one minute later as though nothing whatsoever had come out of it.
@@ -128,13 +130,11 @@ Below, on the rock, Korrath got his legs under himself and stood up.
 
 ---
 
-Lucian did not give an order.
-
-He never afterward pretended otherwise, not to Dain and not to his father and not to himself. There was no order. There was no decision. He was three hundred feet up with his hands in the harness and his ears full of wind, and what happened next did not pass through him at all.
-
 Ancalion went down.
 
-Not gracefully; there was nothing left in him for that. He half-folded and half-fell, hit the shelf badly on the ruined foreleg and went down onto his chest with the impact, and was up and moving before he had properly stopped — three strides across bare rock with the torn wing dragging behind him.
+Not gracefully; there was nothing left in him for that, and nothing came through the bond first, and Lucian's hands were still in the harness when it started. He half-folded and half-fell, hit the shelf badly on the ruined foreleg, went down onto his chest with the impact — and Lucian came out of the harness on the second bounce and hit the rock hard enough to take the whole side of his face open on it.
+
+By the time he had got himself up onto one knee, his dragon was already across the shelf: three strides on bare stone with the torn wing dragging behind him.
 
 Korrath met him. Broken and grounded and one-winged, with something wrong in his chest that Lucian could hear from thirty feet, and he still came, because that was what he was. He got a foreleg into Ancalion's flank and opened it to the bone. He would have had him in another moment.
 
@@ -146,7 +146,7 @@ It went on for a long time.
 
 Korrath was several times his size and did not die easily and did not die quickly. He threw Ancalion off his feet twice and dragged him the length of a body across the stone, and the black shape on his throat simply set his weight and stayed — ridden, thrown, coming back down, holding. There was nobody to help. There was nothing on that shelf but the two of them and a great deal of noise.
 
-Lucian brought them down onto the far end of the shelf partway through — he had no memory afterward of deciding to — and stood at the edge of it in the wind and watched his dragon kill.
+Lucian got to his feet somewhere in the middle of it, bleeding, thirty feet away, and stood in the wind on his own mountain and watched his dragon kill.
 
 He did not look away and he did not move to stop it and he did not, at any point, want it to be over faster.
 
@@ -154,13 +154,11 @@ The noise stopped before the movement did. That was the part he kept. Korrath ha
 
 Then that stopped too.
 
-A man came out of the tangle on the far side as it went slack, and went twenty feet down the rock, and lay still.
-
 Ancalion did not let go for some time after there was any reason to. When he did, he stood over what he had done with his sides going like a bellows and the wing hanging and the flank laid open, and did not come away from it, and did not look at Lucian.
 
 ---
 
-Lucian slid down off the harness onto the rock because his legs would not do anything more considered than that, and stood there with one hand on Ancalion's flank, in the wind, in the cold, on a shoulder of his own mountain covered in blood that was mostly not his.
+Lucian crossed the shelf to him and put a hand on his flank, and his legs chose that moment to stop being reliable, so he stayed where he was — in the wind, in the cold, on a shoulder of his own mountain, covered in blood that was mostly not his.
 
 He waited for it to arrive.
 
