@@ -116,7 +116,7 @@ He could not follow them beyond the radius. The Weight ended where it ended, out
 
 And on the second pass over the court, low, with Korrath fighting for height that would not come, Vesper looked up and saw the man on his back.
 
-He knew him at once, at that distance, in armor, which he would not have believed possible of anyone. But he had sat across from that man for thirty years — at the Aurelia table, at two funerals and a wedding, at every dull hall in Kaelor where two great houses were obliged to be in the same room and behave — and he knew the set of those shoulders the way he knew a signature.
+He knew him at once, at that distance, in armor, which he would not have believed possible of anyone. But he had sat across from that man for thirty years, in every hall in Kaelor where two great houses were obliged to be in the same room and behave, and he knew the set of those shoulders the way he knew a signature.
 
 Roderic Dravenhall did not look down at him. Vesper thought afterward that he had probably not been able to.
 
