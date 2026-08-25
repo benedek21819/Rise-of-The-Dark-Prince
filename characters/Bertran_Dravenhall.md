@@ -1,6 +1,6 @@
-# Lord Garrick Dravenhall
+# Lord Bertran Dravenhall
 
-**Full Name:** Lord Garrick Dravenhall
+**Full Name:** Lord Bertran Dravenhall
 **Titles:** Head of House Dravenhall (previous generation), Lord of Dravenhold
 **Status:** Deceased — killed near the end of the Last Continental War, roughly 26 years before the present
 **Family:** Father of **Lord Roderic Dravenhall** and **Queen Isolde Kaelarion**
@@ -9,7 +9,7 @@
 
 **His dragon:** **Vorrath** — the elder of House Dravenhall's two war dragons, dark red like Korrath and considerably larger, being the older animal.
 
-**How he died:** Garrick and Vorrath met **Ravorn Caldarion and Morvath** in a dragon duel over the coast near the war's end — rider and dragon each, and not a brief fight. **Morvath killed them both**, and was terribly hurt doing it. Both dragons then went into the sea, Ravorn still on Morvath's back. Ravorn, already wounded, drowned; his body was never recovered. Morvath barely reached the shore alive.
+**How he died:** Bertran and Vorrath met **Ravorn Caldarion and Morvath** in a dragon duel over the coast near the war's end — rider and dragon each, and not a brief fight. **Morvath killed them both**, and was terribly hurt doing it. Both dragons then went into the sea, Ravorn still on Morvath's back. Ravorn, already wounded, drowned; his body was never recovered. Morvath barely reached the shore alive.
 
 Everyone who saw it reported mutual destruction, in good faith, because that is precisely what it looked like. See `history-and-lore.md`, "How Ravorn died — the duel over the water."
 
@@ -21,4 +21,4 @@ Everyone who saw it reported mutual destruction, in good faith, because that is 
 
 **Deliberately open:** his character, his reasons for the war beyond the house's inherited grievance, whether he was a good father, and how Isolde and Roderic each remember him. Isolde's view is likely to differ sharply from her brother's and is worth using rather than settling in advance.
 
-**A note on what he was probably like, unfixed:** the house's grievance is ancient and inherited (see `history-and-lore.md`, "The True History of Kaelor"), so Garrick did not invent it. He acted on an opening — a young, militarily unproven Aldorion with a contested claim — that his family had been waiting generations for. That makes him neither a monster nor a visionary, and there is more use in him having been ordinary than exceptional.
+**A note on what he was probably like, unfixed:** the house's grievance is ancient and inherited (see `history-and-lore.md`, "The True History of Kaelor"), so Bertran did not invent it. He acted on an opening — a young, militarily unproven Aldorion with a contested claim — that his family had been waiting generations for. That makes him neither a monster nor a visionary, and there is more use in him having been ordinary than exceptional.

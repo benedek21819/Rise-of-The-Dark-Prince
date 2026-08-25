@@ -115,9 +115,9 @@ House Caldarion's contribution came at a severe cost. Ravorn died near the war's
 
 **How Ravorn died — the duel over the water.**
 
-House Dravenhall went into the Last Continental War with **two** dragons. The elder was **Vorrath** — dark red like Korrath and a great deal larger, being the older animal — ridden by **Lord Garrick Dravenhall**, Roderic and Isolde's father, the lord who led the coalition against Kaelarion.
+House Dravenhall went into the Last Continental War with **two** dragons. The elder was **Vorrath** — dark red like Korrath and a great deal larger, being the older animal — ridden by **Lord Bertran Dravenhall**, Roderic and Isolde's father, the lord who led the coalition against Kaelarion.
 
-Near the war's end, over the coast, the two pairs met: **Ravorn Caldarion on Morvath against Garrick Dravenhall on Vorrath.** A dragon duel in the proper sense, rider and dragon each, and it was not brief.
+Near the war's end, over the coast, the two pairs met: **Ravorn Caldarion on Morvath against Bertran Dravenhall on Vorrath.** A dragon duel in the proper sense, rider and dragon each, and it was not brief.
 
 **Morvath killed them both** — and was very badly hurt doing it. What witnesses on both sides saw next was Morvath go down out of the sky into the sea with Ravorn still on his back.
 
@@ -133,9 +133,9 @@ Near the war's end, over the coast, the two pairs met: **Ravorn Caldarion on Mor
 
 **Korrath was not in the duel** — it was a pair against a pair. His old scarring is ordinary war damage from elsewhere in that conflict and is deliberately left unattributed; Ch.69 notes only that it is old and that nothing has been added to it since.
 
-**Korrath did not kill Ravorn — Garrick and Vorrath did.** The distinction matters and is deliberate: **Vesper carries no blood grudge into the present war** (he is defending a mountain, not settling an account), and **Morvath's emergence in Ch.72 has exactly one cause** — Lirath's will overridden from outside. Morvath does not come out of that cave for Roderic, or for House Dravenhall, or for anything he remembers. The old history belongs to the men. The dragon's reason is entirely his own.
+**Korrath did not kill Ravorn — Bertran and Vorrath did.** The distinction matters and is deliberate: **Vesper carries no blood grudge into the present war** (he is defending a mountain, not settling an account), and **Morvath's emergence in Ch.72 has exactly one cause** — Lirath's will overridden from outside. Morvath does not come out of that cave for Roderic, or for House Dravenhall, or for anything he remembers. The old history belongs to the men. The dragon's reason is entirely his own.
 
-*(Open: the precise stretch of coast, Vorrath's temperament, whether Roderic saw the fall himself or only had it reported, and everything about Garrick's character — see `characters/Garrick_Dravenhall.md`.)*
+*(Open: the precise stretch of coast, Vorrath's temperament, whether Roderic saw the fall himself or only had it reported, and everything about Bertran's character — see `characters/Bertran_Dravenhall.md`.)*
 
 **Why Dravenhall survived defeat intact:** Losing the war did not mean losing everything. Dravenhall's surviving dragon, Korrath, was already large and formidable in the prime of his strength by the war's final years, and came through the fighting essentially undiminished, even as Caldarion and other houses lost dragons and riders they could not replace. A defeated house with a dragon like that at its back is not a house that can simply be crushed or annexed; finishing Dravenhall off would have meant fighting through Korrath directly, at a cost neither a war-exhausted Kaelarion nor a nearly extinguished House Caldarion could afford to pay. The peace that followed reflected that arithmetic: Dravenhall was humbled politically, stripped of any claim to the throne, and left to nurse a grievance it was never given the chance to avenge — but it kept its lands, its house, and its dragon, which is exactly why it is still capable of causing trouble a generation later.
 
