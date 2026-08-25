@@ -160,12 +160,14 @@ Ancalion did not let go for some time after there was any reason to. When he did
 
 Lucian crossed the shelf to him and put a hand on his flank, and his legs chose that moment to stop being reliable, so he stayed where he was — in the wind, in the cold, on a shoulder of his own mountain, covered in blood that was mostly not his.
 
-He waited for it to arrive.
+Under his hand Ancalion was shaking, in long slow waves, the way a horse shakes after a hard run.
 
-He had learned, in the last two days, that it was going to be a while — that whatever was supposed to come after a thing like this took its time with him and did not always come at all. So he stood and waited for it honestly, as he had the night before, and gave it every chance.
+The flank would need packing before anything else. The wing would need a great deal more than that, and would need it from someone who knew what they were looking at, and the nearest of those was on the summit and would have to be brought down the cut path on foot, which would take an hour.
 
-And what came, when it came, was very simple and took no time at all.
+Forty feet away, across bare rock, the man was still moving.
 
-*I would have told him to do that.*
+He had got himself as far as one elbow and no further, and had stopped trying, and his legs were lying in a way that legs do not lie. He was not looking at Lucian. He was looking at the thing on the stone between them, and he had been looking at it for some time.
 
-He put his forehead against the black scale of Ancalion's shoulder and stood there a while, and did not examine it any further than that.
+Lucian stood in the wind with his hand on his dragon and watched Roderic Dravenhall for a while, and thought about what a man with two broken legs was worth alive, and how long the light would hold, and who would have to be sent for.
+
+It did not occur to him until much later that night, lying awake, that he had never once thought about the dragon.
