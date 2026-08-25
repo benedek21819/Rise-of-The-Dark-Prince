@@ -100,4 +100,4 @@ Somewhere behind and below the roosts, in the deep places where nobody goes and 
 
 Vesper did not turn around. He did not need to look, and he had nothing left over for looking.
 
-Vesper set his feet again, and held the field, and waited for it to reach the light.
+He set his feet again, and held the field, and waited for it to reach the light.
