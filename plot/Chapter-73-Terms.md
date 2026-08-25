@@ -68,7 +68,7 @@ An hour after he spent the one irreplaceable thing his family owned, something h
 
 He had known the animal immediately. There was no puzzle in it and he took no comfort from the lack of one — He had seen that animal in the sky over three different fields, always at a distance, and had spent the whole of that war arranging to keep it that way. Publicly dead these twenty-six years. Privately alive in a hole under Blackspire Keep for the whole of them, which any fool could work out the moment they saw him, and which no fool could have worked out one minute before.
 
-And that was the ruin of it. Not the battle. The battle was one day, and his house had survived losing an entire war.
+And that was the ruin of it. Not the battle. The battle was one day.
 
 Every assessment his house had made since the war was wrong. Every column of every ledger, every estimate of what Caldarion could put in the sky, every calculation about how much force the North could absorb — all of it built on two dragons and a rumor, when the true number had been three, and one of them the largest animal on the continent, sitting under the objective the entire time.
 
