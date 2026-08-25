@@ -72,9 +72,7 @@ He looked down.
 
 Two hundred feet below, at the head of the last stone bridge where the rock went out over the drop, his father was standing perfectly still with his hands at his sides, doing nothing whatsoever.
 
-Then he took Ancalion in at Korrath.
-
-There was no line to cross and nothing to feel coming. He only knew that wherever Korrath was, the field had to be, because the field was the only thing in the world that explained him — so he braced the whole way in, all the long seconds of it, for the air to turn to water.
+Then he took Ancalion in at Korrath, braced the whole way for the air to turn to water.
 
 It never did. No drag, no loading, nothing. They went through as cleanly as through open sky, and past Korrath, close enough to see the harness on him, and Korrath was hauling himself around into the turn like something dragging an anchor while Ancalion went by him as though the mountain had made way.
 
