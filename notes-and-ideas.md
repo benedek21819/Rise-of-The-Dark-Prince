@@ -200,6 +200,8 @@ Close on the sound out of the mountain — not identified, not explained, from V
 
 The holding action first, and it must **visibly cost him** — a young dragon against one that has killed dragons in a war, out over open sky with nothing to trade on, losing but not beaten. This is the price that makes the ending earned rather than handed over. The Absence thread from Ch.68 belongs in here: he reaches for it again under real pressure, and again it costs nothing, and again there is no time to wonder about it.
 
+**Korrath's own history is live here, and is not Morvath's.** Morvath killed **Kaldross**, Korrath's mother, twenty-six years ago, and Roderic and Korrath arrived too late to stop it (see `history-and-lore.md`). So Korrath recognizes what has just come out of the mountain and Morvath does not recognize him at all. Use it for **how Korrath fights** — and never as a reason anyone is present. Morvath's motive stays exactly one thing.
+
 **Morvath. The Commandment is what summons him** — the load-bearing causal link. Not a threat to Lirath, who had been fighting freely by her own choice; her **will was overridden from outside**, and that is what pulls a nearly three-hundred-year-old dragon out of a cave after twenty years. The Ch.63 plant (Ancalion's head turning once toward the deeper dark) pays off here and should not be re-explained.
 
 Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the heat of it, not an order.** Lucian does not command it, is not asked, and it is over before anyone has decided anything.
@@ -210,7 +212,7 @@ Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the 
 
 The third POV, and the last time we are inside him. Justified because two beats can only be delivered from here: **recognition of Morvath on sight** and the arithmetic of having **already spent his one answer** on the wrong dragon.
 
-**The recognition is personal, and that is now settled** (see `history-and-lore.md`, "How Ravorn died — the duel over the water," and `characters/Bertran_Dravenhall.md`). Morvath killed Roderic's father, **Lord Bertran Dravenhall**, and the house's elder dragon **Vorrath**, twenty-six years ago, in a duel over the coast that ended with Morvath and Ravorn going into the sea together. Ravorn drowned. Morvath was believed to have drowned with him, and **that belief was not Caldarion propaganda** — it was what everyone on both sides watched happen, reported in good faith, which is exactly why nothing in Roderic's intelligence work was ever going to correct it.
+**The recognition is personal, and that is now settled** (see `history-and-lore.md`, "How Ravorn died — the duel over the water," and `characters/Bertran_Dravenhall.md`). Morvath killed Roderic's father, **Lord Bertran Dravenhall**, and the house's elder dragon **Kaldross**, twenty-six years ago, in a duel over the coast that ended with Morvath and Ravorn going into the sea together. Ravorn drowned. Morvath was believed to have drowned with him, and **that belief was not Caldarion propaganda** — it was what everyone on both sides watched happen, reported in good faith, which is exactly why nothing in Roderic's intelligence work was ever going to correct it.
 
 So the beat is not a strategist identifying an unexpected asset. It is a man in his fifties looking at the thing that killed his father, alive, over Blackspire, twenty-six years after the whole war watched it drown, with his house's one ancient answer already spent on the wrong dragon. **Recognition, then horror, in that order.**
 
