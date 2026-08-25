@@ -78,7 +78,7 @@ It never did. No drag, no loading, nothing. They went through as cleanly as thro
 
 His father had seen him coming.
 
-Had seen him coming, and had known what it meant, and had held a field open against a dragon in his prime while cutting a hole in it for the one person he had explicitly and deliberately forbidden to be here — and had had the whole of that climb to think better of it, and had not.
+Had seen him coming, and had known what it meant, and had held a field open against a dragon in his prime while cutting a hole in it for the one person he had explicitly and deliberately forbidden to be here.
 
 There was nothing to say about it. There was no way to say anything about it; he was two hundred feet up in a wind that took the sound out of his own ears, and his father was a small figure on a bridge who could not have heard him from ten feet away.
 
