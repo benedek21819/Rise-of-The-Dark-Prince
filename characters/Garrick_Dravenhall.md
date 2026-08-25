@@ -16,7 +16,8 @@ Everyone who saw it reported mutual destruction, in good faith, because that is 
 **What his death produced:**
 - **Roderic inherited a defeated house at roughly twenty-five**, and his first act as Lord Dravenhall was to give his sister to the winning side as the price of peace.
 - **He is the mirror of Vesper**, who inherited a nearly extinguished house at twenty in the same war, in the same hour, for the same reason. Neither man knows the symmetry is that exact, and neither would find it comforting.
-- **His death is why Roderic believes Morvath is dead.** Roderic was in the air that day on Korrath and watched Morvath fly off ruined. The public story that Morvath died with Ravorn is not something he was told; it is a conclusion he drew himself, from what he saw, which is exactly why it has held for twenty-six years.
+- **His death is why Roderic believes Morvath is dead.** The story that Morvath drowned with Ravorn is not Caldarion propaganda Roderic swallowed — it is what the war watched happen and recorded, and House Caldarion's only part in it was declining to correct a conclusion everyone had already reached on their own. That is why it has held for twenty-six years against a man who checks things.
+- **Korrath was not in the duel.** It was a pair against a pair. Roderic rode Korrath elsewhere on the same field; whether he saw the fall himself or only had it reported is deliberately left open. Korrath's old scarring is ordinary war damage from elsewhere in that conflict and is **not** attributed to Morvath.
 
 **Deliberately open:** his character, his reasons for the war beyond the house's inherited grievance, whether he was a good father, and how Isolde and Roderic each remember him. Isolde's view is likely to differ sharply from her brother's and is worth using rather than settling in advance.
 
