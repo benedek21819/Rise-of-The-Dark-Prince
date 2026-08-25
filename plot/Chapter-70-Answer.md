@@ -122,6 +122,6 @@ Lucian brought Ancalion around wide over the drop, high, letting him have twenty
 
 Roderic put his hand inside his coat.
 
-It was nothing. It was a man on a dragon's back moving one arm at four hundred feet, and Lucian saw it, and registered it the way he registered everything now, and filed it as a rider adjusting a strap.
+It was nothing. It was a man on a dragon's back moving one arm, and Lucian saw it, and registered it the way he registered everything now, and filed it as a rider adjusting a strap.
 
 Then he folded Ancalion's wings and went down for the sixth pass.
