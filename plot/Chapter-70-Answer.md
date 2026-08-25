@@ -72,11 +72,11 @@ He looked down.
 
 Two hundred feet below, at the head of the last stone bridge where the rock went out over the drop, his father was standing perfectly still with his hands at his sides, doing nothing whatsoever.
 
-Then Ancalion crossed the edge of it.
+Then he took Ancalion in at Korrath.
 
-Nothing happened.
+There was no line to cross and nothing to feel coming. He only knew that wherever Korrath was, the field had to be, because the field was the only thing in the world that explained him — so he braced the whole way in, all the long seconds of it, for the air to turn to water.
 
-Lucian braced for it and it did not come — no drag, no sudden loading, no sense of the air turning to water. They went through the volume of it as cleanly as through open sky, and past Korrath, close enough to see the harness on him, and Korrath was hauling himself around into the turn like something dragging an anchor while Ancalion went by him as though the mountain had made way.
+It never did. No drag, no loading, nothing. They went through as cleanly as through open sky, and past Korrath, close enough to see the harness on him, and Korrath was hauling himself around into the turn like something dragging an anchor while Ancalion went by him as though the mountain had made way.
 
 His father had seen him coming.
 
