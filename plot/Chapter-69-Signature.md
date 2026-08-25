@@ -88,7 +88,7 @@ He filed it. It was the only thing he could do with it and he was aware even as 
 
 They came apart in the air twenty feet from the cliff, and she got her wings under her and Vesper saw the blood come off her shoulder in a sheet, and understood exactly how the rest of this went.
 
-Ch.67 had been true. He had said it in a warm room with a paper in his hand — that Lirath was old, that she was not built for this, that she had never once in her life gone looking for a fight she could walk away from — and he had said it to prepare his son, and he had believed it, and it was one thing to believe it and another thing entirely to watch it start.
+He had given his son two words in a warm room eleven nights ago, with a paper in his hand, and they had been the right two words. *Lirath. And the Weight.* Not one and then the other if the first proved insufficient. Both, together, from the first moment, because he had known for eleven days and some considerable number of years before that what she was against that animal on her own.
 
 She turned into Korrath anyway. Of course she did.
 
