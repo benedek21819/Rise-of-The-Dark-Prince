@@ -64,7 +64,7 @@ The relic had been spent correctly. That was the part he turned over most, and i
 
 An hour. Perhaps less.
 
-An hour after he spent the one irreplaceable thing his family owned, the mountain had opened.
+An hour after he spent the one irreplaceable thing his family owned, something had come out of the cliff below the roosts.
 
 He had known the animal immediately. There was no puzzle in it and he took no comfort from the lack of one — Morvath had flown against him for two years of a war, and there is no man alive who fought that war and would not know that dragon coming out of a cliff. Publicly dead these twenty-six years. Privately alive in a hole under Blackspire Keep for the whole of them, which any fool could work out the moment they saw him, and which no fool could have worked out one minute before.
 
