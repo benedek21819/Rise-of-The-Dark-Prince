@@ -108,17 +108,19 @@ The boy came in behind him and stood against the wall and said nothing. The side
 
 Neither of them sat. There was nowhere to sit.
 
-"Kestrion," Vesper said.
+"Is there another one," Vesper said.
 
-"No."
+He did not say another what. He did not need to, and both of them knew he did not need to, and Roderic understood in that moment that this was not one of several questions. It was the question. The man had come down here with one thing he actually wanted and had opened with it, which told Roderic more about the state of House Caldarion this morning than anything else could have.
 
-"What were they promised."
+He looked at the ceiling and did not answer.
 
-"No," Roderic said.
+He went on not answering. He watched Vesper wait, and watched him decide not to ask again, and watched him fail entirely to conceal what that silence cost him — a thing Vesper Caldarion had not once failed at in thirty years of tables.
 
-Vesper accepted that without any visible reaction, which was itself familiar; they had been doing business across tables for thirty years and the man had never once shown him anything he had not decided to show. He asked four more questions in the same flat voice — who else had known, what had been moved through Sylvaron and when, whether there was a second force, what Roderic had expected the crown to do — and got nothing, and did not press, and did not threaten, and moved on each time as though he were reading down a list he had already assumed would come back empty.
+Because the silence was the last thing Roderic owned. If he said *no*, they would sleep. If he said *yes*, they would hunt. If he said nothing at all, then somewhere in Dravenhold or in a wagon on a southern road or in a locked case in a house nobody had thought of yet, there might be one more, and House Caldarion would never afterward be entirely certain there was not.
 
-He had. Roderic could see that he had. The questions were being asked so that afterward it could be said they had been asked.
+Then Vesper asked the rest of it, flatly, down a list — who else had known, what had moved through Sylvaron and when, whether anything was still coming north — and got nothing, and did not press, and did not threaten, and moved on each time as though he were reading down a page he had already assumed would come back empty.
+
+He had. Roderic could see that he had. Those were being asked so that afterward it could be said they had been asked.
 
 Then the boy spoke, from the wall, for the first time.
 
