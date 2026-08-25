@@ -70,9 +70,9 @@ He had known the animal immediately. There was no puzzle in it and he took no co
 
 And that was the ruin of it. Not the battle. The battle was one day.
 
-Nobody had ever had to work out what Caldarion could put in the sky. It was not that kind of question. Caldarion had two dragons, the way Kaelarion had one and Dravenhall had one — a plain fact, known to every house on the continent, uncontested for twenty-six years, and every plan anyone had made about the North since the war had been built on top of it.
+Caldarion had two dragons. Everyone knew that; it was not a thing anyone had ever had to work out.
 
-The number was three. The third was the largest animal alive, and it had been sitting under the objective the entire time.
+The number was three, and it had been sitting under the objective the entire time.
 
 He had not been careless. That was what he could not put down. He had been careful for twelve years, and thorough, and right, and it had made no difference at all.
 
