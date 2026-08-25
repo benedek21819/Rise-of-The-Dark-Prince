@@ -90,7 +90,7 @@ The mountain opened.
 
 Lucian felt it before he heard it, through the bond, and what came through the bond was not fear.
 
-Ancalion — mid-beat, wounded, with something twice his weight closing on him and nothing but empty air behind — turned his head away from Korrath. Deliberately. Toward the black cliffs below the roosts, where a cave mouth Lucian had flown past a thousand times without ever once wondering about had gone from dark to something else.
+Ancalion — mid-beat, wounded, with several times his own weight closing on him and nothing but empty air behind — turned his head away from Korrath. Deliberately. Toward the black cliffs below the roosts, where a cave mouth Lucian had flown past a thousand times without ever once wondering about had gone from dark to something else.
 
 Then it came out.
 
