@@ -100,8 +100,8 @@ Somewhere behind and below the roosts, in the deep places where nobody goes and 
 
 Vesper did not turn around. He did not need to look, and he had nothing left over for looking.
 
-He knew what it was. He knew, too, precisely why — because he was the only man on this mountain who knew both halves of it: what was down there, and what had just been done, in front of it, to the one thing in the world it had ever come out of the dark for.
+He knew what it was, and he knew why, and neither of those had anything to do with him. Nothing in that mountain was coming out for his sake, or his son's, or for anything Roderic Dravenhall had marched the length of a continent to take.
 
-Not rescue. Nobody was rescuing anybody.
+Something had been done to her that she had not been given any say in, in front of the only thing in the world that would come out of the dark about it.
 
-Answer.
+Vesper set his feet again, and held the field, and waited for it to reach the light.
