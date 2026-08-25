@@ -46,13 +46,13 @@ Half a mile below him and across two ridges, on ground with no path to it, alive
 
 ---
 
-He waited for Korrath to leave.
+There was never any question about what came next.
 
-It was the obvious move and Vesper had already conceded it: Roderic had bought his airspace, the summit was open, and the only thing standing between him and the thing he had marched a continent for was one wounded young dragon that had been flying since dawn. Take the mountain. Finish this.
+Roderic had not marched the length of a continent for a keep. Blackspire is a house and a mine and a road, and not one of those is what has kept the North out of other men's hands for two hundred years. He had come for the two things that were. One of them was lying on the eastern scree with her wing under her.
 
-Korrath did not leave.
+Korrath came around, low and laboring, hard into the wind, and went at Ancalion — not because Ancalion mattered to him, but because Ancalion was in the way.
 
-Korrath came around, low and laboring, hard into the wind, and Vesper watched him do it with the field still open and at full pressure and understood something he had somehow not understood in twenty-six years of carrying this.
+And Vesper watched it with the field still open at full pressure and understood something he had somehow not understood in twenty-six years of carrying this.
 
 *It is not enough.*
 
@@ -66,9 +66,9 @@ Then Korrath came at the bridge.
 
 Vesper watched it start and knew what it was before the turn finished, because it was the correct play and he would have made it himself. Roderic was inside the field. Roderic had been inside it for an hour and knew exactly what was being done to him, and knew a thing like that has a source, and there was a man standing entirely alone in the open on a stone bridge two hundred feet below the fight, not moving, not fighting, not doing anything at all.
 
-Kill him and it stops. Kill him and Korrath is fast in the same instant, and the black one dies inside a minute, and the summit is open with nothing on it but a household.
+Kill him and it stops. Kill him and Korrath is fast in the same instant, and the black one dies inside a minute, and there is nothing left on this mountain but a household and a road.
 
-Almost a victory. Very nearly the whole thing.
+It was not a shortcut to what Roderic wanted. It *was* what Roderic wanted, and it happened to also be the quickest way to the rest of it.
 
 "My lord." Valtor was at his shoulder, and had his arm, and Valtor had never once in nineteen years put a hand on him. "*My lord* —"
 
