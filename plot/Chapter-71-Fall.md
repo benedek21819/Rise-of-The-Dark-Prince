@@ -90,7 +90,9 @@ Vesper closed his eyes for one second. Then he opened them and held on.
 
 The mountain made a sound.
 
-It came up through the stone under his boots before it reached his ears, which was how he knew what it was, because he had felt exactly that once before, in the dark, twenty-six years ago, with his hands on cold rock and nothing left of his family but the two of them.
+It came up through the stone under his boots before it reached his ears, and he knew it the way a man knows a voice out of his own childhood. He had grown up with that sound in this mountain — his father's dragon, in the roosts above the hall, every day of the first nineteen years of his life.
+
+The last time he had heard it they had been getting what was left of Morvath down into the deep caves, and there had been nothing left of the family but himself, his brother and his mother.
 
 Valtor's grip went off his arm.
 
