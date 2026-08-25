@@ -30,7 +30,7 @@ Lucian's mind refused it for the length of a wingbeat — a trick of distance, b
 
 And nothing had come through the bond.
 
-That was the part that arrived last and mattered most. Ancalion had picked Solara out of an empty sky at a distance that had embarrassed the scouts. He was aware of Lirath constantly the way a man is aware of his own hand. And something had come down out of the northern sky big enough to take her by the shoulder, and had gotten close enough to do it, and neither of them had felt anything at all.
+That was the part that arrived last and mattered most. Ancalion had picked Solara out of an empty sky at a distance that had embarrassed the scouts. He was aware of Lirath constantly the way a man is aware of his own hand. And something had come down out of the northern sky onto Lirath, close enough to lay hold of her, and neither of them had felt anything at all.
 
 He did not think about that for very long, then. He thought about it a great deal afterward.
 
