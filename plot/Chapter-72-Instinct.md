@@ -36,7 +36,11 @@ He was *in the way.* That was the whole of it. Every time Korrath turned for the
 
 So he did it again. And again.
 
-Come in from above and off the shoulder, because it was the only line Korrath could not answer quickly under the Weight. Flame across the eyes, never at the body — the body did not care. Break away high. Turn. Come back from somewhere else and do it again before the turn could finish.
+Come in from above and off the shoulder, because it was the only line Korrath could not answer quickly under the Weight. Flame across the eyes and the open mouth and the thin skin behind the jaw. Break away high. Turn. Come back from somewhere else and do it again before the turn could finish.
+
+It was doing damage. That was the maddening part. Ancalion's fire does not char what it touches — it takes the color out and leaves it grey and dead-looking, and by the third quarter of that hour Korrath's whole left side was going grey in long ragged patches where the scale had stopped being scale. Anything else in the world would have been finished twice over.
+
+There was simply too much of him. A young dragon has only so much fire in him in a morning, and Ancalion had been spending his since first light, and every pass bought less than the one before it.
 
 The margins got thinner every time.
 
