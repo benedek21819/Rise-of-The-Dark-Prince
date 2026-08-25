@@ -172,9 +172,13 @@ Nobody came.
 
 It took him until the evening to work out why, and he did not enjoy it when he had it.
 
-There was no answer to that question they could check. A man being hurt says yes, or says no, or says whatever will make it stop, and not one of the three is worth anything to a house deciding whether to watch a road for twenty years. Vesper had asked it the only way it could usefully be asked — once, quietly, of a man in no particular pain — and having got nothing, had stopped, because there was nothing further to be got.
+Nothing he said would have changed one order Vesper Caldarion was going to give. A house that has had a dragon taken out of the sky above its own keep does not stand down on the assurances of the man who did it; they would watch the southern roads for twenty years whatever came out of this cell, and they would be right to. The answer was not worth a night's work because the answer did not matter.
 
-He had not been spared. He had been assessed, and found not worth the trouble, and set aside.
+And there was the other half of it, which he liked less.
+
+He was not Caldarion's to break any more. He had marched an army across the King's kingdom and he belonged to the Crown from the moment they picked him up off that rock — and whatever Vesper wanted from him, he was not going to deliver a great lord to Aurelia with a grievance to carry into open court about how he had been kept in the North. Not to that court. Not with the woman who would be sitting in it.
+
+He had not been spared. He had been put somewhere safe, like anything else that has stopped being useful and has not yet been decided about.
 
 Vesper had come back to the grille before they left, and said what he had come to say, and Roderic had listened to it without much interest, because he had known it since the boy said *I want him alive* on the rock.
 
