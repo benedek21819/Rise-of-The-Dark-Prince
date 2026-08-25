@@ -393,6 +393,12 @@ Ancalion is the youngest publicly known dragon on the continent. He was cradled 
 **Lirath:**
 Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, and blue flames. She has a warm and friendly personality. She is bonded to the current head of House Caldarion (Lord Vesper).
 
+**She was deliberately held out of the Last Continental War, and the reason is reproductive.** House Caldarion committed Ravorn and Morvath and the whole of its strength on the ground, and kept Lirath at Blackspire throughout. Two reasons, both real:
+- **Temperament.** She has never in her life gone looking for a fight she could walk away from — the same fact Ch.67 rests on — and a dragon who will not press an advantage is worth little in a war and dies easily in one.
+- **She is the house's only female.** Given how dragons actually reproduce (see "Reproduction" above), losing her would not have cost Caldarion a dragon. It would have cost them **every dragon they might ever have had**, permanently, for as long as the house exists. Morvath could be spent. She could not.
+
+The decision was vindicated in the worst possible way: Morvath was spent, and came back broken and riderless, and Lirath is the only reason House Caldarion has had a usable dragon at all for twenty-six years.
+
 **Morvath:**
 Morvath is nearly 300 years old and is significantly larger than Lirath. He has dark grey scales with a subtle green tint depending on the lighting, green eyes, and green flames. He bears many battle scars. He has an imperious and solitary personality — he does not seek conflict but is extremely aggressive if provoked.
 
