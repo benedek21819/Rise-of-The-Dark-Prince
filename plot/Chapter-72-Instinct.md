@@ -112,15 +112,19 @@ He knew he had made a mistake about the size of the world.
 
 There was no fight.
 
-Lucian had braced for one, out of some idea that this was how it went — that the enormous thing and the terrible thing would meet in the middle and it would be spectacular, and would take time.
+Lucian had braced for one, out of some idea that this was how these things went — that the enormous thing and the terrible thing would meet in the middle and it would be spectacular.
 
-It took about fifteen seconds.
+Korrath went at him, because Korrath had nowhere left to go and was not built for running, and Morvath did not meet him at all. He turned his head, almost lazily, into the line of the charge, and took Korrath's right wing in his jaws about a third of the way out from the body, and closed them.
 
-Korrath went at him, because Korrath had nowhere left to go and was not built to run, and it was like watching a man swing at a landslide. The old dragon took the charge on his shoulder without appearing to notice it, got a foreleg over the back of Korrath's neck, and simply drove him down — down past the roosts, down along the black face of the mountain, down onto the broad rock shoulder below the platforms with a noise that Lucian felt in his teeth from three hundred feet up.
+The sound of it reached Lucian a half-second later and he felt it in his back teeth.
 
-Korrath came down on his side on bare stone with his wings out wrong and one of them under him, and the enormous grey weight of the other pinning him at the shoulder, and he was still moving, still trying, still fighting to get his legs back under himself and his head around.
+After that Korrath was not a flying animal any more. He was a great weight in the air with one wing working, and the mountain did the rest of it — he went over sideways, and down, hauling at nothing, and hit the broad rock shoulder below the platforms hard enough that Lucian felt the shelf take it through the air.
 
-For half a second the neck came clear.
+Morvath came down on top of him almost gently, the way something that heavy has to, and put a foreleg across his back, and held him there.
+
+Korrath did not stop. He got his good wing under himself and heaved, and could not shift the weight, and heaved again — and then did the only thing left to an animal pinned by something bigger than it.
+
+He turned his head back and up, to bite.
 
 ---
 
@@ -128,17 +132,27 @@ Lucian did not give an order.
 
 He never afterward pretended otherwise, not to Dain and not to his father and not to himself. There was no order. There was no decision. He was three hundred feet up with his hands in the harness and his ears full of wind, and what happened next did not pass through him at all.
 
-Ancalion folded and dropped like a thrown stone.
+Ancalion went down.
 
-He hit the gap between the two of them at a speed nothing that size should survive, and there was no fire in it, because fire takes time and this did not have any. He took Korrath's throat in his jaws the way every predator that has ever lived takes a throat, low and behind the jaw where the scale runs thin, and set his feet against the rock and pulled.
+Not gracefully; there was nothing left in him for that. He half-folded and half-fell, hit the shelf badly on the ruined foreleg and went down onto his chest with the impact, and was up and moving before he had properly stopped — three strides across bare rock with the torn wing dragging behind him, in under the raised head, and into the long stretched throat that Korrath had opened himself by turning to fight.
 
-It was over before Lucian had finished understanding that it had started.
+There was no fire in it. He took it in his jaws, low, behind the jaw where the scale thins, and locked, and did not let go.
 
-The noise stopped. That was the thing he remembered — that Korrath had been making noise the entire time, all of it, the whole hour, and then he was not.
+It went on for a long time.
 
-A man came off the far side in the tangle of it and went twenty feet down the rock and lay still.
+Korrath was several times his size and did not die easily and did not die quickly. He threw Ancalion off his feet twice and dragged him a body's length across the stone and never once broke the hold, and the black shape on his throat simply set his weight and stayed, riding it, being thrown, coming back down, holding. Morvath did not help. Morvath held the body against the rock and waited, without any evident interest, the way a man holds a door for someone carrying something heavy.
 
-Ancalion stood over what he had done with his sides heaving and his ruined wing hanging, and the great grey shape stepped off the body without any particular interest and looked at him for a moment, and then turned away.
+Lucian brought them down onto the far end of the shelf partway through — he had no memory afterward of deciding to — and stood at the edge of it in the wind and watched his dragon kill.
+
+He did not look away and he did not move to stop it and he did not, at any point, want it to be over faster.
+
+The noise stopped before the movement did. That was the part he kept. Korrath had been making noise the whole hour, all of it, from the moment he came out of the cloud, and there came a moment somewhere in the middle of it when he stopped and the body went on working anyway for a while.
+
+Then that stopped too.
+
+A man came out of the tangle on the far side as it went slack, and went twenty feet down the rock, and lay still.
+
+Ancalion did not let go for some time after there was any reason to. When he did, he stood over what he had done with his sides going like a bellows and the wing hanging, and Morvath took his weight off the body and looked at him for a moment — one old animal at a young one — and then turned away and went up the shelf without hurrying, and did not look at Lucian at all.
 
 ---
 
@@ -152,7 +166,7 @@ And what came, when it came, was very simple and took no time at all.
 
 *I would have told him to do that.*
 
-Not *I am glad he did.* Not *it had to be done.* He turned it over the way he turned over everything now and found it exactly as it was: if he had been asked, in that half-second, with the neck clear — if there had been time to be asked, if anyone had thought to ask — he would have said do it, and he would not have needed the half-second, and there was no part of him anywhere, not one, that wanted it to have gone another way.
+Not *I am glad he did.* Not *it had to be done.* He turned it over the way he turned over everything now and found it exactly as it was: if he had been asked, at any point in it — at the start, or in the middle, or at any of the long moments while it went on — he would have said do it, and he would not have needed to think about it, and there was no part of him anywhere, not one, that wanted it to have gone another way.
 
 His dragon had not consulted him. His dragon had not needed to.
 
