@@ -168,8 +168,4 @@ And what came, when it came, was very simple and took no time at all.
 
 *I would have told him to do that.*
 
-Not *I am glad he did.* Not *it had to be done.* He turned it over the way he turned over everything now and found it exactly as it was: if he had been asked, at any point in it — at the start, or in the middle, or at any of the long moments while it went on — he would have said do it, and he would not have needed to think about it, and there was no part of him anywhere, not one, that wanted it to have gone another way.
-
-His dragon had not consulted him. His dragon had not needed to.
-
 He put his forehead against the black scale of Ancalion's shoulder and stood there a while, and did not examine it any further than that.
