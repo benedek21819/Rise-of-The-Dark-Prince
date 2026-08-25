@@ -304,6 +304,23 @@ Dragons are extremely rare and immensely powerful creatures.
 - **Dragons can sense other dragons at range, under open conditions.** Not an absolute, all-seeing ability — it works when the other dragon is in open sky, over open ground, or otherwise unobstructed, and fades or fails against terrain, distance, or cover the way an ordinary long-range sense would. It is a heightened awareness rather than a radar: dragons register another dragon's presence and rough bearing well before a human eye could pick it out, but they are not tracking one continuously across a mountain range or through obstruction. A rider bonded strongly enough to their own dragon (see below) can feel this awareness secondhand, through the bond, as a specific and legible signal — *another dragon, out there* — distinct from the vaguer emotional bleed-through of ordinary bond-sensing.
 - **Dragons can bond more than once across a lifetime.** Given a natural lifespan of centuries against a human one, a dragon that could only ever bond once would spend most of its life riderless after an ordinary human death — rebonding after losing a rider is normal, not exceptional. What does change with age is the *likelihood of a strong bond forming again*: the older a dragon is when it loses a rider, the rarer and harder-won a new strong bond becomes. A dragon as old as Morvath (~300) forming a genuine bond again would be a notable rarity even by the standards of rebonding generally, not a simple formality — it would need real cause, not just proximity or willingness.
 
+### Reproduction — Why Dragon Numbers Only Ever Fall
+
+**Dragons cannot be bred, and the reason is not law or taboo but arithmetic.**
+
+- **They choose their own mates, and cannot be made to.** A dragon is not livestock and no amount of ownership changes that. Nothing a house can offer, withhold, or arrange produces a pairing the dragons themselves have not chosen. (Compare *forced dragon bonding*, already a listed taboo — the same principle, one step earlier.)
+- **Eggs are extraordinarily rare.** A clutch is typically a single egg, and the interval between them is measured in **decades at best and centuries commonly**. A great many females lay nothing at all across a three-hundred-year life. There is no season, no reliable cause, and no known way to encourage it.
+- **Therefore selective breeding is not merely difficult — it is impractical to the point of never having been done.** A program aimed at any trait would need generations, and a single generation outlasts the house that started it. No house on Kaelor has ever produced a dragon to specification, and none has ever seriously tried twice.
+
+**What follows from this, and it matters everywhere:**
+
+- **The dragon population is effectively fixed and slowly falling.** Losses are permanent on any human timescale. This is why the Last Continental War, which "killed nearly all of the continent's old dragons," is not a wound Kaelor has recovered from or can recover from — the survivors are simply the survivors.
+- **Every egg is a political event.** This is the real weight behind the secret Caldarion egg of ~Year 800 and the pressure it added to the exile: not that a house acquired an asset, but that something happened which may not happen again for a century.
+- **A house with two dragons in one generation is a house that got lucky**, not a house that planned. House Dravenhall fielded **Kaldross and her son Korrath** for exactly this reason, and losing Kaldross cost them something no amount of money, time, or victory could replace.
+- **It is why Korrath has to die rather than be defeated** (see `notes-and-ideas.md`, step 13). Killing a dragon is not removing a piece from the board for a while. It is permanent, continent-wide, and irreversible — which is what makes it a grave thing to do and the only thing that actually settles the question.
+
+**Open, and worth being deliberate about:** Morvath and Lirath are established as mates. Whether they have ever produced an egg — and what became of it if they did — is not settled anywhere and should not be answered by accident.
+
 ### Growth & Size
 Dragons continue growing in size for their entire lives — there is no fixed adult size, only a natural lifespan of roughly 300–350 years, and the oldest living dragons are the largest by default (Morvath, at nearly 300, is the largest known dragon on the continent for exactly this reason).
 

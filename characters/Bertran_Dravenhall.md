@@ -7,7 +7,7 @@
 
 **Role in the record:** the lord who led the coalition against House Kaelarion in the Last Continental War. He is the man `factions-and-politics.md` refers to when it says Roderic "inherited the seat from his and Queen Isolde's father, the lord who led Dravenhall against Kaelarion."
 
-**His dragon:** **Kaldross** — the elder of House Dravenhall's two war dragons: a bright red female, considerably larger than Korrath, and **Korrath's mother**. Bertran rode the dam and Roderic the son, which is the only reason a single house had two dragons in one generation; nothing about it was arranged, since dragons cannot be bred to order.
+**His dragon:** **Kaldross** — the elder of House Dravenhall's two war dragons: a bright red female, considerably larger than Korrath, and **Korrath's mother**. Bertran rode the dam and Roderic the son, which is the only reason a single house fielded two dragons in one generation — nothing about it was arranged, and nothing about it could be. Losing her cost House Dravenhall something unbuyable and unrepeatable.
 
 **How he died:** Bertran and Kaldross met **Ravorn Caldarion and Morvath** in a dragon duel over the coast near the war's end — rider and dragon each, and not a brief fight. **Morvath killed them both**, and was terribly hurt doing it. Both dragons then went into the sea, Ravorn still on Morvath's back. Ravorn, already wounded, drowned; his body was never recovered. Morvath barely reached the shore alive.
 

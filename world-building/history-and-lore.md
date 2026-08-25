@@ -115,7 +115,7 @@ House Caldarion's contribution came at a severe cost. Ravorn died near the war's
 
 **How Ravorn died — the duel over the water.**
 
-House Dravenhall went into the Last Continental War with **two** dragons. The elder was **Kaldross** — a bright red female, considerably larger than Korrath, and **Korrath's own mother** — ridden by **Lord Bertran Dravenhall**, Roderic and Isolde's father, the lord who led the coalition against Kaelarion. Mother and son, bonded to father and son. Dravenhall did not build that pairing; Kaldross simply had a hatchling once, and the house had the extraordinary luck of two dragons in one generation out of it (dragons cannot be bred to order — see `magic-and-power-system.md`).
+House Dravenhall went into the Last Continental War with **two** dragons. The elder was **Kaldross** — a bright red female, considerably larger than Korrath, and **Korrath's own mother** — ridden by **Lord Bertran Dravenhall**, Roderic and Isolde's father, the lord who led the coalition against Kaelarion. Mother and son, bonded to father and son. Dravenhall did not build that pairing and could not have. Dragons choose their own mates and lay perhaps one egg in a century, if ever, so no house has ever bred one to order (see `magic-and-power-system.md`, "Reproduction"). Kaldross simply had a hatchling once, and Dravenhall had the rare luck of two dragons in one generation out of it — luck that died with her and cannot be repeated.
 
 Near the war's end, over the coast, the two pairs met: **Ravorn Caldarion on Morvath against Bertran Dravenhall on Kaldross.** A dragon duel in the proper sense, rider and dragon each, and it was not brief.
 
