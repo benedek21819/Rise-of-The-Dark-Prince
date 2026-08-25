@@ -74,7 +74,7 @@ Caldarion had two dragons. Everyone knew that; it was not a thing anyone had eve
 
 The number was three, and it had been sitting under the objective the entire time.
 
-He had not been careless. That was what he could not put down. He had been careful for twelve years, and thorough, and right, and it had made no difference at all.
+He had not been careless. That was what he could not put down. Careful, and thorough, and right, and it had made no difference at all.
 
 ---
 
