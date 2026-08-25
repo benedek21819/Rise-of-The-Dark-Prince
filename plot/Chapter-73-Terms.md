@@ -66,7 +66,7 @@ An hour. Perhaps less.
 
 An hour after he spent the one irreplaceable thing his family owned, something had come out of the cliff below the roosts.
 
-He had known the animal immediately. There was no puzzle in it and he took no comfort from the lack of one — Morvath had flown against him through the whole of that war, and he had spent a great deal of it watching that animal from the back of another one. Publicly dead these twenty-six years. Privately alive in a hole under Blackspire Keep for the whole of them, which any fool could work out the moment they saw him, and which no fool could have worked out one minute before.
+He had known the animal immediately. There was no puzzle in it and he took no comfort from the lack of one — He had seen that animal in the sky over three different fields, always at a distance, and had spent the whole of that war arranging to keep it that way. Publicly dead these twenty-six years. Privately alive in a hole under Blackspire Keep for the whole of them, which any fool could work out the moment they saw him, and which no fool could have worked out one minute before.
 
 And that was the ruin of it. Not the battle. The battle was one day and the North had lost worse ones.
 
