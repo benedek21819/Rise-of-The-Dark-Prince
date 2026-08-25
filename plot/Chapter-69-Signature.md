@@ -104,7 +104,7 @@ Vesper set his feet and took the field out to its limit and shaped it — Lirath
 
 Above him, Korrath fell out of a turn.
 
-Not far. Perhaps thirty feet, badly, with a snap of the wings at the end of it that Vesper heard as clearly as a door. Then the dragon came around again and was slower coming around than he had been, and beat harder for less height, and put a foot wrong in the air in the way that nothing with wings ever does — and Vesper, standing on cold stone with his heart going like a hammer, watched a battle-bred animal in the absolute prime of his life begin to labor.
+Not far. Perhaps thirty feet, badly, with a snap of the wings at the end of it that Vesper heard as clearly as a door. Then the dragon came around again and was slower coming around than he had been, and beat harder for less height, and put a foot wrong in the air in the way that nothing with wings ever does — and Vesper, standing on cold stone with his heart going like a hammer, watched an animal that had killed dragons in a war begin to labor.
 
 Lirath took him in the side while he was still finding out what had happened.
 

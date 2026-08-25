@@ -104,7 +104,7 @@ Then Lucian saw the man on his back stop looking at the summit.
 
 He would not have caught it a day earlier. But he had spent two days now watching a field at a distance and learning to read intention out of movement, and what he saw, on the third pass, was Roderic Dravenhall turn his head away from Blackspire and toward the black dragon and not turn it back.
 
-He had come the length of a continent for the mountain. He had spent two days walking an army up this valley for the mountain, and put an army into a ditch as a lie to cover it, and gotten a battle-bred dragon into the airspace above it without a soul on the summit knowing — and now, with the objective four hundred feet under his feet and nothing but a bleeding old female between him and it, he had stopped working on it.
+He had come the length of a continent for the mountain. He had spent two days walking an army up this valley for the mountain, and put an army into a ditch as a lie to cover it, and gotten Korrath into the airspace above it without a soul on the summit knowing — and now, with the objective four hundred feet under his feet and one bleeding dragon between him and it, he had stopped working on it.
 
 He was working on Lucian instead.
 
