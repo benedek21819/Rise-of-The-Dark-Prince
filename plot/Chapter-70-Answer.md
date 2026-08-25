@@ -26,7 +26,7 @@ Blackspire stood on its summit four miles off and a mile up, black rock and blac
 
 There were two shapes in the air above it.
 
-Lucian's mind refused it for the length of a wingbeat — a trick of distance, birds, the eye making a thing out of nothing at four miles. Then it resolved, the way the column had resolved out of the southern end of the valley four days ago, and went on resolving, and there was silver and there was something much larger than silver, and they were locked together and falling and coming apart again over the drop.
+Lucian's mind refused it for the length of a wingbeat — a trick of distance, birds, the eye making a thing out of nothing at four miles. Then it resolved, the way the column had resolved out of the southern end of the valley four days ago, and went on resolving, and there was silver, and there was something dark locked against the silver, and they were falling and coming apart again over the drop.
 
 And nothing had come through the bond.
 
@@ -58,9 +58,9 @@ Speed was the one thing they had that nothing else in the sky did — the wingsp
 
 The summit came at them and the shapes above it stopped being shapes.
 
-Korrath was enormous.
+Korrath was not bigger than Lirath. That was the first surprise, and it lasted about a second.
 
-Not Morvath's size — Lucian had no measure for Morvath, and would not have known to make the comparison. But the reports had all said *large* and the reports had been written by men on the ground, and what was actually up here was a deep red animal the length of the Old Gate's courtyard, scarred down the whole left side, with a bulk to him that made the way he moved seem impossible.
+He was a deep red so dark it read as brown, scarred down the whole left side, and he matched her almost exactly along the length — and he was built like something else entirely. Everything Lirath carried in wing and neck, he carried through the chest and shoulders. Where she was long, he was thick. Fifty years younger and no smaller for it, and put together, from the ground up, for one purpose.
 
 Lirath was bleeding. It came off her shoulder in a long ribbon that broke into nothing halfway down the drop, and she was still turning into him, and she had been doing that for some time.
 
@@ -90,7 +90,7 @@ They never did speak about it. Not that day and not afterward.
 
 What followed was not a duel, and Lucian had the sense not to try to make it one.
 
-He could not fight Korrath. That was clear inside the first exchange and stayed clear: the animal was half again his weight with a neck like a bridge span, and if he got a hold anywhere on Ancalion the argument was over. Even loaded down, even hauling himself through the air like a laden barge, he was the more dangerous thing in the sky by a distance.
+He could not fight Korrath. That was clear inside the first exchange and stayed clear: the animal outweighed him by a margin there was no arguing with, and if he got a hold anywhere on Ancalion the argument was over. Even loaded down, even hauling himself through the air like a laden barge, he was the more dangerous thing in the sky by a distance.
 
 But he could not ignore Ancalion either.
 

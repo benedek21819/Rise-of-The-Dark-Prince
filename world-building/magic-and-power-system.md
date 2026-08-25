@@ -314,6 +314,7 @@ Growth *rate* varies by individual on top of this curve. Most dragons grow at a 
 **Approximate relative sizing, for continuity (not stated in-world as exact figures):**
 - Morvath (~300 yrs, average pace): largest known dragon.
 - Lirath (~170 yrs, average pace): far larger than any young dragon; the standing example of raw age dominating size even among two dragons that are both, by ordinary terms, old.
+- **Korrath (~120 yrs, faster than average pace): roughly the same size as Lirath, despite being fifty years younger.** Bred for war down a deliberate line, he grows faster than an average dragon and has closed the age gap almost entirely. **Do not write him as visibly larger than Lirath** — the difference between them is build and temperament, not scale: Lirath is long, he is thick through the chest and shoulders, he is fifty years short of her age with none of her size disadvantage, and he is in the prime of his strength while she is past hers. That is what makes her overmatched, and it is a better reason than bulk.
 - Solara (~30 yrs as of the main story's present): young by dragon standards, still growing steadily; average pace.
 - Ancalion (same age as Lucian; roughly 2x average pace, i.e. tracking an effective growth-age near double his true age): closing in on Solara's size without yet matching or exceeding it, and further still from Lirath or Morvath. The gap narrows visibly over time rather than closing all at once.
 
