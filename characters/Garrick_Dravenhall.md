@@ -9,7 +9,9 @@
 
 **His dragon:** **Vorrath** — the elder of House Dravenhall's two war dragons, dark red like Korrath and considerably larger, being the older animal.
 
-**How he died:** Garrick and Vorrath, fighting together, killed **Ravorn Caldarion** near the war's end. **Morvath** — Ravorn's dragon, suddenly riderless — went for them and killed both. Morvath then mauled Korrath without finishing him, took crippling wounds of his own, and broke off. See `history-and-lore.md`, "How Ravorn died — Vorrath, and the day that made both houses what they are."
+**How he died:** Garrick and Vorrath met **Ravorn Caldarion and Morvath** in a dragon duel over the coast near the war's end — rider and dragon each, and not a brief fight. **Morvath killed them both**, and was terribly hurt doing it. Both dragons then went into the sea, Ravorn still on Morvath's back. Ravorn, already wounded, drowned; his body was never recovered. Morvath barely reached the shore alive.
+
+Everyone who saw it reported mutual destruction, in good faith, because that is precisely what it looked like. See `history-and-lore.md`, "How Ravorn died — the duel over the water."
 
 **What his death produced:**
 - **Roderic inherited a defeated house at roughly twenty-five**, and his first act as Lord Dravenhall was to give his sister to the winning side as the price of peace.
