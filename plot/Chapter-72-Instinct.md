@@ -92,8 +92,6 @@ Lucian felt it before he heard it, through the bond, and what came through the b
 
 Ancalion — mid-beat, wounded, with something twice his weight closing on him and nothing but empty air behind — turned his head away from Korrath. Deliberately. Toward the black cliffs below the roosts, where a cave mouth Lucian had flown past a thousand times without ever once wondering about had gone from dark to something else.
 
-And through the bond came the thing Lucian had felt exactly once before, in the roost, at fifteen, for less than a second: a quiet, absolute, unarguable *deference*. Not fear. Not obedience. The way a young man's shoulders come down when a much older one walks into the room.
-
 Then it came out.
 
 Lucian's first thought was that the mountain was falling — that a piece of the cliff had let go, because nothing alive comes out of rock at that size. It cleared the cave mouth and kept clearing it, and went on clearing it, and by the time the hind legs came free of the dark there was a shape over the eastern face of Blackspire that made everything else in that sky look like something from a different order of creature entirely.
