@@ -227,23 +227,34 @@ Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the 
 
 **Ch.73 — Roderic POV. Taken.** *(working title: "Terms")*
 
-The third POV, and the last time we are inside him. Justified because two beats can only be delivered from here: **recognition of Morvath on sight** and the arithmetic of having **already spent his one answer** on the wrong dragon.
+The third POV and the last time we are inside him. **Structured in three movements**, because the battle has now been narrated twice and must not be run again — the present-tense spine is short and everything else arrives as intrusion.
 
-**The recognition is personal, and that is now settled** (see `history-and-lore.md`, "How Ravorn died — the duel over the water," and `characters/Bertran_Dravenhall.md`). Morvath killed Roderic's father, **Lord Bertran Dravenhall**, and the house's elder dragon **Kaldross**, twenty-six years ago, in a duel over the coast that ended with Morvath and Ravorn going into the sea together. Ravorn drowned. Morvath was believed to have drowned with him, and **that belief was not Caldarion propaganda** — it was what everyone on both sides watched happen, reported in good faith, which is exactly why nothing in Roderic's intelligence work was ever going to correct it.
+**I. The shelf.** He is on one elbow forty feet from Korrath, having watched all of it and been unable to look away. Silver Guard come down the cut path, unhurried. Lucian stands off with his hand on a shaking dragon, looks at him, and gives an instruction **to somebody else** — seize him, put him in the cells, *my father will want to speak to him.* Roderic is never addressed. He is not defeated; he is **filed**.
 
-So the beat is not a strategist identifying an unexpected asset. It is a man in his fifties looking at the thing that killed his father, alive, over Blackspire, twenty-six years after the whole war watched it drown, with his house's one ancient answer already spent on the wrong dragon. **Recognition, then horror, in that order.**
+**II. The cells.** The night, and where the interiority lives. Morvath and the twenty-six years — **no "how long" question, because there is nothing to ask**: the moment he sees that animal alive the explanation is trivial, and what he actually feels is the consequence, that every assessment his house has made of the North since the war was built on an arithmetic that was wrong and could not have been corrected. The relic spent in the wrong order, correctly, an hour too early. The host in the valley. **His father**, arriving sideways and late: Morvath killed Bertran and Kaldross and he was not there; today the same animal ended his dragon as a flying creature and **went home without once looking at him** — not contempt, something worse, he was not a factor. And Korrath was finished by a *young* dragon, on rock, over a long time, while he watched. **He would have preferred Morvath.** One beat of Isolde that gets cut off and never returns.
 
-**The symmetry to keep in view and never state on the page:** Vesper and Roderic both inherited shattered houses out of that single afternoon — Vesper at twenty, Roderic at twenty-five, both fathers dead within the hour of each other. Roderic's first act as lord was handing his sister to the winning side as the price of peace. Neither man knows the parallel is that exact, and neither would be comforted by it.
+**The detail that defines his new status:** they put him in a cell *and* send a physician to set his legs. Together those two facts tell him he is no longer a lord or a prisoner of honor — he is something being kept in good enough condition to travel.
 
-Then the ground: coming down inside a dying animal, the field below where his host has stopped being a host, the Silver Guard closing on the slope. **Taken alive, injured** — because a man can be judged, and a dragon cannot. Two enemies, two endings, for reasons about what each of them *is*.
+**III. The next morning — Vesper and Lucian.** Vesper asks the practical political questions (Kestrion's terms, who else knew, what was promised) and **gets nothing worth having** — not defiance, just a man declining to be useful.
 
-Isolde is the thing he does not say anything about, and the chapter should not make him.
+Then **Lucian** asks the only question he actually wants answered: how Korrath crossed the northern sky without Lirath knowing.
+
+**And Roderic answers him — and this is his last move, not a surrender.** He tells Lucian where the glass is (**on Korrath's harness**, still, on the shelf — which is also why nobody found it on him), what it does, and **who made it.** Three targets in one act:
+- **He answers Lucian and not Vesper, in Vesper's hearing.** He acknowledges the one who actually beat him and gives the Lord of Blackspire nothing. Both men understand exactly what has been done. Vesper should register it — not as offense, but as one more piece of information about what his son now is.
+- **He destroys House Myrath.** He knows exactly what they will do the moment he is taken: disclaim him, regret it, retreat behind two centuries of principled neutrality. He takes that away from them first. They built a thing to hide a dragon and did not ask what it was for; if he goes to Aurelia, they go with him.
+- **And it costs him nothing**, which is precisely why a proud man can do it. The object is on a dead dragon on a rock shelf and Caldarion finds it within a day regardless. He is not giving up a secret; he is making sure the right people are standing beside him when it comes out.
+
+**Nobody mentions Isolde.** Not once, by anyone, in the whole scene — and Roderic notices, which is louder than anything either of them could have said.
+
+Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judged.** They are not sparing him; they are keeping him for it.
+
+**Lucian is almost entirely silent** apart from that one question — standing beside his father, being shown how it is done.
 
 **Ch.74 — Aftermath, on the mountain.** *(working title: "Count")* **Vesper POV or Lucian POV — decide at drafting.**
 
 The morning after. Lirath on the lower slope and what can and cannot be done for her. **Morvath in the open** — the twenty-year secret cannot be un-revealed, and Roderic is not the only witness. The household. The dead in Firsthold counted properly for the first time. Dain coming up the Ascend.
 
-The quiet ledger item: a Veil working **leaves a trace**, there was a signature in the sky that morning, and nobody was reading for it. Plant it here as a bitter realization; the thread runs to Myrath and is not resolved in this arc.
+The Myrath thread: **Roderic has already named them in Ch.73**, so this is no longer a discovery. What Ch.74 supplies is **corroboration** — a Veil working leaves a trace, there was a signature in the sky that morning that nobody was reading for, and that plus the recovered object plus the commission's paper trail is the difference between a captured enemy's self-serving accusation and a case that can be taken to a king. Not resolved in this arc; the consequences belong to the post-war politics.
 
 **Ch.75 — Aftermath, political.** *(working title: "Settlement")*
 
