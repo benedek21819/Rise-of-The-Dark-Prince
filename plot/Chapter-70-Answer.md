@@ -52,7 +52,7 @@ He left them, and went up the mountain to his father.
 
 ---
 
-Four miles and a mile of height, and it was the height that cost them. The distance was nothing; Ancalion could cross the valley floor in the time it took a man to decide to watch him do it. Going up was the work, and he went up torn wing and all, faster than anything else alive could have gone up it — and it was still long enough to watch Lirath bleed the whole way.
+It was the climb that cost them. He went up torn wing and all, faster than anything else alive could have gone up it — and it was still long enough to watch Lirath bleed the whole way.
 
 Speed was the one thing they had that nothing else in the sky did — the wingspan that had looked absurd on him at six and had never stopped looking slightly absurd since, and the black-out ferocity of a young animal who had spent his whole life being faster than the thing beside him. The mountain came up. The valley dropped away behind. Lucian flattened along his neck with the wind tearing at the harness straps and felt the wound in the wing membrane singing all the way up through the bond and did not slow him down.
 
