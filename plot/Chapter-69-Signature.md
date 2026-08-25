@@ -100,7 +100,7 @@ So he opened the Weight.
 
 Valtor came out onto the court forty feet behind him at a run in that moment, and would have sworn afterward that his lord was standing on a bridge with his hands at his sides, doing nothing whatsoever.
 
-Vesper set his feet and took the field out to its limit and shaped it — Lirath excluded entirely, cut out of it as cleanly as a hole cut in cloth, and everything else inside that volume pressed. Holding it selectively cost perhaps three times what simply flooding the air would have. Within four breaths there was a band of iron across his chest and his own hands had begun to shake and he ignored both.
+Vesper set his feet and took the field out to its limit and shaped it — Lirath excluded entirely, cut out of it as cleanly as a hole cut in cloth, and everything else inside that volume pressed. Holding it selectively cost perhaps three times what simply flooding the air would have. Within half a minute he could not fill his chest properly and his hands had begun to shake, and he ignored both.
 
 Above him, Korrath fell out of a turn.
 
@@ -124,7 +124,7 @@ There was nothing to say across two hundred feet of air. There would have been n
 
 ---
 
-The band across his chest had become something worse and he had stopped being able to feel his fingers, and he held it anyway, and he was still holding it when the noise of the valley changed.
+He had stopped being able to feel his fingers some while ago, and his breathing had gone shallow and quick and would not slow, and he held it anyway, and he was still holding it when the noise of the valley changed.
 
 Vesper knew what it was before he turned his head. He had heard it yesterday afternoon from a window, from a great distance, as the sound of several thousand men discovering something.
 
