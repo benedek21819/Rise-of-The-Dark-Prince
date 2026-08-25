@@ -169,5 +169,3 @@ Forty feet away, across bare rock, the man was still moving.
 He had got himself as far as one elbow and no further, and had stopped trying, and his legs were lying in a way that legs do not lie. He was not looking at Lucian. He was looking at the thing on the stone between them, and he had been looking at it for some time.
 
 Lucian stood in the wind with his hand on his dragon and watched Roderic Dravenhall for a while, and thought about what a man with two broken legs was worth alive, and how long the light would hold, and who would have to be sent for.
-
-It did not occur to him until much later that night, lying awake, that he had never once thought about the dragon.
