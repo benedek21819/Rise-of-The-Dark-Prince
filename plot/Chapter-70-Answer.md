@@ -116,9 +116,9 @@ Lucian understood the compliment and did not enjoy it, and took Ancalion up and 
 
 By the fifth pass the shape of the thing had settled, and the shape of it was that Roderic Dravenhall was losing.
 
-Not beaten. Nothing about Korrath was beaten. But he was inside a field he could not leave without abandoning what he came for, with a dragon on him that would not let him go and another that he could not catch, over an objective he had stopped trying to reach, and the sixth hour of the morning had barely gone.
+Not beaten. Nothing about Korrath was beaten. But he was inside a field he could not leave without abandoning what he came for, with a dragon on him that would not let him go and another that he could not catch, over an objective he had stopped trying to reach, and it was not yet the middle of the morning.
 
-And four miles south, in the valley, the noise had changed again — not the sound of an assault any longer, only the long ragged sound of an army that had begun to notice the sky.
+And four miles south, in the valley, the assault he had left going had begun to falter on its own, because there is a limit to how long men will keep climbing a ladder with two dragons and a third thing they cannot name fighting over the mountain above them.
 
 Lucian brought Ancalion around wide over the drop, high, letting him have twenty seconds of level air, feeling the wing screaming at him and the tiredness starting in underneath everything else, and looked down at the two of them turning below him in the cold grey light.
 

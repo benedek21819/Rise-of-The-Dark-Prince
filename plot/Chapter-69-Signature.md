@@ -126,7 +126,7 @@ There was nothing to say across two hundred feet of air. There would have been n
 
 He had stopped being able to feel his fingers some while ago, and his breathing had gone shallow and quick and would not slow, and he held it anyway, and he was still holding it when the noise of the valley changed.
 
-Vesper knew what it was before he turned his head. He had heard it yesterday afternoon from a window, from a great distance, as the sound of several thousand men discovering something.
+It took him a moment to understand what he was hearing, because it was not a new sound. It was the old one, louder — the assault at the southern wall coming up in pitch and volume the way anything does when whatever had been interfering with it stops.
 
 A shape came up out of the south end of the valley, climbing hard, and it was black, and it was coming very fast, and it was not going to Firsthold.
 
