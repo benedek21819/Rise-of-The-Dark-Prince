@@ -162,6 +162,20 @@ They had taken his money and built him a thing to hide a dragon and had been car
 
 They could stand next to him now.
 
+---
+
+He expected them to come back for the other thing that night, and he spent a good part of the day arranging himself for it.
+
+He was fifty-one years old with both legs splinted and nothing left to lose, and he had a fair idea of what he could and could not hold out against, and the honest answer was *not much and not for long.* He decided what he would say and in what order, and how much of it would be true, and he was as ready as a man in that condition can make himself.
+
+Nobody came.
+
+It took him until the evening to work out why, and he did not enjoy it when he had it.
+
+There was no answer to that question they could check. A man being hurt says yes, or says no, or says whatever will make it stop, and not one of the three is worth anything to a house deciding whether to watch a road for twenty years. Vesper had asked it the only way it could usefully be asked — once, quietly, of a man in no particular pain — and having got nothing, had stopped, because there was nothing further to be got.
+
+He had not been spared. He had been assessed, and found not worth the trouble, and set aside.
+
 Vesper had come back to the grille before they left, and said what he had come to say, and Roderic had listened to it without much interest, because he had known it since the boy said *I want him alive* on the rock.
 
 He would be taken south as soon as he could be moved. He would be brought before the Crown at Aurelia. The charges would be laid in open court, and answered, and his house's fate would be settled there, in the light, by law.
