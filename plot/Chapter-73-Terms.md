@@ -78,21 +78,21 @@ He had not been careless. That was what he could not put down. Careful, and thor
 
 ---
 
-Somewhere past the middle of the night he thought about his father, which he had been avoiding since the shelf.
+Somewhere past the middle of the night the other thing arrived, which he had been holding off since the shelf by keeping his mind on numbers.
 
-He had not been there. That had always been the shape of it — he had been six miles up the coast with Korrath and the left wing, and by the time anyone reached him it was done, and everything he knew about the last hour of Bertran Dravenhall's life had come to him secondhand from men who had watched it from a cliff. His father and Kaldross had gone into the water with Ravorn Caldarion, and the great grey animal had gone in after them and not come out, and that was the story, and it had been the story for twenty-six years, and every man who told it had believed it.
+Korrath had been his for thirty years.
 
-Today the same animal had come out of a mountain, ended Korrath in one movement, and gone home.
+He had been twenty when the bond took, and the animal had been ninety and had outlived riders before him and had not been in any particular hurry about the whole business. It had gone slowly and it had gone deep. There had not been a single day since in which some part of Roderic Dravenhall was not aware, without needing to look, of exactly where that animal was and roughly how he felt about it. It was not a thing he had ever thought about, any more than a man thinks about the floor.
 
-Without looking at him.
+He had felt it go.
 
-That was the piece Roderic could not make sit. Not contempt — he could have done something with contempt. The thing had simply not registered him. It had come out for reasons of its own, done one thing, and gone back into the dark, and he had been a man on a harness on a dragon it happened to be dismantling.
+Not at the throat — before that, somewhere in the middle of it, while the body was still moving. One moment there was a great deal of pain in the back of his head that was not his own pain, and a rage in it, and then there was nothing there, and the nothing was the worst thing that had ever happened to him and he had not made a sound about that either.
 
-His dragon — Kaldross's son, hatched in his own house, forty-one years his companion — had not been killed by the animal that killed his father. He had been killed by an eighteen-year-old's dragon, on rock, badly, over a long time, while Roderic lay forty feet away and watched.
+He lay in the dark and put his hand flat on the blanket where his leg was and found that he was crying, which was inconvenient, and waited for it to stop.
 
-He would have preferred Morvath. He turned that over for a while and did not much like what it said about him, and found that he meant it regardless.
+It did, eventually.
 
-Somewhere below and to the south there was a valley with what was left of his host in it, and by tomorrow they would be a column of men walking home without a lord, and after that they would be a great many separate problems belonging to a great many other people. He thought about that for a while too, because it was easier.
+Somewhere below and to the south there was a valley with what was left of his host in it, and by tomorrow they would be a column of men walking home without a lord, and after that they would be a great many separate problems belonging to a great many other people. He thought about that for a while instead, because it was easier.
 
 He did not think about his sister.
 
