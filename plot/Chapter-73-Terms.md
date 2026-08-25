@@ -134,15 +134,11 @@ Not the father. Not the mountain, not the Weight, not the old grey thing in the 
 
 And the last decision available to Roderic Dravenhall arrived, and he made it, and it took him no time at all.
 
-"It is on his harness," he said. "Left side, under the chest strap, in a lined case. A glass sphere, about so." He held his thumb and forefinger apart. "It hides a dragon from other dragons. Not from eyes — from whatever it is they use. It is why yours felt nothing and hers felt nothing, and it is the whole of why we were over your mountain before anyone knew it."
+"It is on his harness," he said. "Left side, under the chest strap, in a lined case. A glass sphere, about so." He held his thumb and forefinger apart. "It does not have to be woken and it does not hide anything from eyes. It covers whatever is near it — from whatever it is that dragons feel each other by. It has been doing that since the day it was put on him."
 
-He was aware of Vesper's attention arriving on him properly for the first time that morning, and he did not turn his head, and he went on speaking to the boy.
+He was aware of Vesper's attention arriving on him properly for the first time that morning. He did not turn his head.
 
-"It was made for me by House Myrath. Commissioned four years ago, accepted at the top of that house, paid in full, and delivered this spring. Nobody in Myrath asked what it was for. I would not have told them, and they were careful not to be in a position where they would have had to refuse."
-
-He let that sit for exactly as long as it deserved.
-
-"Yesterday was the first time it was used."
+"That is why yours felt nothing, and why hers felt nothing, and it is the whole of how we were over your mountain before anybody knew we had left the valley."
 
 The silence went on a moment.
 
@@ -152,11 +148,13 @@ Roderic did not look at him. "I was not talking to you."
 
 ---
 
-Afterward, when they had gone, he found he could not entirely account for the pleasure of it, and did not try very hard.
+Afterward, when they had gone, he lay looking at the ceiling of the cell and thought about what he had just done, and found he could not entirely account for the pleasure of it, and did not try very hard.
 
-House Myrath would have disclaimed him by the turn of the season. He knew exactly how it would have gone, because he had watched Myrath do it to other men for thirty years: the careful regret, the reminder of two hundred years of neutrality, the perfectly true observation that they had sold an object and not a war. They would have been believed. They would have gone on being believed, and gone on being comfortable, and in ten years the thing would have become an unfortunate misunderstanding involving a lord who was no longer available to contradict anyone.
+He had not named anybody. He had not needed to. There is exactly one house on this continent that can blend workings of that order into a single object, and everyone who has ever held a piece of their work knows it the way you know a maker's mark, and the boy would be holding that sphere within the hour.
 
-They had taken his money and built him a thing that hid a dragon.
+House Myrath would have disclaimed him by the turn of the season. He knew precisely how it would have gone, because he had watched them do it to other men for thirty years: the careful regret, the reminder of two centuries of neutrality, the perfectly true observation that they had sold an object and not a war. They would have been believed. They would have gone on being believed, and gone on being comfortable, and in ten years the whole thing would have become an unfortunate misunderstanding involving a lord who was no longer available to contradict anyone.
+
+They had taken his money and built him a thing to hide a dragon and had been careful not to ask what it was for.
 
 They could stand next to him now.
 
