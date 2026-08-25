@@ -46,7 +46,8 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 **Chapter 62 (Undertow):** No significant time skip from Ch.61 (a matter of weeks/months at most, unspecified). Lucian ~18, Seren correspondingly ~15 (established 3 years younger than Lucian). Seren returns on-page for the first time since Ch.33 — via letter only in this chapter, not yet in person.
 
 ## Open Questions
-- [What still needs figuring out?]
+- **How long did the Last Continental War last?** Never established. Ch.73 was drafted with "two years" and the number was removed rather than invented. Several things touch it loosely — Vesper was nineteen when it ended and head of the house at twenty; Roderic was in his mid-twenties; Korrath was already formidable in its final years — but nothing fixes a duration. Worth settling before any chapter needs to count backwards through it.
+- **What was Kaelor's kingdom-wide cost?** "Nearly all of the continent's old dragons and many dragon riders died" is the only figure, and given how dragon reproduction now works (see `magic-and-power-system.md`), that loss is permanent and shapes the present far more than has been written down.
 
 ## Reserved Chapter Titles
 - **Return** — reserved for the future chapter where Lucian goes to Arcanor (the old imperial capital, site of the Imperial Vault). Do not reuse for any other chapter before then.
