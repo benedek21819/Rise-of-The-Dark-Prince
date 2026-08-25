@@ -22,11 +22,11 @@ She went over sideways and down past the cliff face with her eyes open.
 
 Vesper understood it in the time it took her to clear the first hundred feet, and he did not need to be told and there was nobody to tell him.
 
-Dragons do not do that. There is no wound that does it, no working, no poison, nothing in the whole of the Veil that reaches into a living will and takes it out of her. One thing does that, and Vesper had grown up on the records of the men in his own family who could — very few of them, across a very long time, each with one word to his name for the whole of his life. None born to the house in living memory. It is not learned and it cannot be given. A man is born carrying it or he is not.
+Dragons do not do that. There is no wound that does it, no working, no poison, nothing in the whole of the Veil that reaches into a living will and takes it out of her.
 
-Roderic Dravenhall was not. A man who was would not have spent the last hour losing.
+One thing does that, and Vesper knew the name of it, and had known since the year they gave him this house and everything under it.
 
-But a word can be put into an object and kept there, and spoken once, by somebody who was never given anything at all. And House Dravenhall were kings on this continent before there was a crown in Aurelia to argue with.
+House Dravenhall were kings on this continent before there was a crown in Aurelia to argue with.
 
 Kings keep things.
 
