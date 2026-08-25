@@ -12,8 +12,6 @@ That was all he had. There was no thought behind it, no place to put it. He had 
 
 She went down past the eastern shoulder and out of sight.
 
-Ancalion made a sound Lucian had never heard him make.
-
 ---
 
 He had four seconds, maybe five, of nothing at all — the specific white uselessness of a mind that has been handed something with no shelf to set it on — and then Korrath came around and started for the bridge, and everything else in Lucian's head went out like a lamp.
