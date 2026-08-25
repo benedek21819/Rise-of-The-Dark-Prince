@@ -116,7 +116,9 @@ He looked at the ceiling and did not answer.
 
 He went on not answering. He watched Vesper wait, and watched him decide not to ask again, and watched him fail entirely to conceal what that silence cost him — a thing Vesper Caldarion had not once failed at in thirty years of tables.
 
-Because the silence was the last thing Roderic owned. If he said *no*, they would sleep. If he said *yes*, they would hunt. If he said nothing at all, then somewhere in Dravenhold or in a wagon on a southern road or in a locked case in a house nobody had thought of yet, there might be one more, and House Caldarion would never afterward be entirely certain there was not.
+There was no other one. There had been one, in four hundred years, and he had spent it yesterday, and he knew it as certainly as he knew his own name.
+
+That was the whole of what he had left. Not a secret — an absence, which he could decline to confirm. Say *no* and they would sleep tonight. Say nothing, and House Caldarion would spend the next twenty years watching every road out of Dravenhold for a thing that did not exist.
 
 Then Vesper asked the rest of it, flatly, down a list — who else had known, what had moved through Sylvaron and when, whether anything was still coming north — and got nothing, and did not press, and did not threaten, and moved on each time as though he were reading down a page he had already assumed would come back empty.
 
