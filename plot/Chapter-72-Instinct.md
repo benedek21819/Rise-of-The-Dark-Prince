@@ -148,11 +148,11 @@ Korrath was several times his size and did not die easily and did not die quickl
 
 Lucian got to his feet somewhere in the middle of it, bleeding, thirty feet away, and stood in the wind on his own mountain and watched his dragon kill.
 
-He wanted it finished. Badly, the whole way through, with his heart going in his throat — because it was his own dragon down there on the stone being thrown about by something that would not die.
+He did not look away.
+
+He wanted it finished — badly, the whole way through, with his heart going in his throat, because it was his own dragon down there being thrown about by something that would not die.
 
 He did not want it stopped.
-
-Those turned out to be two entirely different things.
 
 The noise stopped before the movement did. That was the part he kept. Korrath had been making noise the whole hour, all of it, from the moment he came out of the cloud, and there came a moment somewhere in the middle of it when he stopped and the body went on working anyway for a while.
 
