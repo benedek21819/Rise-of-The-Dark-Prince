@@ -96,7 +96,7 @@ That was the whole of it, and Lucian found it within four passes and then did no
 
 And every time Korrath turned to answer it, he was turning inside Vesper's field, at his father's chosen pressure, with his weight tripled, and Lirath was there when he came out of the turn.
 
-They fell into it without any of them arranging it. Lirath kept him in. Lucian gave him a reason to be somewhere else. It was not a plan and nobody had discussed it, and it worked because all three of them had been reading the same sky since the column came into the valley and only two of them had been on the mountain when it started.
+They fell into it without any of them arranging it. Lirath kept him in. Lucian gave him a reason to be somewhere else. It was not a plan and nobody had discussed it, and it held.
 
 Korrath began to lose height he did not mean to lose.
 
