@@ -397,6 +397,8 @@ Lirath is approximately 170 years old. She has shiny silver scales, blue eyes, a
 - **Temperament.** She has never in her life gone looking for a fight she could walk away from — the same fact Ch.67 rests on — and a dragon who will not press an advantage is worth little in a war and dies easily in one.
 - **She is the house's only female.** Given how dragons actually reproduce (see "Reproduction" above), losing her would not have cost Caldarion a dragon. It would have cost them **every dragon they might ever have had**, permanently, for as long as the house exists. Morvath could be spent. She could not.
 
+**She was already Vesper's at the time** — bonded to him since boyhood — so keeping her home kept the nineteen-year-old heir home with her. Ravorn excluded his son from that war exactly as Vesper excludes Lucian in Ch.67 (see `history-and-lore.md`).
+
 The decision was vindicated in the worst possible way: Morvath was spent, and came back broken and riderless, and Lirath is the only reason House Caldarion has had a usable dragon at all for twenty-six years.
 
 **Morvath:**
