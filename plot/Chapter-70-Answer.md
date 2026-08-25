@@ -58,7 +58,7 @@ Speed was the one thing they had that nothing else in the sky did — the wingsp
 
 The summit came at them and the shapes above it stopped being shapes.
 
-Korrath was not bigger than Lirath. That was the first surprise, and it lasted about a second.
+Korrath was Lirath's size. Lucian had known he would be, and had taken more comfort from it these last twenty days than it turned out to be worth — she was fifty years the older, and age settled size, and it settled nothing at all.
 
 He was a deep red so dark it read as brown, scarred down the whole left side, and he matched her almost exactly along the length — and he was built like something else entirely. Everything Lirath carried in wing and neck, he carried through the chest and shoulders. Where she was long, he was thick. Fifty years younger and no smaller for it, and put together, from the ground up, for one purpose.
 
