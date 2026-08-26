@@ -222,7 +222,7 @@ The holding action first, and it must **visibly cost him** — a young dragon ag
 
 **Morvath. The Commandment is what summons him** — the load-bearing causal link. Not a threat to Lirath, who had been fighting freely by her own choice; her **will was overridden from outside**, and that is what pulls a nearly three-hundred-year-old dragon out of a cave after twenty years. The Ch.63 plant (Ancalion's head turning once toward the deeper dark) pays off here and should not be re-explained.
 
-Morvath forces Korrath to the ground. **Ancalion kills him — instinct, in the heat of it, not an order.** Lucian does not command it, is not asked, and it is over before anyone has decided anything.
+Morvath takes the right wing and **leaves immediately** — he does not drive Korrath down and does not hold him; the fall onto bare rock does the rest, and Morvath is back in the cave within a minute. Korrath gets up. **Ancalion kills him alone, with no help at all — instinct, in the heat of it, not an order.** Lucian does not command it, is not asked, and it is over before anyone has decided anything.
 
 **The beat that matters is what Lucian feels afterward:** he would have given exactly that order, knows it immediately and without struggle, and finds no objection anywhere in himself. Recognition, not horror. Do not let him examine it. Let it sit.
 
