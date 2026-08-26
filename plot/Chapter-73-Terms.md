@@ -172,7 +172,13 @@ Nobody came.
 
 It took him until the evening to work out why, and he did not enjoy it when he had it.
 
-Nothing he said would have changed one order Vesper Caldarion was going to give. A house that has had a dragon taken out of the sky above its own keep does not stand down on the assurances of the man who did it; they would watch the southern roads for twenty years whatever came out of this cell, and they would be right to. The answer was not worth a night's work because the answer did not matter.
+Vesper had asked because asking cost him nothing and an answer would have saved him a season. He had not expected to be given one. And he did not need to be given one, because he was not going to have to wait very long.
+
+Dravenhold would be opened before the winter was out. Its vaults, its rolls, its inventories running back four hundred years, gone through by men who count things for a living — and whatever House Dravenhall did or did not still hold would be written down in somebody's ledger by spring, in a clerk's hand, with the date beside it.
+
+Twenty years of watching the southern roads, Roderic had thought, lying here in the dark, rather pleased with himself.
+
+Four months, more likely.
 
 And there was the other half of it, which he liked less.
 
