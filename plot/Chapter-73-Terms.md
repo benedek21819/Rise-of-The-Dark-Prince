@@ -116,7 +116,7 @@ There was no other one. There had been one in four hundred years and he had spen
 
 He looked at the ceiling and did not answer.
 
-He watched Vesper wait, and decide not to ask again, and fail to hide what that cost him, which was a thing the man had not once failed at in thirty years of tables.
+Vesper waited exactly as long as the question was worth waiting for, and then stopped, and did not ask it again. Nothing whatever happened in his face.
 
 Then the rest of it, flatly, down a list — who else had known, what had moved through Sylvaron and when, whether anything was still coming north. He got nothing, and did not press, and moved on each time like a man reading down a page he had already assumed would come back empty. Those were being asked so that afterward it could be said they had been asked.
 
