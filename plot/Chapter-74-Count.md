@@ -142,7 +142,7 @@ They had gone down at first light to see what could be done and had come back up
 
 So he would stay there. Through the freeze, which was a mercy, and into the spring, which would not be.
 
-Lucian looked at him for a while and thought, without any particular feeling attaching to it, that they would be smelling that from the walls in April.
+Lucian looked at him for a while and thought, without any particular feeling attaching to it, that they would be smelling that from the walls come Thaw.
 
 ---
 
