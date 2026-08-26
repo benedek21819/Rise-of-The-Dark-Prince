@@ -251,11 +251,21 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 **Lucian is almost entirely silent** apart from that one question — standing beside his father, being shown how it is done.
 
-**Ch.74 — Aftermath, on the mountain.** *(working title: "Count")* **Vesper POV or Lucian POV — decide at drafting.**
+**Ch.74 — Aftermath, on the mountain.** *(working title: "Count")* **Lucian POV** — decided. Vesper has carried two of the last five chapters, Lucian ended Ch.72 purely administrative and this is where the bill arrives, and **Vesper's grief over Lirath is far harder watched from outside than narrated from within.**
 
-The morning after. Lirath on the lower slope and what can and cannot be done for her. **Morvath in the open** — the twenty-year secret cannot be un-revealed, and Roderic is not the only witness. The household. The dead in Firsthold counted properly for the first time. Dain coming up the Ascend.
+**Principle:** the battle took one morning and everything it caused takes months. Nothing in this chapter is dramatic. It is carrying, counting and deciding.
 
-The Myrath thread: **the sphere is recovered off Korrath's harness**, and it is its own evidence — only Myrath could have made it. Roderic names nobody in Ch.73 and does not need to. Ch.74 is where Caldarion holds the object and understands what it means; the consequences belong to the post-war politics and are not resolved in this arc.
+- **Lirath is the spine.** Reaching her is a logistics problem — two ridges, no path, most of a morning on foot with ropes. **She is alive and she will mend**, and that is settled by evening and is not the relief anyone expects, because the second question arrives immediately behind it and **nobody will say it aloud.** Whether she flies again is unknown (and stays unknown — see `magic-and-power-system.md`). Let the silence stand; do not resolve it.
+- **Vesper** goes to her before anyone sensible would allow it, having held a Domain to its limit and not slept. Lucian sees his father physically diminished for the first time. **They do not discuss the hole in the field** — Ch.70 promised they never would.
+- **Ancalion** is badly hurt and will recover fully. **Lucian knows it through the bond before anyone tells him**, and keeps it slightly to himself. His unusual healing rate does not need stating on the page.
+- **Korrath's body.** The practical problem nobody anticipated: an enormous dead animal on a rock shelf that cannot be moved and will be there until spring. The war stays physically present on the mountain.
+- **The count.** Dain brings the numbers up the Ascend and reads them aloud — the wall, the ditch, the fires, **the ones who would not leave** (Ch.67 set them up, Ch.68 made them the reason Lucian flew). It should be a list and it should run longer than is comfortable. Then Dravenhall's thousands in the valley, winter coming, and the fact that burying an enemy army is now Firsthold's problem. Prisoners. Grain.
+- **The secret leaves and nobody can stop it.** Vesper reports nothing because there is nothing to report — Aldric has known for twenty-six years, lawfully, with a record. But the men on the court saw it, Firsthold counted three shapes over the summit instead of two, and a beaten army is walking the length of Kaelor telling the story. Vesper's single line on the subject is an acknowledgment that it is gone.
+- **The sphere is NOT a beat in this chapter.** *(Decided in outlining.)* It is retrieved off Korrath's harness by somebody sent down for it and put in a locked room, off-page, in a clause at most. The conversation worth having about it — Myrath, and what House Caldarion now owns — needs time and a table, and belongs to Ch.75 or later.
+
+**Close (recommended):** Vesper, seen from a distance, sitting with Lirath in the dark on the eastern scree — and **Lucian not going to him.** It pays the silence the whole climax has been building and puts the chapter's real cost somewhere nobody counted.
+
+**Optional:** a letter from Seren, written before the battle, arriving now. Ordinary life landing in the middle of the accounting. The chapter is already full; use only if it fits.
 
 **Ch.75 — Aftermath, political.** *(working title: "Settlement")*
 
