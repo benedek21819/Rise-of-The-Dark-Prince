@@ -174,11 +174,19 @@ It took him until the evening to work out why, and he did not enjoy it when he h
 
 Vesper had asked because asking cost him nothing and an answer would have saved him a season. He had not expected to be given one. And he did not need to be given one, because he was not going to have to wait very long.
 
-Dravenhold would be opened. Not by Caldarion, and not tomorrow — the Crown would rule first, and afterward the Crown's men would go through the vaults and the rolls and the inventories running back four hundred years, the way they always do with a house that has lost, and whatever Dravenhall did or did not still hold would end up written in a clerk's hand with a date beside it.
+Dravenhold would be opened. Not by Caldarion, and not tomorrow — the Crown would rule first, and afterward the Crown's men would go through the vaults and the rolls and the inventories running back four hundred years, the way they always do with a house that has lost.
+
+And whatever they found in there would go south to Aurelia. To the King.
+
+Which was to say into the hands of the one house on this continent that House Caldarion has never in two hundred years had to think about twice.
+
+He turned that over for some while and got no pleasure from it at all. If there was another sealed word anywhere under Dravenhold, it was not a danger to Vesper Caldarion. It was a bequest to him — carried down the length of the kingdom in a locked case by a royal clerk, with a receipt.
+
+So the man had not been asking about years. He had been asking about the gap. About the months between this morning and the day the Crown's men reached those vaults, in which House Dravenhall still had its own doors and its own people and no lord at all — and any one of them, frightened or loyal or simply stupid, might reach for something.
 
 Twenty years of watching the southern roads, Roderic had thought, lying here in the dark, rather pleased with himself.
 
-One winter. Two at the outside, and then a list.
+A winter. He had bought one winter of another man's unease, and he had paid for it with the last true thing he had left to say.
 
 And there was the other half of it, which he liked less.
 
