@@ -48,31 +48,35 @@ At the time he simply answered them, because they needed answering, and because 
 
 ---
 
-The word about Lirath came up at the sixth hour with a man who had walked all the way back.
+The word about Lirath came up at the sixth hour, with his brothers.
 
-They had got to her a little after dawn. It had taken them most of the night to find a way round — down the second gully, along the old mine track, and then up the scree on foot with ropes because there is no path to that face and never has been.
+They had both gone down with the party in the night, which Lucian had not known, and had climbed back up the cut path without stopping at the keep, and they arrived in the roost filthy to the elbows and grey in the face and eighteen years old.
 
-She was alive.
+"She is alive," Riven said, from the entrance, before he had properly got in.
 
-That was the first thing he said, and he said it before anything else, which Lucian was grateful for and which he understood the man had done on purpose.
+He said it that way on purpose. Lucian was more grateful for it than he could have explained.
 
-She had gone down four hundred feet of loose stone and stopped against the rocks at the bottom, and she had been lying on the same side for eighteen hours. The shoulder Korrath had opened was the least of it. Three ribs at least. Something wrong with the left hip that the physician did not like and would not name. Her right wing was under her and had been under her the whole time and they had not yet been able to get her to shift enough to see it properly.
+They had reached her a little after dawn — down the second gully, along the old mine track, then up the scree on foot with ropes, because there is no path to that face and there never has been. She had gone down four hundred feet of loose stone and stopped against the rocks at the bottom, and had been lying on the same side for eighteen hours by the time anyone got a hand on her.
 
-"She knew us," the man said. "When we came up the last of the scree she got her head round and she knew us, and she let the physician at her, and she has been letting him at her since."
+Riven told it well. He had always been able to talk. The shoulder Korrath opened was the least of it; three ribs at least; something wrong with the left hip that the physician did not like and would not put a name to. She had known them. She had got her head round when they came up the last of the scree and known them, and had let the physician at her, and had gone on letting him at her all morning.
 
-"Will she mend."
+"He says she will mend," Riven said. "He says it will be a long business. But he says it."
 
-"He says yes." The man paused for the first time. "He says it will be a long business and she will mend."
+Thorne had not said anything at all.
 
-Lucian waited.
+He was standing a little behind his brother with his hands hanging, looking at the floor of the roost, and he did not look up when Riven finished, and he did not add anything to it.
 
-The man did not say anything else. He stood there for a moment longer than the conversation required, turning his cap over, and then he asked whether there was anything to go back down with, and Lucian said no, and he went.
+"Her wing," Lucian said.
 
-Nobody said the other thing. Not the man, not the physician he was quoting, not the keepers working ten feet away who had all stopped to listen and had all gone back to work at exactly the same moment.
+"Under her." Riven's voice did not change. "It was under her the whole time. They have not been able to get her to shift enough to see it."
 
-Lucian did not ask it either.
+Thorne went on looking at the floor.
 
-He had grown up in a house that said very little, and he understood the arithmetic of that silence perfectly: they were not refusing to answer. They did not know. Nobody knew, and nobody was going to know for months, and every single person on this mountain had understood the question before the word *mend* was out of the man's mouth.
+And that was the whole of the answer, and Lucian had it, and nobody in that roost had said one word about whether Lirath would ever fly again.
+
+They did not know. That was the truth of it — not evasion, not kindness. The physician did not know, the keepers did not know, and would not for months. But Thorne had been down there on that scree at dawn with his hands on her, and had seen whatever there was to see, and had climbed five hundred feet of path with it, and would not look up.
+
+Lucian did not ask. He sent for something hot for both of them and made them sit down, and Riven talked for a while longer and Thorne did not, and after a time they went up to the keep to sleep.
 
 He thought about a silver shape going over sideways in the air with her wings open, and stopped thinking about it.
 
