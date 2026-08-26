@@ -41,7 +41,7 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 **Chapter 52 onward (Anchor):** A small time skip of about two months past Chapter 51. Ages not meaningfully changed by a skip this short; tracked here for continuity only.
 
-**Chapter 61 (Vow):** A near-full-year time skip from Chapter 60 — Lucian is now close to 18. Selene, Riven, and Thorne are correspondingly about a year older as well (Selene ~12-13, twins ~17). This is the first chapter of the ~1-year pre-war period; the Dravenhall war arc (see "Planned Arc" below) begins from around here, with Lucian at ~18 as the author wanted.
+**Chapter 61 (Vow):** A near-full-year time skip from Chapter 60 — Lucian is now close to 18. Selene, Riven, and Thorne are correspondingly about a year older as well (Selene ~12-13, **twins ~16** — they are bible-specified as two years younger than Lucian; an earlier note here said ~17, which was wrong). This is the first chapter of the ~1-year pre-war period; the Dravenhall war arc (see "Planned Arc" below) begins from around here, with Lucian at ~18 as the author wanted.
 
 **Chapter 62 (Undertow):** No significant time skip from Ch.61 (a matter of weeks/months at most, unspecified). Lucian ~18, Seren correspondingly ~15 (established 3 years younger than Lucian). Seren returns on-page for the first time since Ch.33 — via letter only in this chapter, not yet in person.
 

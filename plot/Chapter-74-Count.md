@@ -50,7 +50,7 @@ At the time he simply answered them, because they needed answering, and because 
 
 The word about Lirath came up at the sixth hour, with his brothers.
 
-They had both gone down with the party in the night, which Lucian had not known, and had climbed back up the cut path without stopping at the keep, and they arrived in the roost filthy to the elbows and grey in the face and eighteen years old.
+They had both gone down with the party in the night, which Lucian had not known and would have forbidden, and had come back up the cut path without stopping at the keep. They arrived filthy to the elbows, grey in the face, and sixteen years old.
 
 "She is alive," Riven said, from the entrance, before he had properly got in.
 
