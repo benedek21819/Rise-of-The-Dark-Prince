@@ -76,6 +76,9 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 68. Ash  
 69. Signature  
 70. Assent  
+71. Fall  
+72. Instinct  
+73. Terms  
 
 **Note:** Chapter 19 ("Eyes") — Seren's first on-page meeting with Lucian. Expanded with Vesper explaining why the King and Queen did not personally escort Seren (court affairs, Dorian's ambitions) and clarifying the Ascend is, under Caldarion's own escort, among the safest roads in the kingdom rather than genuinely dangerous. Also introduces **Lady Ansel**, the Queen's cousin, as Seren's actual chaperone traveling alongside the steward — closing a plausibility gap around sending a young princess north with only a steward and a nurse, giving her retinue the rank her status calls for. Also expanded with a bit more Cole dialogue, added texture to the royal retinue (a physician, a scholar recording the visit), and a fuller closing reflection. (Expanded from ~1,105 to ~1,680 words as part of the 1,500-word-floor pass.)
 **Note:** Chapter 12 ("Home") — early childhood arc, a quiet morning-and-formal-dinner chapter establishing the full household. Expanded with more warmth in the Elara/Selene breakfast scene, a fuller Lyra dressing exchange, a Riven/Thorne beat at dinner (Riven's restless eagerness to match Lucian's training, Thorne's quiet steadiness even this young — an early seed of their established adult personalities), and an expanded closing reflection on the split between Lucian's private and formal selves. (Expanded from ~1,110 to ~1,570 words as part of the 1,500-word-floor pass.)
@@ -157,6 +160,58 @@ Opens on the second day's work being **worse and smaller** than the first: with 
 **Continuity settled here:** Korrath is **the same size as Lirath**, not larger — Lucian expected that (age settles size; she is fifty years older) and finds the expectation worthless as comfort, since the difference is build and disposition rather than scale. Both chapters were revised to drop "battle-bred" entirely; dragons are not bred to specification, and Korrath's threat is what he has done, in the phrasing Ch.67 already uses on the page.
 
 Closes on Roderic putting his hand inside his coat — a gesture Lucian sees, registers, and **files as a rider adjusting a strap** — and then folding Ancalion's wings for the sixth pass. Ch.71 opens below, in Vesper's POV, with Lirath falling.
+
+---
+
+**Note:** Chapter 71 ("Fall") is **Vesper's POV** and by design **the shortest chapter in the arc** (~1,300 words) — the Commandment is over before the reader is ready, and the chapter's shape enacts that. Same morning, Day 20, picking up seconds after Ch.70.
+
+**The word is never on the page.** Roderic takes something from his coat and Vesper hears nothing — two hundred feet of wind and two dragons in between — so the reader, holding Ch.70's "filed it as a rider adjusting a strap," understands before Vesper does. **Lirath does not fall; she stops flying.** Her wings do not break or falter, they "stop being hers," and everything else about her goes on working and answers nothing.
+
+**Vesper's recognition is knowledge, not kinship** — he carries no Commandment (the gift in this family is Lucian's, latent and unknown to everyone). He learned what those words are **at succession**, since the record sits in the Vaults, which open only to the head of the house; the bible was amended during drafting to fix this and to instruct that it be conveyed in as few words as possible. On the page it is four lines ending in *Kings keep things.* He never names the power and never explains it to himself mid-battle.
+
+**The revision that shapes the second half** (see `notes-and-ideas.md`, war-sequence step 10, revised): the earlier plan had the duel drift beyond the Weight's finite radius, making Vesper helpless on a technicality. **Superseded.** The fight stays over Blackspire and the Weight stays on at full pressure — and is simply **not enough**, because Ancalion is torn and slowing and Korrath now has only one dragon to solve. *It is not enough* is the chapter's plainest line and its worst moment: his one great weapon deployed correctly, at its limit, to no effect.
+
+**Then Roderic goes for the source.** He is inside the field, so he knows what is being done to him and that a man is doing it, and the man is standing alone in the open on a stone bridge. Kill him and the field ends instantly. **Vesper cannot move** — running drops the field and looses Korrath on a wounded dragon carrying his son — so he stands there and lets them come, which the chapter names as the hardest thing he has ever done precisely because every other hard thing "had involved doing something." Valtor puts a hand on him for the first time in nineteen years and gets no answer.
+
+Closes on the mountain: the sound felt through the stone before it is heard, known "the way a man knows a voice out of his own childhood," not heard in twenty-six years. **Morvath's motive is never stated** — the explanation was drafted and cut, leaving the reader to connect the Commandment to what wakes. Final line returns to the chapter's first: he sets his feet again, and holds the field, and waits for it to reach the light.
+
+---
+
+**Note:** Chapter 72 ("Instinct") returns to **Lucian's POV** and is **the longest chapter in the arc** (~2,750 words). Same morning, continuous with Ch.71.
+
+Lirath stops flying and **Lucian has no framework for it** and gets no answer in this chapter. Then Korrath turns for the bridge and Lucian reads the turn — *Roderic had worked out where it came from.* From there the chapter is one long holding action, and the word "fighting" is explicitly refused: "Fighting implies some possibility of winning, and there had never been one." **He is in the way**, repeatedly, until he cannot be.
+
+**Two mechanics established here.** **The Weight is his father's pulse** — Lucian never looks at the bridge and does not need to, because while Korrath flies like a barge, Vesper is alive and still holding. And **black flame is accounted for properly** (bible amended): it does not char, it takes the color and substance out and leaves scale grey and dead-looking, and by the third quarter of the hour Korrath's whole left side is going grey — *anything else in the world would have been finished twice over.* It is not enough because there is too much of him and a young dragon has only so much fire in a morning. This is why the kill, when it comes, is jaws and not fire.
+
+**The Absence, third light touch:** it opens wide under real pressure, holds across three passes, buys half a beat — and there is not one second free to notice that it should have cost him something. No answers, per `magic-and-power-system.md`.
+
+**Morvath emerges — and Lucian has no idea what he is.** The Ch.63 plant pays off as action only: Ancalion turns his head *away* from the thing about to kill him, toward the cave. The named "deference" paragraph was drafted and cut. **Korrath has never seen Morvath and recognizes nothing** (see `history-and-lore.md`: he and Roderic were nowhere near the duel that killed Kaldross, because had they been in reach they would have joined) — his reaction is animal, the half-second knowledge of something older and larger.
+
+**Morvath cripples him and leaves immediately** *(revised in drafting; the earlier version had him pin the body while Ancalion worked, which made him the reason it succeeded).* He does not meet the charge — he takes the right wing, ends Korrath as a flying animal, and the fall onto bare rock breaks the rest. **Then he turns around and goes home**, without going down after him and without looking at the body, at Lucian, or at Roderic; within a minute the mountain looks exactly as it did that morning. This dramatizes "not rescue" rather than stating it, and hands the climax back to Ancalion.
+
+**Korrath gets up.** Grounded, one-winged and broken, he still nearly wins — opens Ancalion's flank to the bone — and **the opening is his own**: cornered with something under his guard, he pulls his head back to bring it down and the throat comes open. **Ancalion kills him alone, with nobody helping, and it is prolonged and ugly.** The commitment is instantaneous (nothing comes through the bond first; Lucian is thrown from the harness in the landing and watches from thirty feet, bleeding); the killing is not. Korrath had been making noise the whole hour, and the noise stops before the movement does.
+
+**The ending was rebuilt twice.** The original had Lucian wait to feel something and receive *I would have told him to do that* — cut, because Ch.68 already ends on waiting-and-receiving and the stated thought explained the coldness rather than letting it show. **The chapter now ends on triage and a prisoner:** Ancalion shaking, the flank needing packing, the wing needing someone who is an hour away on foot — and forty feet off, a man on one elbow who has been watching for some time. Lucian's last thoughts are what a man with two broken legs is worth alive, how long the light will hold, and who will have to be sent for. No interiority at all.
+
+---
+
+**Note:** Chapter 73 ("Terms") is the book's **second Roderic POV** and the last time the reader is inside him. **Three movements**, deliberately structured so the battle — already narrated twice — is never re-run: the present-tense spine is short and everything else arrives as intrusion.
+
+**I. The shelf.** He is on one elbow forty feet from Korrath, having watched all of it and been unable to look away. The Silver Guard come down at a working pace and check the dead animal "the way you check a fallen horse"; **nobody runs**, which is the first humiliation and is made entirely of tempo. He composes his face and waits to be spoken to and **is not spoken to** — he hears Lucian's instruction across open rock (*Put him in the cells, and get a physician to him — I want him alive... My father will want to speak to him*) and understands he has been **disposed of, not beaten**.
+
+**II. The cell.** A cell *and* a physician within the hour: he reads the arrangement like a page and concludes they want him functional enough to survive a journey. The relic was spent **correctly**, at the only moment it could have been, and an hour later something came out of the cliff. **No mystery about Morvath and no "how long" question** — the moment he sees the animal the explanation is trivial; the ruin is the consequence. Caldarion had two dragons, *everyone* knew it and nobody ever had to work it out, and the number was three. *He had not been careless... Careful, and thorough, and right, and it had made no difference at all.*
+
+Then **Korrath** — thirty years, a rebonding at twenty to a ninety-year-old animal that had outlived riders and was in no hurry. **He felt the bond go**, mid-killing, before the throat. He cries, finds it inconvenient, waits for it to stop, and deliberately thinks about his army instead because it is easier. **He does not think about his sister**, and comes close twice, and is grateful when his legs interrupt.
+
+**III. The morning.** Vesper opens with the only question that matters — **"Is there another one"** — and does not say another what. Roderic knows there is not; there was one in four hundred years and he spent it yesterday. **He withholds the *no***, which is the last thing he has. Vesper shows nothing whatsoever and does not ask twice.
+
+Then **Lucian** asks the one thing he wants: how Korrath crossed the northern sky unfelt. **Roderic answers the son and not the father** — the last free act available to him. He gives the sphere's location on Korrath's harness and what it does, and, aware of Vesper's attention arriving on him for the first time, **does not turn his head**. (An explicit "I was not talking to you" was drafted and cut; the turned-away head does it.) **He names nobody** — the object identifies Myrath by itself, since only they can blend workings of that order (see `factions-and-politics.md`, where the sphere is now documented as **passive, always active, covering anything near it against every non-physical means of detection, and useless against eyes, ears or scent**).
+
+He expects to be broken that night and prepares for it; **nobody comes**. He works out why by evening: Dravenhold will be opened once the Crown has ruled, and anything found there goes to Aurelia — to the King, "the one house Caldarion has never in two hundred years had to think about twice" — so a second sealed word would not be a danger to Vesper but a **bequest**. *He had thought he was buying twenty years of another man's unease. He had bought a winter.*
+
+Closes on Aurelia and the sister. He will be carried south and tried in open court, and **neither of them mentioned Isolde** — not as a threat, not as a courtesy, not even as the name of somebody who will be in that room — and he understands this to be the most contemptuous thing anyone has ever done to him.
+
+**Drafting note:** this chapter grew from ~2,750 to ~3,400 words absorbing continuity fixes, then was cut back to **~2,380**. Almost everything removed was Roderic explaining his own situation to himself — the Myrath aftermath, the Crown-custody reasoning, and the dragon-cannot-be-tried asymmetry, all of which the chapter already performs.
 
 ---
 
