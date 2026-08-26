@@ -28,7 +28,7 @@ Nobody had told the house that he was down here, and yet by the middle of the mo
 
 It began with the head keeper, who wanted to know whether to open the second roost for the wounded from the Ascend, because it was warm and dry and empty and there was nowhere else. Lucian said yes.
 
-Then Valtor's second, about the prisoners — four hundred and some, taken alive on the valley floor and now standing in a walled yard in Firsthold with no arrangements made for them, because nobody had planned for prisoners.
+Then Valtor's second, about the prisoners — four hundred and some, taken alive on the valley floor and sitting in a walled yard in Firsthold, and the Warden wanting to know whose they were and off whose stores they were being fed.
 
 "Whose are they," Lucian said.
 
