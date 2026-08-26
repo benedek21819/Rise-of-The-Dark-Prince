@@ -136,7 +136,7 @@ Dain nodded slowly. He did not say *your father would have said the same*, and h
 
 Korrath was still on the shelf.
 
-He could see him from the platform, four hundred feet below and a little to the east: a long dark shape on grey rock with people moving around it, small as insects, doing nothing in particular.
+He could see him from the platform, straight down over the rail: a long dark shape on grey rock with people moving around it, small as insects, doing nothing in particular.
 
 They had gone down at first light to see what could be done and had come back up with the answer, which was nothing. A dragon that size cannot be moved by men. It cannot be dragged off a shelf that has a cliff on one side and a mountain on the other, and there is no burning something of that mass on bare stone with what a keep has to hand, and the winter would come before anyone found a better idea.
 
