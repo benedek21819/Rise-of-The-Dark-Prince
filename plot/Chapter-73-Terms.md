@@ -142,7 +142,7 @@ He was aware of Vesper's attention arriving on him properly for the first time t
 
 The silence went on a moment.
 
-"Why," said Vesper.
+"Is it the only one," said Vesper.
 
 Roderic did not look at him. "I was not talking to you."
 
