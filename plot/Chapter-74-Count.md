@@ -2,7 +2,7 @@
 
 He did not leave the roost.
 
-There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down in the deep part of the cave, on the raked grit the roost floors are laid with — spoil from the workings, a foot deep, hauled up that cliff a basket at a time for six generations — and had not moved since except to breathe. So Lucian stayed. He sent word up to the keep once, and after that people came to him.
+There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down on the raked grit in the deep part of the cave and had not moved since except to breathe. So Lucian stayed. He sent word up to the keep once, and after that people came to him.
 
 The keepers worked on the flank until the middle of the night. It took eleven separate packings to close and they ran out of clean linen twice, and the head keeper — a broad silent woman who had been doing this since before Lucian was born — swore steadily and quietly the entire time in a dialect he had never been able to place.
 
