@@ -80,9 +80,7 @@ He was standing a little behind his brother with his hands hanging, looking at t
 
 Thorne went on looking at the floor.
 
-And that was the whole of the answer, and Lucian had it, and nobody in that roost had said one word about whether Lirath would ever fly again.
-
-They did not know. That was the truth of it — not evasion, not kindness. The physician did not know, the keepers did not know, and would not for months. But Thorne had been down there on that scree at dawn with his hands on her, and had seen whatever there was to see, and had climbed five hundred feet of path with it, and would not look up.
+Nobody knew. The physician did not, and the keepers did not, and would not for months. But Thorne had been down there at dawn with his hands on her, and had seen whatever there was to see, and had carried it five hundred feet up a path, and would not look up.
 
 Lucian did not ask. He sent for something hot for both of them and made them sit down, and Riven talked for a while longer and Thorne did not, and after a time they went up to the keep to sleep.
 
