@@ -38,7 +38,7 @@ Then Valtor's second, about the prisoners — four hundred and some, taken alive
 
 The man wrote it down and went away.
 
-Then a steward about the granaries. Then somebody from the lower court about the Silver Guard dead, and where, and whether it should wait for his father. Lucian said it should not wait, and told him where.
+Then a steward about the granaries. Then somebody from the lower court about the people coming up the Ascend out of the burned quarters — whether the second gate should be opened to them, and whether it should wait for his father. Lucian said it should not wait, and told him to open it.
 
 Then the question of the eastern watchtower, which had burned, and whether the men should be pulled off it now or in spring.
 
