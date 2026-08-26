@@ -120,7 +120,7 @@ All three strands reaching conclusive weight at roughly the same time is not coi
 
     **Myrath's complicity — a live thread for the aftermath.** Their bible has Ilyandra believing the house's neutrality is principled, "though it has also made Myrath extremely comfortable and never once required real risk in defense of anything it claims to value." They built a device to hide something dragon-sized and **did not ask what it was for** — which is neutrality doctrine working exactly as designed, right up until it isn't. They do not break neutrality here; they take a commission. Afterward, having materially enabled a surprise attack on House Caldarion is not something they can argue their way out of, and Caldarion will eventually know.
 
-    **Consequence worth using later:** unlike a Commandment, a Veil working **leaves a trace**. There was a signature in the sky over Blackspire that morning and nobody was reading for it — available afterward as a bitter realization, and as the thread that leads back to Myrath.
+    **What leads back to Myrath is the sphere itself** — no forensic trace, and none should be written. Only House Myrath can blend workings of that order into one object, and their work is recognizable to anyone who knows how to look at it. Possessing the thing is the case.
 
     **Thematically:** between the inherited relic and the commissioned one, Roderic puts everything his house owns and everything it could buy into a single throw. Ch.67 ("Calm") establishes on-page that the defense's whole arithmetic rested on an assumption nobody in the war council said aloud: that both dragons would be on the mountain when it came.
 4. **Lirath fights alone, and is losing.** **Vesper is not mounted** — this is the crucial detail. Roderic's surprise is one of *timing*, and the keep's own geography supplies it: the roosts are a separate cave system in the upper cliffs, reached from the keep by cut paths and stone bridges (`locations.md`), so Vesper simply cannot reach her before Korrath is on her. Lirath meets him alone, and against a dragon that has killed dragons in a war she is exactly as overmatched as Ch.67 said she would be.
@@ -255,7 +255,7 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 The morning after. Lirath on the lower slope and what can and cannot be done for her. **Morvath in the open** — the twenty-year secret cannot be un-revealed, and Roderic is not the only witness. The household. The dead in Firsthold counted properly for the first time. Dain coming up the Ascend.
 
-The Myrath thread: **Roderic has already named them in Ch.73**, so this is no longer a discovery. What Ch.74 supplies is **corroboration** — a Veil working leaves a trace, there was a signature in the sky that morning that nobody was reading for, and that plus the recovered object plus the commission's paper trail is the difference between a captured enemy's self-serving accusation and a case that can be taken to a king. Not resolved in this arc; the consequences belong to the post-war politics.
+The Myrath thread: **the sphere is recovered off Korrath's harness**, and it is its own evidence — only Myrath could have made it. Roderic names nobody in Ch.73 and does not need to. Ch.74 is where Caldarion holds the object and understands what it means; the consequences belong to the post-war politics and are not resolved in this arc.
 
 **Ch.75 — Aftermath, political.** *(working title: "Settlement")*
 

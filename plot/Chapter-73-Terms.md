@@ -134,7 +134,7 @@ Not the father. Not the mountain, not the Weight, not the old grey thing in the 
 
 And the last decision available to Roderic Dravenhall arrived, and he made it, and it took him no time at all.
 
-"It is on his harness," he said. "Left side, under the chest strap, in a lined case. A glass sphere, about so." He held his thumb and forefinger apart. "It does not have to be woken and it does not hide anything from eyes. What it does is cover. Anything close to it stops being findable — by a dragon, by a weaver, by anything at all that looks with something other than eyes. It has been doing that since the day it was put on him."
+"It is on his harness," he said. "Left side, under the chest strap, in a lined case. A glass sphere, about so." He held his thumb and forefinger apart. "It does not have to be woken, and it will not keep a thing from eyes or ears or a dog's nose. What it does is cover. Anything close to it stops being findable by a dragon, or by a weaver, or by anything else that reaches for a thing without touching it. It has been doing that since the day it was put on him."
 
 He was aware of Vesper's attention arriving on him properly for the first time that morning. He did not turn his head.
 
