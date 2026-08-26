@@ -82,7 +82,9 @@ Dain came up in the afternoon and read the count in the roost, standing, because
 
 He had it written down, which was not like him.
 
-The wall: two hundred and eleven dead in the assaults, another ninety since, of wounds. The ditch parties on the second day had cost them forty more. Six of the Silver Guard on the Ascend, which was six more than had been lost there in a hundred and forty years.
+The wall: two hundred and eleven dead in the assaults, another ninety since, of wounds. The ditch parties on the second day had cost them forty more.
+
+The Ascend: nothing. Not one man, in twenty days, on the finest defensive road in the North — because nothing had come up it, and nothing had ever been going to.
 
 Then the city.
 
