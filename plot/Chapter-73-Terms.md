@@ -8,7 +8,7 @@ Forty feet away, Korrath was still.
 
 He had watched all of it.
 
-That was the fact he could not get round, and would not, he suspected, ever entirely get round. He had come off the harness at the impact and gone down the rock and come to rest facing the wrong way — facing exactly the right way — and there had been nothing whatsoever wrong with his eyes.
+He had come off the harness at the impact and gone down the rock and come to rest facing the wrong way — facing exactly the right way — and there had been nothing whatsoever wrong with his eyes.
 
 It had taken a long time. He had not known that a thing like that could take a long time.
 
@@ -50,7 +50,7 @@ That was the thing Roderic kept coming back to, in the dark, with the lamp gutte
 
 A cell, and a physician.
 
-He had spent his whole life among men who kept prisoners, and he could read the arrangement as easily as a page. You did not put a man in a cell if you meant to honor him; you gave him a room with a lock and somebody to sit with him. And you did not send your own physician to a man in a cell within the hour, and set both his legs properly, and leave him something for the pain, if you meant to be finished with him.
+He had spent his whole life among men who kept prisoners and he could read the arrangement like a page. You did not put a man in a cell if you meant to honor him. And you did not set both his legs properly within the hour if you meant to be finished with him.
 
 They wanted him functional. They wanted him to survive a journey.
 
@@ -110,19 +110,15 @@ Neither of them sat. There was nowhere to sit.
 
 "Is there another one," Vesper said.
 
-He did not say another what. He did not need to, and both of them knew he did not need to, and Roderic understood in that moment that this was not one of several questions. It was the question. The man had come down here with one thing he actually wanted and had opened with it, which told Roderic more about the state of House Caldarion this morning than anything else could have.
+He did not say another what. He had come down here with the one thing he actually wanted and opened with it, which told Roderic a good deal about the state of House Caldarion that morning.
+
+There was no other one. There had been one in four hundred years and he had spent it yesterday — and saying so was the last thing he had left to give anybody, and he found he did not care to give it.
 
 He looked at the ceiling and did not answer.
 
-He went on not answering. He watched Vesper wait, and watched him decide not to ask again, and watched him fail entirely to conceal what that silence cost him — a thing Vesper Caldarion had not once failed at in thirty years of tables.
+He watched Vesper wait, and decide not to ask again, and fail to hide what that cost him, which was a thing the man had not once failed at in thirty years of tables.
 
-There was no other one. There had been one, in four hundred years, and he had spent it yesterday, and he knew it as certainly as he knew his own name.
-
-That was the whole of what he had left. Not a secret — an absence, which he could decline to confirm. Say *no* and they would sleep tonight. Say nothing, and House Caldarion would spend the next twenty years watching every road out of Dravenhold for a thing that did not exist.
-
-Then Vesper asked the rest of it, flatly, down a list — who else had known, what had moved through Sylvaron and when, whether anything was still coming north — and got nothing, and did not press, and did not threaten, and moved on each time as though he were reading down a page he had already assumed would come back empty.
-
-He had. Roderic could see that he had. Those were being asked so that afterward it could be said they had been asked.
+Then the rest of it, flatly, down a list — who else had known, what had moved through Sylvaron and when, whether anything was still coming north. He got nothing, and did not press, and moved on each time like a man reading down a page he had already assumed would come back empty. Those were being asked so that afterward it could be said they had been asked.
 
 Then the boy spoke, from the wall, for the first time.
 
@@ -152,45 +148,27 @@ Roderic did not look at him. "I was not talking to you."
 
 ---
 
-Afterward, when they had gone, he lay looking at the ceiling of the cell and thought about what he had just done, and found he could not entirely account for the pleasure of it, and did not try very hard.
+Afterward he lay looking at the ceiling and could not entirely account for the pleasure of it, and did not try very hard.
 
-He had not named anybody. He had not needed to. There is exactly one house on this continent that can blend workings of that order into a single object, and everyone who has ever held a piece of their work knows it the way you know a maker's mark, and the boy would be holding that sphere within the hour.
+He had named nobody. He had not needed to. There is one house on this continent that can blend workings of that order into a single object, and anyone who has held a piece of their work knows it the way you know a maker's mark.
 
-House Myrath would have disclaimed him by the turn of the season. He knew precisely how it would have gone, because he had watched them do it to other men for thirty years: the careful regret, the reminder of two centuries of neutrality, the perfectly true observation that they had sold an object and not a war. They would have been believed. They would have gone on being believed, and gone on being comfortable, and in ten years the whole thing would have become an unfortunate misunderstanding involving a lord who was no longer available to contradict anyone.
+They would have disclaimed him by the turn of the season. He had watched them do it to other men for thirty years — the careful regret, two centuries of neutrality, the perfectly true observation that they had sold an object and not a war — and they would have been believed.
 
-They had taken his money and built him a thing to hide a dragon and had been careful not to ask what it was for.
+They had taken his money and built him a thing to hide a dragon and been careful not to ask what it was for.
 
 They could stand next to him now.
 
 ---
 
-He expected them to come back for the other thing that night, and he spent a good part of the day arranging himself for it.
-
-He was fifty-one years old with both legs splinted and nothing left to lose, and he had a fair idea of what he could and could not hold out against, and the honest answer was *not much and not for long.* He decided what he would say and in what order, and how much of it would be true, and he was as ready as a man in that condition can make himself.
+He expected them to come back for the other thing that night, and spent a good part of the day arranging himself for it. He was fifty-one years old with both legs splinted, and he had a fair idea of how long he would last, and the honest answer was *not long.*
 
 Nobody came.
 
-It took him until the evening to work out why, and he did not enjoy it when he had it.
+He worked out why by evening and did not enjoy it. Dravenhold would be opened once the Crown had ruled, and whatever was in those vaults would go south to Aurelia — to the King, which was to say to the one house Caldarion has never in two hundred years had to think about twice. If there was another sealed word under his own floor, it was not a danger to Vesper Caldarion. It was a bequest.
 
-Vesper had asked because asking cost him nothing and an answer would have saved him a season. He had not expected to be given one. And he did not need to be given one, because he was not going to have to wait very long.
+He had thought he was buying twenty years of another man's unease. He had bought a winter.
 
-Dravenhold would be opened. Not by Caldarion, and not tomorrow — the Crown would rule first, and afterward the Crown's men would go through the vaults and the rolls and the inventories running back four hundred years, the way they always do with a house that has lost.
-
-And whatever they found in there would go south to Aurelia. To the King.
-
-Which was to say into the hands of the one house on this continent that House Caldarion has never in two hundred years had to think about twice.
-
-He turned that over for some while and got no pleasure from it at all. If there was another sealed word anywhere under Dravenhold, it was not a danger to Vesper Caldarion. It was a bequest to him — carried down the length of the kingdom in a locked case by a royal clerk, with a receipt.
-
-So the man had not been asking about years. He had been asking about the gap. About the months between this morning and the day the Crown's men reached those vaults, in which House Dravenhall still had its own doors and its own people and no lord at all — and any one of them, frightened or loyal or simply stupid, might reach for something.
-
-Twenty years of watching the southern roads, Roderic had thought, lying here in the dark, rather pleased with himself.
-
-A winter. He had bought one winter of another man's unease, and he had paid for it with the last true thing he had left to say.
-
-And there was the other half of it, which he liked less.
-
-He was not Caldarion's to break any more. He had marched an army across the King's kingdom and he belonged to the Crown from the moment they picked him up off that rock — and whatever Vesper wanted from him, he was not going to deliver a great lord to Aurelia with a grievance to carry into open court about how he had been kept in the North. Not to that court. Not with the woman who would be sitting in it.
+And he was not Caldarion's to break in any case. He had belonged to the Crown from the moment they lifted him off that rock, and nobody was going to hand a great lord to Aurelia with a grievance to carry into open court about how he had been kept in the North. Not to that court.
 
 He had not been spared. He had been put somewhere safe, like anything else that has stopped being useful and has not yet been decided about.
 
@@ -198,12 +176,10 @@ Vesper had come back to the grille before they left, and said what he had come t
 
 He would be taken south as soon as he could be moved. He would be brought before the Crown at Aurelia. The charges would be laid in open court, and answered, and his house's fate would be settled there, in the light, by law.
 
-They were not sparing him. Sparing was not what any of it was.
-
-A dragon cannot be tried. That was the whole of the difference, and it had been decided on a rock shelf before he was carried off it: the animal was dealt with where it lay, because there is no other way to finish an animal, and the man was kept whole and warm and drugged and mended, because there is another way to finish a man, and it takes longer, and everyone watches.
+A dragon cannot be tried. That was the whole of the difference, and it had been settled on a rock shelf before they carried him off it: the animal was finished where it lay, because there is no other way to finish an animal, and he was kept warm and mended and drugged, because for a man there is another way, and it takes longer, and everyone watches.
 
 Neither of them had mentioned his sister.
 
-Not once, in the whole of it — not as a threat, not as a courtesy, not even as the name of a person who would be in that room when he was carried into it. It had not come up. He had gone over the entire conversation twice now and it had simply not come up.
+Not once — not as a threat, not as a courtesy, not even as the name of somebody who would be in that room when he was carried into it. He had gone over the whole conversation twice now, and it had simply not come up.
 
 He lay in the dark under a mountain that was not his, with both legs splinted and a cup of something bitter going cold beside him, and understood that this was the most contemptuous thing anyone had done to him in his life.
