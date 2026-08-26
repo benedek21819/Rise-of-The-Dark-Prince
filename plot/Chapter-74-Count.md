@@ -56,11 +56,19 @@ They had both gone down with the party in the night, which Lucian had not known 
 
 He said it that way on purpose. Lucian was more grateful for it than he could have explained.
 
-They had reached her a little after dawn — down the second gully, along the old mine track, then up the scree on foot with ropes, because there is no path to that face and there never has been. She had gone down four hundred feet of loose stone and stopped against the rocks at the bottom, and had been lying on the same side for eighteen hours by the time anyone got a hand on her.
+"We went down the second gully and along the old mine track," Riven said, "and then up the scree on foot with ropes, because there is no path to that face and there never has been. It took us the whole night."
 
-Riven told it well. He had always been able to talk. The shoulder Korrath opened was the least of it; three ribs at least; something wrong with the left hip that the physician did not like and would not put a name to. She had known them. She had got her head round when they came up the last of the scree and known them, and had let the physician at her, and had gone on letting him at her all morning.
+"How far had she gone down?"
 
-"He says she will mend," Riven said. "He says it will be a long business. But he says it."
+"Four hundred feet of loose stone." He sat, without being asked, which he would not normally have done. "She fetched up against the rocks at the bottom, and she had been lying on that same side since the morning before. Eighteen hours. Nobody got a hand on her until dawn."
+
+He told it well. He had always been able to talk. The shoulder Korrath had opened was the least of it — three ribs at least, and something wrong with the left hip that the physician did not like and would not put a name to.
+
+"She knew us," Riven said. "When we came up the last of the scree she got her head round and she knew us. She let him work on her. She has been letting him at her all morning."
+
+"And he says?"
+
+"He says she will mend. He says it will be a long business." A breath. "But he says it."
 
 Thorne had not said anything at all.
 
