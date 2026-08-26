@@ -64,7 +64,7 @@ He said it that way on purpose. Lucian was more grateful for it than he could ha
 
 The shoulder Korrath had opened was the least of it. Three ribs at least, and something wrong with the left hip that the physician did not like and would not put a name to.
 
-"She knew us," Riven said. "When we came up the last of the scree she got her head round and she knew us. She let him work on her. She has been letting him at her all morning."
+"She knew us," Riven said. "When we came up the last of the scree she got her head round and she knew us. She let the physician work on her. She has been letting him at her all morning."
 
 "And he says?"
 
