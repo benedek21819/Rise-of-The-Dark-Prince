@@ -2,7 +2,7 @@
 
 He did not leave the roost.
 
-There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down onto the straw in the deep part of the cave and had not moved since except to breathe. So Lucian stayed. He sent word up to the keep once, and after that people came to him.
+There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down in the deep part of the cave, on the raked grit the roost floors are laid with — spoil from the workings, a foot deep, hauled up that cliff a basket at a time for six generations — and had not moved since except to breathe. So Lucian stayed. He sent word up to the keep once, and after that people came to him.
 
 The keepers worked on the flank until the middle of the night. It took eleven separate packings to close and they ran out of clean linen twice, and the head keeper — a broad silent woman who had been doing this since before Lucian was born — swore steadily and quietly the entire time in a dialect he had never been able to place.
 
@@ -42,7 +42,7 @@ Then a steward about the granaries. Then somebody from the lower court about the
 
 Then the question of the eastern watchtower, which had burned, and whether the men should be pulled off it now or in spring.
 
-He answered them all sitting on a heap of straw in a dragon roost with one side of his face stitched shut and his hands still black to the wrist, and it did not once occur to him that anything unusual was happening. It occurred to him afterward, days afterward, lying awake — that the house had spent the morning walking past every closed door in Blackspire and climbing four hundred feet of cut path to ask a boy of eighteen, and that not one of them had appeared to find it strange.
+He answered them all sitting on a folded saddle-cloth on the floor of a dragon roost with one side of his face stitched shut and his hands still black to the wrist, and it did not once occur to him that anything unusual was happening. It occurred to him afterward, days afterward, lying awake — that the house had spent the morning walking past every closed door in Blackspire and climbing four hundred feet of cut path to ask a boy of eighteen, and that not one of them had appeared to find it strange.
 
 At the time he simply answered them, because they needed answering, and because his father was two ridges away on the eastern scree and could not be reached before evening.
 
@@ -160,7 +160,7 @@ It was not moving. It had been there when he came out and it was still there a q
 
 Lucian stood at the rail and looked at it for a while.
 
-He did not go. There was no way to go — it was four hours down and around in daylight and impossible in the dark, and he was needed here, and his dragon was inside on the straw, and his father had not asked him to come and would not have.
+He did not go. There was no way to go — it was four hours down and around in daylight and impossible in the dark, and he was needed here, and his dragon was inside on the grit, and his father had not asked him to come and would not have.
 
 He stayed at the rail until his hands stopped working properly in the cold.
 
