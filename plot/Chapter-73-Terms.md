@@ -140,12 +140,6 @@ He was aware of Vesper's attention arriving on him properly for the first time t
 
 "That is why yours felt nothing, and why Lirath felt nothing, and it is the whole of how we were over your mountain before anybody knew we had left the valley."
 
-The silence went on a moment.
-
-"Is it the only one," said Vesper.
-
-Roderic did not look at him. "I was not talking to you."
-
 ---
 
 Afterward he lay looking at the ceiling and could not entirely account for the pleasure of it, and did not try very hard.
