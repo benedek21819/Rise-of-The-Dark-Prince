@@ -142,18 +142,6 @@ He was aware of Vesper's attention arriving on him properly for the first time t
 
 ---
 
-Afterward he lay looking at the ceiling and could not entirely account for the pleasure of it, and did not try very hard.
-
-He had named nobody. He had not needed to. There is one house on this continent that can blend workings of that order into a single object, and anyone who has held a piece of their work knows it the way you know a maker's mark.
-
-They would have disclaimed him by the turn of the season. He had watched them do it to other men for thirty years — the careful regret, two centuries of neutrality, the perfectly true observation that they had sold an object and not a war — and they would have been believed.
-
-They had taken his money and built him a thing to hide a dragon and been careful not to ask what it was for.
-
-They could stand next to him now.
-
----
-
 He expected them to come back for the other thing that night, and spent a good part of the day arranging himself for it. He was fifty-one years old with both legs splinted, and he had a fair idea of how long he would last, and the honest answer was *not long.*
 
 Nobody came.
