@@ -156,8 +156,6 @@ Vesper had come back to the grille before they left, and said what he had come t
 
 He would be taken south as soon as he could be moved. He would be brought before the Crown at Aurelia. The charges would be laid in open court, and answered, and his house's fate would be settled there, in the light, by law.
 
-A dragon cannot be tried. That was the whole of the difference, and it had been settled on a rock shelf before they carried him off it: the animal was finished where it lay, because there is no other way to finish an animal, and he was kept warm and mended and drugged, because for a man there is another way, and it takes longer, and everyone watches.
-
 Neither of them had mentioned his sister.
 
 Not once — not as a threat, not as a courtesy, not even as the name of somebody who would be in that room when he was carried into it. He had gone over the whole conversation twice now, and it had simply not come up.
