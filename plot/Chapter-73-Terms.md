@@ -174,11 +174,11 @@ It took him until the evening to work out why, and he did not enjoy it when he h
 
 Vesper had asked because asking cost him nothing and an answer would have saved him a season. He had not expected to be given one. And he did not need to be given one, because he was not going to have to wait very long.
 
-Dravenhold would be opened before the winter was out. Its vaults, its rolls, its inventories running back four hundred years, gone through by men who count things for a living — and whatever House Dravenhall did or did not still hold would be written down in somebody's ledger by spring, in a clerk's hand, with the date beside it.
+Dravenhold would be opened. Not by Caldarion, and not tomorrow — the Crown would rule first, and afterward the Crown's men would go through the vaults and the rolls and the inventories running back four hundred years, the way they always do with a house that has lost, and whatever Dravenhall did or did not still hold would end up written in a clerk's hand with a date beside it.
 
 Twenty years of watching the southern roads, Roderic had thought, lying here in the dark, rather pleased with himself.
 
-Four months, more likely.
+One winter. Two at the outside, and then a list.
 
 And there was the other half of it, which he liked less.
 
