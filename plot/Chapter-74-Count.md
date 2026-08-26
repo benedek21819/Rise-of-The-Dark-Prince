@@ -42,7 +42,7 @@ Then a steward about the granaries. Then somebody from the lower court about the
 
 Then the question of the eastern watchtower, which had burned, and whether the men should be pulled off it now or in spring.
 
-He answered them all sitting on a folded saddle-cloth on the floor of a dragon roost with one side of his face stitched shut and his hands still black to the wrist, and it did not once occur to him that anything unusual was happening. It occurred to him afterward, days afterward, lying awake — that the house had spent the morning walking past every closed door in Blackspire and climbing four hundred feet of cut path to ask a boy of eighteen, and that not one of them had appeared to find it strange.
+He answered them all sitting on a folded saddle-cloth on the floor of a dragon roost with one side of his face stitched shut and his hands still black to the wrist, and it did not once occur to him that anything unusual was happening. It occurred to him afterward, days afterward, lying awake — that the house had spent the morning walking past every closed door in Blackspire and climbing five hundred feet of cut path and two bridges to ask a boy of eighteen, and that not one of them had appeared to find it strange.
 
 At the time he simply answered them, because they needed answering, and because his father was two ridges away on the eastern scree and could not be reached before evening.
 
