@@ -94,8 +94,6 @@ He had it written down, which was not like him.
 
 The wall: two hundred and eleven dead in the assaults, another ninety since, of wounds. The ditch parties on the second day had cost them forty more.
 
-The Ascend: nothing. Not one man, in twenty days, on the finest defensive road in the North — because nothing had come up it, and nothing had ever been going to.
-
 Then the city.
 
 Fires in the market row, the tanners' quarter and along the whole eastern wall where the engines had reached. Nine hundred and forty-some in the burning, and the number was soft because they were still finding them, and would be finding them for another week.
