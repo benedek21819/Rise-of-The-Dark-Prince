@@ -150,8 +150,6 @@ He worked out why by evening and did not enjoy it. Dravenhold would be opened on
 
 He had thought he was buying twenty years of another man's unease. He had bought a winter.
 
-And he was not Caldarion's to break in any case. He had belonged to the Crown from the moment they lifted him off that rock, and nobody was going to hand a great lord to Aurelia with a grievance to carry into open court about how he had been kept in the North. Not to that court.
-
 He had not been spared. He had been put somewhere safe, like anything else that has stopped being useful and has not yet been decided about.
 
 Vesper had come back to the grille before they left, and said what he had come to say, and Roderic had listened to it without much interest, because he had known it since the boy said *I want him alive* on the rock.
