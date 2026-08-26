@@ -138,7 +138,7 @@ And the last decision available to Roderic Dravenhall arrived, and he made it, a
 
 He was aware of Vesper's attention arriving on him properly for the first time that morning. He did not turn his head.
 
-"That is why yours felt nothing, and why hers felt nothing, and it is the whole of how we were over your mountain before anybody knew we had left the valley."
+"That is why yours felt nothing, and why Lirath felt nothing, and it is the whole of how we were over your mountain before anybody knew we had left the valley."
 
 The silence went on a moment.
 
