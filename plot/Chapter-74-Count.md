@@ -62,7 +62,7 @@ He said it that way on purpose. Lucian was more grateful for it than he could ha
 
 "Four hundred feet of loose stone." He sat, without being asked, which he would not normally have done. "She fetched up against the rocks at the bottom, and she had been lying on that same side since the morning before. Eighteen hours. Nobody got a hand on her until dawn."
 
-He told it well. He had always been able to talk. The shoulder Korrath had opened was the least of it — three ribs at least, and something wrong with the left hip that the physician did not like and would not put a name to.
+The shoulder Korrath had opened was the least of it. Three ribs at least, and something wrong with the left hip that the physician did not like and would not put a name to.
 
 "She knew us," Riven said. "When we came up the last of the scree she got her head round and she knew us. She let him work on her. She has been letting him at her all morning."
 
