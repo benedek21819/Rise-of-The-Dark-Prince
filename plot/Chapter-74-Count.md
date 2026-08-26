@@ -30,11 +30,11 @@ It began with the head keeper, who wanted to know whether to open the second roo
 
 Then Valtor's second, about the prisoners — four hundred and some, taken alive on the valley floor and sitting in a walled yard in Firsthold, and the Warden wanting to know whose they were and off whose stores they were being fed.
 
-"Whose are they," Lucian said.
+"Ours," Lucian said, "until somebody in Aurelia troubles to say otherwise, which will not be this year."
 
-"The Warden has them, my lord. He is asking."
+"And the feeding, my lord."
 
-"Then they are Dravenhall men who surrendered, and they are the crown's, and Dain feeds them until someone comes to take them off him." He thought about it. "Out of our stores, not the city's. Firsthold has fed everybody this month."
+"Out of our stores. Not the city's — Firsthold has fed everybody this month." He thought about it. "And they work. There is a great deal of work down there and four hundred idle men in a yard, and I would rather not be keeping them fed through a winter for nothing."
 
 The man wrote it down and went away.
 
@@ -112,7 +112,13 @@ Afterward they stood together at the mouth of the roost, looking south down the 
 
 "Ours to do. There is nobody else."
 
-"Then take what you need from the stores and put every man on it who is not holding a wall." Lucian looked at the smoke. "Burn them. Not in the city. Take them west of the river."
+"Put the prisoners on it," Lucian said. "All of them, and every man of ours who is not holding a wall." He looked at the smoke. "Burn them. Not in the city. West of the river."
+
+Dain took a moment with the first part of that.
+
+"Their own dead."
+
+"Their own dead," Lucian said.
 
 Dain nodded slowly. He did not say *your father would have said the same*, and he did not say *are you certain*, and Lucian noticed the absence of both.
 
