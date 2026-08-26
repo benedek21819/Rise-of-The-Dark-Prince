@@ -16,7 +16,7 @@ It had taken a long time. He had not known that a thing like that could take a l
 
 They came down the cut path perhaps a quarter of an hour later, and they were not in a hurry.
 
-That was the detail he noticed first and minded most: nobody ran. Six men in Cold Silver came down off the platforms at a working pace, spread out along the shelf, checked the dead animal from a sensible distance the way you check a fallen horse, and only then came over to him. One of them crouched, looked at his legs without touching them, and said something over his shoulder to the others in a normal voice.
+That was the detail he noticed first and minded most: nobody ran. Six men in Cold Silver came down off the platforms at a working pace, checked the dead animal from a sensible distance the way you check a fallen horse, and only then came over to him. One of them crouched, looked at his legs without touching them, and said something to the others in a normal voice.
 
 Roderic composed his face and waited to be spoken to.
 
@@ -60,13 +60,13 @@ He had known that, in some part of himself, from the moment the boy said *I want
 
 He did the arithmetic anyway. He could not stop doing it. It was what he had instead of sleep.
 
-The relic had been spent correctly. That was the part he turned over most, and it kept coming out the same way: the old silver, the sealed word, the thing his house had carried out of its days as kings and never once used in four hundred years — and he had spent it at the only moment it could have been spent, on the only target that mattered, and it had worked exactly as it was supposed to work. The silver dragon had gone out of the sky. The field had not lifted, but that had been a man's doing and not hers, and the arithmetic on the man had been sound too.
+The relic had been spent correctly. That was the part he kept coming back to — the thing his house had carried out of its days as kings and never once used in four hundred years, spent at the only moment it could have been spent, on the only target that mattered, and it had worked exactly as it was meant to.
 
 An hour. Perhaps less.
 
 An hour after he spent the one irreplaceable thing his family owned, something had come out of the cliff below the roosts.
 
-He had known the animal immediately. There was no puzzle in it and he took no comfort from the lack of one — he had seen that animal in the sky over three different fields, always at a distance, and had spent the whole of that war arranging to keep it that way. Publicly dead these twenty-six years. Privately alive in a hole under Blackspire Keep for the whole of them, which any fool could work out the moment they saw him, and which no fool could have worked out one minute before.
+He had known it at once. He had seen that animal over three different fields, always at a distance, and had spent a war arranging to keep it that way. Publicly dead these twenty-six years; privately alive in a hole under Blackspire for the whole of them — which any fool could work out the moment they saw him, and no fool could have worked out a minute before.
 
 And that was the ruin of it. Not the battle. The battle was one day.
 
@@ -82,7 +82,7 @@ Somewhere past the middle of the night the other thing arrived, which he had bee
 
 Korrath had been his for thirty years.
 
-He had been twenty when the bond took, and the animal had been ninety and had outlived riders before him and had not been in any particular hurry about the whole business. It had gone slowly and it had gone deep. There had not been a single day since in which some part of Roderic Dravenhall was not aware, without needing to look, of exactly where that animal was and roughly how he felt about it. It was not a thing he had ever thought about, any more than a man thinks about the floor.
+He had been twenty when the bond took, and the animal ninety, and it had outlived riders before him and was in no hurry about the business. It had gone slowly and gone deep. There had not been a day since in which some part of him was not aware, without looking, of exactly where that animal was. He had never once thought about it, any more than a man thinks about the floor.
 
 He had felt it go.
 
@@ -92,7 +92,7 @@ He lay in the dark and put his hand flat on the blanket where his leg was and fo
 
 It did, eventually.
 
-Somewhere below and to the south there was a valley with what was left of his host in it, and by tomorrow they would be a column of men walking home without a lord, and after that they would be a great many separate problems belonging to a great many other people. He thought about that for a while instead, because it was easier.
+Somewhere below and to the south there was a valley with what was left of his host in it, walking home without a lord. He thought about that for a while instead, because it was easier.
 
 He did not think about his sister.
 
@@ -126,7 +126,7 @@ Then the boy spoke, from the wall, for the first time.
 
 Roderic looked at him.
 
-He had not seen this one up close before. Eighteen, the reports said, and the reports had been correct about the age and useless about everything else. He had his father's stillness and none of his father's patience with it. There was nothing in his face at all — not triumph, not anger, not even much curiosity. Only the question, which he plainly intended to have answered, and behind it a kind of settled attention that Roderic had encountered perhaps four times in his life and never in someone who had not yet been alive twenty years.
+He had not seen this one up close. Eighteen, the reports said, and they had been right about the age and useless about the rest. His father's stillness, and none of his father's patience with it. Nothing in the face at all — not triumph, not anger, not much curiosity. Only the question, and behind it a settled attention Roderic had met perhaps four times in his life and never in anyone who had not yet been alive twenty years.
 
 *You killed my dragon,* Roderic thought.
 
