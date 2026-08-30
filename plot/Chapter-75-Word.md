@@ -122,7 +122,15 @@ Vesper did not look away from the valley.
 
 "Selene has it too. She had it out of the big book in the long gallery before I got down here."
 
-"She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. It took us a month to bring him up here, and he has not left the deep cave since."
+"She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. Some weeks after that he came home on his own and went into the deep cave, and he has not come out of it since."
+
+"How did anyone know he was in there?"
+
+"Lirath." Vesper said it as though it were obvious, which it was. "She went down into the dark one night and would not come up, and after two days I went down after her."
+
+Lucian thought about that.
+
+"Nobody carried him," Vesper said. "Nobody could have. That is the entire reason it held — there was nothing to arrange, and nobody who had to be told."
 
 "Who knows?"
 
