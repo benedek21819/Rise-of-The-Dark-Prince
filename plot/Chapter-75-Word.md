@@ -1,10 +1,8 @@
 # Chapter 75: Word
 
-He slept four hours on the roost floor and woke to find that Ancalion had moved in the night.
+He slept four hours on the roost floor and woke to Ancalion breathing in the same slow way he had been breathing since they got him up the cliff, which was as much as anyone was going to promise today.
 
-Not far. He had shifted his weight off the packed flank and got his head round onto his own foreleg, which he had not been able to do the evening before, and the head keeper stood looking at him for a while with her arms folded and then said that she had been doing this for thirty-one years and had opinions about animals that mended too fast, and went away without saying what they were.
-
-Lucian took that for what it was worth, which was a great deal.
+The keepers opened the flank at first light and packed it again. The head keeper looked at it for a long moment and said nothing whatever about it, which Lucian decided to take as neutral.
 
 Then he went up to the keep, because he had been away from it for a day and a night and there were people in it he had not seen since before the wall was assaulted.
 
@@ -88,15 +86,11 @@ Lucian sat down beside him and for a while neither of them said anything at all.
 
 "Still under her." A pause. "She will not shift. He does not want to make her, and I do not want to make her, and so we are both waiting on an animal to decide something."
 
-"Ancalion moved in the night."
+"And yours," Vesper said.
 
-Vesper turned his head at that.
+"Holding. They closed the flank last night and opened it again this morning and did not tell me anything either way." Lucian looked at his hands. "They have not touched the wing."
 
-"He got off the flank and put his head on his own foreleg. The keeper looked at him for a while and told me she has opinions about animals that mend too fast."
-
-Something went across his father's face that was almost a smile.
-
-"She has said that to me twice," Vesper said. "Both times about that dragon."
+"They will not for some days yet."
 
 They talked about it for a good while longer, the way men talk about things they can measure — the packings, the linen, the wing membrane and how it knits and what it does when it knits badly, the foreleg, whether the shoulder would take weight by the turn of the season. Neither of them mentioned a stone bridge or a field or the two hundred feet of air between them the morning before.
 
