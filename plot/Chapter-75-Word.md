@@ -226,7 +226,9 @@ In the autumn he had sent her three pages about the light in the North and the f
 
 He had also written, at the bottom of it, *I intend to be better. I would rather tell you that now than tell you later.*
 
-She would have that letter in front of her within the month, next to whatever her father's court told her had happened in the North. And she would put the two side by side, because she was fifteen and clever and had been putting things side by side since she was nine.
+She had had that letter a fortnight. Her answer to it was somewhere on the southern road at this moment, in the hands of a rider coming the other way — written by a girl who had not yet heard one word about any of this, and full of Aurelia and the weather and whatever she had been reading.
+
+It would arrive here inside the week. And by the time it did she would know, because her father's court would have told her, and she would put the two letters side by side, because she was fifteen and clever and had been putting things side by side since she was nine.
 
 So he wrote her the truth.
 
