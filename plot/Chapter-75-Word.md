@@ -22,11 +22,17 @@ She did not say anything for a while. She held onto him hard enough to hurt the 
 
 "No."
 
-"Then you will do both those things before you do anything else." Elara let go of him and held him at arm's length and looked at the stitches properly, and her mouth went thin. "Who did that?"
+"Then you will do both those things before you do anything else." Elara let go of him and held him at arm's length and looked at the stitched side properly, in daylight, which she had not been able to do the night before.
 
-"Rock. Not a dragon. I came off badly."
+"It is clean," she said.
 
-"That is not better, Lucian."
+"He says it will hold."
+
+"It will scar."
+
+"Yes."
+
+She did not say anything to that. She put her hand flat along the unmarked side of his face for a moment, and then let it drop, and told him to sit down.
 
 Selene was on the window seat with her knees up, and had not moved, and was watching him with the particular flat attention of a child who has decided that if she asks the wrong question she will be sent out of the room.
 
