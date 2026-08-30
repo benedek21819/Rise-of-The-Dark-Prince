@@ -124,13 +124,13 @@ Vesper did not look away from the valley.
 
 "She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. Then he came home, in whatever state a thing in that condition comes home in, and went into the deep cave, and he has not come out of it since."
 
-"How did anyone know he was in there?"
-
-"Lirath." Vesper said it as though it were obvious, which it was. "She went down into the dark one night and would not come up, and after two days I went down after her."
-
 "Who knows?"
 
 "Your grandmother. Dain. Myself." A pause. "And the King, since I was twenty. The law says every dragon is reported to the crown, so I reported him. Aldric chose not to publish it, which was his to choose, and he has never once been asked to defend that choice."
+
+"How did you know?"
+
+"Through her." Vesper still did not look away from the valley. "Whatever she has, I get some of it whether I want it or not. She had him before anybody on this mountain did. Then she went down into the dark and would not come up, and after two days I went down after her."
 
 "Nobody else. In twenty-six years."
 
