@@ -178,6 +178,14 @@ Lucian did not say anything.
 
 He got up off the rock, slowly, because he was a man who had held a field to its limit two days ago and had not slept properly since, and he put a hand flat for a moment on Lirath's neck.
 
+"One more thing, and then I am not going to raise it again." He did not turn round. "I kept you out of it because I judged that you were a boy, and that he was too young, and that Korrath would kill the pair of you inside a minute. I made that judgment carefully and I was satisfied with it."
+
+He stood there with his hand on her neck.
+
+"You were both better than I had any reason to believe you were. I would rather say that to you out loud than let you carry it around wondering whether I had noticed."
+
+Lucian did not trust himself to answer that, and did not have to, because his father had already moved on.
+
 "We have to write to the King," he said. "Come up when you have rested. Do not do it on those legs."
 
 ---
