@@ -104,7 +104,7 @@ Lucian sat down beside him and for a while neither of them said anything at all.
 
 "They will not for some days yet."
 
-They talked about it for a good while longer, the way men talk about things they can measure — the packings, the linen, the wing membrane and how it knits and what it does when it knits badly, the foreleg, whether the shoulder would take weight by the turn of the season. Neither of them mentioned a stone bridge or a field or the two hundred feet of air between them the morning before.
+They talked about it for a good while longer, the way men talk about things they can measure — the packings, the linen, the wing membrane and how it knits and what it does when it knits badly, the foreleg, whether the shoulder would take weight by the turn of the season. Neither of them mentioned a stone bridge or a field or the two hundred feet of air between them two mornings ago.
 
 Lucian was aware, the whole time, that they were not mentioning it. He assumed his father was too.
 
