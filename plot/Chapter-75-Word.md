@@ -50,23 +50,27 @@ Elara had gone very still by the fire.
 
 "Yes," Lucian said.
 
-"What is it?"
+"It was grey. With the green in it when the light went across." Selene's chin came up very slightly, the way it did when she had decided to say a thing whether or not she was allowed to. "Grandfather's was grey with green in it. It is in the long gallery, in the big book, in three separate places."
 
-"Ours."
+Nobody said anything.
 
-Selene considered that. She was thirteen and she was not a fool, and she recognized an answer that had been shaped to be an answer without being one, and she looked at him for a long moment deciding whether to press.
+"Was it Morvath?"
 
-"Is it going to stay down there?"
+"I think so," Lucian said.
+
+Selene sat back against the window frame and let out a long breath.
+
+"Is he going to stay down there?"
 
 "I think so."
 
-"Does Father know about it?"
+"Does Father know about him?"
 
 "Probably."
 
-"Did *you* know about it?"
+"Did *you* know about him?"
 
-"No," Lucian said. "Not until it came out."
+"No," Lucian said. "Not until he came out."
 
 That, oddly, appeared to settle her more than anything else he could have said. She sat back against the window and let out a breath and said, "Good," and did not explain what was good about it, and asked instead whether Ancalion was going to be able to fly, which he could answer honestly and did.
 
@@ -110,9 +114,15 @@ Lucian was aware, the whole time, that they were not mentioning it. He assumed h
 
 "I know which one."
 
-Vesper did not look away from the valley, and did not make him ask it.
+"It was Morvath."
 
-"His name is Morvath. He was your grandfather's. He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. It took us a month to bring him up here, and he has not left the deep cave since."
+Vesper did not look away from the valley.
+
+"Yes."
+
+"Selene worked it out before I did. Out of a book in the long gallery."
+
+"She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. It took us a month to bring him up here, and he has not left the deep cave since."
 
 "Who knows?"
 
