@@ -122,7 +122,7 @@ Vesper did not look away from the valley.
 
 "Selene has it too. She had it out of the big book in the long gallery before I got down here."
 
-"She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. Some weeks after that he came home on his own and went into the deep cave, and he has not come out of it since."
+"She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. Then he came home, in whatever state a thing in that condition comes home in, and went into the deep cave, and he has not come out of it since."
 
 "How did anyone know he was in there?"
 
