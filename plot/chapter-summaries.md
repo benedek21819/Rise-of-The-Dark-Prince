@@ -79,6 +79,7 @@ Written chapters use single-noun titles and a revised early sequence. The older 
 71. Fall  
 72. Instinct  
 73. Terms  
+74. Count  
 
 **Note:** Chapter 19 ("Eyes") — Seren's first on-page meeting with Lucian. Expanded with Vesper explaining why the King and Queen did not personally escort Seren (court affairs, Dorian's ambitions) and clarifying the Ascend is, under Caldarion's own escort, among the safest roads in the kingdom rather than genuinely dangerous. Also introduces **Lady Ansel**, the Queen's cousin, as Seren's actual chaperone traveling alongside the steward — closing a plausibility gap around sending a young princess north with only a steward and a nurse, giving her retinue the rank her status calls for. Also expanded with a bit more Cole dialogue, added texture to the royal retinue (a physician, a scholar recording the visit), and a fuller closing reflection. (Expanded from ~1,105 to ~1,680 words as part of the 1,500-word-floor pass.)
 **Note:** Chapter 12 ("Home") — early childhood arc, a quiet morning-and-formal-dinner chapter establishing the full household. Expanded with more warmth in the Elara/Selene breakfast scene, a fuller Lyra dressing exchange, a Riven/Thorne beat at dinner (Riven's restless eagerness to match Lucian's training, Thorne's quiet steadiness even this young — an early seed of their established adult personalities), and an expanded closing reflection on the split between Lucian's private and formal selves. (Expanded from ~1,110 to ~1,570 words as part of the 1,500-word-floor pass.)
@@ -212,6 +213,28 @@ He expects to be broken that night and prepares for it; **nobody comes**. He wor
 Closes on Aurelia and the sister. He will be carried south and tried in open court, and **neither of them mentioned Isolde** — not as a threat, not as a courtesy, not even as the name of somebody who will be in that room — and he understands this to be the most contemptuous thing anyone has ever done to him.
 
 **Drafting note:** this chapter grew from ~2,750 to ~3,400 words absorbing continuity fixes, then was cut back to **~2,380**. Almost everything removed was Roderic explaining his own situation to himself — the Myrath aftermath, the Crown-custody reasoning, and the dragon-cannot-be-tried asymmetry, all of which the chapter already performs.
+
+---
+
+**Note:** Chapter 74 ("Count") returns to **Lucian's POV** for the war's aftermath, the day after the climax. **Its organizing principle: the battle took one morning and everything it caused takes months.** Nothing in the chapter is dramatic — it is carrying, counting and deciding.
+
+**Lucian never leaves the roost**, and that shapes everything. Ancalion has been got up the cliff paths with four keepers and a great deal of rope, so Lucian stays with him, and **the world comes to him in pieces, hours late and secondhand.** Everything that matters happens somewhere he cannot go. (An earlier outline had him join the party that reaches Lirath; corrected in outlining, because he would not leave a dragon in that condition and nobody would ask him to.)
+
+**Ancalion will recover fully.** Lucian knows it through the bond before anyone tells him — "the sound of an animal who had no intention of dying and had not, at any point, considered it a live possibility." His unusually fast healing is now bible (`magic-and-power-system.md`) and is deliberately **not** stated on the page.
+
+**The inheritance beat, which is the chapter's real event and is never announced as one.** With Vesper two ridges away and unreachable until evening, the house's decisions start arriving at Lucian: whether to open the second roost to the wounded, whose the four hundred prisoners are and off whose stores they eat, the granaries, whether to open the second gate to the people burned out of Firsthold. He answers all of it sitting on a folded saddle-cloth with his face stitched shut. **The only reflection is deferred by days** — that the house walked past every closed door in Blackspire and climbed five hundred feet of cut path to ask a boy of eighteen, and nobody found it strange.
+
+**Lirath's news comes from the twins**, Riven and Thorne, who went down with the night party without telling him. Riven leads with *"She is alive"* before he is properly in the room, deliberately, and gives the whole report; **Thorne says nothing at all** and looks at the floor and does not look up. When Lucian asks about the wing and gets the flat answer — under her, nobody has been able to see it — Thorne goes on looking at the floor. **She is alive and will mend; whether she will ever fly again is not known, is not asked, and stays unknown** (see `magic-and-power-system.md`, where it is fixed as deliberately open). Nobody in that roost says the word *fly*.
+
+**The count** is read aloud by Dain, who wrote it out beforehand rather than trust himself to say it from memory. The wall, the ditch, the fires — nine hundred and forty in the burning, the number still soft — and then the ones who would not leave, paying off Ch.67 and Ch.68: *Sixty thousand people had been told for two hundred years that this house kept the North safe. Something over eleven hundred of them had been proved wrong.* When it is finished Lucian says **"Read it again."**
+
+**Two orders that go unremarked.** The prisoners are Caldarion's, fed from Caldarion stores rather than the city's, and **put to work burning the four thousand Dravenhall dead** west of the river. Dain takes a moment with it — *"Their own dead." "Their own dead," Lucian said* — and then does not say *your father would have said the same* and does not say *are you certain*, and Lucian notices the absence of both.
+
+**Korrath stays where he fell.** A dragon that size cannot be moved off a shelf with a cliff on one side and a mountain on the other, and cannot be burned on bare stone. He will be there through the freeze and into the spring, and they will be smelling him from the walls come Thaw.
+
+**The secret leaves and nothing can be done about it.** Vesper reports nothing — Aldric has known lawfully for twenty-six years and there is a record — but Valtor and the Guard saw it, half of Firsthold spent that morning looking up at **three shapes over the summit where there have never been more than two**, and four thousand beaten men are walking south with six weeks of nothing to do but talk. Vesper's single line on it: *"You will hear it come back to you in a year. Changed. It will not be a dragon by then; it will be something else, and it will be worse."* And his reason for saying nothing: the house has never explained itself to anybody, and starting now means never stopping — *"and then they will ask better questions."*
+
+**Closes on the lantern.** Lucian goes out onto the platform in the cold and sees one point of light, unmoving, two ridges east on a slope with no path to it, where his father is sitting with his dragon. He does not go; there is no way to go. He stands at the rail until his hands stop working, then goes back in to Ancalion — **"and left his father out there in the dark on the mountain with his own."**
 
 ---
 
