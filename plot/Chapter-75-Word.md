@@ -136,7 +136,7 @@ Lucian thought about the broad silent woman who had been packing Ancalion's flan
 
 "How did you know?"
 
-"Through her." Vesper still did not look away from the valley. "Whatever she has, I get some of it whether I want it or not. She had him before anybody on this mountain did. Then she went down into the dark and would not come up, and after two days I went down after her."
+"Through Lirath." Vesper still did not look away from the valley. "Whatever she has, I get some of it whether I want it or not. She had him before anybody on this mountain did. Then she went down into the dark and would not come up, and after two days I went down after her."
 
 "Nobody else. In twenty-six years."
 
