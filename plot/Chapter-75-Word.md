@@ -56,7 +56,7 @@ Nobody said anything.
 
 "Was it Morvath?"
 
-"I think so," Lucian said.
+"Yes," Lucian said.
 
 Selene sat back against the window frame and let out a long breath.
 
@@ -120,7 +120,7 @@ Vesper did not look away from the valley.
 
 "Yes."
 
-"Selene worked it out before I did. Out of a book in the long gallery."
+"Selene has it too. She had it out of the big book in the long gallery before I got down here."
 
 "She would." Something almost went across his father's face and did not arrive. "He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. It took us a month to bring him up here, and he has not left the deep cave since."
 
