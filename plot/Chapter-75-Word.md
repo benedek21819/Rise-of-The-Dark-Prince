@@ -62,9 +62,7 @@ Selene considered that. She was thirteen and she was not a fool, and she recogni
 
 "Does Father know about it?"
 
-Lucian opened his mouth to say yes, and discovered that he did not actually know that, and that he had not asked anybody.
-
-"It has been living inside his mountain," he said. "So, yes."
+"Probably." He had been turning that one over since the shelf. "It has been living inside his mountain. But I have not asked him."
 
 "Did *you* know about it?"
 
