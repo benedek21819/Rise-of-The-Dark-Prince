@@ -130,10 +130,6 @@ Vesper did not look away from the valley.
 
 Lucian thought about the broad silent woman who had been packing Ancalion's flank for two days and had said perhaps forty words to him in all that time.
 
-"She has never once mentioned it to me."
-
-"No," Vesper said. "She would not have."
-
 "How did you know?"
 
 "Through Lirath." Vesper still did not look away from the valley. "Whatever she has, I get some of it whether I want it or not. She had him before anybody on this mountain did. Then she went down into the dark and would not come up, and after two days I went down after her."
