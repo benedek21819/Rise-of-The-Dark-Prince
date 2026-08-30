@@ -72,7 +72,7 @@ Selene sat back against the window frame and let out a long breath.
 
 "No," Lucian said. "Not until he came out."
 
-That, oddly, appeared to settle her more than anything else he could have said. She sat back against the window and let out a breath and said, "Good," and did not explain what was good about it, and asked instead whether Ancalion was going to be able to fly, which he could answer honestly and did.
+That, oddly, appeared to settle her more than anything else he could have said. She said, "Good," and did not explain what was good about it, and asked instead whether Ancalion was going to be able to fly, which he could answer honestly and did.
 
 He ate, because his mother stood over him until he had. Orlena came in halfway through, looked at him, put a hand briefly on the back of his neck as she passed, and sat down by the fire without a word about any of it.
 
