@@ -128,10 +128,6 @@ Vesper did not look away from the valley.
 
 "Lirath." Vesper said it as though it were obvious, which it was. "She went down into the dark one night and would not come up, and after two days I went down after her."
 
-Lucian thought about that.
-
-"Nobody carried him," Vesper said. "Nobody could have. That is the entire reason it held — there was nothing to arrange, and nobody who had to be told."
-
 "Who knows?"
 
 "Your grandmother. Dain. Myself." A pause. "And the King, since I was twenty. The law says every dragon is reported to the crown, so I reported him. Aldric chose not to publish it, which was his to choose, and he has never once been asked to defend that choice."
