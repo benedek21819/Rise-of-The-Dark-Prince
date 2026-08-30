@@ -413,6 +413,14 @@ What they cannot do is **get inside a household.** This is why:
 
 They did not ask what it was for. That is the house's neutrality working exactly as it is designed to work — a commission is commerce, commerce is not a side, and Myrath has never once had to pay for anything it claims to believe. It is also, in hindsight, indefensible: they built the instrument of a surprise attack on House Caldarion and took payment for it.
 
+**What happens to Myrath afterward — the neutrality survives as policy and dies as a belief. Do not destroy this house.**
+
+- **They are not guilty of anything the Crown can act on.** They sold an object to a lord who paid for it and were never told what it was for. That is not treason, there is no charge in it, and their defense is true. Publicly the doctrine holds, the house keeps its seat, and there is regret and probably a payment of some kind.
+- **Kaelor needs them intact.** They hold the Hall of Inquiry and the continental archives. Breaking the house that keeps the records serves nobody, least of all a kingdom that has just spent a war's worth of men.
+- **What they actually lose is the sentence.** *"Myrath does not take sides"* quietly becomes *"Myrath will build anything for anyone and take care not to ask."* Nobody stops dealing with them; everyone now deals with them **knowing.** That is real, permanent, and cheap to write — it costs them credibility rather than power.
+- **And Caldarion does nothing with it, which is the point.** They hold the object, say very little, and never call the debt. Myrath can therefore never discharge it and can never be certain it will not be called. **This is the house's established doctrine, not an invention** — compare House Corvane, caught running espionage against Caldarion and deliberately "humbled and left standing," watched more tightly and corrected quietly. Vesper does not ruin houses he can hold instead.
+- **Practical reason to keep them whole:** **Emeric Myrath** holds the damaged prophecy fragment in the Restricted Vaults and is needed later. A destroyed Myrath takes that thread with it.
+
 **Constraints on the object:** it took years and a fortune to produce, Myrath rarely accepts commissions of this order, and **it degrades with every use** — the first is the strongest and it never works as well again. Being Veil-based, it also **leaves a trace**, unlike a Commandment, which is eventually the thread that leads back to Myrath's door.
 
 **Story consequence:** this is a live thread for the war's aftermath. Caldarion will learn who made it. Myrath's principled neutrality will not survive contact with that fact intact.
