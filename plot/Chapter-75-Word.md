@@ -234,7 +234,7 @@ So he wrote her the truth.
 
 He wrote that Dravenhall had come to Firsthold with a siege train and forty thousand men, and that he had flown against them on the first day and on the second, and what that had cost the city. He wrote that Korrath had come over the mountain and that Lirath had been brought down and was alive. He wrote that Ancalion had been badly hurt and would mend, and that his own face had been opened on a rock and would leave a scar, and that she should be told that by him and not by a courtier making it worse.
 
-He wrote that Roderic Dravenhall was alive and in a cell under this house and would be sent south to her father in the spring.
+He wrote that Roderic Dravenhall was alive and in a cell under this house, and would be sent south to her father as soon as he could be moved.
 
 He did not write about her aunt. That was not his to hand her.
 
