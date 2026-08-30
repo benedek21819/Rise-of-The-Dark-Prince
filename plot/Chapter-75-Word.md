@@ -4,11 +4,13 @@ He slept four hours on the roost floor and woke to Ancalion breathing in the sam
 
 The keepers opened the flank at first light and packed it again. The head keeper looked at it for a long moment and said nothing whatever about it, which Lucian decided to take as neutral.
 
-Then he went down to the keep, because he had been away from it for a day and a night and there were people in it he had not seen since before the wall was assaulted.
+Then he went down to the keep, because he had not once in a day and a half gone to anybody, and everybody had come to him.
 
 ---
 
 His mother was in the small solar with the shutters open and the cold coming in, and she got to him before he was properly through the door.
+
+He had seen her twice already — in the physician's room while the stitches went in, when he had been in no condition to say anything sensible, and again at some point in the night when he had half woken in the roost to find a blanket over him and had gone straight back to sleep without working out who had put it there. He had worked it out since.
 
 She did not say anything for a while. She held onto him hard enough to hurt the stitched side of his face and he did not mention it, and after a moment he put his arms round her, which he had not done since he was about fourteen.
 
