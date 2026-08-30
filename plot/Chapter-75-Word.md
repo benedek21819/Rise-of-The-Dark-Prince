@@ -166,25 +166,21 @@ That was all.
 
 Lucian waited for the rest of it, and there was no rest of it, and after a moment his father shifted his weight on the rock and looked out over the valley.
 
-"You will stop doing this," Vesper said.
+"I kept you out of the fight because I judged that you were a boy, and that he was too young, and that Korrath would kill the pair of you inside a minute." He said it without any weight at all, the way he said most things that mattered. "I made that judgment carefully and I was satisfied with it. You were both a great deal better than I had any reason to believe you were, and I would rather say so out loud than let you carry it about wondering whether I had noticed."
+
+Lucian did not say anything. He was not certain he could have.
+
+"Which is why you are going to stop doing this."
 
 "Doing what."
 
-"Coming to me with it." He said it without any weight at all, the way he said most things that mattered. "You did not need me yesterday. You are not going to need me for that kind of thing again, and it does neither of us any good for you to walk four hours down a mountain to have me tell you that you were right."
+"Coming to me with it." Vesper nodded at the whole of the last four hours — the walk, the list, the accounting. "You did not need me yesterday. You are not going to need me for that kind of thing again, and it does neither of us any good for you to spend a day on a mountain to have me tell you that you were right."
 
-Lucian did not say anything.
+He got up off the rock, slowly, because he was a man who had held a field to its limit two days ago and had not slept properly since.
 
-"Bring me the ones that would change the house," Vesper said. "Bring me anything with a crown in it or a border in it or a hundred years in it. The rest is yours. It has been yours since yesterday morning, whether either of us had noticed or not, and I would rather say so now than let you go on asking."
+"Bring me the ones that would change the house. Anything with a crown in it, or a border in it, or a hundred years in it. The rest is yours, and it has been since yesterday morning, whether either of us had noticed or not."
 
-He got up off the rock, slowly, because he was a man who had held a field to its limit two days ago and had not slept properly since, and he put a hand flat for a moment on Lirath's neck.
-
-"One more thing, and then I am not going to raise it again." He did not turn round. "I kept you out of it because I judged that you were a boy, and that he was too young, and that Korrath would kill the pair of you inside a minute. I made that judgment carefully and I was satisfied with it."
-
-He stood there with his hand on her neck.
-
-"You were both better than I had any reason to believe you were. I would rather say that to you out loud than let you carry it around wondering whether I had noticed."
-
-Lucian did not trust himself to answer that, and did not have to, because his father had already moved on.
+He put a hand flat for a moment on Lirath's neck.
 
 "We have to write to the King," he said. "Come up when you have rested. Do not do it on those legs."
 
