@@ -126,7 +126,7 @@ Vesper did not look away from the valley.
 
 "Who knows?"
 
-"Your grandmother. Dain. Myself. Four of the keepers — somebody has to feed him, and it has been the same family doing it since before you were born." A pause. "And the King, since I was twenty. The law says every dragon is reported to the crown, so I reported him. Aldric chose not to publish it, which was his to choose, and he has never once been asked to defend that choice."
+"Your grandmother. Dain. Myself. Four of the keepers." A pause. "And the King, since I was twenty. The law says every dragon is reported to the crown, so I reported him. Aldric chose not to publish it, which was his to choose, and he has never once been asked to defend that choice."
 
 Lucian thought about the broad silent woman who had been packing Ancalion's flank for two days and had said perhaps forty words to him in all that time.
 
