@@ -62,7 +62,7 @@ Selene considered that. She was thirteen and she was not a fool, and she recogni
 
 "Does Father know about it?"
 
-"Probably." He had been turning that one over since the shelf. "It has been living inside his mountain. But I have not asked him."
+"Probably."
 
 "Did *you* know about it?"
 
@@ -103,6 +103,36 @@ Lucian sat down beside him and for a while neither of them said anything at all.
 They talked about it for a good while longer, the way men talk about things they can measure — the packings, the linen, the wing membrane and how it knits and what it does when it knits badly, the foreleg, whether the shoulder would take weight by the turn of the season. Neither of them mentioned a stone bridge or a field or the two hundred feet of air between them the morning before.
 
 Lucian was aware, the whole time, that they were not mentioning it. He assumed his father was too.
+
+---
+
+"There is a thing I have not asked you," he said, eventually.
+
+"I know which one."
+
+Vesper did not look away from the valley, and did not make him ask it.
+
+"His name is Morvath. He was your grandfather's. He did not die in that war, though everyone on both sides watched him go into the sea, and there was no reason on earth for anybody to think otherwise." He said it in order, flatly, the way he had given the count of her ribs. "He got himself out onto a shore, torn open, with Ravorn drowned. It took us a month to bring him up here, and he has not left the deep cave since."
+
+"Who knows?"
+
+"Your grandmother. Dain. Myself." A pause. "And the King, since I was twenty. The law says every dragon is reported to the crown, so I reported him. Aldric chose not to publish it, which was his to choose, and he has never once been asked to defend that choice."
+
+"Nobody else. In twenty-six years."
+
+"Nobody else in twenty-six years," Vesper said, "until the day before yesterday, in front of a mountain."
+
+Lucian sat with that for a while.
+
+"Why did he come out?"
+
+Vesper looked at Lirath, propped on her sacking with the canvas over her head, and did not answer for long enough that Lucian thought he was not going to.
+
+"Her," he said.
+
+"I do not follow."
+
+"They are mates. They have been since a great deal longer than either of us." Vesper's voice did not change at all. "He did not come out for me, Lucian. I was standing in the open with an animal coming down on me and he stayed exactly where he was. He came out because somebody reached into her and took her out of the sky without asking her, and he will not have that, and that is the whole of it."
 
 ---
 
