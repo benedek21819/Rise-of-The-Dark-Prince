@@ -4,7 +4,7 @@ He slept four hours on the roost floor and woke to Ancalion breathing in the sam
 
 The keepers opened the flank at first light and packed it again. The head keeper looked at it for a long moment and said nothing whatever about it, which Lucian decided to take as neutral.
 
-Then he went up to the keep, because he had been away from it for a day and a night and there were people in it he had not seen since before the wall was assaulted.
+Then he went down to the keep, because he had been away from it for a day and a night and there were people in it he had not seen since before the wall was assaulted.
 
 ---
 

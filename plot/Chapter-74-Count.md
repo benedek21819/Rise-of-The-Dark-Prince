@@ -2,7 +2,7 @@
 
 He did not leave the roost.
 
-There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down on the raked grit in the deep part of the cave and had not moved since except to breathe. So Lucian stayed. He sent word up to the keep once, and after that people came to him.
+There was never a decision in it and nobody suggested otherwise. Ancalion had been got up the cliff paths in the last of the light, badly and slowly, with four keepers and a great deal of rope, and had gone down on the raked grit in the deep part of the cave and had not moved since except to breathe. So Lucian stayed. He sent word down to the keep once, and after that people came up to him.
 
 The keepers worked on the flank until the middle of the night. It took eleven separate packings to close and they ran out of clean linen twice, and the head keeper — a broad silent woman who had been doing this since before Lucian was born — swore steadily and quietly the entire time in a dialect he had never been able to place.
 
@@ -82,7 +82,7 @@ Thorne went on looking at the floor.
 
 Nobody knew. The physician did not, and the keepers did not, and would not for months. But Thorne had been down there at dawn with his hands on her, and had seen whatever there was to see, and had carried it five hundred feet up a path, and would not look up.
 
-Lucian did not ask. He sent for something hot for both of them and made them sit down, and Riven talked for a while longer and Thorne did not, and after a time they went up to the keep to sleep.
+Lucian did not ask. He sent for something hot for both of them and made them sit down, and Riven talked for a while longer and Thorne did not, and after a time they went back down to the keep to sleep.
 
 He thought about a silver shape going over sideways in the air with her wings open, and stopped thinking about it.
 
