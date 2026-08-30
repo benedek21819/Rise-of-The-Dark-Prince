@@ -188,7 +188,7 @@ He put a hand flat for a moment on Lirath's neck.
 
 The letter took most of the evening, and Lucian sat through the whole of it.
 
-His father wrote it himself, which he did not always do, and he wrote it four times. The first two went in the fire.
+His father wrote it himself, which he did not always do, and he wrote it three times. The first two went in the fire.
 
 It said that Lord Roderic Dravenhall had been taken alive on Caldarion ground and was held at Blackspire, unable to travel, and would be delivered south as soon as he could be moved. It said the dragon Korrath was dead. It said the Dravenhall host had broken on the second morning and was moving south in pieces without its lord, and gave the number as four thousand dead in the valley and four hundred prisoners taken, and said what was being done about both.
 
