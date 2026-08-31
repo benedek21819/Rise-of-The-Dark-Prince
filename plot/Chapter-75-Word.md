@@ -236,7 +236,7 @@ He wrote that Dravenhall had come to Firsthold with a siege train and forty thou
 
 He wrote that Roderic Dravenhall was alive and in a cell under this house, and would be sent south to her father as soon as he could be moved.
 
-He did not write about her aunt. That was not his to hand her.
+He did not write about her aunt.
 
 And he did not write about the last quarter of an hour on the shelf.
 
