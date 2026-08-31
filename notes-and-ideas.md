@@ -294,9 +294,9 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 **Titles considered:** *Mark* (the maker's mark, the mark on his face, what a house owes) — recommended. Alternatives: *Glass*, *Ash*, *Quarter*, *Credit*.
 
-**Ch.77–83 — Aftermath, political.** *(working title: "Settlement" — reserved for the trial chapter itself)*
+**Ch.77 onward — Aftermath, political.** *(working title: "Settlement" — reserved for the trial chapter itself)*
 
-**Budget and scope: see "Book One Structure" below.** Seven chapters. **The arc only has to close Roderic and House Dravenhall.** Myrath, Isolde, Kestrion and Caldarion's newly visible strength are *placed and left* — later books need all four of them, and Myrath in particular is not to be resolved here at all.
+**Scope: see "Book One Structure" below.** No chapter count — it runs the length it needs. **The arc only has to close Roderic and House Dravenhall.** Myrath, Isolde, Kestrion and Caldarion's newly visible strength are *placed and left* — later books need all four of them, and Myrath in particular is not to be resolved here at all.
 
 Dravenhall broken. Aldric — who flew north to force Roderic's timing and was then pinned in his own capital by Kestrion and unable to move when the war came — now has to preside over what happens to a great house. Kestrion's exposure. Thalorin's troops arriving after everything is decided, and their healers, who arrived early, mattering more. Vaelmar's routes. Isolde's position, which is now unbearable in a new direction.
 
@@ -304,26 +304,21 @@ And Caldarion's true strength nakedly visible, which is not the same as Caldario
 
 **What this arc does NOT contain:** the Vault reveal. Per `magic-and-power-system.md`, Vesper tells Lucian everything about the Primordial Darkness **after the Sisters arrive**, in the Vaults — a later arc. Ch.68 and Ch.72 only plant the anomaly (it costs him nothing) and Lucian gets no answer to it here.
 
-## Book One Structure — Target and Chapter Budget
+## Book One Structure
 
-**Book One is one hundred chapters, and it ends on Lucian's decision to return to Arcanor.** Not the journey — the decision. Book Two opens on the preparations, which is where the journey, and several threads deliberately left unspent here, belong.
+**Book One ends on Lucian's decision to return to Arcanor.** Not the journey — the decision. Book Two opens on the preparations, which is where the journey, and several threads deliberately left unspent here, belong.
 
-**Where the manuscript stands:** 77 chapter files, ~131,000 words (~1,700/chapter average; recent chapters run 2,400–2,900). Twenty-four more at the current rate lands Book One near 190,000 words, which is an ordinary length for a first volume. **Length is not the constraint. Content density is** — the Dravenhall war took thirteen chapters to cover two months, and the remaining twenty-four must carry roughly four and a half years.
+**There is no chapter target and there should not be one.** *(Author's decision, after working one out and discarding it.)* A hundred was tried on paper and every revision of the budget did the same thing — took chapters from somewhere to give the Vault reveal room. When a plan keeps robbing itself to fund its own centerpiece, the number is what is wrong. **Write the arcs at the length they need and Book One ends where it ends.**
 
-**Three arcs remain, not five.**
+**Length is not a constraint either.** At Ch.76 the manuscript stands at ~131,000 words across 77 files (~1,700/chapter average; recent chapters run 2,400–2,900). There is a great deal of room before this becomes a long book by the standards of the genre.
 
-| Chapters | Arc | Lucian |
-|---|---|---|
-| 76–83 | **The settlement of the war** | 18 → 19 |
-| 84–91 | **The interval** | 19 → 21 |
-| 92–99 | **The Sisters of the Current, and the Vault** | 21 → 22 |
-| 100 | **The decision** | 22 |
+**Three arcs remain, in this order.**
 
-**The settlement (76–83)** — seven or eight chapters, not ten. Its beats: Aldric's reply; the winter (Roderic in the cells, Lirath's wing, Korrath's body coming out of the freeze); the road south folded into the arrival; Aurelia before the trial (Aldric, Isolde, Kestrion's position, Emeric Myrath, and Seren in person for the first time since Ch.33); the trial in a single chapter; the sentence and Dravenhall's fate; north again. **It only has to close Roderic and House Dravenhall.** Everything else it touches — Myrath, Isolde, Kestrion, Caldarion's strength nakedly visible — is *placed and left*. Do not resolve what later books are going to need.
+**1. The settlement of the war.** Aldric's reply; the winter (Roderic in the cells, Lirath's wing, Korrath's body coming out of the freeze); the road south; Aurelia before the trial (Aldric, Isolde, Kestrion's position, Emeric Myrath, and **Seren in person for the first time since Ch.33** — two chapters of letters have been building to it, and she is worth her own chapter); the trial; the sentence and Dravenhall's fate; north again. **It only has to close Roderic and House Dravenhall.** Everything else it touches — Myrath, Isolde, Kestrion, Caldarion's strength nakedly visible — is *placed and left*. Do not resolve what later books need.
 
-**The interval (84–91)** — not an arc, and it must not be written as one. Eight chapters each carrying months. This is where the two years go, and where **Dawn matures, Cazius accumulates, Seren stops being a correspondent, and Lucian runs a duchy his father has handed him in pieces** since Ch.75. It is also the last stretch of ordinary life the book has.
+**2. The interval.** **Not an arc, and it must not be written as one.** Chapters that each carry months. This is where roughly two years go, and where **Dawn matures, Cazius accumulates, Seren stops being a correspondent, and Lucian runs a duchy his father handed him in pieces** in Ch.75. It is the last stretch of ordinary life the book has.
 
-**The Sisters and the Vault (92–99)** — **one arc, not two.** The bible already ties them: Vesper tells Lucian everything about the Primordial Darkness *after* the Sisters arrive, in the Vaults (`magic-and-power-system.md`). This is the book's centerpiece and the thing it has been withholding since Ch.68, and the budget above exists chiefly to buy it room.
+**3. The Sisters of the Current, and the Vault.** **One arc, not two.** The bible already ties them: Vesper tells Lucian everything about the Primordial Darkness *after* the Sisters arrive, in the Vaults (`magic-and-power-system.md`). This is the book's centerpiece and the thing it has been withholding since Ch.68. **It gets whatever it needs.** Then the decision.
 
 ### Two structural decisions, both deliberate
 
@@ -334,7 +329,7 @@ And Caldarion's true strength nakedly visible, which is not the same as Caldario
 *This is a planning reference, not a locked schedule — revisit as each arc generates its own material.*
 
 ### Age progression reference
-Lucian is tracked continuously from Ch.41; ~16-17 at Ch.60, ~18 at the war's outbreak. The Arcanor decision should land at **22**. Time is carried by **multiple shorter skips distributed across the interval**, never one large jump — see the table above for where each year goes.
+Lucian is tracked continuously from Ch.41; ~16-17 at Ch.60, ~18 at the war's outbreak. The Arcanor decision should land at **22**. Roughly: the settlement carries 18→19, the interval 19→21, the Sisters arc 21→22. Time is carried by **multiple shorter skips distributed across the interval**, never one large jump.
 
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]
