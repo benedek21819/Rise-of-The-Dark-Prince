@@ -236,8 +236,6 @@ He wrote that Dravenhall had come to Firsthold with a siege train and forty thou
 
 He wrote that Roderic Dravenhall was alive and in a cell under this house, and would be sent south to her father as soon as he could be moved.
 
-He sat for a while over it with the ink drying on the nib. Then he wrote, *There is one more thing I will not put in a letter. I would rather say it to you, and I will, when the roads open and I come south* — and he read that back and understood that he had just promised to tell her, in the spring, out loud, and that he had done it deliberately, and that some part of him had wanted to make it impossible to avoid.
-
 He signed it and sealed it and put it with the others.
 
 ---
