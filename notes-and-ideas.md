@@ -269,7 +269,31 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 **Optional:** a letter from Seren, written before the battle, arriving now. Ordinary life landing in the middle of the accounting. The chapter is already full; use only if it fits.
 
-**Ch.75 — Aftermath, political.** *(working title: "Settlement")*
+**Ch.76 — The city, and the object.** *(working title: "Mark" — see alternatives below)* **Lucian POV.** Continues directly from Ch.75's courier.
+
+**Timing.** Ch.75's courier leaves Blackspire at first light of **Day 23**. Seren's reply — written before she knew anything, already on the southern road when he left — arrives **Day 25**. **Aldric's reply cannot arrive in this chapter** and does not: three days south, some days for a king to decide what to do about the arrest of two great houses, three days back. It opens Ch.77. This chapter is the interval, and the interval is the point.
+
+**Principle:** the first chapter since Ch.67 in which Lucian is not on the mountain. He has heard the count read out twice and has not once been down into what it counts.
+
+- **I. The second gate.** The courier up from the south, and Seren's letter into his coat **unread**. He does not open it, and nobody remarks on it. *(Author's note: the restraint does the characterization; do not write him wanting to.)* Establish, cheaply: the gate opened to the burned-out on his order in Ch.74, now full of people; the apple woman's stall standing empty with somebody else's goods on it; smoke west of the river where four hundred prisoners are burning their own dead.
+- **II. Firsthold.** He takes **Riven and Thorne** down with him. This is the second movement and the long one, and it is walking, not deciding.
+  - **Riven talks the whole way** — that is how the city gets described without narration. He is good with people, gets names out of strangers, and is easier down there than his brother.
+  - **Thorne does not.** He was on the scree at dawn with his hands on Lirath and he saw the wing, and he has not looked up since Ch.74. Do **not** resolve this and do **not** have him say what he saw. The most Lucian gets is that Thorne is steadier in the burned quarter than anywhere else, because there is work in it.
+  - **Nobody in Firsthold is angry with him.** That is the difficult part. They are grateful, and they thank him, and eleven hundred of them are dead, and he flew on the first day and on the second and it was not enough. Let this land without him articulating it.
+  - **No speech.** He is not there to address anybody. If he is recognized, it should be inconvenient rather than moving.
+- **III. The sphere.** He comes back up filthy and **Vesper has sent for him** — the first time since Ch.75 that the new arrangement runs in the other direction, and it is Vesper honoring his own terms (*bring me the ones that would change the house*), not reverting to the old ones.
+  - **Vesper has already had it examined.** He would not have sat on it waiting for company. The finding is the maker's hand, legible in the object the way a mark is legible on silver — **no forensic trace, none exists, none is needed** (`factions-and-politics.md`). It is Myrath's and could not be anyone else's.
+  - **The letter to Aldric went three days ago with no word of this in it,** because it had not been examined yet. So the question on the table is live: does a second letter go?
+  - **The argument.** Lucian's case is the honest one — Myrath built the instrument of a surprise attack on this house, took payment, and will take no consequence; and a house that built one can build another for somebody else. Vesper's is the doctrine (Corvane precedent): a house that owes you and can never discharge it is worth more than a house that has been punished and is therefore free. **Vesper should not simply overrule him.** He asks what Lucian would do. The chapter is better if Lucian arrives at the doctrine himself and does not enjoy it.
+  - **What Caldarion now owns.** Degraded by the crossing and never as strong again — but still an object that hides a thing from every sense except sight, sitting in the house whose secrets are all things that must not be sensed. **One line at most. Do not spend this.** It is deliberately left live for the Sisters of the Current.
+  - **Myrath is not to be destroyed.** Nothing said in this scene should foreclose `factions-and-politics.md`'s "the neutrality survives as policy and dies as a belief."
+- **IV. The letter, late, alone.** Three pages of Aurelia and the weather and whatever she has been reading, written by a girl who at the moment of writing had not been told anything. **He does not answer it** — his answer is already three days down the southern road and there is nothing to add to it. End there.
+
+**Close:** on the unanswered letter, not on a decision. Ch.75 ended on six days of nothing; this ends on the two letters having passed each other on the road.
+
+**Titles considered:** *Mark* (the maker's mark, the mark on his face, what a house owes) — recommended. Alternatives: *Glass*, *Ash*, *Quarter*, *Credit*.
+
+**Ch.77+ — Aftermath, political.** *(working title: "Settlement" — reserved)*
 
 Dravenhall broken. Aldric — who flew north to force Roderic's timing and was then pinned in his own capital by Kestrion and unable to move when the war came — now has to preside over what happens to a great house. Kestrion's exposure. Thalorin's troops arriving after everything is decided, and their healers, who arrived early, mattering more. Vaelmar's routes. Isolde's position, which is now unbearable in a new direction.
 

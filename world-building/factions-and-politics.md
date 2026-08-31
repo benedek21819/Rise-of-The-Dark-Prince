@@ -421,7 +421,7 @@ They did not ask what it was for. That is the house's neutrality working exactly
 - **And Caldarion does nothing with it, which is the point.** They hold the object, say very little, and never call the debt. Myrath can therefore never discharge it and can never be certain it will not be called. **This is the house's established doctrine, not an invention** — compare House Corvane, caught running espionage against Caldarion and deliberately "humbled and left standing," watched more tightly and corrected quietly. Vesper does not ruin houses he can hold instead.
 - **Practical reason to keep them whole:** **Emeric Myrath** holds the damaged prophecy fragment in the Restricted Vaults and is needed later. A destroyed Myrath takes that thread with it.
 
-**Constraints on the object:** it took years and a fortune to produce, Myrath rarely accepts commissions of this order, and **it degrades with every use** — the first is the strongest and it never works as well again. Being Veil-based, it also **leaves a trace**, unlike a Commandment, which is eventually the thread that leads back to Myrath's door.
+**Constraints on the object:** it took years and a fortune to produce, Myrath rarely accepts commissions of this order, and **it degrades by work done** — see above. **No forensic trace leads to Myrath and none should be written.** The maker's hand is legible in the object itself to anyone competent to look at it, the way a mark on silver is; that is the whole of the identification and it is enough.
 
 **Story consequence:** this is a live thread for the war's aftermath. Caldarion will learn who made it. Myrath's principled neutrality will not survive contact with that fact intact.
 
