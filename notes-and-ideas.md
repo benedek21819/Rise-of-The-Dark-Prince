@@ -287,13 +287,16 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
   - **The argument.** Lucian's case is the honest one — Myrath built the instrument of a surprise attack on this house, took payment, and will take no consequence; and a house that built one can build another for somebody else. Vesper's is the doctrine (Corvane precedent): a house that owes you and can never discharge it is worth more than a house that has been punished and is therefore free. **Vesper should not simply overrule him.** He asks what Lucian would do. The chapter is better if Lucian arrives at the doctrine himself and does not enjoy it.
   - **What Caldarion now owns.** Degraded by the crossing and never as strong again — but still an object that hides a thing from every sense except sight, sitting in the house whose secrets are all things that must not be sensed. **One line at most. Do not spend this.** It is deliberately left live for the Sisters of the Current.
   - **Myrath is not to be destroyed.** Nothing said in this scene should foreclose `factions-and-politics.md`'s "the neutrality survives as policy and dies as a belief."
+  - **HARD CONSTRAINT — this scene is the setup for a Book Two payoff and must not signal it.** The uncalled debt is what Lucian later spends to get a device for the Silent Belt (see `factions-and-politics.md`, "Where the Myrath debt actually pays off"). So **Vesper's reason must be pure doctrine and nothing else** — a house that owes you is worth more than a house that has been punished and is therefore free. **No character speculates about a future use for Myrath's craft, here or anywhere in the settlement arc.** Lucian loses the argument, does not like losing it, and does not learn why he was wrong until Book Two.
 - **IV. The letter, late, alone.** Three pages of Aurelia and the weather and whatever she has been reading, written by a girl who at the moment of writing had not been told anything. **He does not answer it** — his answer is already three days down the southern road and there is nothing to add to it. End there.
 
 **Close:** on the unanswered letter, not on a decision. Ch.75 ended on six days of nothing; this ends on the two letters having passed each other on the road.
 
 **Titles considered:** *Mark* (the maker's mark, the mark on his face, what a house owes) — recommended. Alternatives: *Glass*, *Ash*, *Quarter*, *Credit*.
 
-**Ch.77+ — Aftermath, political.** *(working title: "Settlement" — reserved)*
+**Ch.77–83 — Aftermath, political.** *(working title: "Settlement" — reserved for the trial chapter itself)*
+
+**Budget and scope: see "Book One Structure" below.** Seven chapters. **The arc only has to close Roderic and House Dravenhall.** Myrath, Isolde, Kestrion and Caldarion's newly visible strength are *placed and left* — later books need all four of them, and Myrath in particular is not to be resolved here at all.
 
 Dravenhall broken. Aldric — who flew north to force Roderic's timing and was then pinned in his own capital by Kestrion and unable to move when the war came — now has to preside over what happens to a great house. Kestrion's exposure. Thalorin's troops arriving after everything is decided, and their healers, who arrived early, mattering more. Vaelmar's routes. Isolde's position, which is now unbearable in a new direction.
 
@@ -301,14 +304,37 @@ And Caldarion's true strength nakedly visible, which is not the same as Caldario
 
 **What this arc does NOT contain:** the Vault reveal. Per `magic-and-power-system.md`, Vesper tells Lucian everything about the Primordial Darkness **after the Sisters arrive**, in the Vaults — a later arc. Ch.68 and Ch.72 only plant the anomaly (it costs him nothing) and Lucian gets no answer to it here.
 
-## Age Progression Target — Lucian's Path to Arcanor
-The author wants Lucian to make the "Return" trip to Arcanor (see Reserved Chapter Titles above) at around **22-23 years old**, not sooner. As of Chapter 60 he is ~16-17 (tracked continuously since Ch.41). The author prefers **multiple shorter time skips distributed across several arcs** rather than one large jump to close that ~5-6 year gap. Rough, deliberately loose shape (subject to change as each arc is actually written):
-- **~1 year before the Dravenhall war arc begins** (see above) — Lucian ~17 → ~18 at the war's outbreak.
-- **War arc + immediate aftermath**: weeks to a few months — stays ~18.
-- **Dawn's formation completing** (~2 years, already established, includes Cazius's reveal): ~18 → ~20.
-- **Sisters of the Current's arrival and its fallout**: plausibly its own multi-stage arc rather than a single event — ~20 → ~21-22.
-- **Remaining stretch** (Lucian and Seren's own eventual marriage, final political consolidation, whatever else lands in between): ~21-22 → 22-23, arriving naturally at the Arcanor trip.
-This is a planning reference only, not a locked schedule — revisit and adjust as each arc actually generates its own material.
+## Book One Structure — Target and Chapter Budget
+
+**Book One is one hundred chapters, and it ends on Lucian's decision to return to Arcanor.** Not the journey — the decision. Book Two opens on the preparations, which is where the journey, and several threads deliberately left unspent here, belong.
+
+**Where the manuscript stands:** 77 chapter files, ~131,000 words (~1,700/chapter average; recent chapters run 2,400–2,900). Twenty-four more at the current rate lands Book One near 190,000 words, which is an ordinary length for a first volume. **Length is not the constraint. Content density is** — the Dravenhall war took thirteen chapters to cover two months, and the remaining twenty-four must carry roughly four and a half years.
+
+**Three arcs remain, not five.**
+
+| Chapters | Arc | Lucian |
+|---|---|---|
+| 76–83 | **The settlement of the war** | 18 → 19 |
+| 84–91 | **The interval** | 19 → 21 |
+| 92–99 | **The Sisters of the Current, and the Vault** | 21 → 22 |
+| 100 | **The decision** | 22 |
+
+**The settlement (76–83)** — seven or eight chapters, not ten. Its beats: Aldric's reply; the winter (Roderic in the cells, Lirath's wing, Korrath's body coming out of the freeze); the road south folded into the arrival; Aurelia before the trial (Aldric, Isolde, Kestrion's position, Emeric Myrath, and Seren in person for the first time since Ch.33); the trial in a single chapter; the sentence and Dravenhall's fate; north again. **It only has to close Roderic and House Dravenhall.** Everything else it touches — Myrath, Isolde, Kestrion, Caldarion's strength nakedly visible — is *placed and left*. Do not resolve what later books are going to need.
+
+**The interval (84–91)** — not an arc, and it must not be written as one. Eight chapters each carrying months. This is where the two years go, and where **Dawn matures, Cazius accumulates, Seren stops being a correspondent, and Lucian runs a duchy his father has handed him in pieces** since Ch.75. It is also the last stretch of ordinary life the book has.
+
+**The Sisters and the Vault (92–99)** — **one arc, not two.** The bible already ties them: Vesper tells Lucian everything about the Primordial Darkness *after* the Sisters arrive, in the Vaults (`magic-and-power-system.md`). This is the book's centerpiece and the thing it has been withholding since Ch.68, and the budget above exists chiefly to buy it room.
+
+### Two structural decisions, both deliberate
+
+**1. Dawn and Cazius get no arc.** *(Author's decision.)* Their development happens **continuously in the background across the whole story**, as it already has since well before the war. Carving out five chapters to complete them would make them read as a subplot the book remembered to service. The cost is that Dawn's formation was previously carrying the 18→20 age gap; the interval carries it instead.
+
+**2. Lucian and Seren's marriage moves to Book Two.** It belongs in the preparations, it is the least load-bearing item on the list for the Arcanor decision, and removing it buys the Vault reveal the chapters it needs.
+
+*This is a planning reference, not a locked schedule — revisit as each arc generates its own material.*
+
+### Age progression reference
+Lucian is tracked continuously from Ch.41; ~16-17 at Ch.60, ~18 at the war's outbreak. The Arcanor decision should land at **22**. Time is carried by **multiple shorter skips distributed across the interval**, never one large jump — see the table above for where each year goes.
 
 ## Alternate Paths / "What If" Scenarios
 - [e.g. What if the Dark Prince chose a different pact? What if a key character betrayed him earlier?]

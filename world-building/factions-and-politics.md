@@ -425,6 +425,22 @@ They did not ask what it was for. That is the house's neutrality working exactly
 
 **Story consequence:** this is a live thread for the war's aftermath. Caldarion will learn who made it. Myrath's principled neutrality will not survive contact with that fact intact.
 
+### Where the Myrath debt actually pays off — Book Two *(decided)*
+
+**The debt is never called in Book One.** The settlement arc places Myrath and does nothing with them. Vesper's doctrine holds: they take the object, say very little, and leave a house owing something it is never permitted to discharge.
+
+**It is called in Book Two, when Lucian needs a device to put ships through the Silent Belt.**
+
+The link is **not the sphere itself** — it is the maker. House Myrath are the only people on the continent capable of blending workings of that order into a single object. When Lucian needs a made thing of that class, there is exactly one door on Kaelor, and behind it is a house that has owed him for four years and has never been certain the debt would not be called. **Emeric Myrath** is the natural point of contact — he already holds the damaged prophecy fragment and is needed later regardless.
+
+**What this makes of Ch.76.** The argument between Vesper and Lucian over what to do with the sphere becomes the setup for it. Lucian's case — that Myrath built the instrument of a surprise attack and will take no consequence — is the honest one, and he loses, and he does not like losing. He does not find out why he was wrong until Book Two. That is worth more than any punishment Myrath could have taken at the trial.
+
+**Hard constraint: nothing in Ch.76 or the settlement may hint at this.** Vesper's reason must be pure doctrine — a house that owes you is worth more than a house that has been punished and is therefore free (the Corvane precedent). **No character speculates about a future use for Myrath's craft.** If anyone does, the payoff dies.
+
+**Keep the two Myrath threads separate.** They are not one thread and must not be collapsed:
+- **The maker** — Myrath's unique capability and the uncalled debt. Pays off in Book Two, at the Silent Belt.
+- **The made thing** — the sphere itself, an object that hides what must not be sensed, now sitting in the house whose secrets are all things that must not be sensed. Pays off against the **Sisters of the Current**, who find Veilseers by sensing them. Different payoff, different arc.
+
 ### House Sylvaron
 - **Current Head**: **Lord Marrick Sylvaron** — pragmatic and opportunistic per house type, running a banking and trade empire large enough that he genuinely does not scrutinize every account that moves through it. That convenient blindness is exactly how House Dravenhall's deniable coin-trail (see the Firsthold/Corvane funding network, `plot/Chapter-36-Door.md` onward) has been able to pass through Sylvaron's own vaults without his ever consciously choosing to help fund a war. Not secretly loyal to Dravenhall, not a villain by his own understanding of himself — complicit through negligence and a business model that rewards not asking questions, rather than through intent. Married to **Lady Liora Sylvaron** (née Kaelarion, the King's own sister — see `characters/Liora_Kaelarion.md`), which gives House Sylvaron real royal proximity, though Liora herself stays deliberately uninvolved in this side of the business and has no meaningful influence over the Crown's actual decisions — she keeps herself, by her own long-standing habit, "far enough to never be blamed for anything."
 - **Specialty**: Trade, banking, and economic power.
