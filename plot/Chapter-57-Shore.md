@@ -48,7 +48,7 @@ Vesper received the news of it that afternoon with less surprise than Lucian exp
 
 "Then I will not be the second." Something almost proud crossed Vesper's face, aimed at both of them at once. "We will send a proper escort, and I will have my own terms sent to Ellard rather than leave the arrangements entirely to Vaelmar's hospitality. But if this is truly what you want, Lyra, I will not spend my authority making it harder for you to have it."
 
-The Vaelmar party left the following morning, banners bright against the grey stone of the Ascend's upper gate, Ellard and Meret riding out with the same unhurried dignity they had arrived with. Ellard paused before Vesper long enough to offer a bow no less exact than the one he had given at his arrival. "You have given my son more than politeness demanded of you, Lord Vesper. I will not forget the shape of it, whatever comes of the rest."
+The Vaelmar party left the following morning, banners bright against the grey stone of the Ascend's upper gate, Ellard and Meret walking out with the same unhurried dignity they had walked in with. Ellard paused before Vesper long enough to offer a bow no less exact than the one he had given at his arrival. "You have given my son more than politeness demanded of you, Lord Vesper. I will not forget the shape of it, whatever comes of the rest."
 
 "Nor will I forget how plainly your son conducted himself in my own house," Vesper answered. "Whatever your own hopes for this alliance, Ellard, I do not think you raised a man who would have earned my daughter's honest consideration by anything less than being exactly what he appeared to be."
 
