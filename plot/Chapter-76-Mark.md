@@ -2,7 +2,7 @@
 
 He went down to the city two days after the letters went south, and took his brothers with him.
 
-Nobody had suggested it. A steward came up at the second hour wanting to know whether grain should be carted down to the second gate or the people at the gate brought up to the granary, and Lucian opened his mouth to answer and found that he had no idea what the second gate looked like with people living in it.
+Nobody had suggested it. A steward came up at the second hour wanting to know whether grain should be sent down to the second gate or the people at the gate brought up to the granary, and Lucian opened his mouth to answer and found that he had no idea what the second gate looked like with people living in it.
 
 So he went to see.
 
@@ -10,7 +10,7 @@ So he went to see.
 
 They met the courier coming up.
 
-He was a Crown rider, southern, with his horse blown and mud to the knee and the look of a man who has spent three days making a three-day road. He came through the gate arch and saw three of them standing in it and got down off his horse faster than was strictly necessary.
+He was a Crown rider, southern, mud to the thigh, with the look of a man who has spent three days making a three-day road and then left his horse in Firsthold and climbed the rest of it on his own legs. He came through the gate arch and saw the three of them standing in it and got his back straight faster than was strictly necessary.
 
 "From Aurelia, my lord."
 
