@@ -10,7 +10,7 @@ So he went to see.
 
 They met the courier coming up.
 
-He was a Crown rider, southern, mud to the thigh, with the look of a man who has spent three days making a three-day road and then left his horse in Firsthold and climbed the rest of it on his own legs. He came through the gate arch and saw the three of them standing in it and got his back straight faster than was strictly necessary.
+He was a Crown rider, southern, mud to the thigh, walking on legs that had done three days in the saddle and then the Ascend. He came through the gate arch and saw the three of them standing in it and got his back straight faster than was strictly necessary.
 
 "From Aurelia, my lord."
 
