@@ -2,7 +2,7 @@
 
 He went down to the city two days after the letters went south, and took his brothers with him.
 
-Nobody had suggested it. A steward came up at the second hour wanting to know whether the lower granary should be opened down to the second gate or the gate brought up to the granary, and Lucian opened his mouth to answer and found that he had no idea what the second gate looked like with people living in it.
+Nobody had suggested it. A steward came up at the second hour wanting to know whether grain should be carted down to the second gate or the people at the gate brought up to the granary, and Lucian opened his mouth to answer and found that he had no idea what the second gate looked like with people living in it.
 
 So he went to see.
 
