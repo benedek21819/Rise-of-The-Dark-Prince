@@ -146,7 +146,11 @@ Lucian sat.
 
 "I have had this since the morning after," Vesper said. "I have spent most of two days on it and I have got as far as I am going to get without somebody who knows more than I do, and I am not going to ask anybody who knows more than I do."
 
-He turned it a quarter turn on the cloth with one finger. Inside the glass there was nothing at all to see — no core, no working, no cloud. It was a ball of glass.
+There was nothing inside it. No core, no working, no cloud — clear glass all the way through, the sort of thing a moderately prosperous house might hang over a door for luck.
+
+"Pick it up."
+
+Lucian picked it up. It weighed perhaps four times what a ball of glass that size had any business weighing, and it was cold, and it went on being cold in his hand for as long as he held it, which glass does not do.
 
 "It is Myrath's."
 
@@ -154,7 +158,7 @@ Lucian did not say anything for a moment.
 
 "You are certain."
 
-"Nobody else on this continent can lay four workings into one object and have them run together without tearing. Two, possibly. Not four." Vesper turned it back again. "And it is made the way they make things. It is not a trace and there is nothing to prove; it is a mark. You would know a Myrath piece the way you know a Blackspire blade at ten feet, and I have handled enough of both."
+"Nobody else on this continent can lay four workings into one object and have them run together without tearing. Two, possibly. Not four." Vesper took it back and held it up so the candles went through it. "And look at the edge of it, where the light turns. It is not one piece of glass. It is nine or ten, laid one inside the next, and there is not a seam on it anywhere a hand can find. That is not a trace and there is nothing in it to prove. It is a mark. You would know a Myrath piece the way you would know a Blackspire blade at ten feet, and I have handled enough of both."
 
 "Does it still work?"
 
