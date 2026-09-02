@@ -116,11 +116,17 @@ By the middle of the afternoon Lucian had stopped being able to answer people in
 
 They came back up the Ascend in the last of the light, and there was a man of the household waiting at the second gate.
 
-"My lord. Your father asks for you when you are back."
+"My lord. Your father asks for you."
 
-"Now?"
+"Tonight?"
 
-"He said when you were back," the man said, "and he said not to let you go up to the roost first."
+"He said tonight," the man said, "and he said there was no hurry about it."
+
+Which from his father meant tonight.
+
+He went up to the roost first anyway. The keepers had the flank open again and were arguing quietly about the linen, and Ancalion had shifted perhaps a foot on the grit since the morning, which the head keeper reported to him as though it were a considerable event, and which was the best news anybody had given him in four days.
+
+Then he went down.
 
 ---
 
