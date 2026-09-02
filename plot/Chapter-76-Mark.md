@@ -10,7 +10,7 @@ So he went to see.
 
 They met the courier coming up.
 
-He was a Crown rider, southern, with his horse blown and mud to the knee and the look of a man who has been on a road nine days that should have taken six. He came through the gate arch and saw three of them standing in it and got down off his horse faster than was strictly necessary.
+He was a Crown rider, southern, with his horse blown and mud to the knee and the look of a man who has spent three days making a three-day road. He came through the gate arch and saw three of them standing in it and got down off his horse faster than was strictly necessary.
 
 "From Aurelia, my lord."
 
