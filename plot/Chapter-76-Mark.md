@@ -134,7 +134,7 @@ Vesper was in the small room off the long gallery with the shutters closed and f
 
 He had come up off the scree the night before. It showed. But he was shaved and in a clean coat and sitting straight, which he had not been doing two days ago on a rock.
 
-On the table in front of him was a glass sphere about the size of a large apple, on a folded cloth, with the cut ends of a harness strap still buckled to the collar of it.
+On the table in front of him was a glass sphere about the size of a large apple, on a folded cloth, with the cut ends of a harness strap still buckled to the collar of it. There was nothing inside it. Clear glass all the way through — the sort of thing a moderately prosperous house might hang over a door for luck.
 
 "Sit down," Vesper said. "You are filthy."
 
@@ -150,27 +150,9 @@ Lucian sat.
 
 "We have known since the shelf." Vesper turned it a quarter turn on the cloth with one finger. "There is one house on this continent that makes a thing nobody else can read, and there has been for four hundred years, and nobody else takes work of this order or could finish it if they did. Roderic told you what it was and where to find it and named nobody, and he did not need to."
 
-There was nothing inside it. No core, no working, no cloud — clear glass all the way through, the sort of thing a moderately prosperous house might hang over a door for luck.
-
-"Pick it up."
-
-Lucian picked it up. It weighed perhaps four times what a ball of glass that size had any business weighing, and it was cold, and it went on being cold in his hand for as long as he held it, which glass does not do.
-
-"Put it back on the cloth," Vesper said. "Then reach for the table."
-
-Lucian put it down and reached, the way he had been taught to reach at eleven years old in a cold room.
-
-He was looking straight at it the whole time. His eyes had a table, and a folded cloth, and a ball of glass with four candles doubled up inside it.
-
-His reach had nothing. Not a blank and not a wall — nothing at all, the way there is nothing behind your own head.
-
-He took his hand back off the wood as though it had turned.
-
-"Yes," Vesper said. "It is still working. It has not stopped since it was made and there is no way to stop it, and I have sat in this room for two nights with a thing on my table that I cannot find."
-
 "Then what were the two days for."
 
-"Finding something I could put in front of a court." Vesper put one finger on the cloth beside it. "There is nothing. I cannot read it, and neither can anyone in this house, and I am not going to hand it to a man who can. That is the mark — not anything in it. That I sat with it for two days and it looked back at me like a paperweight."
+"Finding something I could put in front of a court." Vesper sat back. "There is nothing. I cannot read it, and neither can anyone in this house, and I am not going to hand it to a man who can. That is the mark — not anything in it. That I sat with it for two days and it looked back at me like a paperweight."
 
 "So we are certain and we cannot show it."
 
@@ -180,7 +162,7 @@ Lucian looked at the glass for a while.
 
 "He gave it to me," he said. "Not to you."
 
-"He did." Vesper sat back. "On the floor of a cell, the morning after losing a dragon and an army and a house, he found the one thing left in his possession that would cost somebody else something, and he made certain it went through you and not through me. That is not a broken man. Remember it when you go south."
+"He did." Vesper looked at the glass. "On the floor of a cell, the morning after losing a dragon and an army and a house, he found the one thing left in his possession that would cost somebody else something, and he made certain it went through you and not through me. That is not a broken man. Remember it when you go south."
 
 ---
 
