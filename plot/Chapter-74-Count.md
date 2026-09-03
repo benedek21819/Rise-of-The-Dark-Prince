@@ -96,17 +96,23 @@ The wall: two hundred and eleven dead in the assaults, another ninety since, of 
 
 Then the city.
 
-Fires in the market row, the tanners' quarter and along the whole eastern wall where the engines had reached. Nine hundred and forty-some in the burning, and the number was soft because they were still finding them, and would be finding them for another week.
+Fires in the market row, the tanners' quarter and along the whole eastern wall where the engines had reached. Two thousand nine hundred-some in the burning, and the number was soft because they were still finding them, and would be finding them for another week.
+
+"And it stopped where you stopped it."
+
+"It stopped at the fountain," Dain said, "because we pulled down eighty standing houses in front of it with the wall under assault, and I will be hearing about those eighty houses from their owners for the rest of my life."
 
 "And the deep valleys?"
 
 "Better. Nearly everyone who went is coming back." Dain turned the paper over. "It is the ones who stayed."
 
+And nine thousand of those who had stayed had nothing left to go back to, which was the number that would decide the winter.
+
 He read those out too, because Lucian did not stop him, and because Dain had known exactly what he was doing when he wrote it out beforehand rather than trusting himself to say it from memory.
 
 Whole households on the market row. A cooper's family of nine. The old woman who had sold apples at the second gate for as long as either of them had been alive, who had refused three separate carts. Six of the men who had been on the wall had lost their own houses behind them while they stood on it.
 
-Sixty thousand people had been told for two hundred years that this house kept the North safe. Something over eleven hundred of them had been proved wrong.
+Sixty thousand people had been told for two hundred years that this house kept the North safe. Something over three thousand of them had been proved wrong.
 
 Lucian listened to all of it and did not interrupt and did not look away from his uncle's face, and when it was finished he said, "Read it again."
 

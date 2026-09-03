@@ -108,7 +108,7 @@ Two women thanked him for the ditch parties. A boy of about eleven wanted to kno
 
 Nobody said anything else. Nobody looked at him and thought about the count. Half of them looked at the stitched side of his face and looked away from it politely, and thanked him.
 
-Eleven hundred and some of them were dead.
+Three thousand and some of them were dead.
 
 By the middle of the afternoon Lucian had stopped being able to answer people in whole sentences, and Riven noticed, and began answering them for him.
 

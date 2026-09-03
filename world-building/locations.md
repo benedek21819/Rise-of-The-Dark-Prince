@@ -81,6 +81,21 @@ Arcanor represents the lost homeland and former glory of House Caldarion. The Da
 **Terrain**: Dominated by rugged mountain ranges, high peaks, deep valleys, and sparse forests  
 **Capital**: **Firsthold** (valley city at the foot of Blackspire’s mountain)
 
+### The burning of Firsthold — established figures and why they are what they are
+*(Settled after a plausibility review; do not drift these numbers.)*
+
+**The count.** Of ~60,000 people, **something over three thousand dead** — roughly 2,900 of them in the fires, the rest on the walls and after. Military losses were light by comparison (211 in the assaults, 90 later of wounds, 40 on the ditch parties) because Ch.68 has Lucian destroying the massed rear from the air before the second assault ever formed. **Nine thousand more were burned out and had nothing to go back to** — the figure that actually shapes the winter, the granaries and the second gate.
+
+**Why the city did not evacuate.** Established in Ch.67 in Dain's own mouth: some went to the deep valleys, a few thousand up the Ascend, and **the rest would not go at all**, because they had been told for two hundred years that this house keeps the North safe and believed it the way they believe the sun comes up. This is the single decision that makes everything else follow.
+
+**How a walled city burned in about a day of shooting.** Ancalion destroyed the Kestrion engines on Day 19 (Ch.68), so Roderic had hours, not days. That is sufficient, because **incendiary shot does not burn a city — fire does.** You need ignitions, not sustained bombardment. Engines reach only a limited distance past a wall, so the near-wall districts were ignited and everything further in burned by spread. Two conditions, both already written, made spread unstoppable: **nobody was fighting the fires** (the population was barred indoors by choice) and **the garrison was on the walls under assault by forty thousand men** for the whole containment window.
+
+**Why this does not make sieges pointless.** *(The obvious objection, and its answer.)* **Burning a city does not take it.** The walls stand, the garrison stands, and the attacker has destroyed the thing he came for. Nearly every besieger wants the place intact — its stores, its walls, its people, its revenue — so fire at this scale is available to almost everyone and used by almost nobody. **Roderic is the rare attacker who genuinely did not want Firsthold**, only wanted it unable to interfere for two days. The capability is also rare: throwing heavy shot deep past a wall needs engines in quantity, and **Kestrion is the only house on Kaelor that produces siege equipment at that scale** — which is why Roderic hauled timber the length of the continent rather than building on site.
+
+**What stopped it.** Dain pulled down eighty standing houses in front of the fountain, with the wall under assault, and the fire stopped there. The upper market survives because it is highest and furthest, near the foot of the Ascend.
+
+**Roderic's intent.** He wanted ignitions sufficient to occupy the house and keep its attention fixed while Korrath crossed the mountain unfelt — **a diversion, so that the strike would land before Vesper could reach Lirath.** He got a firestorm. He did not plan the extent of it and lost control of it, which is a more useful fact about him than deliberate atrocity would be.
+
 ### History of the Northern Duchy
 
 Before the arrival of House Caldarion, the far north of Kaelor was **mostly uninhabited**.
