@@ -294,7 +294,27 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 **Titles considered:** *Mark* (the maker's mark, the mark on his face, what a house owes) — recommended. Alternatives: *Glass*, *Ash*, *Quarter*, *Credit*.
 
-**Ch.77 onward — Aftermath, political.** *(working title: "Settlement" — reserved for the trial chapter itself)*
+**Ch.77 — Aurelia. King Aldric's POV.** *(working title: "Warrant" — alternatives: Custody, Summons, Seal)*
+
+**Why Aldric's POV and not Blackspire's.** *(Decided in outlining.)* Ch.74, 75 and 76 are all aftermath in the same keep, and a fourth would go stale. More importantly, **the reply is worth more written than read**: Blackspire receiving a letter is a scene about paper, whereas Aurelia produces it out of three separate impossible positions. Ch.64 already established Aldric as a POV, so this is not a new device. The reply reaches Blackspire in **Ch.78**.
+
+**Timing.** Vesper's courier left Blackspire Day 23; three days to Aurelia, so this chapter opens **Day 26**. Seren receives Lucian's letter the same hour. Aldric's reply then takes some days to decide and three to travel — Blackspire has it around **Day 30**.
+
+**Do not touch in this chapter:** the sphere and Myrath. Vesper's letter said nothing about either, Aldric knows nothing about either, and the whole thread is reserved (see `factions-and-politics.md`). **No character in Aurelia may reference it.**
+
+- **I. The letter.** Aldric reads it alone. Everything he asked for and none of it in the shape he wanted: Roderic taken alive and unable to travel, Korrath dead, the host walking home in pieces. **Firsthold's count in full, unsoftened and unrounded** — Vesper did that deliberately and Aldric knows why. And the three sentences about a third dragon, which tell him how far it has already gone rather than how it came to happen. **He has known about Morvath lawfully since Vesper was twenty, with a record of it in his own archives**, and nobody has ever asked him to defend that. Now a court will.
+- **II. Kestrion.** The pin has collapsed. Halvard's entire contribution was sitting three carriage-days from Aurelia so the royal army could not march north (see `factions-and-politics.md`); **Dravenhall is broken and Caldarion's army is now free**, so that position is worth nothing overnight. Aldric can finally move, and does. **The humiliation is the point:** he can act only because Blackspire held without him, and he knows exactly what that will look like in the histories. The arrest is an operation, not a note — a summons Halvard can refuse only by fighting alone against the house that just destroyed Dravenhall.
+- **III. Isolde — the chapter's real event.** Her brother is alive, in a cell under Blackspire, and coming south to a court. **She is the reason he lost.** She reached out to Maren Dravenhall and old family retainers to confirm Aldric's suspicions, with her eyes open, knowing she would be the first name Roderic reached for. Aldric **knows** she was one of the three strands of evidence.
+  - The scene is what neither of them says. Not *did you betray your house* — that is settled and old. The live question is **whether Roderic will name her in open court**, and neither will say it aloud.
+  - **She does not repent and must not be written repenting.** She did it for the crown, which is also her son's, and she has never loved Caldarion or forgiven the war her father lost. All of that survives this chapter intact.
+  - **Do not resolve it.** Whatever she is now — an accomplice of the Crown, a traitor to her blood, both — is Book One's problem for later chapters, not this one's.
+- **IV. Seren, briefly, and the reply.** She has Lucian's letter within the hour of Aldric having Vesper's. **Do not give her a scene of her own** — Ch.76 paid that off already, and one image of her reading it in front of her father is worth more than a movement. Then the reply: Dravenhall and Kestrion under arrest pending trial, the court to sit in spring, Roderic to be held at Blackspire until he can be moved.
+  - **The Morvath decision is Aldric's, and it is a gift Caldarion did not ask for.** He publishes nothing and puts nothing in front of the court. He is not required to by any law and never has been. **He should not explain this to anyone in the chapter.**
+  - **Dorian, one beat only.** The war has just proved in front of the whole kingdom that the crown survives because of House Caldarion. That is fuel and he will use it. Plant it; do not develop it here.
+
+**Constraint on Aldric throughout:** cautious is not feeble. He flew north himself to force Roderic's timing and was then pinned in his own capital by a lord he had underestimated. **Write the pinning as a thing that was done to him, not a failure of nerve** — and let him be perfectly clear-eyed about how it will read.
+
+**Ch.78+ — Aftermath, political, continued.** *(working title: "Settlement" — reserved for the trial chapter itself)*
 
 **Scope: see "Book One Structure" below.** No chapter count — it runs the length it needs. **The arc only has to close Roderic and House Dravenhall.** Myrath, Isolde, Kestrion and Caldarion's newly visible strength are *placed and left* — later books need all four of them, and Myrath in particular is not to be resolved here at all.
 
