@@ -146,6 +146,10 @@ Lucian sat.
 
 "I have had this since the morning after," Vesper said. "I have spent two days on it and I know exactly as much about how it is made as I did when it was put into my hand."
 
+"We already know who made it."
+
+"We have known since the shelf." Vesper turned it a quarter turn on the cloth with one finger. "There is one house on this continent that makes a thing nobody else can read, and there has been for four hundred years, and nobody else takes work of this order or could finish it if they did. Roderic told you what it was and where to find it and named nobody, and he did not need to."
+
 There was nothing inside it. No core, no working, no cloud — clear glass all the way through, the sort of thing a moderately prosperous house might hang over a door for luck.
 
 "Pick it up."
@@ -164,23 +168,19 @@ He took his hand back off the wood as though it had turned.
 
 "Yes," Vesper said. "It is still working. It has not stopped since it was made and there is no way to stop it, and I have sat in this room for two nights with a thing on my table that I cannot find."
 
-"And you cannot read it."
+"Then what were the two days for."
 
-"I cannot read it, and neither can anyone in this house, and I am not going to hand it to a man who can." Vesper put one finger on the cloth. "That is the mark. Not anything in it. That I looked at it for two days and it looked back at me like a paperweight."
+"Finding something I could put in front of a court." Vesper put one finger on the cloth beside it. "There is nothing. I cannot read it, and neither can anyone in this house, and I am not going to hand it to a man who can. That is the mark — not anything in it. That I sat with it for two days and it looked back at me like a paperweight."
 
-He let that sit.
+"So we are certain and we cannot show it."
 
-"There is one house on this continent that makes things nobody else can read. There has been for four hundred years. Nobody else takes work of this order, and nobody else could finish it if they took it."
-
-"So it is Myrath's."
-
-"So it is Myrath's," Vesper said, "and I would not be able to prove one word of that in front of a court, and neither would anybody else."
+"We are certain and we cannot show it," Vesper said. "I could not prove one word of it in front of the King's court, and neither could anybody else."
 
 Lucian looked at the glass for a while.
 
-"Roderic told me where it was," he said. "He did not tell me who made it."
+"He gave it to me," he said. "Not to you."
 
-"He did not have to. He knew exactly what he was handing you." Vesper sat back. "He gave you the one thing in his possession that would cost somebody else something, and he did it two hours before he found out he was going to live. That is not a broken man. Remember it when you go south."
+"He did." Vesper sat back. "On the floor of a cell, the morning after losing a dragon and an army and a house, he found the one thing left in his possession that would cost somebody else something, and he made certain it went through you and not through me. That is not a broken man. Remember it when you go south."
 
 ---
 
