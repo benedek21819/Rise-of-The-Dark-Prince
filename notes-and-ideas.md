@@ -269,7 +269,7 @@ Then Vesper tells him he goes to Aurelia, before the Crown. **A man can be judge
 
 **Optional:** a letter from Seren, written before the battle, arriving now. Ordinary life landing in the middle of the accounting. The chapter is already full; use only if it fits.
 
-**Ch.76 — The city, and the object.** *(working title: "Mark" — see alternatives below)* **Lucian POV.** Continues directly from Ch.75's courier.
+**Ch.76 — "Row."** *(Drafted. Title provisional — "Mark" was the working title while the sphere scene existed; alternatives still open are Quarter, Plank, Sleeve.)* **Lucian POV.** Continues directly from Ch.75's courier. **Three movements, not four** — the object scene was cut, and the chapter runs the city and the letter. ~1,550 words.
 
 **Timing.** Ch.75's courier leaves Blackspire at first light of **Day 23**. Seren's reply — written before she knew anything, already on the southern road when he left — arrives **Day 25**. **Aldric's reply cannot arrive in this chapter** and does not: three days south, some days for a king to decide what to do about the arrest of two great houses, three days back. It opens Ch.77. This chapter is the interval, and the interval is the point.
 
