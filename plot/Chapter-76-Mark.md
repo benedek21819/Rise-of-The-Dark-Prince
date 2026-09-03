@@ -144,7 +144,7 @@ On the table in front of him was a glass sphere about the size of a large apple,
 
 Lucian sat.
 
-"I have had this since the morning after," Vesper said. "I have spent most of two days on it and I have got as far as I am going to get without somebody who knows more than I do, and I am not going to ask anybody who knows more than I do."
+"I have had this since the morning after," Vesper said. "I have spent two days on it and I know exactly as much about how it is made as I did when it was put into my hand."
 
 There was nothing inside it. No core, no working, no cloud — clear glass all the way through, the sort of thing a moderately prosperous house might hang over a door for luck.
 
@@ -152,17 +152,29 @@ There was nothing inside it. No core, no working, no cloud — clear glass all t
 
 Lucian picked it up. It weighed perhaps four times what a ball of glass that size had any business weighing, and it was cold, and it went on being cold in his hand for as long as he held it, which glass does not do.
 
-"It is Myrath's."
+"Put it back on the cloth," Vesper said. "Then reach for the table."
 
-Lucian did not say anything for a moment.
+Lucian put it down and reached, the way he had been taught to reach at eleven years old in a cold room.
 
-"You are certain."
+He was looking straight at it the whole time. His eyes had a table, and a folded cloth, and a ball of glass with four candles doubled up inside it.
 
-"Nobody else on this continent can lay four workings into one object and have them run together without tearing. Two, possibly. Not four." Vesper took it back and held it up so the candles went through it. "And look at the edge of it, where the light turns. It is not one piece of glass. It is nine or ten, laid one inside the next, and there is not a seam on it anywhere a hand can find. That is not a trace and there is nothing in it to prove. It is a mark. You would know a Myrath piece the way you would know a Blackspire blade at ten feet, and I have handled enough of both."
+His reach had nothing. Not a blank and not a wall — nothing at all, the way there is nothing behind your own head.
 
-"Does it still work?"
+He took his hand back off the wood as though it had turned.
 
-"Yes. Not as it worked coming across the North — that took nearly everything it had, and it will never do that again. But it is not spent." He looked up. "It would still cover a man. It would cover this table."
+"Yes," Vesper said. "It is still working. It has not stopped since it was made and there is no way to stop it, and I have sat in this room for two nights with a thing on my table that I cannot find."
+
+"And you cannot read it."
+
+"I cannot read it, and neither can anyone in this house, and I am not going to hand it to a man who can." Vesper put one finger on the cloth. "That is the mark. Not anything in it. That I looked at it for two days and it looked back at me like a paperweight."
+
+He let that sit.
+
+"There is one house on this continent that makes things nobody else can read. There has been for four hundred years. Nobody else takes work of this order, and nobody else could finish it if they took it."
+
+"So it is Myrath's."
+
+"So it is Myrath's," Vesper said, "and I would not be able to prove one word of that in front of a court, and neither would anybody else."
 
 Lucian looked at the glass for a while.
 
