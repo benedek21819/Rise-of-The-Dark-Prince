@@ -124,7 +124,7 @@ His own room, late, with the door shut and one candle and his boots still on.
 
 Three pages, and the loops too big.
 
-It had snowed in Aurelia and stopped, which she reported as a personal grievance. Her tutor had been replaced by a man who read aloud with expression and she did not know how much longer she could be expected to bear it. She had been given a horse she liked and a hound she did not. She had read something out of the Hall about the founding of the northern port and had found two places where it contradicted itself, and had set them out for him at some length and with evident satisfaction, and wanted to know whether the harbour was in fact silted or whether the man had made that up.
+It had snowed in Aurelia and stopped, which she reported as a personal grievance. She had been given a horse she liked and a hound she did not. She had found two places where a book out of the Hall contradicted itself and had set them both out for him at length, and wanted to know whether the northern harbour was in fact silted or whether the man had made it up.
 
 She asked after Ancalion. She asked whether the snow had come north yet.
 
@@ -134,10 +134,6 @@ At the bottom of the third page, in the same untroubled hand, without any preamb
 
 *I will simply hold you to it.*
 
-Lucian read that twice and then set the pages down flat on the table.
+He read it twice.
 
-There was no answer to make. The answer had gone south two days ago in a courier's bag — the siege and the forty thousand and Lirath brought down out of the sky and the stitches in his face — and by now it was somewhere past the Threefold, and her rider and his rider had passed each other in the dark on the same road without either of them knowing it.
-
-She would have it tomorrow. Perhaps the day after.
-
-He folded the three pages and put them in the drawer with the others, and blew out the candle, and went back up to the roost to sleep on the grit beside his dragon.
+She would have his own letter tomorrow, or the day after.
