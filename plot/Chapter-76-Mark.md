@@ -182,7 +182,7 @@ Lucian looked at the glass for a while.
 
 Lucian had been expecting something else, and had to stop and put it down.
 
-"Send it," he said. "Or send word of it. Ilyandra Myrath sold an object that walked forty thousand men across the North without one dragon in this house feeling them come. Nine hundred and forty people burned in that city. She should have to stand somewhere and say out loud that she did not ask what it was for."
+"Send it," he said. "Or send word of it. Ilyandra Myrath sold an object that put Korrath over this mountain with Lirath in the air under him and no warning of any kind. She is on the eastern scree with her wing under her because a house in Oldwood took a commission and did not ask what it was for. She should have to stand somewhere and say that out loud."
 
 "Yes," Vesper said. "And?"
 
