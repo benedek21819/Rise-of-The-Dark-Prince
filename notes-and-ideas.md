@@ -45,6 +45,11 @@ This is your brainstorming and parking lot section. Dump random ideas, questions
 
 **Chapter 62 (Undertow):** No significant time skip from Ch.61 (a matter of weeks/months at most, unspecified). Lucian ~18, Seren correspondingly ~15 (established 3 years younger than Lucian). Seren returns on-page for the first time since Ch.33 — via letter only in this chapter, not yet in person.
 
+## Knowledge Ledger — check it before drafting
+**`characters/knowledge-ledger.md`** tracks **who knows what, and when they learned it**, by secret and by character. It was built because the most frequent continuity error in this book is a character knowing something they have no way of knowing yet, or being made to ask about something they already know — not characterization and not worldbuilding.
+
+**Read it before writing any scene with a secret in the room, and update it whenever a chapter moves a fact.** Items marked `OPEN` there are genuinely undecided and must be settled in the ledger before being resolved in prose. *(Considered and rejected: a dedicated AI agent per character. The error classes it would address are not the ones occurring, and an agent inhabiting a character rationalizes rather than objects.)*
+
 ## Open Questions
 - **How long did the Last Continental War last?** Never established. Ch.73 was drafted with "two years" and the number was removed rather than invented. Several things touch it loosely — Vesper was nineteen when it ended and head of the house at twenty; Roderic was in his mid-twenties; Korrath was already formidable in its final years — but nothing fixes a duration. Worth settling before any chapter needs to count backwards through it.
 - **What was Kaelor's kingdom-wide cost?** "Nearly all of the continent's old dragons and many dragon riders died" is the only figure, and given how dragon reproduction now works (see `magic-and-power-system.md`), that loss is permanent and shapes the present far more than has been written down.
